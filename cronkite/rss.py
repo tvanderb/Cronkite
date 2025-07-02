@@ -6,7 +6,7 @@ from typing import List, Optional
 from bs4 import BeautifulSoup
 from .core import NewsStory
 import asyncio
-from news_aggregator import SOURCE_WEIGHTS
+from cronkite.config import SOURCE_WEIGHTS
 
 class RSSFeedScraper:
     """RSS feed scraper for major news sources"""

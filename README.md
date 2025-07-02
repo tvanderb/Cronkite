@@ -1,4 +1,4 @@
-# News Aggregator
+# Cronkite
 
 A Python-based news aggregator that collects, deduplicates, and summarizes news stories from RSS feeds, social media, and more. Generates a daily report using an LLM (Cypher Alpha).
 

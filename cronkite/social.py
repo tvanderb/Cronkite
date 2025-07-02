@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from typing import List
 from .core import NewsStory
 from .rss import RSSFeedScraper
-from news_aggregator import SOURCE_WEIGHTS
+from cronkite.config import SOURCE_WEIGHTS
 
 class SocialMediaScraper:
     """Scrape public social media feeds and Reddit"""
