@@ -1,6 +1,6 @@
-# Cronkite News Aggregator
+# Cronkite
 
-Automated news aggregation system that collects, filters, and generates daily reports from multiple sources.
+Automated news aggregation system that collects, filters, and generates daily reports from a multitude of sources.
 
 [![Daily News Aggregation](https://github.com/tvanderb/Cronkite/workflows/Daily%20News%20Aggregation/badge.svg)](https://github.com/tvanderb/Cronkite/actions)
 
