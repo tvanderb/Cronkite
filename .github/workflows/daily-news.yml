@@ -43,27 +43,35 @@ jobs:
       run: mkdir -p logs
       
     - name: Run news aggregator
+      id: run-aggregator
       run: |
         python cronkite.py > news_report.txt 2>&1
-        echo "Exit code: $?" >> news_report.txt
+        exit_code=$?
+        echo "exit_code=$exit_code" >> $GITHUB_OUTPUT
+        echo "Exit code: $exit_code" >> news_report.txt
+        echo "Report generated at: $(date -u)" >> news_report.txt
         
     - name: Upload news report as artifact
       uses: actions/upload-artifact@v4
       with:
-        name: daily-news-report-${{ github.run_number }}
+        name: daily-news-report-${{ github.run_number }}-${{ github.sha }}
         path: news_report.txt
         retention-days: 30
+        if-no-files-found: error
         
     - name: Create summary
       run: |
         echo "## Daily News Aggregation Summary" >> $GITHUB_STEP_SUMMARY
         echo "**Run Date:** $(date)" >> $GITHUB_STEP_SUMMARY
         echo "**Run Number:** ${{ github.run_number }}" >> $GITHUB_STEP_SUMMARY
+        echo "**Commit SHA:** ${{ github.sha }}" >> $GITHUB_STEP_SUMMARY
+        echo "**Status:** ${{ steps.run-aggregator.outputs.exit_code == '0' && '✅ Success' || '❌ Failed' }}" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         
         if [ -f news_report.txt ]; then
           echo "**Report Generated:** ✅" >> $GITHUB_STEP_SUMMARY
           echo "**Report Size:** $(wc -c < news_report.txt) bytes" >> $GITHUB_STEP_SUMMARY
+          echo "**Artifact Name:** daily-news-report-${{ github.run_number }}-${{ github.sha }}" >> $GITHUB_STEP_SUMMARY
         else
           echo "**Report Generated:** ❌" >> $GITHUB_STEP_SUMMARY
         fi

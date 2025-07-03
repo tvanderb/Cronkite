@@ -17,7 +17,7 @@ jobs:
     - name: Download latest artifact
       uses: actions/download-artifact@v4
       with:
-        name: daily-news-report-${{ github.event.workflow_run.run_number }}
+        name: daily-news-report-${{ github.event.workflow_run.run_number }}-${{ github.event.workflow_run.head_sha }}
         path: ./artifacts
         
     - name: Update README with latest report
@@ -51,7 +51,7 @@ jobs:
           ### 📥 Download
           1. Click the badge above → Actions tab
           2. Select latest "Daily News Aggregation" run
-          3. Download `daily-news-report-${{ github.event.workflow_run.run_number }}` artifact
+          3. Download `daily-news-report-${{ github.event.workflow_run.run_number }}-${{ github.event.workflow_run.head_sha }}` artifact
           EOF
           
           # Replace the section in README using awk
