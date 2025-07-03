@@ -14,14 +14,35 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       
+    - name: Check if artifact exists
+      id: check-artifact
+      run: |
+        # Use GitHub CLI to list artifacts and check if our target exists
+        ARTIFACT_NAME="daily-news-report-${{ github.event.workflow_run.run_number }}-${{ github.event.workflow_run.head_sha }}"
+        echo "Looking for artifact: $ARTIFACT_NAME"
+        
+        # List artifacts from the workflow run
+        ARTIFACTS=$(gh api repos/${{ github.repository }}/actions/runs/${{ github.event.workflow_run.id }}/artifacts --jq '.artifacts[].name')
+        
+        if echo "$ARTIFACTS" | grep -q "^$ARTIFACT_NAME$"; then
+          echo "::set-output name=exists::true"
+          echo "✅ Found artifact: $ARTIFACT_NAME"
+        else
+          echo "::set-output name=exists::false"
+          echo "❌ Artifact not found: $ARTIFACT_NAME"
+          echo "Available artifacts:"
+          echo "$ARTIFACTS" || echo "None"
+        fi
+
     - name: Download latest artifact
+      if: steps.check-artifact.outputs.exists == 'true'
       uses: actions/download-artifact@v4
       with:
         name: daily-news-report-${{ github.event.workflow_run.run_number }}-${{ github.event.workflow_run.head_sha }}
         path: ./artifacts
-        if-no-files-found: warn
         
     - name: Update README with latest report
+      if: steps.check-artifact.outputs.exists == 'true'
       run: |
         if [ -f "./artifacts/news_report.txt" ]; then
           echo "✅ Found news report artifact, updating README..."
