@@ -1,0 +1,60 @@
+name: Update README with Latest Report
+
+on:
+  workflow_run:
+    workflows: ["Daily News Aggregation"]
+    types: [completed]
+
+jobs:
+  update-readme:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Download latest artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: daily-news-report-${{ github.event.workflow_run.run_number }}
+        path: ./artifacts
+        
+    - name: Update README with latest report
+      run: |
+        if [ -f "./artifacts/news_report.txt" ]; then
+          # Read the report content
+          REPORT_CONTENT=$(cat "./artifacts/news_report.txt")
+          
+          # Create a preview (first 500 characters)
+          PREVIEW=$(echo "$REPORT_CONTENT" | head -c 500 | sed 's/$/.../')
+          
+          # Update README with the latest report info
+          sed -i '/## 📰 Latest Report/,/### 📥 Download/c\
+## 📰 Latest Report\
+\
+**Latest Daily Report:** [View Latest Run](https://github.com/${{ github.repository }}/actions)\
+\
+**Last Updated:** $(date -u +"%Y-%m-%d %H:%M UTC")\
+\
+*Generated daily at 6:05 AM EST*\
+\
+### 📋 Report Preview\
+```\
+'"$PREVIEW"'\
+```\
+\
+### 📥 Download\
+1. Click the badge above → Actions tab\
+2. Select latest "Daily News Aggregation" run\
+3. Download `daily-news-report-${{ github.event.workflow_run.run_number }}` artifact\
+' README.md
+        fi
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update README with latest news report"
+        git push 
