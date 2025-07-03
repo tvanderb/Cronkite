@@ -1,6 +1,6 @@
 from dataclasses import dataclass, asdict, field
 from datetime import datetime, timedelta
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Any
 import re
 import logging
 import difflib
@@ -8,6 +8,7 @@ from cronkite.config import SOURCE_WEIGHTS, OPINION_KEYWORDS, OPINION_URL_PATTER
 from urllib.parse import urlparse, parse_qs, urlunparse
 import json
 import os
+import asyncio
 
 # Load config
 CONFIG_PATH = os.path.join(os.path.dirname(__file__), '..', 'config.json')
@@ -29,10 +30,24 @@ class NewsStory:
     source_weights: List[float] = field(default_factory=list)  # Weights for each source
     dedup_key: Optional[str] = None  # For deduplication
     reddit_flair: Optional[str] = None  # Reddit post flair for filtering
+    score: float = 0.0
     
     def __post_init__(self):
         if not self.sources and self.source:
             self.sources.append(self.source)
+
+    def to_dict(self) -> Dict[str, Any]:
+        """Convert to dictionary for JSON serialization"""
+        return {
+            'title': self.title,
+            'url': self.url,
+            'source': self.source,
+            'published_at': self.published.isoformat(),
+            'content': self.summary,
+            'category': self.category,
+            'reddit_flair': self.reddit_flair,
+            'score': self.score
+        }
 
 class NewsAggregator:
     """Main aggregator that coordinates all data sources"""
@@ -42,10 +57,11 @@ class NewsAggregator:
         from .web import WebScraper
         from .social import SocialMediaScraper
         from .newsapi import NewsAPIScraper
-        from .quality import QualityFilter
+        from .quality import QualityFilter, StoryScorer
         from .specialized import GovernmentScraper, AcademicScraper, IndustryScraper
         self.stories: List[NewsStory] = []
         self.quality_filter = QualityFilter()
+        self.story_scorer = StoryScorer()
         self.scrapers = {
             'rss': RSSFeedScraper(),
             'web': WebScraper(),
@@ -63,7 +79,6 @@ class NewsAggregator:
         all_stories = []
         
         # Run all scrapers concurrently
-        import asyncio
         tasks = []
         for scraper_name, scraper in self.scrapers.items():
             tasks.append(scraper.get_stories(cutoff_time))
@@ -89,11 +104,20 @@ class NewsAggregator:
         # Analyze geographic diversity
         self.quality_filter.analyze_geographic_diversity(filtered_stories)
         
-        # Deduplicate and sort
-        deduped = self._deduplicate_stories(filtered_stories, limit=limit)
-        # Sort by total source weight, then by recency
-        deduped.sort(key=lambda s: (sum(s.source_weights), s.published), reverse=True)
-        self.stories = deduped
+        # Apply advanced scoring and selection
+        scored_stories = self.story_scorer.score_stories(filtered_stories, hours_back)
+        
+        # Select top stories with diversity
+        top_stories = self.story_scorer.select_top_stories(
+            scored_stories, 
+            max_stories=limit,
+            diversity_threshold=0.1
+        )
+        
+        # Store for later use
+        self.stories = top_stories
+        
+        logging.info(f"Final selection: {len(top_stories)} top stories")
         return self.stories
     
     def _canonicalize_url(self, url: str) -> str:
@@ -328,19 +352,59 @@ class NewsAggregator:
                         break
         return output
     
-    def prepare_for_ingestion(self) -> Dict:
-        """Format stories for Claude API consumption"""
+    def prepare_for_ingestion(self) -> Dict[str, Any]:
+        """Prepare stories for LLM ingestion with enhanced metadata"""
+        if not self.stories:
+            return {"stories": [], "summary": "No stories available"}
+        
+        # Group stories by category for better organization
+        stories_by_category = {}
+        for story in self.stories:
+            category = story.category or "general"
+            if category not in stories_by_category:
+                stories_by_category[category] = []
+            stories_by_category[category].append(story)
+        
+        # Convert to dictionary format
+        stories_data = []
+        for story in self.stories:
+            story_dict = story.to_dict()
+            # Add additional metadata
+            story_dict['source_weight'] = SOURCE_WEIGHTS.get(story.source, 1.0)
+            story_dict['domain'] = self._extract_domain(story.url)
+            stories_data.append(story_dict)
+        
+        # Create summary statistics
+        source_counts = {}
+        category_counts = {}
+        for story in self.stories:
+            source_counts[story.source] = source_counts.get(story.source, 0) + 1
+            category = story.category or "general"
+            category_counts[category] = category_counts.get(category, 0) + 1
+        
+        summary = {
+            "total_stories": len(self.stories),
+            "sources_represented": len(source_counts),
+            "categories_represented": len(category_counts),
+            "top_sources": sorted(source_counts.items(), key=lambda x: x[1], reverse=True)[:5],
+            "top_categories": sorted(category_counts.items(), key=lambda x: x[1], reverse=True)[:5],
+            "time_range": {
+                "oldest": min(s.published for s in self.stories).isoformat(),
+                "newest": max(s.published for s in self.stories).isoformat()
+            }
+        }
+        
         return {
-            'timestamp': datetime.now().isoformat(),
-            'story_count': len(self.stories),
-            'stories': [asdict(story) for story in self.stories],
-            'categories': self._get_category_summary()
+            "stories": stories_data,
+            "stories_by_category": {cat: [s.to_dict() for s in stories] 
+                                  for cat, stories in stories_by_category.items()},
+            "summary": summary
         }
     
-    def _get_category_summary(self) -> Dict[str, int]:
-        """Get count of stories by category"""
-        categories = {}
-        for story in self.stories:
-            cat = story.category or 'Uncategorized'
-            categories[cat] = categories.get(cat, 0) + 1
-        return categories 
+    def _extract_domain(self, url: str) -> str:
+        """Extract domain from URL"""
+        try:
+            from urllib.parse import urlparse
+            return urlparse(url).netloc
+        except:
+            return url.split('/')[0] if '/' in url else url 

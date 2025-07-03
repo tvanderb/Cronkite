@@ -258,6 +258,18 @@ GOVERNMENT_RSS_FEEDS = [
     ('Innovation, Science and Economic Development Canada', 'https://www.ic.gc.ca/eic/site/icgc.nsf/eng/feed.xml'),
 ]
 
+# Remove Chinese sources from GOVERNMENT_RSS_FEEDS
+GOVERNMENT_RSS_FEEDS = [
+    s for s in GOVERNMENT_RSS_FEEDS
+    if not (
+        'china' in s[0].lower() or
+        'chinese' in s[0].lower() or
+        '.cn' in s[1] or
+        'scmp.com' in s[1] or
+        'asahi.com' in s[1]
+    )
+]
+
 # Academic RSS feeds
 ACADEMIC_RSS_FEEDS = [
     # US Universities
@@ -318,6 +330,30 @@ ACADEMIC_RSS_FEEDS = [
     ('arXiv', 'http://export.arxiv.org/rss/cs.AI'),
     ('bioRxiv', 'https://connect.biorxiv.org/biorxiv_xml.php?subject=all'),
 ]
+
+# Remove Chinese sources from ACADEMIC_RSS_FEEDS
+ACADEMIC_RSS_FEEDS = [
+    s for s in ACADEMIC_RSS_FEEDS
+    if not (
+        'china' in s[0].lower() or
+        'chinese' in s[0].lower() or
+        '.cn' in s[1] or
+        'peking' in s[0].lower() or
+        'tsinghua' in s[0].lower()
+    )
+]
+
+# Remove Chinese sources from DOMAIN_REPUTATION
+DOMAIN_REPUTATION = {
+    k: v for k, v in DOMAIN_REPUTATION.items()
+    if not (
+        k.endswith('.cn') or
+        'scmp.com' in k or
+        'asahi.com' in k or
+        'peking' in k or
+        'tsinghua' in k
+    )
+}
 
 # Industry RSS feeds
 INDUSTRY_RSS_FEEDS = [
