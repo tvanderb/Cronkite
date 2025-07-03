@@ -12,7 +12,7 @@ SOURCE_WEIGHTS = {
     'El País': 0.85,
     'La Repubblica': 0.8,
     'Asahi Shimbun': 0.85,
-    'South China Morning Post': 0.8,
+    'South China Morning Post': 0.4,
     # Specialized sources
     'The Economist': 0.9,
     'Financial Times': 0.9,
