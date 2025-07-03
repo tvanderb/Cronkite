@@ -8,101 +8,69 @@ Automated news aggregation system that collects, filters, and generates daily re
 
 **Latest Daily Report:** [View Latest Run](https://github.com/tvanderb/Cronkite/actions)
 
-**Last Updated:** 2025-07-03 11:20 UTC
+**Last Updated:** 2025-07-03 16:09 UTC
 
 *Generated daily at 6:05 AM EST*
 
 ### 📋 Report Preview
 ```
-July 3, 2025
+### Legible News
 
-Armed conflicts and attacks
-• Israel-Hamas tensions rise as UN expert calls for cutting trade ties with Israel over Gaza "genocidal campaign" ([Guardian](https://www.theguardian.com/world/live/2025/jul/03/israel-gaza-war-latest-news-updates-hamas-ceasefire-middle-east-iran))
-• Chinese aircraft carrier Shandong visits Hong Kong, symbolizing "rock-solid" national security ([SCMP](https://www.scmp.com/news/hong-kong/society/article/3316829/marvellous-achievement-hongkongers-flock-see-chinese-warship-shandong?utm_source=rss_feed))
-• US lifts export controls on certain chip design software to China ([SCMP](https://www.scmp.com/tech/policy/article/3316742/tech-war-us-lifts-export-control-chip-design-software-china?utm_source=rss_feed))
-• Israeli military used 500lb bomb in strike on Gaza cafe, fragments reveal ([Guardian](https://www.theguardian.com/world/2025/jul/02/israeli-military-bomb-fragments-gaza-al-baqa-cafe))
+**July 3, 2025**
 
-Disasters and accidents
-• More than 1,500 people evacuated in Crete as wildfires rage across Europe ([Guardian](https://www.theguardian.com/world/live/2025/jul/03/europe-heatwave-live-news-latest-updates-crete-wildfire))
-• Japan's Tokara islands hit by 900 earthquakes in two weeks ([Guardian](https://www.theguardian.com/world/2025/jul/03/japan-earthquake-tokara-islands-900-earthquakes-two-weeks))
-• Hong Kong police arrest teenager in connection with fatal hit-and-run ([SCMP](https://www.scmp.com/news/hong-kong/law-and-crime/article/3316835/hong-kong-police-arrest-teenager-who-was-alleged-driver-fatal-hit-and-run?utm_source=rss_feed))
+**Armed Conflicts and Attacks**
+• Israel has escalated its offensive in Gaza with intense bombardments, killing around 90 people and complicating ceasefire talks ([Guardian](https://www.theguardian.com/world/2025/jul/03/israel-bombardment-offensive-gaza-hamas-ceasefire-talks)).  
+• China and the U.S. are easing trade restrictions, signaling a tentative reset between the two nations ([SCMP](https://www.scmp.com/economy/china-economy/article/3316840/china-us-ease-export-curbs-trumps-vietnam-deal-risks-blowback-analysts)).  
+• Gaza musicians performed at Sydney Opera House, drawing attention to the cultural destruction caused by Israel's bombardment ([Guardian](https://www.theguardian.com/music/2025/jul/04/gaza-musicians-perform-sydney-opera-house-ntwnfb)).  
+• A top Atlanta police official consulted for a tech firm providing surveillance software to the city, raising ethical concerns ([Guardian](https://www.theguardian.com/us-news/2025/jul/03/atlanta-police-surveillance-company-ethics)).  
+• The EU and U.S. near a trade deal to avoid Trump’s 50% tariffs on EU exports ([Guardian](https://www.theguardian.com/world/2025/jul/03/eu-closing-in-on-framework-deal-with-us-to-avoid-trump-50-tariffs)).  
+• A UN expert has called on states to cut trade ties with Israel over its "genocidal campaign" in Gaza, highlighting the ongoing conflict ([Guardian](https://www.theguardian.com/world/live/2025/jul/03/israel-gaza-war-latest-news-updates-hamas-ceasefire-middle-east-iran)).
 
-Politics and elections
-• Keir Starmer refuses to rule out tax rises as he announces 10-year NHS plan ([Guardian](https://www.theguardian.com/politics/live/2025/jul/03/keir-starmer-rachel-reeves-welfare-bill-nhs-10-year-plan-west-streeting-uk-politics-latest-news-updates))
-• House debates Trump's tax-and-spending bill ahead of final vote ([Guardian](https://www.theguardian.com/us-news/live/2025/jul/02/donald-trump-big-beautiful-bill-house-republicans-us-politics-live-news-updates))
-• South Korea's Lee Jae-myung pledges to improve China, Russia ties ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3316801/south-koreas-lee-jae-myung-caps-first-month-office-pledge-improve-china-russia-ties?utm_source=rss_feed))
+**Politics and Elections**
+• Hong Kong lawmakers oppose a government proposal to recognize same-sex partnerships, urging a public consultation ([SCMP](https://www.scmp.com/news/hong-kong/politics/article/3316863/hong-kong-lawmakers-slam-proposal-recognise-same-sex-partnerships?utm_source=rss_feed)).  
+• The U.S. Supreme Court will consider bans on transgender athletes in female sports teams ([Guardian](https://www.theguardian.com/us-news/2025/jul/03/supreme-court-transgender-student-athletes)).  
+• Donald Trump’s proclamation of an "invasion" at the U.S.-Mexico border has been ruled unlawful ([Guardian](https://www.theguardian.com/us-news/2025/jul/02/trump-us-mexico-border-immigrants-asylum)).  
+• Trump's asylum ban at the U.S.-Mexico border has been declared unlawful by a federal court ([Guardian](https://www.theguardian.com/us-news/2025/jul/02/trump-us-mexico-border-immigrants-asylum)).
 
-Business and economy
-• Alibaba leads $14 million funding round in Chinese AI agent startup ([SCMP](https://www.scmp.com/tech/big-tech/article/3316819/alibaba-leads-us14-million-funding-round-chinese-corporate-ai-agent-start?utm_source=rss_feed))
-• China vows retaliation if hurt by US-Vietnam trade deal ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-03/china-vows-retaliation-if-it-s-hurt-by-us-vietnam-trade-deal))
-• UK rail regulator rejects Virgin's bid for west coast mainline route ([Guardian](https://www.theguardian.com/business/2025/jul/03/uk-rail-regulator-rejects-virgins-bid-for-west-coast-mainline-route))
+**Law and Crime**
+• A Croatian court has sentenced a gunman to 50 years in prison for killing six people, including his mother, in a nursing home shooting ([ABC News](https://abcnews.go.com/International/wireStory/croatian-court-sentences-gunman-50-years-nursing-home-123444186)).  
+• Bangladesh’s former leader Sheikh Hasina has been sentenced to six months in jail for contempt of court after claiming she had a license to kill 227 people ([ABC News](https://abcnews.go.com/International/wireStory/bangladesh-tribunal-sentences-hasina-jail-contempt-claim-license-123437108)).  
+• A deputy commander of the Russian navy was killed near the frontline with Ukraine ([Guardian](https://www.theguardian.com/world/2025/jul/03/deputy-commander-of-russian-navy-mikhail-gudkov-killed-in-strike-near-ukraine-frontline)).  
+• Chinese stocks are expected to stagnate in the second half of the year due to a lack of catalysts ([SCMP](https://www.scmp.com/business/china-business/article/3316788/chinese-stocks-stagnate-second-half-lack-catalysts-top-brokerages-say?utm_source=rss_feed)).
 
-Law and crime
-• Hong Kong court quashes government decision to refuse permits to 2 Uber drivers ([SCMP](https://www.scmp.com/news/hong-kong/transport/article/3316820/hong-kong-court-quashes-government-decision-refuse-permits-2-uber-drivers?utm_source=rss_feed))
-• Bangladesh tribunal sentences Hasina to jail for contempt over claim she had a "license to kill" ([ABC News](https://abcnews.go.com/International/wireStory/bangladesh-tribunal-sentences-hasina-jail-contempt-claim-license-123437108))
-• Sabah bribery scandal: Singapore firm under Malaysian scrutiny ([SCMP](https://www.scmp.com/week-asia/people/article/3316739/singapore-firm-under-scrutiny-malaysias-mining-bribery-scandal-widens?utm_source=rss_feed))
+**Business and Economy**
+• The EU and U.S. are nearing a trade deal to avoid Trump’s 50% tariffs on EU exports ([Guardian](https://www.theguardian.com/world/2025/jul/03/eu-closing-in-on-framework-deal-with-us-to-avoid-trump-50-tariffs)).  
+• Smaller firms in the U.K. will be exempt from new Companies House filing rules ([Guardian](https://www.theguardian.com/business/2025/jul/03/smaller-firms-to-escape-burdensome-companies-house-filing-rules)).  
+• Xpeng has launched its G7 ‘Super AI’ SUV to compete with Xiaomi YU7 and Tesla Model Y in the premium SUV segment ([SCMP](https://www.scmp.com/business/china-evs/article/3316862/xpeng-launches-g7-super-ai-suv-taking-xiaomi-yu7-and-tesla-model-y?utm_source=rss_feed)).  
+• Apple’s iPhone sales in China are expected to face headwinds in the second half of the year ([SCMP](https://www.scmp.com/tech/big-tech/article/3316846/apples-china-iphone-sales-face-headwinds-second-half-huawei-remains-strong-rival?utm_source=rss_feed)).  
+• Alibaba has led a $14 million funding round in a Chinese AI agent start-up ([SCMP](https://www.scmp.com/tech/big-tech/article/3316819/alibaba-leads-us14-million-funding-round-chinese-corporate-ai-agent-start?utm_source=rss_feed)).
 
-International relations
-• China's 500-megawatt turbine in Tibet marks hydropower breakthrough ([SCMP](https://www.scmp.com/news/china/science/article/3316685/china-rolls-out-record-setting-turbine-tibet-hydropower-plant?utm_source=rss_feed))
-• Shein fined €40 million in France for "deceptive commercial practices" ([Le Monde](https://www.lemonde.fr/economie/article/2025/07/03/shein-le-geant-de-l-ultra-fast-fashion-se-voit-infliger-une-amende-record-en-france-de-40-millions-d-euros-pour-pratiques-commerciales-trompeuses_6617686_3234.html))
-• China urges pupils to dance while studying to boost morale and ease pressure ([SCMP](https://www.scmp.com/news/people-culture/trending-china/article/3315921/china-schools-urge-pupils-dance-when-studying-boost-brains-morale-ease-pressure?utm_source=rss_feed))
+**International Relations**
+• Wild killer whales are increasingly trying to feed humans, a behavior scientists are studying to understand ([Vice](https://www.vice.com/en/article/wild-killer-whales-keep-trying-to-feed-humans-but-why/)).  
+• China has installed a 500-megawatt turbine in Tibet, marking a significant hydropower breakthrough ([SCMP](https://www.scmp.com/news/china/science/article/3316685/china-rolls-out-record-setting-turbine-tibet-hydropower-plant?utm_source=rss_feed)).  
+• Shein has been fined a record €40 million in France for misleading consumers ([Le Monde](https://www.lemonde.fr/economie/article/2025/07/03/shein-condamne-a-une-amende-record-de-40-millions-d-euros-pour-avoir-trompe-les-consommateurs-en-france_6617720_3234.html)).  
+• A wildfire in Crete has forced 1,500 people to evacuate amid a continuing heatwave in Europe ([Guardian](https://www.theguardian.com/world/2025/jul/03/more-than-1500-people-evacuated-in-crete-amid-wildfire-as-europe-heatwave-continues)).  
+• A designer dress went missing from Jeff Bezos and Lauren Sánchez's wedding, sparking curiosity ([Guardian](https://www.theguardian.com/technology/2025/jul/03/designer-dress-missing-bezos-sanchez-venice-wedding)).  
+• Investors see a potential resolution for Javier Milei to end the fight over Argentina’s state oil company ([Bloomberg](https://www.bloomberg.com/news/articles/2025/07/03/investors-see-way-for-milei-to-end-fight-over-state-oil-company)).  
+• China is encouraging students to dance while studying to boost morale and relieve academic pressure ([SCMP](https://www.scmp.com/news/people-culture/trending-china/article/3315921/china-schools-urge-pupils-dance-when-studying-boost-brains-morale-ease-pressure?utm_source=rss_feed)).  
+• Four people were killed and 14 injured in a shooting at a Chicago party for rapper Mello Buckzz ([Guardian](https://www.theguardian.com/us-news/2025/jul/03/mello-buckzz-chicago-shooting)).  
+• Armenia is seeking to deepen ties with China to diversify its foreign policy away from Russia ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3316682/armenia-looks-deepen-ties-china-while-eyeing-foreign-relations-beyond-russia?utm_source=rss_feed)).  
+• China's aircraft carrier Shandong visited Hong Kong, symbolizing "rock-solid" national security and pride ([SCMP](https://www.scmp.com/news/hong-kong/society/article/3316813/symbolic-shandong-visit-sign-hong-kongs-rock-solid-national-security-and-pride?utm_source=rss_feed)).  
+• A mysterious space object is firing signals at Earth every 44 minutes, intriguing astronomers ([Vice](https://www.vice.com/en/article/a-mysterious-space-object-is-firing-signals-at-earth-every-44-minutes/)).  
+• Chinese companies are developing blockchain technology to resist attacks from quantum computers ([SCMP](https://www.scmp.com/news/china/science/article/3316608/chinese-team-creates-blockchain-tech-resist-attacks-quantum-computers?utm_source=rss_feed)).
 
-Science and technology
-• China rolls out record-setting 500-megawatt turbine for Tibet hydropower plant ([SCMP](https://www.scmp.com/news/china/science/article/3316685/china-rolls-out-record-setting-turbine-tibet-hydropower-plant?utm_source=rss_feed))
-• Baidu rolls out sweeping changes to online search platform with AI integration ([SCMP](https://www.scmp.com/tech/big-tech/article/3316689/china-ai-champion-baidu-rolls-out-most-sweeping-changes-search-platform-decade?utm_source=rss_feed))
-• China creates blockchain tech to resist attacks from quantum computers ([SCMP](https://www.scmp.com/news/china/science/article/3316608/chinese-team-creates-blockchain-tech-resist-attacks-quantum-computers?utm_source=rss_feed))
-
-Sports
-• Diogo Jota, Liverpool and Portugal footballer, dies aged 28 in car crash ([Guardian](https://www.theguardian.com/football/2025/jul/03/diogo-jota-liverpool-portugal-footballer-dies-aged-28-car-crash))
-• "Marvellous achievement": Hongkongers flock to see Chinese warship Shandong ([SCMP](https://www.scmp.com/news/hong-kong/society/article/3316829/marvellous-achievement-hongkongers-flock-see-chinese-warship-shandong?utm_source=rss_feed))
-
-Entertainment
-• Lorde fans complain that her new translucent CD won't play on their CD players ([Vice](https://www.vice.com/en/article/lorde-fans-are-complaining-that-her-new-translucent-cd-wont-play-on-their-cd-players/))
-• The Apple TV 4K Streaming Box got a rare sale ([Vice](https://www.vice.com/en/article/apple-tv-4k-streaming-box-rare-sale-july-2024/))
-
-Health and medicine
-• Wes Streeting: "half my colleagues" in Commons using weight loss drugs ([Guardian](https://www.theguardian.com/society/2025/jul/03/weight-loss-drugs-access-wes-streeting-nhs))
-
-Environment
-• Europe's heatwave continues: Italian seas reach temperatures above 20C at 40m depth ([Guardian](https://www.theguardian.com/world/live/2025/jul/03/europe-heatwave-live-news-latest-updates-crete-wildfire))
-• Japan's Tokara islands hit by 900 earthquakes in two weeks ([Guardian](https://www.theguardian.com/world/2025/jul/03/japan-earthquake-tokara-islands-900-earthquakes-two-weeks))
-
-Transportation
-• Hong Kong Water Taxi and harbour cruise firms cash in on aircraft carrier's visit ([SCMP](https://www.scmp.com/news/hong-kong/politics/article/3316834/hong-kong-water-taxis-harbour-cruise-firm-cash-aircraft-carriers-visit?utm_source=rss_feed))
-• UK rail regulator rejects Virgin's bid for west coast mainline route ([Guardian](https://www.theguardian.com/business/2025/jul/03/uk-rail-regulator-rejects-virgins-bid-for-west-coast-mainline-route))
-• Hong Kong tourists undeterred by prediction that quake will hit Japan on July 5 ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3316710/hong-kong-tourists-undeterred-manga-prediction-quake-will-hit-japan-july-5?utm_source=rss_feed))
-
-Real estate
-• Hong Kong property market "fundamentally sound" amid 7-month sales high ([SCMP](https://www.scmp.com/business/article/3316831/hong-kong-property-market-resilient-and-fundamentally-sound-sales-hit-7-month-high?utm_source=rss_feed))
-• Emperor's financial struggle mirrors current state of Hong Kong real estate ([SCMP](https://www.scmp.com/business/article/3316696/emperors-financial-struggle-mirrors-current-state-hong-kongs-property-sector?utm_source=rss_feed))
-
-Energy
-• China's 500-megawatt turbine in Tibet marks hydropower breakthrough ([SCMP](https://www.scmp.com/news/china/science/article/3316685/china-rolls-out-record-setting-turbine-tibet-hydropower-plant?utm_source=rss_feed))
-• China urges pupils to dance while studying to boost morale and ease pressure ([SCMP](https://www.scmp.com/news/people-culture/trending-china/article/3315921/china-schools-urge-pupils-dance-when-studying-boost-brains-morale-ease-pressure?utm_source=rss_feed))
-
-Education
-• China urges pupils to dance while studying to boost brains, morale, ease pressure ([SCMP](https://www.scmp.com/news/people-culture/trending-china/article/3315921/china-schools-urge-pupils-dance-when-studying-boost-brains-morale-ease-pressure?utm_source=rss_feed))
-• "Passionate morning reading" method gaining popularity in Chinese schools ([SCMP](https://www.scmp.com/news/people-culture/trending-china/article/3315921/china-schools-urge-pupils-dance-when-studying-boost-brains-morale-ease-pressure?utm_source=rss_feed))
-
-Social issues
-• Concerns Melbourne childcare worker charged with sexual abuse offences had wider work history than initially disclosed ([Guardian](https://www.theguardian.com/australia-news/2025/jul/03/concerns-melbourne-childcare-worker-charged-with-sexual-abuse-offences-had-wider-work-history-than-initially-disclosed-ntwnfb))
-• Japan firm slammed for forcing nude photos, testicle-grabbing for mediocre staff ([SCMP](https://www.scmp.com/news/people-culture/article/3315910/japan-firm-slammed-forced-nude-photos-testicle-grabbing-punish-mediocre-staff?utm_source=rss_feed))
-
-Animals
-• Cat-loving Chinese man, 82, plans to leave feline his inheritance, seeks good carer ([SCMP](https://www.scmp.com/news/people-culture/trending-china/article/3315961/cat-loving-chinese-man-82-plans-leave-feline-his-inheritance-seeks-dependable-carer?utm_source=rss_feed))
-
-Obituaries
-• Diogo Jota, Liverpool and Portugal footballer, dies aged 28 in car crash ([Guardian](https://www.theguardian.com/football/2025/jul/03/diogo-jota-liverpool-portugal-footballer-dies-aged-28-car-crash))
-• TVB cameraman found dead on balcony of Hong Kong flat in aftermath of blaze ([SCMP](https://www.scmp.com/news/hong-kong/society/article/3316755/man-found-dead-balcony-hong-kong-flat-aftermath-blaze?utm_source=rss_feed))
-
-Weather
-• Europe's heatwave continues: Italian seas reach temperatures above 20C at 40m depth ([Guardian](https://www.theguardian.com/world/live/2025/jul/03/europe-heatwave-live-news-latest-updates-crete-wildfire))
-• Japan's Tokara islands hit by 900 earthquakes in two weeks ([Guardian](https://www.theguardian.com/world/2025/jul/03/japan-earthquake-tokara-islands-900-earthquakes-two-weeks))
+**Disasters and Accidents**
+• Hong Kong police arrested a teenager in connection with a fatal hit-and-run accident that killed a 71-year-old man ([SCMP](https://www.scmp.com/news/hong-kong/law-and-crime/article/3316835/hong-kong-police-arrest-teenager-who-was-alleged-driver-fatal-hit-and-run?utm_source=rss_feed)).  
+• Japan’s Tokara islands experienced over 900 earthquakes in two weeks, causing concern among residents ([Guardian](https://www.theguardian.com/world/2025/jul/03/japan-earthquake-tokara-islands-900-earthquakes-two-weeks)).  
+• Hong Kong tourists remain undeterred by a prediction of a major earthquake hitting Japan on July 5 ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3316710/hong-kong-tourists-undeterred-manga-prediction-quake-will-hit-japan-july-5?utm_source=rss_feed)).
 Exit code: 0
-Report generated at: Thu Jul  3 11:19:47 UTC 2025
+Report generated at: Thu Jul  3 16:09:20 UTC 2025
 ```
 
 ### 📥 Download
+1. Click the badge above → Actions tab
+2. Select latest "Daily News Aggregation" run
+3. Download `daily-news-report-2025-07-03` artifact
 1. Click the badge above → Actions tab
 2. Select latest "Daily News Aggregation" run
 3. Download `daily-news-report-2025-07-03` artifact
