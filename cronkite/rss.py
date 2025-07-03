@@ -16,18 +16,26 @@ class RSSFeedScraper:
     RSS_FEEDS = [
         ('BBC World', 'https://feeds.bbci.co.uk/news/world/rss.xml'),
         ('Guardian World', 'https://www.theguardian.com/world/rss'),
-        ('Reuters World', 'https://feeds.reuters.com/reuters/worldnews'),  # Keep but expect some failures
+        ('Reuters World', 'https://www.reutersagency.com/en/reutersbest/reuters-world-news/'),
         ('CNN World', 'http://rss.cnn.com/rss/edition.rss'),
         ('ABC News', 'https://abcnews.go.com/abcnews/internationalheadlines'),
-        ('NPR World', 'https://feeds.npr.org/1004/rss.xml'),  # Fixed URL
+        ('NPR World', 'https://feeds.npr.org/1004/rss.xml'),
         ('Al Jazeera', 'https://www.aljazeera.com/xml/rss/all.xml'),
         # International sources
         ('Le Monde', 'https://www.lemonde.fr/rss/une.xml'),
         ('Der Spiegel', 'https://www.spiegel.de/international/index.rss'),
-        ('El País', 'https://elpais.com/rss/elpais_inenglish.xml'),
-        ('La Repubblica', 'https://www.repubblica.it/rss/homepage/rss2.0.xml'),
-        ('Asahi Shimbun', 'https://www.asahi.com/ajw/rss/ajw.rdf'),
-        ('South China Morning Post', 'https://www.scmp.com/rss/91/feed'),
+        # Government and major sources
+        ('NASA', 'https://www.nasa.gov/rss/dyn/breaking_news.rss'),
+        ('Government of Canada', 'https://www.canada.ca/en/news/feed.xml'),
+        ('Supreme Court of Canada', 'https://decisions.scc-csc.ca/scc-csc/en/rss/index.do'),
+        ('White House (USA)', 'https://www.whitehouse.gov/briefing-room/feed/'),
+        ('CDC Newsroom (USA)', 'https://tools.cdc.gov/api/v2/resources/media/403372.rss'),
+        ('GOV.UK News (UK)', 'https://www.gov.uk/government/announcements.atom'),
+        ('Australian Government News', 'https://www.australia.gov.au/news-media.rss'),
+        ('Australian Department of Health', 'https://www.health.gov.au/news/rss'),
+        ('EU Newsroom', 'https://ec.europa.eu/commission/presscorner/api/rss/all/en'),
+        ('United Nations News', 'https://news.un.org/feed/subscribe/en/news/all/rss.xml'),
+        ('Associated Press', 'https://apnews.com/rss/apf-topnews'),
         # Specialized sources
         ('The Economist', 'https://www.economist.com/international/rss.xml'),
         ('Financial Times', 'https://www.ft.com/world?format=rss'),
@@ -36,27 +44,10 @@ class RSSFeedScraper:
         ('The Atlantic', 'https://www.theatlantic.com/feed/all/'),
         ('New Yorker', 'https://www.newyorker.com/feed/everything'),
         # Regional/Alternative sources
-        ('Associated Press', 'https://feeds.ap.org/ap/APTopNews'),
-        ('Agence France-Presse', 'https://www.afp.com/en/news-hub/rss'),
         ('Bloomberg', 'https://feeds.bloomberg.com/politics/news.rss'),
         ('Vice News', 'https://www.vice.com/en/rss'),
         ('Vox', 'https://www.vox.com/rss/index.xml'),
         ('Politico', 'https://www.politico.com/rss/politicopicks.xml'),
-        # Government feeds (expanded)
-        ('NASA', 'https://www.nasa.gov/rss/dyn/breaking_news.rss'),
-        ('Government of Canada', 'https://www.canada.ca/en/news/feed.xml'),
-        ('Supreme Court of Canada', 'https://decisions.scc-csc.ca/scc-csc/en/rss/index.do'),
-        ('Canadian Centre for Cyber Security', 'https://www.cyber.gc.ca/en/alerts-advisories/rss.xml'),
-        ('White House (USA)', 'https://www.whitehouse.gov/feed/'),
-        ('CDC Newsroom (USA)', 'https://tools.cdc.gov/api/v2/resources/media/403372.rss'),
-        ('FEMA News (USA)', 'https://www.fema.gov/news-release/feeds'),
-        ('GOV.UK News (UK)', 'https://www.gov.uk/government/announcements.atom'),
-        ('UK Parliament', 'https://www.parliament.uk/business/news/rss/newsdaily.xml'),
-        ('Australian Government News', 'https://www.australia.gov.au/news-media.rss'),
-        ('Australian Department of Health', 'https://www.health.gov.au/news/rss.xml'),
-        ('EU Newsroom', 'https://europa.eu/newsroom/rss.xml'),
-        ('Beehive (NZ Government)', 'https://www.beehive.govt.nz/feeds/all'),
-        ('United Nations News', 'https://news.un.org/feed/subscribe/en/news/all/rss.xml'),
     ]
     
     async def get_stories(self, cutoff_time: datetime) -> List[NewsStory]:
