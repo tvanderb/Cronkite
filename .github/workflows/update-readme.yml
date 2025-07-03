@@ -38,10 +38,21 @@ jobs:
 
     - name: Download latest artifact
       if: steps.check-artifact.outputs.exists == 'true'
-      uses: actions/download-artifact@v4
-      with:
-        name: daily-news-report-${{ github.event.workflow_run.run_number }}-${{ github.event.workflow_run.head_sha }}
-        path: ./artifacts
+      env:
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        ARTIFACT_NAME="daily-news-report-${{ github.event.workflow_run.run_number }}-${{ github.event.workflow_run.head_sha }}"
+        echo "Downloading artifact: $ARTIFACT_NAME"
+        
+        # Download the artifact using GitHub CLI
+        gh run download --repo ${{ github.repository }} --name "$ARTIFACT_NAME" --dir ./artifacts
+        
+        if [ -f "./artifacts/news_report.txt" ]; then
+          echo "✅ Successfully downloaded artifact"
+        else
+          echo "❌ Artifact downloaded but news_report.txt not found"
+          ls -la ./artifacts/ || echo "No artifacts directory"
+        fi
         
     - name: Update README with latest report
       if: steps.check-artifact.outputs.exists == 'true'
