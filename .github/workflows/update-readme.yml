@@ -19,10 +19,13 @@ jobs:
       with:
         name: daily-news-report-${{ github.event.workflow_run.run_number }}-${{ github.event.workflow_run.head_sha }}
         path: ./artifacts
+        if-no-files-found: warn
         
     - name: Update README with latest report
       run: |
         if [ -f "./artifacts/news_report.txt" ]; then
+          echo "✅ Found news report artifact, updating README..."
+          
           # Read the report content
           REPORT_CONTENT=$(cat "./artifacts/news_report.txt")
           
@@ -72,6 +75,11 @@ jobs:
           
           mv README_new.md README.md
           rm new_section.md
+          
+          echo "✅ README updated successfully"
+        else
+          echo "❌ No news report artifact found. Skipping README update."
+          echo "This might happen if the daily news aggregation failed or artifact was deleted."
         fi
         
     - name: Commit and push changes
@@ -79,5 +87,9 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add README.md
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update README with latest news report"
-        git push 
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update README with latest news report"
+          git push
+        fi 
