@@ -66,30 +66,19 @@ jobs:
           # Create a preview (first 500 characters)
           PREVIEW=$(echo "$REPORT_CONTENT" | head -c 500 | sed 's/$/.../')
           
-          # Create the new section content
-          cat > new_section.md << 'EOF'
-          ## 📰 Latest Report
-          
-          **Latest Daily Report:** [View Latest Run](https://github.com/${{ github.repository }}/actions)
-          
-          **Last Updated:** $(date -u +"%Y-%m-%d %H:%M UTC")
-          
-          *Generated daily at 6:05 AM EST*
-          
-          ### 📋 Report Preview
-          ```
-          EOF
-          
-          echo "$PREVIEW" >> new_section.md
-          
-          cat >> new_section.md << 'EOF'
-          ```
-          
-          ### 📥 Download
-          1. Click the badge above → Actions tab
-          2. Select latest "Daily News Aggregation" run
-          3. Download `daily-news-report-${{ github.event.workflow_run.run_number }}-${{ github.event.workflow_run.head_sha }}` artifact
-          EOF
+          # Create the new section content using printf to avoid heredoc issues
+          printf "## 📰 Latest Report\n\n" > new_section.md
+          printf "**Latest Daily Report:** [View Latest Run](https://github.com/%s/actions)\n\n" "${{ github.repository }}" >> new_section.md
+          printf "**Last Updated:** %s\n\n" "$(date -u +"%Y-%m-%d %H:%M UTC")" >> new_section.md
+          printf "*Generated daily at 6:05 AM EST*\n\n" >> new_section.md
+          printf "### 📋 Report Preview\n" >> new_section.md
+          printf "\`\`\`\n" >> new_section.md
+          printf "%s\n" "$PREVIEW" >> new_section.md
+          printf "\`\`\`\n\n" >> new_section.md
+          printf "### 📥 Download\n" >> new_section.md
+          printf "1. Click the badge above → Actions tab\n" >> new_section.md
+          printf "2. Select latest \"Daily News Aggregation\" run\n" >> new_section.md
+          printf "3. Download \`daily-news-report-%s-%s\` artifact\n" "${{ github.event.workflow_run.run_number }}" "${{ github.event.workflow_run.head_sha }}" >> new_section.md
           
           # Replace the section in README using awk
           awk '
