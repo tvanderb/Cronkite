@@ -22,6 +22,37 @@ SOURCE_WEIGHTS = {
     'Mastodon (mastodon.social)': 0.5,
 }
 
+# High-reliability sources for cross-verification
+HIGH_RELIABILITY_SOURCES = {
+    'Reuters World', 'BBC World', 'Guardian World', 'NPR World', 
+    'Al Jazeera', 'CNN World', 'ABC News'
+}
+
+# Source hierarchy for deduplication (higher = more preferred)
+SOURCE_HIERARCHY = {
+    'Reuters World': 10,
+    'BBC World': 9,
+    'Guardian World': 8,
+    'NPR World': 8,
+    'Al Jazeera': 7,
+    'CNN World': 7,
+    'ABC News': 6,
+    'Hacker News': 5,
+    'Reddit r/news': 4,
+    'Reddit r/worldnews': 4,
+    'Reddit r/science': 4,
+    'Reddit r/technology': 4,
+    'Reddit r/business': 4,
+    'Reddit r/politics': 3,
+    'Reddit r/worldpolitics': 3,
+    'Reddit r/inthenews': 3,
+    'Reddit r/europe': 2,
+    'Reddit r/uknews': 2,
+    'Reddit r/usanews': 2,
+    'Reddit r/environment': 2,
+    'Mastodon (mastodon.social)': 1,
+}
+
 # Keywords that indicate opinion pieces or subjective content
 OPINION_KEYWORDS = [
     'opinion', 'comment', 'analysis', 'view', 'perspective', 'column',
