@@ -5,6 +5,10 @@ on:
     workflows: ["Daily News Aggregation"]
     types: [completed]
 
+permissions:
+  contents: write
+  actions: read
+
 jobs:
   update-readme:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
