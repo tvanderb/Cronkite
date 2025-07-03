@@ -143,9 +143,9 @@ UNRELIABLE_SOURCES = {
     'yournewswire.com', 'endingthefed.com', 'activistpost.com', 'collective-evolution.com'
 }
 
-# Domain reputation scores (higher = more reliable)
+# Domain reputation scores (higher = more reliable) - only working sources
 DOMAIN_REPUTATION = {
-    # Major news outlets
+    # Major news outlets - working feeds
     'reuters.com': 0.95, 'bbc.com': 1.0, 'theguardian.com': 0.9, 'cnn.com': 0.85,
     'nytimes.com': 0.9, 'washingtonpost.com': 0.9, 'wsj.com': 0.9, 'npr.org': 0.9,
     'ap.org': 0.95, 'afp.com': 0.9, 'bloomberg.com': 0.85, 'politico.com': 0.8,
@@ -154,43 +154,20 @@ DOMAIN_REPUTATION = {
     'asahi.com': 0.85, 'scmp.com': 0.8, 'theatlantic.com': 0.8, 'newyorker.com': 0.8,
     'vice.com': 0.6, 'vox.com': 0.7,
     
-    # US Government sources
-    'whitehouse.gov': 0.95, 'state.gov': 0.95, 'congress.gov': 0.95,
-    'defense.gov': 0.95, 'energy.gov': 0.95, 'justice.gov': 0.95, 'dhs.gov': 0.95,
-    'hhs.gov': 0.95, 'transportation.gov': 0.95, 'ed.gov': 0.95, 'commerce.gov': 0.95,
-    'usda.gov': 0.95, 'dol.gov': 0.95, 'va.gov': 0.95, 'doi.gov': 0.95,
-    'treasury.gov': 0.95, 'epa.gov': 0.95, 'fbi.gov': 0.95, 'cia.gov': 0.95,
-    'nsa.gov': 0.95, 'nasa.gov': 0.95, 'nih.gov': 0.95, 'cdc.gov': 0.95, 'fda.gov': 0.95,
-    'house.gov': 0.95, 'senate.gov': 0.95, 'supremecourt.gov': 0.95,
+    # US Government sources - working feeds only
+    'nasa.gov': 0.95,
     
-    # Canadian Government sources
-    'canada.ca': 0.95, 'pm.gc.ca': 0.95, 'international.gc.ca': 0.95,
-    'publicsafety.gc.ca': 0.95, 'tc.gc.ca': 0.95, 'ic.gc.ca': 0.95,
+    # Canadian Government sources - working feeds only
+    'canada.ca': 0.95,
     
-    # US Universities
-    'harvard.edu': 0.9, 'mit.edu': 0.9, 'stanford.edu': 0.9, 'berkeley.edu': 0.9,
-    'yale.edu': 0.9, 'princeton.edu': 0.9, 'columbia.edu': 0.9, 'uchicago.edu': 0.9,
-    'caltech.edu': 0.9, 'jhu.edu': 0.9, 'upenn.edu': 0.9, 'duke.edu': 0.9,
-    'northwestern.edu': 0.9, 'umich.edu': 0.9, 'ucla.edu': 0.9, 'ucsd.edu': 0.9,
-    'cmu.edu': 0.9, 'cornell.edu': 0.9, 'washington.edu': 0.9, 'utexas.edu': 0.9,
+    # US Universities - working feeds only
+    'harvard.edu': 0.9, 'mit.edu': 0.9, 'berkeley.edu': 0.9,
+    'umich.edu': 0.9, 'jhu.edu': 0.9, 'washington.edu': 0.9, 'ubc.ca': 0.9,
+    'manchester.ac.uk': 0.9,
     
-    # UK Universities
-    'ox.ac.uk': 0.9, 'cam.ac.uk': 0.9, 'imperial.ac.uk': 0.9, 'ucl.ac.uk': 0.9,
-    'lse.ac.uk': 0.9, 'kcl.ac.uk': 0.9, 'ed.ac.uk': 0.9, 'manchester.ac.uk': 0.9,
-    'bristol.ac.uk': 0.9,
-    
-    # Canadian Universities
-    'utoronto.ca': 0.9, 'ubc.ca': 0.9, 'mcgill.ca': 0.9, 'ualberta.ca': 0.9,
-    'uwaterloo.ca': 0.9, 'umontreal.ca': 0.9,
-    
-    # International Universities
-    'ethz.ch': 0.9, 'u-tokyo.ac.jp': 0.9, 'nus.edu.sg': 0.9, 'unimelb.edu.au': 0.9,
-    'sydney.edu.au': 0.9, 'pku.edu.cn': 0.9, 'tsinghua.edu.cn': 0.9,
-    
-    # Research Institutions and Journals
-    'nature.com': 0.95, 'science.org': 0.95, 'cell.com': 0.9, 'thelancet.com': 0.9,
-    'nejm.org': 0.9, 'jamanetwork.com': 0.9, 'pnas.org': 0.95, 'plos.org': 0.85,
-    'arxiv.org': 0.8, 'biorxiv.org': 0.8,
+    # Research Institutions and Journals - working feeds only
+    'nature.com': 0.95, 'science.org': 0.95, 'thelancet.com': 0.9,
+    'pnas.org': 0.95, 'plos.org': 0.85, 'arxiv.org': 0.8, 'biorxiv.org': 0.8,
     
     # Industry sources
     'techcrunch.com': 0.7, 'wired.com': 0.8, 'ars-technica.com': 0.8,
@@ -217,130 +194,55 @@ GEOGRAPHIC_DIVERSITY = {
     'other': 0.25,         # 25% of stories
 }
 
-# Government RSS feeds
+# Main RSS feeds - only working ones
+RSS_FEEDS = [
+    # Major international news sources
+    ('BBC World', 'https://feeds.bbci.co.uk/news/world/rss.xml'),
+    ('Guardian World', 'https://www.theguardian.com/world/rss'),
+    ('CNN World', 'http://rss.cnn.com/rss/edition.rss'),
+    ('ABC News', 'https://abcnews.go.com/abcnews/internationalheadlines'),
+    ('NPR World', 'https://feeds.npr.org/1004/rss.xml'),
+    ('Al Jazeera', 'https://www.aljazeera.com/xml/rss/all.xml'),
+    ('Le Monde', 'https://www.lemonde.fr/rss/une.xml'),
+    ('La Repubblica', 'https://www.repubblica.it/rss/homepage/rss2.0.xml'),
+    ('The Economist', 'https://www.economist.com/international/rss.xml'),
+    ('Financial Times', 'https://www.ft.com/world?format=rss'),
+    ('Nature', 'https://www.nature.com/nature.rss'),
+    ('Science', 'https://www.science.org/rss/news_current.xml'),
+    ('The Atlantic', 'https://www.theatlantic.com/feed/all/'),
+    ('New Yorker', 'https://www.newyorker.com/feed/everything'),
+    ('Bloomberg', 'https://feeds.bloomberg.com/politics/news.rss'),
+    ('Vice News', 'https://www.vice.com/en/rss'),
+    ('Vox', 'https://www.vox.com/rss/index.xml'),
+]
+
+# Government RSS feeds - only working ones
 GOVERNMENT_RSS_FEEDS = [
-    # US Federal Government
-    ('White House', 'https://www.whitehouse.gov/feed/'),
-    ('State Department', 'https://www.state.gov/feed/'),
-    ('Department of Defense', 'https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=944&max=20'),
-    ('Department of Energy', 'https://www.energy.gov/feeds/energygov-news'),
-    ('Department of Justice', 'https://www.justice.gov/feeds/justice-news'),
-    ('Department of Homeland Security', 'https://www.dhs.gov/feeds/news'),
-    ('Department of Health and Human Services', 'https://www.hhs.gov/feeds/news'),
-    ('Department of Transportation', 'https://www.transportation.gov/feeds/news'),
-    ('Department of Education', 'https://www.ed.gov/feeds/news'),
-    ('Department of Commerce', 'https://www.commerce.gov/feeds/news'),
-    ('Department of Agriculture', 'https://www.usda.gov/feeds/news'),
-    ('Department of Labor', 'https://www.dol.gov/feeds/news'),
-    ('Department of Veterans Affairs', 'https://www.va.gov/feeds/news'),
-    ('Department of Interior', 'https://www.doi.gov/feeds/news'),
-    ('Department of Treasury', 'https://home.treasury.gov/feeds/news'),
-    ('Environmental Protection Agency', 'https://www.epa.gov/feeds/news'),
-    ('Federal Bureau of Investigation', 'https://www.fbi.gov/feeds/news'),
-    ('Central Intelligence Agency', 'https://www.cia.gov/feeds/news'),
-    ('National Security Agency', 'https://www.nsa.gov/feeds/news'),
+    # US Federal Government - only working feeds
     ('NASA', 'https://www.nasa.gov/feed/'),
-    ('NIH News', 'https://www.nih.gov/news-events/news-releases/rss.xml'),
-    ('CDC News', 'https://tools.cdc.gov/api/v2/resources/media/132404.rss'),
-    ('FDA News', 'https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/rss.xml'),
-    ('Congress House', 'https://www.house.gov/feeds/rss/news'),
-    ('Congress Senate', 'https://www.senate.gov/feeds/rss/news'),
-    ('Supreme Court', 'https://www.supremecourt.gov/feeds/news'),
-    # Canadian Government
+    # Canadian Government - only working feeds
     ('Government of Canada', 'https://www.canada.ca/en/news/feed.xml'),
-    ('Prime Minister of Canada', 'https://pm.gc.ca/en/news/feed'),
-    ('Global Affairs Canada', 'https://www.international.gc.ca/world-monde/news-news/index.aspx?view=rss'),
-    ('Department of National Defence Canada', 'https://www.canada.ca/en/department-national-defence/news/feed.xml'),
-    ('Health Canada', 'https://www.canada.ca/en/health-canada/news/feed.xml'),
-    ('Environment and Climate Change Canada', 'https://www.canada.ca/en/environment-climate-change/news/feed.xml'),
-    ('Public Safety Canada', 'https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/feed.xml'),
-    ('Transport Canada', 'https://www.tc.gc.ca/en/news/feed.xml'),
-    ('Innovation, Science and Economic Development Canada', 'https://www.ic.gc.ca/eic/site/icgc.nsf/eng/feed.xml'),
 ]
 
-# Remove Chinese sources from GOVERNMENT_RSS_FEEDS
-GOVERNMENT_RSS_FEEDS = [
-    s for s in GOVERNMENT_RSS_FEEDS
-    if not (
-        'china' in s[0].lower() or
-        'chinese' in s[0].lower() or
-        '.cn' in s[1] or
-        'scmp.com' in s[1] or
-        'asahi.com' in s[1]
-    )
-]
-
-# Academic RSS feeds
+# Academic RSS feeds - only working ones
 ACADEMIC_RSS_FEEDS = [
-    # US Universities
+    # US Universities - only working feeds
     ('Harvard Gazette', 'https://news.harvard.edu/gazette/feed/'),
     ('MIT News', 'https://news.mit.edu/rss/feed'),
-    ('Stanford News', 'https://news.stanford.edu/feed/'),
     ('UC Berkeley News', 'https://news.berkeley.edu/feed/'),
-    ('Yale News', 'https://news.yale.edu/feed'),
-    ('Princeton News', 'https://www.princeton.edu/news/feed'),
-    ('Columbia News', 'https://news.columbia.edu/feed'),
-    ('University of Chicago News', 'https://news.uchicago.edu/feed'),
-    ('Caltech News', 'https://www.caltech.edu/about/news/feed'),
-    ('Johns Hopkins News', 'https://hub.jhu.edu/feed/'),
-    ('University of Pennsylvania News', 'https://penntoday.upenn.edu/feed'),
-    ('Duke News', 'https://today.duke.edu/feed'),
-    ('Northwestern News', 'https://news.northwestern.edu/feed/'),
     ('University of Michigan News', 'https://news.umich.edu/feed/'),
-    ('UC Los Angeles News', 'https://newsroom.ucla.edu/feed'),
-    ('UC San Diego News', 'https://ucsdnews.ucsd.edu/feed'),
-    ('Carnegie Mellon News', 'https://www.cmu.edu/news/feed/'),
-    ('Cornell News', 'https://news.cornell.edu/feed'),
+    ('Johns Hopkins News', 'https://hub.jhu.edu/feed/'),
     ('University of Washington News', 'https://www.washington.edu/news/feed/'),
-    ('University of Texas News', 'https://news.utexas.edu/feed/'),
-    # UK Universities
-    ('Oxford News', 'https://www.ox.ac.uk/news-and-events/rss'),
-    ('Cambridge News', 'https://www.cam.ac.uk/news/feed'),
-    ('Imperial College London News', 'https://www.imperial.ac.uk/news/feed/'),
-    ('University College London News', 'https://www.ucl.ac.uk/news/feed'),
-    ('London School of Economics News', 'https://www.lse.ac.uk/News/feed'),
-    ('King\'s College London News', 'https://www.kcl.ac.uk/news/feed'),
-    ('University of Edinburgh News', 'https://www.ed.ac.uk/news/feed'),
-    ('University of Manchester News', 'https://www.manchester.ac.uk/discover/news/feed/'),
-    ('University of Bristol News', 'https://www.bristol.ac.uk/news/feed/'),
-    # Canadian Universities
-    ('University of Toronto News', 'https://www.utoronto.ca/news/feed'),
     ('University of British Columbia News', 'https://news.ubc.ca/feed/'),
-    ('McGill University News', 'https://www.mcgill.ca/newsroom/feed'),
-    ('University of Alberta News', 'https://www.ualberta.ca/news/feed'),
-    ('University of Waterloo News', 'https://uwaterloo.ca/news/feed'),
-    ('University of Montreal News', 'https://nouvelles.umontreal.ca/en/feed/'),
-    # International Universities
-    ('ETH Zurich News', 'https://ethz.ch/en/news-and-events/eth-news.html/rss'),
-    ('University of Tokyo News', 'https://www.u-tokyo.ac.jp/en/news/feed'),
-    ('National University of Singapore News', 'https://news.nus.edu.sg/feed/'),
-    ('University of Melbourne News', 'https://newsroom.unimelb.edu.au/feed'),
-    ('University of Sydney News', 'https://www.sydney.edu.au/news/feed'),
-    ('Peking University News', 'https://english.pku.edu.cn/news_events/news/feed'),
-    ('Tsinghua University News', 'https://www.tsinghua.edu.cn/en/news/feed'),
-    # Research Institutions and Journals
+    ('University of Manchester News', 'https://www.manchester.ac.uk/discover/news/feed/'),
+    # Research Institutions and Journals - only working feeds
     ('Nature News', 'https://www.nature.com/nature.rss'),
     ('Science News', 'https://www.science.org/rss/news_current.xml'),
-    ('Cell Press', 'https://www.cell.com/rss/current.xml'),
     ('The Lancet', 'https://www.thelancet.com/rssfeed/lancet_current.xml'),
-    ('New England Journal of Medicine', 'https://www.nejm.org/feed/rss/recent'),
-    ('JAMA Network', 'https://jamanetwork.com/rss/site_3/67/feed.xml'),
     ('Proceedings of the National Academy of Sciences', 'https://www.pnas.org/rss/current.xml'),
     ('PLOS One', 'https://journals.plos.org/plosone/feed/atom'),
     ('arXiv', 'http://export.arxiv.org/rss/cs.AI'),
     ('bioRxiv', 'https://connect.biorxiv.org/biorxiv_xml.php?subject=all'),
-]
-
-# Remove Chinese sources from ACADEMIC_RSS_FEEDS
-ACADEMIC_RSS_FEEDS = [
-    s for s in ACADEMIC_RSS_FEEDS
-    if not (
-        'china' in s[0].lower() or
-        'chinese' in s[0].lower() or
-        '.cn' in s[1] or
-        'peking' in s[0].lower() or
-        'tsinghua' in s[0].lower()
-    )
 ]
 
 # Remove Chinese sources from DOMAIN_REPUTATION
