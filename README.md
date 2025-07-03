@@ -2,7 +2,7 @@
 
 Automated news aggregation system that collects, filters, and generates daily reports from multiple sources.
 
-[![Daily News Aggregation](https://github.com/${{ github.repository }}/workflows/Daily%20News%20Aggregation/badge.svg)](https://github.com/tvanderb/Cronkite/actions)
+[![Daily News Aggregation](https://github.com/tvanderb/Cronkite/workflows/Daily%20News%20Aggregation/badge.svg)](https://github.com/tvanderb/Cronkite/actions)
 
 ## 📋 Table of Contents
 
