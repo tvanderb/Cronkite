@@ -42,6 +42,21 @@ class RSSFeedScraper:
         ('Vice News', 'https://www.vice.com/en/rss'),
         ('Vox', 'https://www.vox.com/rss/index.xml'),
         ('Politico', 'https://www.politico.com/rss/politicopicks.xml'),
+        # Government feeds (expanded)
+        ('NASA', 'https://www.nasa.gov/rss/dyn/breaking_news.rss'),
+        ('Government of Canada', 'https://www.canada.ca/en/news/feed.xml'),
+        ('Supreme Court of Canada', 'https://decisions.scc-csc.ca/scc-csc/en/rss/index.do'),
+        ('Canadian Centre for Cyber Security', 'https://www.cyber.gc.ca/en/alerts-advisories/rss.xml'),
+        ('White House (USA)', 'https://www.whitehouse.gov/feed/'),
+        ('CDC Newsroom (USA)', 'https://tools.cdc.gov/api/v2/resources/media/403372.rss'),
+        ('FEMA News (USA)', 'https://www.fema.gov/news-release/feeds'),
+        ('GOV.UK News (UK)', 'https://www.gov.uk/government/announcements.atom'),
+        ('UK Parliament', 'https://www.parliament.uk/business/news/rss/newsdaily.xml'),
+        ('Australian Government News', 'https://www.australia.gov.au/news-media.rss'),
+        ('Australian Department of Health', 'https://www.health.gov.au/news/rss.xml'),
+        ('EU Newsroom', 'https://europa.eu/newsroom/rss.xml'),
+        ('Beehive (NZ Government)', 'https://www.beehive.govt.nz/feeds/all'),
+        ('United Nations News', 'https://news.un.org/feed/subscribe/en/news/all/rss.xml'),
     ]
     
     async def get_stories(self, cutoff_time: datetime) -> List[NewsStory]:

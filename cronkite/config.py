@@ -59,6 +59,48 @@ SOURCE_WEIGHTS = {
     'Reddit r/business': 0.6,
     'Hacker News': 0.6,
     'Mastodon (mastodon.social)': 0.5,
+    # Government sources
+    'NASA': 8,
+    'Government of Canada': 8,
+    'Supreme Court of Canada': 8,
+    'Canadian Centre for Cyber Security': 8,
+    'White House (USA)': 8,
+    'CDC Newsroom (USA)': 8,
+    'FEMA News (USA)': 8,
+    'GOV.UK News (UK)': 8,
+    'UK Parliament': 8,
+    'Australian Government News': 8,
+    'Australian Department of Health': 8,
+    'EU Newsroom': 8,
+    'Beehive (NZ Government)': 8,
+    'United Nations News': 8,
+    # Academic sources
+    'Harvard Gazette': 0.9,
+    'MIT News': 0.9,
+    'UC Berkeley News': 0.9,
+    'University of Michigan News': 0.9,
+    'Johns Hopkins News': 0.9,
+    'University of Washington News': 0.9,
+    'University of British Columbia News': 0.9,
+    'University of Manchester News': 0.9,
+    'Nature News': 0.95,
+    'Science News': 0.95,
+    'The Lancet': 0.9,
+    'Proceedings of the National Academy of Sciences': 0.95,
+    'PLOS One': 0.85,
+    'arXiv': 0.8,
+    'bioRxiv': 0.8,
+    # Industry sources
+    'TechCrunch': 0.7,
+    'Wired': 0.8,
+    'Ars Technica': 0.8,
+    'The Verge': 0.7,
+    'Engadget': 0.7,
+    'Forbes Tech': 0.8,
+    'Fortune': 0.8,
+    'Business Insider': 0.7,
+    'CNBC': 0.8,
+    'MarketWatch': 0.8,
 }
 
 # High-reliability sources for cross-verification
@@ -110,6 +152,33 @@ SOURCE_HIERARCHY = {
     'Reddit r/environment': 2,
     'Vice News': 2,
     'Mastodon (mastodon.social)': 1,
+    # Academic sources
+    'Harvard Gazette': 7,
+    'MIT News': 7,
+    'UC Berkeley News': 7,
+    'University of Michigan News': 7,
+    'Johns Hopkins News': 7,
+    'University of Washington News': 7,
+    'University of British Columbia News': 7,
+    'University of Manchester News': 7,
+    'Nature News': 9,
+    'Science News': 9,
+    'The Lancet': 8,
+    'Proceedings of the National Academy of Sciences': 9,
+    'PLOS One': 7,
+    'arXiv': 6,
+    'bioRxiv': 6,
+    # Industry sources
+    'TechCrunch': 6,
+    'Wired': 6,
+    'Ars Technica': 6,
+    'The Verge': 6,
+    'Engadget': 6,
+    'Forbes Tech': 6,
+    'Fortune': 6,
+    'Business Insider': 6,
+    'CNBC': 6,
+    'MarketWatch': 6,
 }
 
 # Keywords that indicate opinion pieces or subjective content
@@ -156,9 +225,31 @@ DOMAIN_REPUTATION = {
     
     # US Government sources - working feeds only
     'nasa.gov': 0.95,
+    'whitehouse.gov': 0.95,
+    'cdc.gov': 0.95,
+    'fema.gov': 0.95,
     
     # Canadian Government sources - working feeds only
     'canada.ca': 0.95,
+    'scc-csc.ca': 0.95,
+    'cyber.gc.ca': 0.95,
+    
+    # UK Government
+    'gov.uk': 0.95,
+    'parliament.uk': 0.95,
+    
+    # Australian Government
+    'australia.gov.au': 0.95,
+    'health.gov.au': 0.95,
+    
+    # EU
+    'europa.eu': 0.95,
+    
+    # New Zealand
+    'beehive.govt.nz': 0.95,
+    
+    # United Nations
+    'un.org': 0.95,
     
     # US Universities - working feeds only
     'harvard.edu': 0.9, 'mit.edu': 0.9, 'berkeley.edu': 0.9,
