@@ -202,6 +202,29 @@ class StoryScorer:
             }
         }
         
+        # Sensationalist keywords that indicate potential clickbait or unreliable content
+        self.sensationalist_keywords = {
+            'shocking', 'explosive', 'unbelievable', 'incredible', 'amazing', 'stunning',
+            'you_won\'t_believe', 'outrage', 'scandal', 'secret_revealed', 'exposed',
+            'leaked', 'whistleblower', 'conspiracy', 'cover_up', 'hidden_truth',
+            'they_don\'t_want_you_to_know', 'breaking_exclusive', 'urgent_warning',
+            'shocking_truth', 'explosive_revelation', 'unbelievable_discovery',
+            'stunning_announcement', 'incredible_find', 'amazing_revelation',
+            'outrageous', 'scandalous', 'controversial', 'controversy', 'drama',
+            'sensational', 'bombshell', 'earth_shattering', 'mind_blowing',
+            'jaw_dropping', 'eye_opening', 'game_changing', 'revolutionary',
+            'unprecedented', 'historic', 'first_ever', 'never_before_seen'
+        }
+        
+        # Keywords that suggest authentic, factual reporting
+        self.authenticity_keywords = {
+            'report', 'study', 'research', 'analysis', 'data', 'survey', 'poll',
+            'official', 'announcement', 'statement', 'press_release', 'document',
+            'record', 'evidence', 'finding', 'conclusion', 'result', 'outcome',
+            'decision', 'ruling', 'verdict', 'settlement', 'agreement', 'policy',
+            'regulation', 'law', 'legislation', 'bill', 'measure', 'initiative'
+        }
+        
         self.scarcity_indicators = {
             'exclusive', 'first', 'breaking', 'developing', 'emerging', 'newly_discovered',
             'previously_unknown', 'hidden', 'revealed', 'exposed', 'leaked', 'whistleblower',
@@ -253,35 +276,102 @@ class StoryScorer:
         return scored_stories
     
     def _calculate_story_score(self, story, source_coverage: Dict, topic_coverage: Dict, hours_back: int) -> float:
-        """Calculate comprehensive story score"""
+        """Calculate comprehensive story score with anti-sensationalism safeguards"""
         score = 0.0
         
-        # Base source quality score (0-1)
+        # Base source quality score (0-1) - heavily weighted
         source_score = self._get_source_score(story)
-        score += source_score * 0.3
+        score += source_score * 0.4  # Increased weight for source quality
         
-        # Impact score based on keywords and content analysis
+        # Authenticity score - new factor
+        authenticity_score = self._calculate_authenticity_score(story)
+        score += authenticity_score * 0.25
+        
+        # Anti-sensationalism penalty - strict approach
+        sensationalism_penalty = self._calculate_sensationalism_penalty(story)
+        score -= sensationalism_penalty * 0.3  # Heavy penalty for sensationalism
+        
+        # Impact score based on keywords and content analysis (reduced weight)
         impact_score = self._calculate_impact_score(story)
-        score += impact_score * 0.25
+        score += impact_score * 0.15  # Reduced weight
         
-        # Scarcity score - how unique/rare this story is
-        scarcity_score = self._calculate_scarcity_score(story, source_coverage, topic_coverage)
-        score += scarcity_score * 0.2
+        # Scarcity score - only for high-quality sources
+        if source_score >= 0.7:  # Only apply scarcity bonus to reputable sources
+            scarcity_score = self._calculate_scarcity_score(story, source_coverage, topic_coverage)
+            score += scarcity_score * 0.1
+        else:
+            score += 0.0  # No scarcity bonus for low-quality sources
         
-        # Underreported importance score
-        underreported_score = self._calculate_underreported_score(story, source_coverage)
-        score += underreported_score * 0.15
+        # Underreported importance score - only for verified sources
+        if source_score >= 0.8:  # Higher threshold for underreported stories
+            underreported_score = self._calculate_underreported_score(story, source_coverage)
+            score += underreported_score * 0.1
+        else:
+            score += 0.0
         
         # Recency score (newer stories get higher scores)
         recency_score = self._calculate_recency_score(story, hours_back)
         score += recency_score * 0.1
         
-        return score
+        # Ensure score doesn't go below 0
+        return max(score, 0.0)
     
     def _get_source_score(self, story) -> float:
         """Get source reputation score"""
         domain = urlparse(story.url).netloc
         return DOMAIN_REPUTATION.get(domain, 0.5)
+    
+    def _calculate_authenticity_score(self, story) -> float:
+        """Calculate authenticity score based on factual reporting indicators"""
+        title_lower = story.title.lower()
+        content_lower = getattr(story, 'summary', '').lower()
+        text = f"{title_lower} {content_lower}"
+        
+        score = 0.0
+        
+        # Count authenticity keywords
+        authenticity_count = sum(1 for keyword in self.authenticity_keywords 
+                                if keyword.replace('_', ' ') in text)
+        score += authenticity_count * 0.05
+        
+        # Bonus for official sources or press releases
+        if any(indicator in text for indicator in ['official', 'press_release', 'statement']):
+            score += 0.1
+        
+        # Bonus for data-driven content
+        if any(indicator in text for indicator in ['data', 'study', 'research', 'analysis']):
+            score += 0.1
+        
+        return min(score, 1.0)
+    
+    def _calculate_sensationalism_penalty(self, story) -> float:
+        """Calculate penalty for sensationalist language"""
+        title_lower = story.title.lower()
+        content_lower = getattr(story, 'summary', '').lower()
+        text = f"{title_lower} {content_lower}"
+        
+        penalty = 0.0
+        
+        # Count sensationalist keywords
+        sensationalist_count = sum(1 for keyword in self.sensationalist_keywords 
+                                  if keyword.replace('_', ' ') in text)
+        penalty += sensationalist_count * 0.2  # Heavy penalty per keyword
+        
+        # Extra penalty for clickbait patterns
+        if any(pattern in title_lower for pattern in ['you won\'t believe', 'shocking truth', 'explosive revelation']):
+            penalty += 0.3
+        
+        # Penalty for excessive punctuation or caps
+        if title_lower.count('!') > 2 or title_lower.count('?') > 2:
+            penalty += 0.2
+        
+        # Penalty for all caps in title
+        if title_lower != title_lower.lower():
+            caps_ratio = sum(1 for c in story.title if c.isupper()) / len(story.title)
+            if caps_ratio > 0.3:  # More than 30% caps
+                penalty += 0.2
+        
+        return min(penalty, 1.0)  # Cap penalty at 1.0
     
     def _calculate_impact_score(self, story) -> float:
         """Calculate impact score based on keywords and content"""
@@ -294,18 +384,18 @@ class StoryScorer:
         # High impact keywords
         high_impact_count = sum(1 for keyword in self.impact_keywords['high_impact'] 
                                if keyword.replace('_', ' ') in text)
-        score += high_impact_count * 0.1
+        score += high_impact_count * 0.08  # Reduced weight
         
         # Medium impact keywords
         medium_impact_count = sum(1 for keyword in self.impact_keywords['medium_impact'] 
                                  if keyword.replace('_', ' ') in text)
-        score += medium_impact_count * 0.05
+        score += medium_impact_count * 0.04  # Reduced weight
         
         # Cap the impact score
         return min(score, 1.0)
     
     def _calculate_scarcity_score(self, story, source_coverage: Dict, topic_coverage: Dict) -> float:
-        """Calculate how unique/scarce this story is"""
+        """Calculate how unique/scarce this story is - only for high-quality sources"""
         score = 0.0
         
         # Check if this source is covering this story
@@ -314,24 +404,24 @@ class StoryScorer:
             # Lower score if many sources are covering similar stories
             coverage_count = source_coverage[source]
             if coverage_count > 10:
-                score -= 0.2
+                score -= 0.1  # Reduced penalty
             elif coverage_count > 5:
-                score -= 0.1
+                score -= 0.05  # Reduced penalty
         
         # Check for scarcity indicators in title
         title_lower = story.title.lower()
         scarcity_count = sum(1 for indicator in self.scarcity_indicators 
                             if indicator.replace('_', ' ') in title_lower)
-        score += scarcity_count * 0.1
+        score += scarcity_count * 0.05  # Reduced bonus
         
         # Bonus for exclusive or first-to-report indicators
         if any(indicator in title_lower for indicator in ['exclusive', 'first', 'breaking']):
-            score += 0.2
+            score += 0.1  # Reduced bonus
         
         return max(score, 0.0)
     
     def _calculate_underreported_score(self, story, source_coverage: Dict) -> float:
-        """Calculate score for potentially underreported important stories"""
+        """Calculate score for potentially underreported important stories - strict verification"""
         score = 0.0
         
         title_lower = story.title.lower()
@@ -341,17 +431,17 @@ class StoryScorer:
         # Check for underreported indicators
         underreported_count = sum(1 for indicator in self.underreported_indicators 
                                  if indicator.replace('_', ' ') in text)
-        score += underreported_count * 0.1
+        score += underreported_count * 0.05  # Reduced weight
         
-        # Bonus for high-impact stories from fewer sources
+        # Bonus for high-impact stories from fewer sources - but only if source is very reputable
         if self._calculate_impact_score(story) > 0.3:
             source = story.source
             if source in source_coverage and source_coverage[source] < 3:
-                score += 0.3  # Important story with limited coverage
+                score += 0.2  # Reduced bonus
         
-        # Bonus for whistleblower/leak stories
+        # Bonus for whistleblower/leak stories - but only from very reputable sources
         if any(keyword in text for keyword in ['whistleblower', 'leak', 'exposed', 'revealed']):
-            score += 0.2
+            score += 0.1  # Reduced bonus
         
         return min(score, 1.0)
     
