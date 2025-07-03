@@ -1,6 +1,9 @@
 import aiohttp
 import json
 from typing import Dict
+from cronkite import get_logger
+
+logger = get_logger(__name__)
 
 class CypherReportGenerator:
     """Generate final report using OpenRouter Cypher Alpha"""
@@ -11,6 +14,8 @@ class CypherReportGenerator:
     
     async def generate_report(self, news_data: Dict) -> str:
         """Generate Legible News style report using Cypher Alpha"""
+        
+        logger.info(f"Generating report for {len(news_data.get('stories', []))} stories")
         
         prompt = f"""You are a news summarizer. Please create a daily news report in the exact style of Legible News, using the following news stories collected from various sources:
 
@@ -67,7 +72,9 @@ Make this look exactly like the Legible News format you've seen before."""
             async with session.post(self.api_url, headers=headers, json=payload) as response:
                 if response.status == 200:
                     result = await response.json()
+                    logger.info("Report generated successfully")
                     return result['choices'][0]['message']['content']
                 else:
                     error_text = await response.text()
+                    logger.error(f"OpenRouter API error: {response.status} - {error_text}")
                     raise Exception(f"OpenRouter API error: {response.status} - {error_text}") 

@@ -2,13 +2,16 @@ from dataclasses import dataclass, asdict, field
 from datetime import datetime, timedelta
 from typing import List, Dict, Optional, Any
 import re
-import logging
 import difflib
 from cronkite.config import SOURCE_WEIGHTS, OPINION_KEYWORDS, OPINION_URL_PATTERNS, OPINION_REDDIT_FLAIRS, HIGH_RELIABILITY_SOURCES, SOURCE_HIERARCHY
 from urllib.parse import urlparse, parse_qs, urlunparse
 import json
 import os
 import asyncio
+from cronkite import get_logger
+
+# Set up logger for this module
+logger = get_logger(__name__)
 
 # Load config
 CONFIG_PATH = os.path.join(os.path.dirname(__file__), '..', 'config.json')
@@ -88,17 +91,17 @@ class NewsAggregator:
         for i, result in enumerate(results):
             scraper_name = list(self.scrapers.keys())[i]
             if isinstance(result, Exception):
-                logging.error(f"Error in {scraper_name} scraper: {result}")
+                logger.error(f"Error in {scraper_name} scraper: {result}")
             elif isinstance(result, list):
                 all_stories.extend(result)
         
         # Apply quality filtering
-        logging.info(f"Applying quality filters to {len(all_stories)} collected stories")
+        logger.info(f"Applying quality filters to {len(all_stories)} collected stories")
         filtered_stories = self.quality_filter.filter_stories(all_stories)
         
         # Analyze quality metrics
         quality_metrics = self.quality_filter.get_quality_metrics(filtered_stories)
-        logging.info(f"Quality metrics: Avg domain reputation: {quality_metrics.get('avg_domain_reputation', 0):.2f}, "
+        logger.info(f"Quality metrics: Avg domain reputation: {quality_metrics.get('avg_domain_reputation', 0):.2f}, "
                     f"High reputation ratio: {quality_metrics.get('high_reputation_ratio', 0):.2f}")
         
         # Analyze geographic diversity
@@ -117,7 +120,7 @@ class NewsAggregator:
         # Store for later use
         self.stories = top_stories
         
-        logging.info(f"Final selection: {len(top_stories)} top stories")
+        logger.info(f"Final selection: {len(top_stories)} top stories")
         return self.stories
     
     def _canonicalize_url(self, url: str) -> str:

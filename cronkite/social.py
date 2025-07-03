@@ -1,10 +1,12 @@
 import aiohttp
-import logging
 from datetime import datetime, timezone
 from typing import List
 from .core import NewsStory
 from .rss import RSSFeedScraper
 from cronkite.config import SOURCE_WEIGHTS
+from cronkite import get_logger
+
+logger = get_logger(__name__)
 
 class SocialMediaScraper:
     """Scrape public social media feeds and Reddit"""
@@ -30,17 +32,17 @@ class SocialMediaScraper:
         ]
         for subreddit, source_name in subreddits:
             subreddit_stories = await self._scrape_subreddit(subreddit, source_name, cutoff_time)
-            logging.info(f"Collected {len(subreddit_stories)} stories from {source_name}")
+            logger.info(f"Collected {len(subreddit_stories)} stories from {source_name}")
             stories.extend(subreddit_stories)
         
         # Scrape Hacker News
         hn_stories = await self._scrape_hackernews(cutoff_time)
-        logging.info(f"Collected {len(hn_stories)} stories from Hacker News")
+        logger.info(f"Collected {len(hn_stories)} stories from Hacker News")
         stories.extend(hn_stories)
         
         # Scrape Mastodon
         mastodon_stories = await self._scrape_mastodon(cutoff_time)
-        logging.info(f"Collected {len(mastodon_stories)} stories from Mastodon (mastodon.social)")
+        logger.info(f"Collected {len(mastodon_stories)} stories from Mastodon (mastodon.social)")
         stories.extend(mastodon_stories)
         
         # Could add Twitter/X scraping here if needed
@@ -74,9 +76,9 @@ class SocialMediaScraper:
                                     reddit_flair=post_data.get('link_flair_text', '')
                                 )
                                 stories.append(story)
-            logging.info(f"Scraped {len(stories)} stories from /r/{subreddit}")
+            logger.info(f"Scraped {len(stories)} stories from /r/{subreddit}")
         except Exception as e:
-            logging.error(f"Error scraping subreddit {subreddit}: {e}")
+            logger.error(f"Error scraping subreddit {subreddit}: {e}")
         return stories
     
     def _categorize_story(self, text: str) -> str:
@@ -114,9 +116,9 @@ class SocialMediaScraper:
                                                 source_weights=[SOURCE_WEIGHTS.get('Hacker News', 0.6)]
                                             )
                                             stories.append(story)
-            logging.info(f"Scraped {len(stories)} stories from Hacker News")
+            logger.info(f"Scraped {len(stories)} stories from Hacker News")
         except Exception as e:
-            logging.error(f"Error scraping Hacker News: {e}")
+            logger.error(f"Error scraping Hacker News: {e}")
         return stories
 
     async def _scrape_mastodon(self, cutoff_time: datetime) -> List[NewsStory]:
@@ -153,7 +155,7 @@ class SocialMediaScraper:
                                     source_weights=[SOURCE_WEIGHTS.get('Mastodon (mastodon.social)', 0.5)]
                                 )
                                 stories.append(story)
-            logging.info(f"Scraped {len(stories)} stories from Mastodon (mastodon.social)")
+            logger.info(f"Scraped {len(stories)} stories from Mastodon (mastodon.social)")
         except Exception as e:
-            logging.error(f"Error scraping Mastodon: {e}")
+            logger.error(f"Error scraping Mastodon: {e}")
         return stories 

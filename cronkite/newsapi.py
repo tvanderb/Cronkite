@@ -1,9 +1,11 @@
 import aiohttp
-import logging
 from datetime import datetime, timezone, timedelta
 from typing import List, Dict, Optional
 from .core import NewsStory
 from .config import SOURCE_WEIGHTS
+from cronkite import get_logger
+
+logger = get_logger(__name__)
 
 class NewsAPIScraper:
     """Scrape news from NewsAPI.org"""
@@ -36,14 +38,14 @@ class NewsAPIScraper:
             for i, result in enumerate(results):
                 category = self.categories[i]
                 if isinstance(result, Exception):
-                    logging.error(f"Error fetching NewsAPI category {category}: {result}")
+                    logger.error(f"Error fetching NewsAPI category {category}: {result}")
                 elif isinstance(result, list):
-                    logging.info(f"Collected {len(result)} stories from NewsAPI {category}")
+                    logger.info(f"Collected {len(result)} stories from NewsAPI {category}")
                     stories.extend(result)
                 else:
-                    logging.warning(f"Unexpected result type from NewsAPI {category}: {type(result)}")
+                    logger.warning(f"Unexpected result type from NewsAPI {category}: {type(result)}")
         
-        logging.info(f"Total NewsAPI stories collected: {len(stories)}")
+        logger.info(f"Total NewsAPI stories collected: {len(stories)}")
         return stories
     
     async def _fetch_category(self, session: aiohttp.ClientSession, 
@@ -59,7 +61,7 @@ class NewsAPIScraper:
                 'language': 'en'
             }
             
-            logging.info(f"Fetching NewsAPI category: {category}")
+            logger.info(f"Fetching NewsAPI category: {category}")
             
             async with session.get(url, params=params) as response:
                 if response.status == 200:
@@ -74,16 +76,16 @@ class NewsAPIScraper:
                             if story:
                                 stories.append(story)
                         
-                        logging.info(f"Successfully parsed {len(stories)} stories from NewsAPI {category}")
+                        logger.info(f"Successfully parsed {len(stories)} stories from NewsAPI {category}")
                         return stories
                     else:
                         error_msg = data.get('message', 'Unknown error')
-                        logging.error(f"NewsAPI error for {category}: {error_msg}")
+                        logger.error(f"NewsAPI error for {category}: {error_msg}")
                 else:
-                    logging.error(f"HTTP error {response.status} for NewsAPI {category}")
+                    logger.error(f"HTTP error {response.status} for NewsAPI {category}")
                     
         except Exception as e:
-            logging.error(f"Error fetching NewsAPI category {category}: {e}")
+            logger.error(f"Error fetching NewsAPI category {category}: {e}")
         
         return []
     
@@ -131,7 +133,7 @@ class NewsAPIScraper:
             return story
             
         except Exception as e:
-            logging.error(f"Error parsing NewsAPI article: {e}")
+            logger.error(f"Error parsing NewsAPI article: {e}")
             return None
     
     def _map_category(self, newsapi_category: str) -> str:

@@ -1,9 +1,11 @@
 import aiohttp
-import logging
 from datetime import datetime, timezone
 from typing import List
 from .core import NewsStory
 from .config import GOVERNMENT_RSS_FEEDS, ACADEMIC_RSS_FEEDS, INDUSTRY_RSS_FEEDS, SOURCE_WEIGHTS
+from cronkite import get_logger
+
+logger = get_logger(__name__)
 
 class GovernmentScraper:
     """Scrape government RSS feeds"""
@@ -23,12 +25,12 @@ class GovernmentScraper:
             for i, result in enumerate(results):
                 source_name = GOVERNMENT_RSS_FEEDS[i][0]
                 if isinstance(result, Exception):
-                    logging.error(f"Error fetching government source {source_name}: {result}")
+                    logger.error(f"Error fetching government source {source_name}: {result}")
                 elif isinstance(result, list):
-                    logging.info(f"Collected {len(result)} stories from government source {source_name}")
+                    logger.info(f"Collected {len(result)} stories from government source {source_name}")
                     stories.extend(result)
         
-        logging.info(f"Total government stories collected: {len(stories)}")
+        logger.info(f"Total government stories collected: {len(stories)}")
         return stories
     
     async def _fetch_government_feed(self, session: aiohttp.ClientSession, 
@@ -36,7 +38,7 @@ class GovernmentScraper:
                                    cutoff_time: datetime) -> List[NewsStory]:
         """Fetch individual government RSS feed"""
         try:
-            logging.info(f"Fetching government feed: {source_name} from {feed_url}")
+            logger.info(f"Fetching government feed: {source_name} from {feed_url}")
             
             timeout = aiohttp.ClientTimeout(total=30, connect=10)
             async with session.get(feed_url, timeout=timeout, 
@@ -44,12 +46,12 @@ class GovernmentScraper:
                 if response.status == 200:
                     content = await response.text()
                     stories = self._parse_government_content(content, source_name, cutoff_time)
-                    logging.info(f"Successfully parsed {len(stories)} stories from government source {source_name}")
+                    logger.info(f"Successfully parsed {len(stories)} stories from government source {source_name}")
                     return stories
                 else:
-                    logging.error(f"HTTP error {response.status} for government source {source_name}")
+                    logger.error(f"HTTP error {response.status} for government source {source_name}")
         except Exception as e:
-            logging.error(f"Error fetching government source {source_name}: {e}")
+            logger.error(f"Error fetching government source {source_name}: {e}")
         return []
     
     def _parse_government_content(self, content: str, source_name: str, 

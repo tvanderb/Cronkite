@@ -1,12 +1,14 @@
 import aiohttp
 import feedparser
-import logging
 from datetime import datetime
 from typing import List, Optional
 from bs4 import BeautifulSoup
 from .core import NewsStory
 import asyncio
 from cronkite.config import SOURCE_WEIGHTS
+from cronkite import get_logger
+
+logger = get_logger(__name__)
 
 class RSSFeedScraper:
     """RSS feed scraper for major news sources"""
@@ -64,28 +66,28 @@ class RSSFeedScraper:
                             cutoff_time: datetime) -> List[NewsStory]:
         """Fetch and parse individual RSS feed with comprehensive logging"""
         try:
-            logging.info(f"Fetching RSS feed: {source_name} from {feed_url}")
+            logger.info(f"Fetching RSS feed: {source_name} from {feed_url}")
             
             timeout = aiohttp.ClientTimeout(total=30, connect=10)
             
             async with session.get(feed_url, timeout=timeout, 
                                 headers={'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)'}) as response:
-                logging.info(f"Response status for {source_name}: {response.status}")
+                logger.info(f"Response status for {source_name}: {response.status}")
                 if response.status == 200:
                     content = await response.text()
                     stories = self._parse_rss_content(content, source_name, cutoff_time)
-                    logging.info(f"Successfully parsed {len(stories)} stories from {source_name}")
+                    logger.info(f"Successfully parsed {len(stories)} stories from {source_name}")
                     if len(stories) == 0:
-                        logging.warning(f"No recent stories found for {source_name} (cutoff: {cutoff_time})")
+                        logger.warning(f"No recent stories found for {source_name} (cutoff: {cutoff_time})")
                     return stories
                 else:
-                    logging.error(f"HTTP error {response.status} for {source_name} from {feed_url}")
+                    logger.error(f"HTTP error {response.status} for {source_name} from {feed_url}")
         except asyncio.TimeoutError:
-            logging.error(f"Timeout error for {source_name} from {feed_url}")
+            logger.error(f"Timeout error for {source_name} from {feed_url}")
         except aiohttp.ClientError as e:
-            logging.error(f"Client error for {source_name} from {feed_url}: {e}")
+            logger.error(f"Client error for {source_name} from {feed_url}: {e}")
         except Exception as e:
-            logging.error(f"Unexpected error for {source_name} from {feed_url}: {e}")
+            logger.error(f"Unexpected error for {source_name} from {feed_url}: {e}")
         return []
     
     def _parse_rss_content(self, content: str, source_name: str, 
@@ -108,7 +110,7 @@ class RSSFeedScraper:
                     )
                     stories.append(story)
         except Exception as e:
-            logging.error(f"Error parsing RSS for {source_name}: {e}")
+            logger.error(f"Error parsing RSS for {source_name}: {e}")
         return stories
     
     def _parse_date(self, date_str: str) -> Optional[datetime]:

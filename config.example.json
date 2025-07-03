@@ -2,5 +2,9 @@
   "cypher_api_key": "Cypher API Key",
   "newsapi_key": "NewsAPI Key",
   "hours_back": 24,
-  "story_limit": 150
+  "story_limit": 150,
+  "log_level": "INFO",
+  "log_file": "logs/cronkite.log",
+  "log_format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+  "disable_console": false
 } 

@@ -1,11 +1,13 @@
 import aiohttp
-import logging
 from datetime import datetime
 from typing import List, Dict
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from .core import NewsStory
 from .rss import RSSFeedScraper
+from cronkite import get_logger
+
+logger = get_logger(__name__)
 
 class WebScraper:
     """Direct web scraping for sites without good RSS"""
@@ -55,7 +57,7 @@ class WebScraper:
                     html = await response.text()
                     stories = self._parse_html_content(html, target, cutoff_time)
         except Exception as e:
-            logging.error(f"Error scraping {target['name']}: {e}")
+            logger.error(f"Error scraping {target['name']}: {e}")
         return stories
     
     def _parse_html_content(self, html: str, target: Dict, 
@@ -97,7 +99,7 @@ class WebScraper:
                     )
                     stories.append(story)
         except Exception as e:
-            logging.error(f"Error parsing HTML for {target['name']}: {e}")
+            logger.error(f"Error parsing HTML for {target['name']}: {e}")
         return stories
     
     def _categorize_story(self, text: str) -> str:

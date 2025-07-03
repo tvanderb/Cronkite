@@ -1,4 +1,3 @@
-import logging
 from urllib.parse import urlparse
 from typing import List, Dict, Optional, Tuple
 from .core import NewsStory
@@ -8,8 +7,9 @@ from .config import (
 )
 import re
 from datetime import datetime, timedelta
+from cronkite import get_logger
 
-logger = logging.getLogger(__name__)
+logger = get_logger(__name__)
 
 class QualityFilter:
     """Filter and improve source quality"""
@@ -25,7 +25,7 @@ class QualityFilter:
     
     def filter_stories(self, stories: List[NewsStory]) -> List[NewsStory]:
         """Apply all quality filters to stories"""
-        logging.info(f"Applying quality filters to {len(stories)} stories")
+        logger.info(f"Applying quality filters to {len(stories)} stories")
         
         filtered_stories = []
         for story in stories:
@@ -34,9 +34,9 @@ class QualityFilter:
                 self._adjust_source_quality(story)
                 filtered_stories.append(story)
             else:
-                logging.debug(f"Filtered out low-quality story: {story.title[:50]}...")
+                logger.debug(f"Filtered out low-quality story: {story.title[:50]}...")
         
-        logging.info(f"Quality filtering complete: {len(filtered_stories)} stories passed")
+        logger.info(f"Quality filtering complete: {len(filtered_stories)} stories passed")
         return filtered_stories
     
     def _is_quality_story(self, story: NewsStory) -> bool:
@@ -136,7 +136,7 @@ class QualityFilter:
         
         total = len(stories)
         if total > 0:
-            logging.info(f"Geographic distribution: NA: {geographic_counts['north_america']}/{total} "
+            logger.info(f"Geographic distribution: NA: {geographic_counts['north_america']}/{total} "
                         f"({geographic_counts['north_america']/total:.1%}), "
                         f"EU: {geographic_counts['europe']}/{total} ({geographic_counts['europe']/total:.1%}), "
                         f"AS: {geographic_counts['asia']}/{total} ({geographic_counts['asia']/total:.1%}), "
