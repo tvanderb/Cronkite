@@ -42,16 +42,22 @@ class NewsAggregator:
         from .web import WebScraper
         from .social import SocialMediaScraper
         from .newsapi import NewsAPIScraper
+        from .quality import QualityFilter
+        from .specialized import GovernmentScraper, AcademicScraper, IndustryScraper
         self.stories: List[NewsStory] = []
+        self.quality_filter = QualityFilter()
         self.scrapers = {
             'rss': RSSFeedScraper(),
             'web': WebScraper(),
             'social': SocialMediaScraper(),
-            'newsapi': NewsAPIScraper(config.get('newsapi_key', ''))
+            'newsapi': NewsAPIScraper(config.get('newsapi_key', '')),
+            'government': GovernmentScraper(),
+            'academic': AcademicScraper(),
+            'industry': IndustryScraper()
         }
         
     async def collect_all_stories(self, hours_back: int = 24, limit: int = 100) -> List[NewsStory]:
-        """Collect stories from all sources"""
+        """Collect stories from all sources with quality filtering"""
         from datetime import timezone
         cutoff_time = datetime.now(timezone.utc) - timedelta(hours=hours_back)
         all_stories = []
@@ -71,8 +77,20 @@ class NewsAggregator:
             elif isinstance(result, list):
                 all_stories.extend(result)
         
+        # Apply quality filtering
+        logging.info(f"Applying quality filters to {len(all_stories)} collected stories")
+        filtered_stories = self.quality_filter.filter_stories(all_stories)
+        
+        # Analyze quality metrics
+        quality_metrics = self.quality_filter.get_quality_metrics(filtered_stories)
+        logging.info(f"Quality metrics: Avg domain reputation: {quality_metrics.get('avg_domain_reputation', 0):.2f}, "
+                    f"High reputation ratio: {quality_metrics.get('high_reputation_ratio', 0):.2f}")
+        
+        # Analyze geographic diversity
+        self.quality_filter.analyze_geographic_diversity(filtered_stories)
+        
         # Deduplicate and sort
-        deduped = self._deduplicate_stories(all_stories, limit=limit)
+        deduped = self._deduplicate_stories(filtered_stories, limit=limit)
         # Sort by total source weight, then by recency
         deduped.sort(key=lambda s: (sum(s.source_weights), s.published), reverse=True)
         self.stories = deduped
