@@ -225,13 +225,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Feedparser** for RSS processing
 - **BeautifulSoup** for web scraping
 - **PRAW** for Reddit integration
+- **LegibleNews** for inspiration
 
 ## 📞 Support
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/news-aggregator/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/news-aggregator/discussions)
-- **Email**: your.email@example.com
-
----
-
-**Cronkite** - Bringing you the most important news from the most reliable sources, powered by intelligent algorithms and AI. 
