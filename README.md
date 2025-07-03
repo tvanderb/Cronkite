@@ -12,28 +12,29 @@ Automated news aggregation system that collects, filters, and generates daily re
 
 *Generated daily at 6:05 AM EST*
 
-### 📋 Report Preview
+### 📋 Full Report
 ```
-July 3, 2025...
-...
-Armed conflicts and attacks...
-• The US has halted shipments of Patriot air defense systems and other precision weapons to Ukraine due to low stockpiles, raising concerns in Kyiv (Guardian, Le Monde). ...
-• Israel used a 500lb bomb in a strike on a Gaza cafe, killing dozens and prompting accusations of a potential war crime (Guardian). ...
-• A Chinese PLA landing ship was spotted unusually close to northern Taiwan ahead of the island's major military exercise, raising tensions (SCMP)....
+<Report will appear here>
 ```
+
+## 📋 Table of Contents
+
+- [Latest Report](#-📰-latest-report)
+- [Quick Start](#-quick-start)
+- [Features](#-features)
+- [Configuration](#-configuration)
+- [Automation](#-automation)
+- [Documentation](#-documentation)
 
 ### 📥 Download
 1. Click the badge above → Actions tab
 2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-5-d1cf138b388360bef188b5f9cffce4a6c3589596` artifact
-1. Click the badge above → Actions tab
-2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-{number}` artifact
+3. Download `daily-news-report-<YYYY-MM-DD>` artifact
 
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/news-aggregator.git
+git clone https://github.com/tvanderb/Cronkite.git
 cd news-aggregator
 pip install -r requirements.txt
 cp config.example.json config.json

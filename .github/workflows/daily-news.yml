@@ -54,7 +54,7 @@ jobs:
     - name: Upload news report as artifact
       uses: actions/upload-artifact@v4
       with:
-        name: daily-news-report-${{ github.run_number }}-${{ github.sha }}
+        name: daily-news-report-$(date -u +"%Y-%m-%d")
         path: news_report.txt
         retention-days: 30
         if-no-files-found: error

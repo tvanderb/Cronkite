@@ -23,13 +23,9 @@ jobs:
       env:
         GH_TOKEN: ${{ github.token }}
       run: |
-        # Use GitHub CLI to list artifacts and check if our target exists
-        ARTIFACT_NAME="daily-news-report-${{ github.event.workflow_run.run_number }}-${{ github.event.workflow_run.head_sha }}"
+        ARTIFACT_NAME="daily-news-report-$(date -u +'%Y-%m-%d')"
         echo "Looking for artifact: $ARTIFACT_NAME"
-        
-        # List artifacts from the workflow run
         ARTIFACTS=$(gh api repos/${{ github.repository }}/actions/runs/${{ github.event.workflow_run.id }}/artifacts --jq '.artifacts[].name')
-        
         if echo "$ARTIFACTS" | grep -q "^$ARTIFACT_NAME$"; then
           echo "::set-output name=exists::true"
           echo "✅ Found artifact: $ARTIFACT_NAME"
@@ -45,12 +41,9 @@ jobs:
       env:
         GH_TOKEN: ${{ github.token }}
       run: |
-        ARTIFACT_NAME="daily-news-report-${{ github.event.workflow_run.run_number }}-${{ github.event.workflow_run.head_sha }}"
+        ARTIFACT_NAME="daily-news-report-$(date -u +'%Y-%m-%d')"
         echo "Downloading artifact: $ARTIFACT_NAME"
-        
-        # Download the artifact using GitHub CLI
         gh run download --repo ${{ github.repository }} --name "$ARTIFACT_NAME" --dir ./artifacts
-        
         if [ -f "./artifacts/news_report.txt" ]; then
           echo "✅ Successfully downloaded artifact"
         else
@@ -63,17 +56,16 @@ jobs:
       run: |
         if [ -f "./artifacts/news_report.txt" ]; then
           echo "✅ Found news report artifact, updating README..."
-          
           # Read the report content
           REPORT_CONTENT=$(cat "./artifacts/news_report.txt")
           
-          # Create a preview (first 500 characters)
-          PREVIEW=$(echo "$REPORT_CONTENT" | head -c 500 | sed 's/$/.../')
+          # Use the full report content
+          PREVIEW="$REPORT_CONTENT"
           
           # Create the new section content using printf to avoid heredoc issues
           printf "## 📰 Latest Report\n\n" > new_section.md
           printf "**Latest Daily Report:** [View Latest Run](https://github.com/%s/actions)\n\n" "${{ github.repository }}" >> new_section.md
-          printf "**Last Updated:** %s\n\n" "$(date -u +"%Y-%m-%d %H:%M UTC")" >> new_section.md
+          printf "**Last Updated:** %s\n\n" "$(date -u +'%Y-%m-%d %H:%M UTC')" >> new_section.md
           printf "*Generated daily at 6:05 AM EST*\n\n" >> new_section.md
           printf "### 📋 Report Preview\n" >> new_section.md
           printf "\`\`\`\n" >> new_section.md
@@ -82,9 +74,7 @@ jobs:
           printf "### 📥 Download\n" >> new_section.md
           printf "1. Click the badge above → Actions tab\n" >> new_section.md
           printf "2. Select latest \"Daily News Aggregation\" run\n" >> new_section.md
-          printf "3. Download \`daily-news-report-%s-%s\` artifact\n" "${{ github.event.workflow_run.run_number }}" "${{ github.event.workflow_run.head_sha }}" >> new_section.md
-          
-          # Replace the section in README using awk
+          printf "3. Download \`daily-news-report-$(date -u +'%Y-%m-%d')\` artifact\n" >> new_section.md
           awk '
           /## 📰 Latest Report/ {
             system("cat new_section.md")
@@ -99,10 +89,8 @@ jobs:
             print
           }
           ' README.md > README_new.md
-          
           mv README_new.md README.md
           rm new_section.md
-          
           echo "✅ README updated successfully"
         else
           echo "❌ No news report artifact found. Skipping README update."
