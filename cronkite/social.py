@@ -70,7 +70,8 @@ class SocialMediaScraper:
                                     source=source_name,
                                     published=created_time,
                                     category=self._categorize_story(post_data['title']),
-                                    source_weights=[SOURCE_WEIGHTS.get(source_name, 0.5)]
+                                    source_weights=[SOURCE_WEIGHTS.get(source_name, 0.5)],
+                                    reddit_flair=post_data.get('link_flair_text', '')
                                 )
                                 stories.append(story)
             logging.info(f"Scraped {len(stories)} stories from /r/{subreddit}")

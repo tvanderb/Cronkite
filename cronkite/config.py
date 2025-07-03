@@ -20,4 +20,28 @@ SOURCE_WEIGHTS = {
     'Reddit r/business': 0.6,
     'Hacker News': 0.6,
     'Mastodon (mastodon.social)': 0.5,
-} 
+}
+
+# Keywords that indicate opinion pieces or subjective content
+OPINION_KEYWORDS = [
+    'opinion', 'comment', 'analysis', 'view', 'perspective', 'column',
+    'shaky', 'genie', 'comeback', 'climbdown', 'capitalize',
+    'what happens next', 'lets', 'no one knows', 'could', 'might', 'may',
+    'should', 'would', 'think', 'believe', 'feel', 'seem', 'appear',
+    'suggests', 'indicates', 'implies', 'argues', 'claims', 'says',
+    'editorial', 'op-ed', 'commentary', 'viewpoint', 'take', 'stance'
+]
+
+# URL patterns that indicate opinion content
+OPINION_URL_PATTERNS = [
+    '/opinion/', '/comment/', '/analysis/', '/view/', '/perspective/',
+    '/column/', '/editorial/', '/op-ed/', '/commentary/', '/viewpoint/',
+    '/blog/', '/blogs/', '/opinions/', '/commentary/', '/analysis/',
+    'opinion.', 'comment.', 'analysis.', 'view.', 'perspective.'
+]
+
+# Reddit flairs that indicate opinion content
+OPINION_REDDIT_FLAIRS = [
+    'opinion', 'editorial', 'analysis', 'commentary', 'viewpoint',
+    'perspective', 'column', 'op-ed', 'comment', 'analysis'
+] 

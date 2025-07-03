@@ -4,6 +4,7 @@ from typing import List, Dict, Optional
 import re
 import logging
 import difflib
+from cronkite.config import SOURCE_WEIGHTS, OPINION_KEYWORDS, OPINION_URL_PATTERNS, OPINION_REDDIT_FLAIRS
 
 @dataclass
 class NewsStory:
@@ -19,6 +20,7 @@ class NewsStory:
     sources: List[str] = field(default_factory=list)  # All sources reporting this story
     source_weights: List[float] = field(default_factory=list)  # Weights for each source
     dedup_key: Optional[str] = None  # For deduplication
+    reddit_flair: Optional[str] = None  # Reddit post flair for filtering
     
     def __post_init__(self):
         if not self.sources and self.source:
@@ -69,11 +71,34 @@ class NewsAggregator:
     def _normalize_title(self, title: str) -> str:
         return re.sub(r'[^\w\s]', '', title.lower()).strip()
 
+    def _is_opinion_piece(self, story: NewsStory) -> bool:
+        """Check if a story is likely an opinion piece based on keywords, URL patterns, and Reddit flairs"""
+        # Check title and summary for opinion keywords
+        text_to_check = f"{story.title} {story.summary}".lower()
+        if any(keyword.lower() in text_to_check for keyword in OPINION_KEYWORDS):
+            return True
+        
+        # Check URL for opinion patterns
+        if story.url:
+            url_lower = story.url.lower()
+            if any(pattern.lower() in url_lower for pattern in OPINION_URL_PATTERNS):
+                return True
+        
+        # Check Reddit flair (if source is Reddit)
+        if story.source.startswith('Reddit') and hasattr(story, 'reddit_flair'):
+            if story.reddit_flair and any(flair.lower() in story.reddit_flair.lower() for flair in OPINION_REDDIT_FLAIRS):
+                return True
+        
+        return False
+
     def _deduplicate_stories(self, stories: List[NewsStory], limit: int = 100) -> List[NewsStory]:
         """Remove duplicate stories using fuzzy title matching and merge sources/weights. Output is round-robin by category."""
         SIMILARITY_THRESHOLD = 0.85  # Configurable
         unique_stories = []
         for story in sorted(stories, key=lambda x: x.published, reverse=True):
+            # Filter out opinion pieces
+            if self._is_opinion_piece(story):
+                continue
             norm_title = self._normalize_title(story.title)
             found_duplicate = False
             for unique in unique_stories:
