@@ -40,7 +40,7 @@ A sophisticated, multi-source news aggregator that collects, analyzes, and summa
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/news-aggregator.git
+   git clone https://github.com/tvanderb/news-aggregator.git
    cd news-aggregator
    ```
 
