@@ -6,6 +6,13 @@ import logging
 import difflib
 from cronkite.config import SOURCE_WEIGHTS, OPINION_KEYWORDS, OPINION_URL_PATTERNS, OPINION_REDDIT_FLAIRS, HIGH_RELIABILITY_SOURCES, SOURCE_HIERARCHY
 from urllib.parse import urlparse, parse_qs, urlunparse
+import json
+import os
+
+# Load config
+CONFIG_PATH = os.path.join(os.path.dirname(__file__), '..', 'config.json')
+with open(CONFIG_PATH, 'r') as f:
+    config = json.load(f)
 
 @dataclass
 class NewsStory:
@@ -34,11 +41,13 @@ class NewsAggregator:
         from .rss import RSSFeedScraper
         from .web import WebScraper
         from .social import SocialMediaScraper
+        from .newsapi import NewsAPIScraper
         self.stories: List[NewsStory] = []
         self.scrapers = {
             'rss': RSSFeedScraper(),
             'web': WebScraper(),
-            'social': SocialMediaScraper()
+            'social': SocialMediaScraper(),
+            'newsapi': NewsAPIScraper(config.get('newsapi_key', ''))
         }
         
     async def collect_all_stories(self, hours_back: int = 24, limit: int = 100) -> List[NewsStory]:

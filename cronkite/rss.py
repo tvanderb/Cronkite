@@ -19,6 +19,27 @@ class RSSFeedScraper:
         ('ABC News', 'https://abcnews.go.com/abcnews/internationalheadlines'),
         ('NPR World', 'https://feeds.npr.org/1004/rss.xml'),  # Fixed URL
         ('Al Jazeera', 'https://www.aljazeera.com/xml/rss/all.xml'),
+        # International sources
+        ('Le Monde', 'https://www.lemonde.fr/rss/une.xml'),
+        ('Der Spiegel', 'https://www.spiegel.de/international/index.rss'),
+        ('El País', 'https://elpais.com/rss/elpais_inenglish.xml'),
+        ('La Repubblica', 'https://www.repubblica.it/rss/homepage/rss2.0.xml'),
+        ('Asahi Shimbun', 'https://www.asahi.com/ajw/rss/ajw.rdf'),
+        ('South China Morning Post', 'https://www.scmp.com/rss/91/feed'),
+        # Specialized sources
+        ('The Economist', 'https://www.economist.com/international/rss.xml'),
+        ('Financial Times', 'https://www.ft.com/world?format=rss'),
+        ('Nature', 'https://www.nature.com/nature.rss'),
+        ('Science', 'https://www.science.org/rss/news_current.xml'),
+        ('The Atlantic', 'https://www.theatlantic.com/feed/all/'),
+        ('New Yorker', 'https://www.newyorker.com/feed/everything'),
+        # Regional/Alternative sources
+        ('Associated Press', 'https://feeds.ap.org/ap/APTopNews'),
+        ('Agence France-Presse', 'https://www.afp.com/en/news-hub/rss'),
+        ('Bloomberg', 'https://feeds.bloomberg.com/politics/news.rss'),
+        ('Vice News', 'https://www.vice.com/en/rss'),
+        ('Vox', 'https://www.vox.com/rss/index.xml'),
+        ('Politico', 'https://www.politico.com/rss/politicopicks.xml'),
     ]
     
     async def get_stories(self, cutoff_time: datetime) -> List[NewsStory]:
@@ -41,29 +62,30 @@ class RSSFeedScraper:
     async def _fetch_rss_feed(self, session: aiohttp.ClientSession, 
                             source_name: str, feed_url: str, 
                             cutoff_time: datetime) -> List[NewsStory]:
-        """Fetch and parse individual RSS feed with better debugging"""
+        """Fetch and parse individual RSS feed with comprehensive logging"""
         try:
-            print(f"Attempting to fetch {source_name} from {feed_url}")
+            logging.info(f"Fetching RSS feed: {source_name} from {feed_url}")
             
-            # Remove redundant connector creation
             timeout = aiohttp.ClientTimeout(total=30, connect=10)
             
             async with session.get(feed_url, timeout=timeout, 
                                 headers={'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)'}) as response:
-                print(f"Response status for {source_name}: {response.status}")
+                logging.info(f"Response status for {source_name}: {response.status}")
                 if response.status == 200:
                     content = await response.text()
                     stories = self._parse_rss_content(content, source_name, cutoff_time)
-                    print(f"Successfully parsed {len(stories)} stories from {source_name}")
+                    logging.info(f"Successfully parsed {len(stories)} stories from {source_name}")
+                    if len(stories) == 0:
+                        logging.warning(f"No recent stories found for {source_name} (cutoff: {cutoff_time})")
                     return stories
                 else:
-                    print(f"HTTP error {response.status} for {source_name}")
+                    logging.error(f"HTTP error {response.status} for {source_name} from {feed_url}")
         except asyncio.TimeoutError:
-            print(f"Timeout error for {source_name}")
+            logging.error(f"Timeout error for {source_name} from {feed_url}")
         except aiohttp.ClientError as e:
-            print(f"Client error for {source_name}: {e}")
+            logging.error(f"Client error for {source_name} from {feed_url}: {e}")
         except Exception as e:
-            print(f"Unexpected error for {source_name}: {e}")
+            logging.error(f"Unexpected error for {source_name} from {feed_url}: {e}")
         return []
     
     def _parse_rss_content(self, content: str, source_name: str, 
