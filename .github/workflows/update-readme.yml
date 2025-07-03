@@ -16,6 +16,8 @@ jobs:
       
     - name: Check if artifact exists
       id: check-artifact
+      env:
+        GH_TOKEN: ${{ github.token }}
       run: |
         # Use GitHub CLI to list artifacts and check if our target exists
         ARTIFACT_NAME="daily-news-report-${{ github.event.workflow_run.run_number }}-${{ github.event.workflow_run.head_sha }}"
