@@ -6,7 +6,7 @@ Automated news aggregation system that collects, filters, and generates daily re
 
 ## 📰 Latest Report
 
-**Latest Daily Report:** [View Latest Run](https://github.com/${{ github.repository }}/actions)
+**Latest Daily Report:** [View Latest Run](https://github.com/tvanderb/Cronkite/actions)
 
 *Generated daily at 6:05 AM EST*
 
