@@ -1,8 +1,8 @@
 # Cronkite
 
-Automated news aggregation system that collects, filters, and generates daily reports from a multitude of sources from Reuters, to r/worldnews, to University of Manchester news, and everywhere in between.
-
 [![Daily News Aggregation](https://github.com/tvanderb/Cronkite/workflows/Daily%20News%20Aggregation/badge.svg)](https://github.com/tvanderb/Cronkite/actions)
+
+Automated news aggregation system that collects, filters, and generates daily reports from a multitude of sources from Reuters, to r/worldnews, to University of Manchester news, and everywhere in between.
 
 ## 📰 Latest Report
 
@@ -102,18 +102,6 @@ Exit code: 0
 Report generated at: Thu Jul  3 11:19:47 UTC 2025
 ```
 
-=======
-
-## 📋 Table of Contents
-
-- [Latest Report](#-📰-latest-report)
-- [Quick Start](#-quick-start)
-- [Features](#-features)
-- [Sources](#-sources)
-- [Configuration](#-configuration)
-- [Automation](#-automation)
-- [Documentation](#-documentation)
-
 ### 📥 Download
 1. Click the badge above → Actions tab
 2. Select latest "Daily News Aggregation" run
@@ -124,6 +112,16 @@ Report generated at: Thu Jul  3 11:19:47 UTC 2025
 1. Click the badge above → Actions tab
 2. Select latest "Daily News Aggregation" run
 3. Download `daily-news-report-<YYYY-MM-DD>` artifact
+
+## 📋 Table of Contents
+
+- [Latest Report](#-📰-latest-report)
+- [Quick Start](#-quick-start)
+- [Features](#-features)
+- [Sources](#-sources)
+- [Configuration](#-configuration)
+- [Automation](#-automation)
+- [Documentation](#-documentation)
 
 ## 🚀 Quick Start
 
