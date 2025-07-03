@@ -107,7 +107,7 @@ jobs:
         
     - name: Commit and push changes
       run: |
-        git config --local user.email "action@github.com"
+        git config --local user.email "git@knock.email"
         git config --local user.name "GitHub Action"
         git add README.md
         if git diff --staged --quiet; then
