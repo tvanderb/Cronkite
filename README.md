@@ -4,6 +4,12 @@ Automated news aggregation system that collects, filters, and generates daily re
 
 [![Daily News Aggregation](https://github.com/tvanderb/Cronkite/workflows/Daily%20News%20Aggregation/badge.svg)](https://github.com/tvanderb/Cronkite/actions)
 
+## 📰 Latest Report
+
+**Latest Daily Report:** [View Latest Run](https://github.com/${{ github.repository }}/actions)
+
+*Generated daily at 6:05 AM EST*
+
 ## 📋 Table of Contents
 
 - [Latest Report](#-latest-report)
@@ -12,12 +18,6 @@ Automated news aggregation system that collects, filters, and generates daily re
 - [Configuration](#-configuration)
 - [Automation](#-automation)
 - [Documentation](#-documentation)
-
-## 📰 Latest Report
-
-**Latest Daily Report:** [View Latest Run](https://github.com/${{ github.repository }}/actions)
-
-*Generated daily at 6:05 AM EST*
 
 ### 📥 Download
 1. Click the badge above → Actions tab
