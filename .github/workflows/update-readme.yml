@@ -18,12 +18,16 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       
+    - name: Get current date
+      id: date
+      run: echo "date=$(date -u +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+      
     - name: Check if artifact exists
       id: check-artifact
       env:
         GH_TOKEN: ${{ github.token }}
       run: |
-        ARTIFACT_NAME="daily-news-report-$(date -u +'%Y-%m-%d')"
+        ARTIFACT_NAME="daily-news-report-${{ steps.date.outputs.date }}"
         echo "Looking for artifact: $ARTIFACT_NAME"
         ARTIFACTS=$(gh api repos/${{ github.repository }}/actions/runs/${{ github.event.workflow_run.id }}/artifacts --jq '.artifacts[].name')
         if echo "$ARTIFACTS" | grep -q "^$ARTIFACT_NAME$"; then
@@ -41,7 +45,7 @@ jobs:
       env:
         GH_TOKEN: ${{ github.token }}
       run: |
-        ARTIFACT_NAME="daily-news-report-$(date -u +'%Y-%m-%d')"
+        ARTIFACT_NAME="daily-news-report-${{ steps.date.outputs.date }}"
         echo "Downloading artifact: $ARTIFACT_NAME"
         gh run download --repo ${{ github.repository }} --name "$ARTIFACT_NAME" --dir ./artifacts
         if [ -f "./artifacts/news_report.txt" ]; then
@@ -74,7 +78,7 @@ jobs:
           printf "### 📥 Download\n" >> new_section.md
           printf "1. Click the badge above → Actions tab\n" >> new_section.md
           printf "2. Select latest \"Daily News Aggregation\" run\n" >> new_section.md
-          printf "3. Download \`daily-news-report-$(date -u +'%Y-%m-%d')\` artifact\n" >> new_section.md
+          printf "3. Download \`daily-news-report-%s\` artifact\n" "${{ steps.date.outputs.date }}" >> new_section.md
           awk '
           /## 📰 Latest Report/ {
             system("cat new_section.md")

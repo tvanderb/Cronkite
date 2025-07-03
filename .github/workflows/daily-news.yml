@@ -51,10 +51,14 @@ jobs:
         echo "Exit code: $exit_code" >> news_report.txt
         echo "Report generated at: $(date -u)" >> news_report.txt
         
+    - name: Get current date
+      id: date
+      run: echo "date=$(date -u +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+      
     - name: Upload news report as artifact
       uses: actions/upload-artifact@v4
       with:
-        name: daily-news-report-$(date -u +"%Y-%m-%d")
+        name: daily-news-report-${{ steps.date.outputs.date }}
         path: news_report.txt
         retention-days: 30
         if-no-files-found: error
