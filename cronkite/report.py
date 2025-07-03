@@ -25,7 +25,7 @@ Format requirements:
 6. Include relevant hyperlinks (use the provided URLs).
 7. Focus on the most significant and recent stories. If there are many stories in one category, select only the most significant.
 8. Aim to include a mix of sources and regions when possible.
-9. Limit to about 30-45 total stories.
+9. Limit to about 45-65 total stories.
 10. Start with today's date.
 
 Example format:
