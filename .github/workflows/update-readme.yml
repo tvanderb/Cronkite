@@ -29,26 +29,49 @@ jobs:
           # Create a preview (first 500 characters)
           PREVIEW=$(echo "$REPORT_CONTENT" | head -c 500 | sed 's/$/.../')
           
-          # Update README with the latest report info
-          sed -i '/## 📰 Latest Report/,/### 📥 Download/c\
-## 📰 Latest Report\
-\
-**Latest Daily Report:** [View Latest Run](https://github.com/${{ github.repository }}/actions)\
-\
-**Last Updated:** $(date -u +"%Y-%m-%d %H:%M UTC")\
-\
-*Generated daily at 6:05 AM EST*\
-\
-### 📋 Report Preview\
-```\
-'"$PREVIEW"'\
-```\
-\
-### 📥 Download\
-1. Click the badge above → Actions tab\
-2. Select latest "Daily News Aggregation" run\
-3. Download `daily-news-report-${{ github.event.workflow_run.run_number }}` artifact\
-' README.md
+          # Create the new section content
+          cat > new_section.md << 'EOF'
+          ## 📰 Latest Report
+          
+          **Latest Daily Report:** [View Latest Run](https://github.com/${{ github.repository }}/actions)
+          
+          **Last Updated:** $(date -u +"%Y-%m-%d %H:%M UTC")
+          
+          *Generated daily at 6:05 AM EST*
+          
+          ### 📋 Report Preview
+          ```
+          EOF
+          
+          echo "$PREVIEW" >> new_section.md
+          
+          cat >> new_section.md << 'EOF'
+          ```
+          
+          ### 📥 Download
+          1. Click the badge above → Actions tab
+          2. Select latest "Daily News Aggregation" run
+          3. Download `daily-news-report-${{ github.event.workflow_run.run_number }}` artifact
+          EOF
+          
+          # Replace the section in README using awk
+          awk '
+          /## 📰 Latest Report/ {
+            system("cat new_section.md")
+            p=1
+            next
+          }
+          /### 📥 Download/ {
+            p=0
+            next
+          }
+          !p {
+            print
+          }
+          ' README.md > README_new.md
+          
+          mv README_new.md README.md
+          rm new_section.md
         fi
         
     - name: Commit and push changes
