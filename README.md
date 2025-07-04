@@ -8,66 +8,47 @@ Automated news aggregation system that collects, filters, and generates daily re
 
 **Latest Daily Report:** [View Latest Run](https://github.com/tvanderb/Cronkite/actions)
 
-**Last Updated:** 2025-07-03 16:09 UTC
+**Last Updated:** 2025-07-04 11:19 UTC
 
 *Generated daily at 6:05 AM EST*
 
 ### 📋 Report Preview
 ```
-### Legible News
+Legible News - July 4, 2025 Edition
 
-**July 3, 2025**
+Armed conflicts and attacks
+• The House of Representatives passed Donald Trump's sweeping tax and spending bill by 218 to 214 votes, slashing Medicaid and food stamps while Israel escalated its offensive in Gaza ([Guardian](https://www.theguardian.com/us-news/2025/jul/04/first-thing-corrupt-kleptocracy-democrats-furious-over-passage-of-trump-bill), [Bloomberg](https://www.bloomberg.com/news/articles/2025-07-03/trump-wins-economic-policy-shift-as-house-passes-one-big-beautiful-tax-bill))  
+• Hamas leaders are close to accepting a proposed deal for a ceasefire in Gaza but want stronger guarantees of a permanent end to war, while Israel continues its bombardment ([Guardian](https://www.theguardian.com/world/2025/jul/04/gaza-ceasefire-talks-hamas-deal-israel), [Guardian](https://www.theguardian.com/world/live/2025/jul/04/hamas-considers-us-ceasefire-plan-for-gaza-middle-east-live))  
+• Russia launched hundreds of drones at Kyiv, injuring at least 23 people, as Trump expressed disappointment over his call with Putin ([Guardian](https://www.theguardian.com/world/live/2025/jul/04/europe-live-latest-news-russia-ukraine-war-putin-zelenskyy))  
+• Two female tourists from the UK and New Zealand were killed by an elephant while on a walking safari in Zambia ([Guardian](https://www.theguardian.com/world/2025/jul/03/two-tourists-uk-and-new-zealand-killed-by-elephant-zambia))
 
-**Armed Conflicts and Attacks**
-• Israel has escalated its offensive in Gaza with intense bombardments, killing around 90 people and complicating ceasefire talks ([Guardian](https://www.theguardian.com/world/2025/jul/03/israel-bombardment-offensive-gaza-hamas-ceasefire-talks)).  
-• China and the U.S. are easing trade restrictions, signaling a tentative reset between the two nations ([SCMP](https://www.scmp.com/economy/china-economy/article/3316840/china-us-ease-export-curbs-trumps-vietnam-deal-risks-blowback-analysts)).  
-• Gaza musicians performed at Sydney Opera House, drawing attention to the cultural destruction caused by Israel's bombardment ([Guardian](https://www.theguardian.com/music/2025/jul/04/gaza-musicians-perform-sydney-opera-house-ntwnfb)).  
-• A top Atlanta police official consulted for a tech firm providing surveillance software to the city, raising ethical concerns ([Guardian](https://www.theguardian.com/us-news/2025/jul/03/atlanta-police-surveillance-company-ethics)).  
-• The EU and U.S. near a trade deal to avoid Trump’s 50% tariffs on EU exports ([Guardian](https://www.theguardian.com/world/2025/jul/03/eu-closing-in-on-framework-deal-with-us-to-avoid-trump-50-tariffs)).  
-• A UN expert has called on states to cut trade ties with Israel over its "genocidal campaign" in Gaza, highlighting the ongoing conflict ([Guardian](https://www.theguardian.com/world/live/2025/jul/03/israel-gaza-war-latest-news-updates-hamas-ceasefire-middle-east-iran)).
+Disasters and accidents
+• Liverpool footballer Diogo Jota and his younger brother died in a car crash, with mourners gathering in Portugal for their wake ([Guardian](https://www.theguardian.com/football/2025/jul/04/diogo-jota-portugal-liverpool-wake-tributes))
 
-**Politics and Elections**
-• Hong Kong lawmakers oppose a government proposal to recognize same-sex partnerships, urging a public consultation ([SCMP](https://www.scmp.com/news/hong-kong/politics/article/3316863/hong-kong-lawmakers-slam-proposal-recognise-same-sex-partnerships?utm_source=rss_feed)).  
-• The U.S. Supreme Court will consider bans on transgender athletes in female sports teams ([Guardian](https://www.theguardian.com/us-news/2025/jul/03/supreme-court-transgender-student-athletes)).  
-• Donald Trump’s proclamation of an "invasion" at the U.S.-Mexico border has been ruled unlawful ([Guardian](https://www.theguardian.com/us-news/2025/jul/02/trump-us-mexico-border-immigrants-asylum)).  
-• Trump's asylum ban at the U.S.-Mexico border has been declared unlawful by a federal court ([Guardian](https://www.theguardian.com/us-news/2025/jul/02/trump-us-mexico-border-immigrants-asylum)).
+Politics and elections
+• Victoria's First Peoples' Assembly will be made permanent and granted decision-making powers as part of a treaty bill ([Guardian](https://www.theguardian.com/australia-news/2025/jul/04/victoria-will-legislate-for-permanent-first-peoples-assembly-later-this-year))  
+• Republicans in Congress passed a $3.4 trillion fiscal package that cuts taxes and curtails spending on safety-net programs ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-03/trump-wins-economic-policy-shift-as-house-passes-one-big-beautiful-tax-bill))  
+• The Taliban praised Russia's decision to recognize their rule in Afghanistan ([Guardian](https://www.theguardian.com/world/2025/jul/03/taliban-praise-russias-brave-decision-to-recognise-their-rule-in-afghanistan))  
+• The UK's leading AI institute is facing an overhaul with a new focus on defense and national security ([Guardian](https://www.theguardian.com/technology/2025/jul/04/minister-demands-overhaul-of-uks-leading-ai-institute-alan-turing))
 
-**Law and Crime**
-• A Croatian court has sentenced a gunman to 50 years in prison for killing six people, including his mother, in a nursing home shooting ([ABC News](https://abcnews.go.com/International/wireStory/croatian-court-sentences-gunman-50-years-nursing-home-123444186)).  
-• Bangladesh’s former leader Sheikh Hasina has been sentenced to six months in jail for contempt of court after claiming she had a license to kill 227 people ([ABC News](https://abcnews.go.com/International/wireStory/bangladesh-tribunal-sentences-hasina-jail-contempt-claim-license-123437108)).  
-• A deputy commander of the Russian navy was killed near the frontline with Ukraine ([Guardian](https://www.theguardian.com/world/2025/jul/03/deputy-commander-of-russian-navy-mikhail-gudkov-killed-in-strike-near-ukraine-frontline)).  
-• Chinese stocks are expected to stagnate in the second half of the year due to a lack of catalysts ([SCMP](https://www.scmp.com/business/china-business/article/3316788/chinese-stocks-stagnate-second-half-lack-catalysts-top-brokerages-say?utm_source=rss_feed)).
+Law and crime
+• Football agent Jonathan Barnett is being sued in an American court over allegations of human trafficking, torture, and rape ([Guardian](https://www.theguardian.com/football/2025/jul/04/jonathan-barnett-football-agent-accused-of-trafficking-torture-rape))  
+• Italian oil firm Eni is accused of trying to silence green activists through defamation suits ([Guardian](https://www.theguardian.com/environment/2025/jul/04/italian-oil-firm-eni-accused-of-trying-to-silence-green-activists))  
+• A Croatian court sentenced a gunman to 50 years in prison for a nursing home shooting that killed six people, including his own mother ([ABC News](https://abcnews.go.com/International/wireStory/croatian-court-sentences-gunman-50-years-nursing-home-123444186))
 
-**Business and Economy**
-• The EU and U.S. are nearing a trade deal to avoid Trump’s 50% tariffs on EU exports ([Guardian](https://www.theguardian.com/world/2025/jul/03/eu-closing-in-on-framework-deal-with-us-to-avoid-trump-50-tariffs)).  
-• Smaller firms in the U.K. will be exempt from new Companies House filing rules ([Guardian](https://www.theguardian.com/business/2025/jul/03/smaller-firms-to-escape-burdensome-companies-house-filing-rules)).  
-• Xpeng has launched its G7 ‘Super AI’ SUV to compete with Xiaomi YU7 and Tesla Model Y in the premium SUV segment ([SCMP](https://www.scmp.com/business/china-evs/article/3316862/xpeng-launches-g7-super-ai-suv-taking-xiaomi-yu7-and-tesla-model-y?utm_source=rss_feed)).  
-• Apple’s iPhone sales in China are expected to face headwinds in the second half of the year ([SCMP](https://www.scmp.com/tech/big-tech/article/3316846/apples-china-iphone-sales-face-headwinds-second-half-huawei-remains-strong-rival?utm_source=rss_feed)).  
-• Alibaba has led a $14 million funding round in a Chinese AI agent start-up ([SCMP](https://www.scmp.com/tech/big-tech/article/3316819/alibaba-leads-us14-million-funding-round-chinese-corporate-ai-agent-start?utm_source=rss_feed)).
-
-**International Relations**
-• Wild killer whales are increasingly trying to feed humans, a behavior scientists are studying to understand ([Vice](https://www.vice.com/en/article/wild-killer-whales-keep-trying-to-feed-humans-but-why/)).  
-• China has installed a 500-megawatt turbine in Tibet, marking a significant hydropower breakthrough ([SCMP](https://www.scmp.com/news/china/science/article/3316685/china-rolls-out-record-setting-turbine-tibet-hydropower-plant?utm_source=rss_feed)).  
-• Shein has been fined a record €40 million in France for misleading consumers ([Le Monde](https://www.lemonde.fr/economie/article/2025/07/03/shein-condamne-a-une-amende-record-de-40-millions-d-euros-pour-avoir-trompe-les-consommateurs-en-france_6617720_3234.html)).  
-• A wildfire in Crete has forced 1,500 people to evacuate amid a continuing heatwave in Europe ([Guardian](https://www.theguardian.com/world/2025/jul/03/more-than-1500-people-evacuated-in-crete-amid-wildfire-as-europe-heatwave-continues)).  
-• A designer dress went missing from Jeff Bezos and Lauren Sánchez's wedding, sparking curiosity ([Guardian](https://www.theguardian.com/technology/2025/jul/03/designer-dress-missing-bezos-sanchez-venice-wedding)).  
-• Investors see a potential resolution for Javier Milei to end the fight over Argentina’s state oil company ([Bloomberg](https://www.bloomberg.com/news/articles/2025/07/03/investors-see-way-for-milei-to-end-fight-over-state-oil-company)).  
-• China is encouraging students to dance while studying to boost morale and relieve academic pressure ([SCMP](https://www.scmp.com/news/people-culture/trending-china/article/3315921/china-schools-urge-pupils-dance-when-studying-boost-brains-morale-ease-pressure?utm_source=rss_feed)).  
-• Four people were killed and 14 injured in a shooting at a Chicago party for rapper Mello Buckzz ([Guardian](https://www.theguardian.com/us-news/2025/jul/03/mello-buckzz-chicago-shooting)).  
-• Armenia is seeking to deepen ties with China to diversify its foreign policy away from Russia ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3316682/armenia-looks-deepen-ties-china-while-eyeing-foreign-relations-beyond-russia?utm_source=rss_feed)).  
-• China's aircraft carrier Shandong visited Hong Kong, symbolizing "rock-solid" national security and pride ([SCMP](https://www.scmp.com/news/hong-kong/society/article/3316813/symbolic-shandong-visit-sign-hong-kongs-rock-solid-national-security-and-pride?utm_source=rss_feed)).  
-• A mysterious space object is firing signals at Earth every 44 minutes, intriguing astronomers ([Vice](https://www.vice.com/en/article/a-mysterious-space-object-is-firing-signals-at-earth-every-44-minutes/)).  
-• Chinese companies are developing blockchain technology to resist attacks from quantum computers ([SCMP](https://www.scmp.com/news/china/science/article/3316608/chinese-team-creates-blockchain-tech-resist-attacks-quantum-computers?utm_source=rss_feed)).
-
-**Disasters and Accidents**
-• Hong Kong police arrested a teenager in connection with a fatal hit-and-run accident that killed a 71-year-old man ([SCMP](https://www.scmp.com/news/hong-kong/law-and-crime/article/3316835/hong-kong-police-arrest-teenager-who-was-alleged-driver-fatal-hit-and-run?utm_source=rss_feed)).  
-• Japan’s Tokara islands experienced over 900 earthquakes in two weeks, causing concern among residents ([Guardian](https://www.theguardian.com/world/2025/jul/03/japan-earthquake-tokara-islands-900-earthquakes-two-weeks)).  
-• Hong Kong tourists remain undeterred by a prediction of a major earthquake hitting Japan on July 5 ([SCMP](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3316710/hong-kong-tourists-undeterred-manga-prediction-quake-will-hit-japan-july-5?utm_source=rss_feed)).
+International relations
+• A landmark US study finds troubling levels of PFAS near wastewater plants and sludge sites in 19 states, raising questions about waste management ([Guardian](https://www.theguardian.com/us-news/2025/jul/04/pfas-pollution-sewage-wastewater))  
+• Rodolphe Saadé, a billionaire, plans to acquire the French media company Brut through the media subsidiary of CMA CGM ([Le Monde](https://www.lemonde.fr/economie/article/2025/07/04/rodolphe-saade-veut-acquerir-brut-via-la-filiale-medias-de-cma-cgm_6618116_3234.html))  
+• Chile and Argentina are experiencing unprecedented cold temperatures, with some areas recording -15°C (5°F) ([UN News](https://news.un.org/feed/view/en/story/2025/07/1165286))  
+• Young farmers worldwide are struggling to inherit agricultural land as older generations hold onto it tightly ([UN News](https://news.un.org/feed/view/en/story/2025/07/1165316))
 Exit code: 0
-Report generated at: Thu Jul  3 16:09:20 UTC 2025
+Report generated at: Fri Jul  4 11:19:34 UTC 2025
 ```
 
 ### 📥 Download
+1. Click the badge above → Actions tab
+2. Select latest "Daily News Aggregation" run
+3. Download `daily-news-report-2025-07-04` artifact
 1. Click the badge above → Actions tab
 2. Select latest "Daily News Aggregation" run
 3. Download `daily-news-report-2025-07-03` artifact
