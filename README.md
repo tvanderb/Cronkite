@@ -4,6 +4,8 @@
 
 Automated news aggregation system that collects, filters, and generates daily reports from a multitude of sources from Reuters, to r/worldnews, to University of Manchester news, and everywhere in between.
 
+https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.mp4
+
 ## 📰 Latest Report
 
 **Latest Daily Report:** [View Latest Run](https://github.com/tvanderb/Cronkite/actions)
