@@ -10,45 +10,46 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 **Latest Daily Report:** [View Latest Run](https://github.com/tvanderb/Cronkite/actions)
 
-**Last Updated:** 2025-07-05 11:17 UTC
+**Last Updated:** 2025-07-06 11:18 UTC
 
 *Generated daily at 6:05 AM EST*
 
 ### 📋 Report Preview
 ```
-### Legible News: July 5, 2025
+July 6, 2025
 
 **Armed conflicts and attacks**
-• **Trump tariff threat looms amid inflation:**  The US is on the brink of launching trade tariffs on dozens of countries as the 90-day pause on Trump's "liberation day" tariffs ends on July 9 ([Guardian](https://www.theguardian.com/us-news/2025/jul/05/trump-tariff-pause-inflation))
-• **Far-right men's club network spreads across US:**  The Old Glory Club, a nationwide network of far-right, men-only fraternal clubs, has at least 26 chapters and includes military personnel, lawyers, and civil servants among its hundreds of participants ([Guardian](https://www.theguardian.com/us-news/2025/jul/05/far-right-mens-clubs-old-glory))
-• **Gaza babies at risk from lack of formula:**  Doctors warn hundreds of babies in Gaza are at risk of death due to critical shortages of baby formula, as Israel restricts humanitarian aid deliveries ([Guardian](https://www.theguardian.com/world/2025/jul/05/theyre-skin-and-bones-doctors-in-gaza-warn-babies-at-risk-of-death-from-lack-of-formula))
-• **Ukraine accuses Putin of humiliating Trump:**  Ukraine claims Vladimir Putin publicly humiliated Donald Trump by launching a devastating drone and missile attack on Kyiv shortly after speaking to the US president ([Guardian](https://www.theguardian.com/world/2025/jul/04/kyiv-ukraine-russia-drone-attack))
-
-**Politics and elections**
-• **Suriname to elect first female president:**  Jennifer Geerlings-Simons, a 71-year-old congresswoman and physician, will run unopposed as Suriname's first female president this Sunday ([Guardian](https://www.theguardian.com/world/2025/jul/04/suriname-first-female-president))
-• **No 10 regrets choice of 'insipid' new cabinet secretary:**  Keir Starmer's Downing Street reportedly has "buyer's remorse" about new cabinet secretary Chris Wormald, who has been running the civil service for six months ([Guardian](https://www.theguardian.com/politics/2025/jul/05/no-10-regrets-cabinet-secretary-chris-wormald))
-
-**Business and economy**
-• **Buy now, pay later loans to affect US credit scores:**  A new change means borrowers' credit scores may change based on their buy now, pay later loans, worrying some users but potentially benefiting others ([Guardian](https://www.theguardian.com/business/2025/jul/05/bnpl-credit-score))
-• **US-Swiss trade deal likely to contain assurances on pharma levy:**  The draft trade accord between the US and Switzerland includes provisions for Switzerland to receive preferred treatment in ongoing national security investigations to avoid tariffs on pharma exports ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-04/us-swiss-trade-deal-likely-to-contain-assurances-on-pharma-levy))
+• The inquest into the shooting death of Aboriginal teenager Kumanjayi Walker during a bungled arrest in Australia's Northern Territory is set to deliver its findings, nearly five years after the incident ([Guardian](https://www.theguardian.com/australia-news/2025/jul/06/kumanjayi-walker-family-coroner-final-report-yuendumu-northern-territory))  
+• Devastating floods in Texas have killed at least 50 people, including 15 children, with dozens still missing, particularly girls from a Christian summer camp ([Guardian](https://www.theguardian.com/us-news/live/2025/jul/05/texas-flooding-latest-news-updates-guadalupe-river-flood-camp-mystic))  
+• Kosovo's parliament failed to elect a new speaker after a bomb threat forced evacuation, continuing political instability ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-06/kosovo-fails-again-to-elect-speaker-after-bomb-threat-koha-net))  
+• A woman was seriously injured after being attacked by an animal while watching zookeepers at work in Queensland, Australia ([Guardian](https://www.theguardian.com/australia-news/2025/jul/06/queensland-zoo-employee-suffers-significant-arm-injury-after-being-mauled-by-animal))  
+• Russia launched a large-scale drone and missile attack on Ukraine, prompting condemnation from the UN Secretary-General over risks to nuclear safety ([UN News](https://news.un.org/feed/view/en/story/2025/07/1165336))  
+• Liverpool football players attended the funeral in Portugal for Diogo Jota, who died along with his brother in a car crash ([Guardian](https://www.theguardian.com/football/2025/jul/05/liverpool-players-and-citys-ruben-dias-in-portugal-for-diogo-jotas-funeral))
 
 **Disasters and accidents**
-• **Texas flooding: Desperate search for survivors:**  At least 24 people have died and dozens are missing, including girls from an all-female summer camp, after torrential rains caused severe flooding in Texas ([Guardian](https://www.theguardian.com/us-news/live/2025/jul/05/texas-flooding-latest-news-updates-guadalupe-river-flood-camp-mystic), [Bloomberg](https://www.bloomberg.com/en/news/thp/2025-07-04/at-least-3-dead-in-new-jersey-after-strong-thunderstorms-sweep-through-the-northeast))
-• **Environmental disaster from $1.5bn bypass:**  The A14 bypass in Cambridgeshire, built to boost wildlife, has become an environmental disaster as most of the 860,000 trees planted have died ([Guardian](https://www.theguardian.com/environment/2025/jul/05/cambridgeshire-a14-road-wildlife-environmental-disaster))
+• The death toll from Texas flooding rises to at least 50, with 15 children among the victims and a continued search for missing girls from Camp Mystic ([Guardian](https://www.theguardian.com/us-news/live/2025/jul/05/texas-flooding-latest-news-updates-guadalupe-river-flood-camp-mystic))
 
-**Law and crime**
-• **US judge clears path for eight immigrants to be deported:**  Eight migrants lost their last-ditch effort to halt deportation to South Sudan, including nationals from Vietnam, South Korea, Mexico, Laos, Cuba, and Myanmar ([Guardian](https://www.theguardian.com/us-news/2025/jul/04/south-sudan-deportations-halted))
+**Politics and elections**
+• US trade partners scramble to finalize deals or secure delays as President Trump prepares to announce new tariff rates, impacting global trade ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-06/us-trade-partners-race-for-deals-as-trump-readies-tariff-notices))  
+• British Foreign Secretary David Lammy announces the UK's re-establishment of diplomatic relations with Syria after years of civil war ([Guardian](https://www.theguardian.com/world/2025/jul/05/britain-re-establishing-diplomatic-relations-with-syria-announces-david-lammy))  
+• A Canadian mother who supported Trump's immigration policies was detained by ICE, causing her family to reconsider their political stance ([Guardian](https://www.theguardian.com/us-news/2025/jul/06/trump-voting-family-canadian-mother-detained-immigration-status))
 
 **International relations**
-• **Anti-vax nurse joins CDC vaccine panel:**  Vicky Pebsworth, who has argued for decades that vaccines caused her son's autism, has joined a critical federal vaccine advisory board ([Guardian](https://www.theguardian.com/us-news/2025/jul/05/vicky-pebsworth-vaccine-experts-rfk-jr))
-• **Pope Leo to revive Castel Gandolfo tradition:**  The new pontiff opts to spend his summer holiday in Castel Gandolfo, reviving a longstanding Vatican tradition abandoned by Pope Francis ([Guardian](https://www.theguardian.com/world/2025/jul/05/papal-retreat-castel-gandolfo-pope-leo-italy))
-• **Ozzy Osbourne to perform final show:**  The godfather of heavy metal, Ozzy Osbourne, will reunite the original lineup of Black Sabbath for a 10-hour farewell concert in Birmingham ([Guardian](https://www.theguardian.com/music/2025/jul/05/ozzy-osbourne-perform-last-time-birmingham-black-sabbath))
-• **Hamas considers US ceasefire plan for Gaza:**  Hamas leaders meet to discuss the US-proposed ceasefire deal as Israeli airstrikes continue in Gaza ([Guardian](https://www.theguardian.com/world/live/2025/jul/04/hamas-considers-us-ceasefire-plan-for-gaza-middle-east-live))
+• Brazil hosts the BRICS summit, focusing on global issues like Israel's conflict with Iran and trade tensions with the US under Trump's administration ([ABC News](https://abcnews.go.com/International/wireStory/brazil-hosts-brics-summit-eager-avoid-provoking-trumps-123511526))  
+• UN officials highlight the positive role of cooperatives in promoting peace and economic stability in South Sudan ([UN News](https://news.un.org/feed/view/en/story/2025/07/1165256))  
+• Iran attempted to recruit Israeli citizens as spies through social media and messaging apps, according to Israeli security services ([Guardian](https://www.theguardian.com/world/2025/jul/06/how-iran-sought-to-recruit-spies-in-israel))
+
+**Business and economy**
+• Nationwide Building Society faces backlash for refusing to allow members a binding vote on a 43% pay raise for CEO Debbie Crosbie ([Guardian](https://www.theguardian.com/business/2025/jul/06/anger-as-nationwide-refuses-members-a-binding-vote-on-bosss-43-pay-hike))  
+• The Legoland owner's CEO argues that theme parks offer valuable real-life experiences that can compete with digital entertainment, emphasizing the importance of human connection ([Guardian](https://www.theguardian.com/travel/2025/jul/05/were-an-antidote-boss-of-legoland-owner-on-the-thrill-of-theme-parks-in-a-world-of-technology))
 Exit code: 0
-Report generated at: Sat Jul  5 11:17:09 UTC 2025
+Report generated at: Sun Jul  6 11:18:24 UTC 2025
 ```
 
 ### 📥 Download
+1. Click the badge above → Actions tab
+2. Select latest "Daily News Aggregation" run
+3. Download `daily-news-report-2025-07-06` artifact
 1. Click the badge above → Actions tab
 2. Select latest "Daily News Aggregation" run
 3. Download `daily-news-report-2025-07-05` artifact
