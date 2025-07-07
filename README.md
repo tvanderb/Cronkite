@@ -10,43 +10,47 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 **Latest Daily Report:** [View Latest Run](https://github.com/tvanderb/Cronkite/actions)
 
-**Last Updated:** 2025-07-06 11:18 UTC
+**Last Updated:** 2025-07-07 11:19 UTC
 
 *Generated daily at 6:05 AM EST*
 
 ### 📋 Report Preview
 ```
-July 6, 2025
+July 7, 2025
 
 **Armed conflicts and attacks**
-• The inquest into the shooting death of Aboriginal teenager Kumanjayi Walker during a bungled arrest in Australia's Northern Territory is set to deliver its findings, nearly five years after the incident ([Guardian](https://www.theguardian.com/australia-news/2025/jul/06/kumanjayi-walker-family-coroner-final-report-yuendumu-northern-territory))  
-• Devastating floods in Texas have killed at least 50 people, including 15 children, with dozens still missing, particularly girls from a Christian summer camp ([Guardian](https://www.theguardian.com/us-news/live/2025/jul/05/texas-flooding-latest-news-updates-guadalupe-river-flood-camp-mystic))  
-• Kosovo's parliament failed to elect a new speaker after a bomb threat forced evacuation, continuing political instability ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-06/kosovo-fails-again-to-elect-speaker-after-bomb-threat-koha-net))  
-• A woman was seriously injured after being attacked by an animal while watching zookeepers at work in Queensland, Australia ([Guardian](https://www.theguardian.com/australia-news/2025/jul/06/queensland-zoo-employee-suffers-significant-arm-injury-after-being-mauled-by-animal))  
-• Russia launched a large-scale drone and missile attack on Ukraine, prompting condemnation from the UN Secretary-General over risks to nuclear safety ([UN News](https://news.un.org/feed/view/en/story/2025/07/1165336))  
-• Liverpool football players attended the funeral in Portugal for Diogo Jota, who died along with his brother in a car crash ([Guardian](https://www.theguardian.com/football/2025/jul/05/liverpool-players-and-citys-ruben-dias-in-portugal-for-diogo-jotas-funeral))
+• Israel's Prime Minister Benjamin Netanyahu visits the White House to discuss a Gaza ceasefire amid ongoing conflict. Israeli strikes killed at least 38 Palestinians in Gaza as ceasefire talks reached a critical point. Netanyahu is expected to hold all the cards in the negotiations following a joint attack on Iran with the US. ([Guardian](https://www.theguardian.com/world/2025/jul/06/israeli-strikes-gaza-ceasefire-talks-critical-point-netanyahu), [NPR](https://www.npr.org/2025/07/06/nx-s1-5455849/israels-prime-minister-benjamin-netanyahu-visits-white-house-to-discuss-gaza-ceasefire))
+• Texas flood survivors question safety planning and officials' response as the death toll surpasses 80. Rescue teams continue their search for the missing amid forecasts of more heavy rains. ([Guardian](https://www.theguardian.com/us-news/2025/jul/07/texas-flood-survivor-reactions), [Guardian Live Updates](https://www.theguardian.com/us-news/live/2025/jul/07/texas-floods-rescue-teams-search-missing-more-heavy-rains-forecast-latest-news-updates), [Le Monde](https://www.lemonde.fr/planete/article/2025/07/06/inondations-au-texas-nous-n-abandonnons-pas-les-recherches-pour-retrouver-27-enfants-portees-disparues-declare-le-gouverneur-adjoint_6619283_3244.html))
+• US President Donald Trump calls for the release of Gaza hostages ahead of Netanyahu's meeting at the White House. A US envoy met Lebanese officials to discuss a plan to disarm Hezbollah, following Israel's new air strikes and cross-border ground assault. ([Guardian](https://www.theguardian.com/world/live/2025/jul/07/middle-east-crisis-live-trump-gaza-hostages-release-netanyahu-meeting-israel-latest-news))
+• US completes deportation of eight men to South Sudan after legal wrangling. The men were held at a US military base in Djibouti while their legal challenge played out in court. ([Guardian](https://www.theguardian.com/us-news/2025/jul/07/us-deportation-men-south-sudan))
 
-**Disasters and accidents**
-• The death toll from Texas flooding rises to at least 50, with 15 children among the victims and a continued search for missing girls from Camp Mystic ([Guardian](https://www.theguardian.com/us-news/live/2025/jul/05/texas-flooding-latest-news-updates-guadalupe-river-flood-camp-mystic))
-
-**Politics and elections**
-• US trade partners scramble to finalize deals or secure delays as President Trump prepares to announce new tariff rates, impacting global trade ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-06/us-trade-partners-race-for-deals-as-trump-readies-tariff-notices))  
-• British Foreign Secretary David Lammy announces the UK's re-establishment of diplomatic relations with Syria after years of civil war ([Guardian](https://www.theguardian.com/world/2025/jul/05/britain-re-establishing-diplomatic-relations-with-syria-announces-david-lammy))  
-• A Canadian mother who supported Trump's immigration policies was detained by ICE, causing her family to reconsider their political stance ([Guardian](https://www.theguardian.com/us-news/2025/jul/06/trump-voting-family-canadian-mother-detained-immigration-status))
+**Law and crime**
+• Erin Patterson found guilty of murdering three relatives with a lunch laced with death cap mushrooms in Australia. ([Guardian](https://www.theguardian.com/australia-news/2025/jul/07/erin-patterson-guilty-australia-mushroom-murder-trial-ntwnfb))
+• Michigan utility DTE Energy revealed to have aided sabotage of Covid lockdown policies through a $100,000 donation to a dark money non-profit. ([Guardian](https://www.theguardian.com/us-news/2025/jul/07/michigan-covid-lockdown-dte-energy))
 
 **International relations**
-• Brazil hosts the BRICS summit, focusing on global issues like Israel's conflict with Iran and trade tensions with the US under Trump's administration ([ABC News](https://abcnews.go.com/International/wireStory/brazil-hosts-brics-summit-eager-avoid-provoking-trumps-123511526))  
-• UN officials highlight the positive role of cooperatives in promoting peace and economic stability in South Sudan ([UN News](https://news.un.org/feed/view/en/story/2025/07/1165256))  
-• Iran attempted to recruit Israeli citizens as spies through social media and messaging apps, according to Israeli security services ([Guardian](https://www.theguardian.com/world/2025/jul/06/how-iran-sought-to-recruit-spies-in-israel))
+• The petition "Stop Destroying Videogames" surpasses one million signatures in the European Union, urging the Commission to prevent game publishers from blocking access to older titles. ([Le Monde](https://www.lemonde.fr/pixels/article/2025/07/07/la-petition-stop-destroying-videogames-depasse-le-million-de-signatures-dans-l-union-europeenne_6619622_4408996.html))
+• The EU's potential trade deal with Vietnam raises questions about whether it is a win for Vietnam or a way to punish China through tariffs on products with Chinese input. ([Guardian](https://www.theguardian.com/world/2025/jul/07/vietnam-trump-tariff-deal))
+• Paris reopens the River Seine to public swimming after a century-long ban, with a €1.4bn clean-up programme. ([Guardian](https://www.theguardian.com/world/2025/jul/06/paris-river-seine-public-swimming-after-century-long-ban))
+
+**Disasters and accidents**
+• Queensland zoo to reopen two days after a woman loses an arm to a lioness attack. The woman was not in the animal's enclosure at the time. ([Guardian](https://www.theguardian.com/australia-news/2025/jul/07/woman-loses-arm-after-darling-downs-zoo-lion-attack-ntwnfb))
+• Weather tracker: Catastrophic flash floods hit Texas after supercharged storms brought torrential rainfall, with Kerr County receiving more than a month's worth of rain in a few hours. ([Guardian](https://www.theguardian.com/environment/2025/jul/07/weather-tracker-texas-flash-floods-storm-barry))
+
+**Politics and elections**
+• Macron's UK state visit underlines efforts to move on from the Brexit nightmare, celebrating the return of close political relations between London and Paris. ([Guardian](https://www.theguardian.com/world/2025/jul/07/macron-uk-state-visit-move-on-brexit-nightmare))
+• UK Chancellor of the Exchequer Rachel Reeves faces criticism from business leaders over proposed tax rises. ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-07/uk-business-leaders-struggle-with-keir-starmer-and-rachel-reeves-s-tax-rises))
 
 **Business and economy**
-• Nationwide Building Society faces backlash for refusing to allow members a binding vote on a 43% pay raise for CEO Debbie Crosbie ([Guardian](https://www.theguardian.com/business/2025/jul/06/anger-as-nationwide-refuses-members-a-binding-vote-on-bosss-43-pay-hike))  
-• The Legoland owner's CEO argues that theme parks offer valuable real-life experiences that can compete with digital entertainment, emphasizing the importance of human connection ([Guardian](https://www.theguardian.com/travel/2025/jul/05/were-an-antidote-boss-of-legoland-owner-on-the-thrill-of-theme-parks-in-a-world-of-technology))
+• London's "super sewer" project boss awarded a £600,000 pay rise despite a £100m cost overrun. ([Guardian](https://www.theguardian.com/business/2025/jul/07/london-super-sewer-boss-awarded-600000-pay-rise-despite-100m-cost-overrun))
 Exit code: 0
-Report generated at: Sun Jul  6 11:18:24 UTC 2025
+Report generated at: Mon Jul  7 11:19:09 UTC 2025
 ```
 
 ### 📥 Download
+1. Click the badge above → Actions tab
+2. Select latest "Daily News Aggregation" run
+3. Download `daily-news-report-2025-07-07` artifact
 1. Click the badge above → Actions tab
 2. Select latest "Daily News Aggregation" run
 3. Download `daily-news-report-2025-07-06` artifact
