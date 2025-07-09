@@ -10,53 +10,58 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 **Latest Daily Report:** [View Latest Run](https://github.com/tvanderb/Cronkite/actions)
 
-**Last Updated:** 2025-07-08 11:20 UTC
+**Last Updated:** 2025-07-09 11:20 UTC
 
 *Generated daily at 6:05 AM EST*
 
 ### 📋 Report Preview
 ```
-July 8, 2025
+### Legible News
 
-Armed conflicts and attacks
-• **Resident doctors in England vote to strike over pay:** The British Medical Association criticized a 5.4% pay award as "woefully inadequate," leading junior doctors to vote in favor of strikes that could last until January 2026 ([Guardian](https://www.theguardian.com/society/2025/jul/08/resident-doctors-in-england-vote-to-strike-over-pay)).
-• **Two dead in Houthi attack on cargo ship in Red Sea:** The Greek-operated bulk carrier Eternity C was attacked off Yemen, with the Houthis claiming to have sunk another vessel ([Guardian](https://www.theguardian.com/world/2025/jul/08/red-sea-cargo-ships-yemen-houthi-attacks-bulk-carrier-sinking)).
-• **Netanyahu nominates Trump for Nobel Peace Prize:** During a White House meeting, Netanyahu announced his nomination of Trump for the prize, while Trump remained optimistic about a potential Gaza ceasefire ([Guardian](https://www.theguardian.com/us-news/2025/jul/08/trump-nominated-nobel-peace-prize-netanyahu)).
-• **US has only 25% of all Patriot missile interceptors needed for Pentagon’s military plans:** After using up stockpiles in the Middle East, the US is left with a quarter of what it needs for its military plans ([Guardian](https://www.theguardian.com/us-news/2025/jul/08/us-pentagon-military-plans-patriot-missile-interceptor)).
+**Date: 2025-07-09**
 
-Disasters and accidents
-• **Texas floods: search efforts enter fifth day as death toll passes 100:** The floods have claimed at least 111 lives, including 27 campers and counselors, as search efforts continue ([Guardian](https://www.theguardian.com/us-news/live/2025/jul/08/texas-floods-search-efforts-fifth-day-death-toll-latest-news-updates)).
-• **Deep-rooted camp tradition continues in Texas despite flood devastation:** Despite the recent floods, mothers are dropping off their children at camps to return to normalcy ([Guardian](https://www.theguardian.com/us-news/2025/jul/08/texas-floods-campers-children-continue-camp)).
+**Summary:** Today's news is dominated by international conflicts, climate-related disasters, and ongoing legal proceedings. Significant events include Russia's large-scale attack on Ukraine, the humanitarian crisis in Gaza, and the Erin Patterson trial in Australia. Climate change exacerbates heatwaves in Europe, causing a surge in deaths, while international courts issue rulings on violations in Ukraine and the persecution of women by the Taliban. Political tensions rise as the US considers tariffs on copper and pharmaceuticals, and the UK faces strikes by resident doctors. Environmental concerns grow with reports of sewage sludge on UK farmland and the modification of France's energy consumption tool to favor electric heating.
 
-Politics and elections
-• **'Gas belongs to the people': WA premier Roger Cook urges federal Labor to adopt reserve policy:** Cook highlights WA's success with cheaper local gas prices and urges the Albanese government to follow suit ([Guardian](https://www.theguardian.com/australia-news/2025/jul/08/wa-premier-roger-cook-gas-reserve-policy)).
-• **Post Office bosses maintained fiction Horizon data was accurate, report finds, leading to 59 people to consider suicide:** The UK public inquiry labeled the scandal the worst miscarriage of justice in British history ([Guardian](https://www.theguardian.com/politics/live/2025/jul/08/norman-tebbit-emmanuel-macron-horizon-post-office-scandal-uk-politics-live)).
+---
 
-Law and crime
-• **'Fungi fatale' and 'death cap stare': how the world’s media reported Erin Patterson’s guilty verdict:** The Australian mushroom triple-murder trial concluded with a guilty verdict, capturing global media attention ([Guardian](https://www.theguardian.com/australia-news/2025/jul/08/mushroom-murders-australian-world-media-front-pages-erin-patterson-guilty-verdict-ntwnfb)).
+**Armed conflicts and attacks**
+• **Europe's human rights court finds Russia committed violations in Ukraine and was behind Flight MH17** ([ABC News](https://abcnews.go.com/International/wireStory/europes-top-human-rights-court-set-rule-cases-123597413))
+• **Children among 20 people reported killed overnight by Israeli strikes on Gaza** ([Guardian World](https://www.theguardian.com/world/live/2025/jul/09/israel-gaza-war-middle-east-latest-news-updates-ceasefire-hamas-netanyahu))
+• **Russia launches major attack on Ukraine after Trump's criticism of Putin** ([Guardian World](https://www.theguardian.com/world/live/2025/jul/09/europe-latest-news-updates-russia-ukraine-war-putin-zelenskyy-macron-starmer))
+• **Copper prices in US hit record high after Trump announces 50% tariff** ([Guardian World](https://www.theguardian.com/us-news/2025/jul/09/copper-prices-in-us-hit-record-high-trump-tariff-trade-war))
+• **Rescuers search for crew of cargo ship that sank after being attacked in Red Sea** ([Guardian World](https://www.theguardian.com/world/2025/jul/09/rescuers-search-for-crew-of-cargo-ship-eternity-c-that-sank-after-being-attacked-in-red-sea))
+• **Gaza: l’armée israélienne a bombardé le sud de l’enclave, au moins 20 personnes tuées, dont des enfants, selon défense civile** ([Le Monde](https://www.lemonde.fr/international/article/2025/07/09/deux-raids-d-israel-sur-la-bande-de-gaza-font-20-morts-dont-six-enfants-selon-la-defense-civile_6620153_3210.html))
+• **ICC issues warrant for Taliban’s supreme leader for persecution of women** ([Guardian World](https://www.theguardian.com/global-development/2025/jul/08/international-criminal-court-icc-arrest-warrants-taliban-supreme-leader-persecution-women))
+• **Canada police seize largest ever weapons cache in terrorism inquiry** ([Guardian World](https://www.theguardian.com/world/2025/jul/08/canada-quebec-rcmp-terrorism-arrests))
 
-Business and economy
-• **RBA interest rates: Reserve Bank of Australia leaves cash rate on hold at 3.85%:** The decision surprised financial markets and experts who expected a rate cut ([Guardian](https://www.theguardian.com/australia-news/2025/jul/08/rba-interest-rates-reserve-bank-australia-cash-rate-meeting-july)).
+**Law and crime**
+• **Erin Patterson trial was Victoria supreme court’s largest media matter in recent history, court data reveals** ([Guardian World](https://www.theguardian.com/australia-news/2025/jul/09/erin-patterson-trial-victoria-supreme-court-media-list-ntwnfb))
+• **Affinity Education childcare worker facing multiple child sexual abuse charges** ([Guardian World](https://www.theguardian.com/australia-news/2025/jul/09/affinity-education-childcare-worker-facing-multiple-child-sexual-abuse-charges-ntwnfb))
 
-International relations
-• **Gaza: de nouvelles frappes israéliennes font au moins 24 morts; les négociations pour une trêve se poursuivent, sous la pression de Donald Trump:** A drone strike on a refugee camp near Khan Younes killed nine, while ceasefire negotiations continue in Doha ([Le Monde](https://www.lemonde.fr/international/article/2025/07/08/gaza-de-nouvelles-frappes-israeliennes-font-au-moins-24-morts-les-negociations-pour-une-treve-se-poursuivent-sous-la-pression-de-donald-trump_6619909_3210.html)).
-• **En Allemagne, la justice ordonne la délivrance de visas promis aux Afghans menacés, malgré le gel du programme d’accueil par le gouvernement:** A German court ordered the issuance of promised visas to threatened Afghans, despite the government's suspension of the asylum program ([Le Monde](https://www.lemonde.fr/international/article/2025/07/08/en-allemagne-la-justice-ordonne-la-delivrance-de-visas-promis-aux-afghans-menaces-malgre-le-gel-du-programme-d-accueil-par-le-gouvernement_6619910_3210.html)).
-• **Renvoi en Ligue 2, l’OL doit garantir 200 millions d’euros pour se maintenir, lors de son audition en appel mercredi:** The French financial regulator will decide on Olympique Lyonnais' future in Ligue 1, requiring them to raise 200 million euros to avoid relegation ([Le Monde](https://www.lemonde.fr/sport/article/2025/07/08/l-ol-retrograde-en-ligue-2-le-club-passe-mercredi-devant-la-commission-d-appel-de-la-dncg_6619895_3242.html)).
-• **L’incendie près de Narbonne « n’est toujours pas maîtrisé », 2 000 hectares de forêt touchés:** A fire near Narbonne has affected 2,000 hectares of forest and partially closed the A9 highway ([Le Monde](https://www.lemonde.fr/planete/article/2025/07/08/incendie-pres-de-narbonne-2-000-hectares-de-foret-touches-l-autoroute-a9-encore-partiellement-fermee_6619874_3244.html)).
-• **En Espagne, un incendie près de Tarragone ravage plus de 2 300 hectares de forêt et contraint plusieurs villages au confinement:** A fire in Tarragona, Spain, has burned over 2,300 hectares of forest and forced 180,000 people to stay indoors ([Le Monde](https://www.lemonde.fr/planete/article/2025/07/08/en-espagne-un-incendie-pres-de-tarragone-ravage-plus-de-2-300-hectares-de-foret-et-contraint-plusieurs-villages-au-confinement_6619887_3244.html)).
+**International relations**
+• **Climate breakdown tripled death toll in Europe’s June heatwave, study finds** ([Guardian World](https://www.theguardian.com/environment/2025/jul/09/europe-june-heatwave-study-climate-breakdown-tripled-death-toll))
+• **US Army Pushes for Massive Boost in Patriot Missile Inventory** ([Bloomberg](https://www.bloomberg.com/news/articles/2025/07/09/us-army-pushes-for-massive-boost-in-patriot-missile-inventory))
+• **Gaza aid workers overwhelmed by ‘mass casualty incidents’ at food distribution sites** ([Guardian World](https://www.theguardian.com/world/2025/jul/09/gaza-aid-workers-overwhelmed-by-mass-casualty-incidents-at-food-distribution-sites))
+• **Japan starts deploying Osprey fleet at a new base to beef up southwestern defense** ([ABC News](https://abcnews.go.com/International/wireStory/japan-starts-deploying-osprey-fleet-new-base-beef-123597779))
+• **Trump Pressures South Korea to Pay More for Defense** ([Bloomberg](https://www.bloomberg.com/news/articles/2025/07/09/trump-pressures-south-korea-to-pay-more-for-defense))
+• **UN rights office urges restraint in Kenya as fresh protests turn deadly** ([United Nations News](https://news.un.org/feed/view/en/story/2025/07/1165343))
+• **Netanyahu vows to combat what he calls ‘vilification against Israel’ online** ([Guardian World](https://www.theguardian.com/us-news/2025/jul/08/benjamin-netanyahu-israel-gaza))
+• **Far-right conspiracy theories spread online in aftermath of the Texas floods** ([Guardian World](https://www.theguardian.com/us-news/2025/jul/09/texas-floods-conspiracy-theories))
 
-Science and technology
-• **Curiosity Blog, Sol 4588: Ridges and troughs:** The Curiosity rover continues to explore Mars, encountering resistant ridges and rubbly areas ([NASA](https://science.nasa.gov/blog/curiosity-blog-sol-4588-ridges-and-troughs/)).
-• **Curiosity Blog, Sols 4589–4592: Setting up to explore Volcán Peña Blanca:** The Curiosity team prepares to explore a 3-foot high ridge near Volcán Peña Blanca on Mars ([NASA](https://science.nasa.gov/blog/curiosity-blog-sols-4589-4592-setting-up-to-explore-volcan-pena-blanca/)).
-• **NASA’s Hubble and Webb Telescopes Reveal Two Faces of a Star Cluster Duo:** The Hubble and Webb telescopes captured images of the NGC 460 and NGC 456 star clusters in the Small Magellanic Cloud ([NASA](https://science.nasa.gov/missions/hubble/nasas-hubble-and-webb-reveal-two-faces-of-star-cluster-duo/)).
+**Politics and elections**
+• **Prax Lindsey oil refinery owners urged to ‘do decent thing’ for workers** ([Guardian World](https://www.theguardian.com/business/2025/jul/09/prax-lindsey-oil-refinery-owners-urged-to-do-decent-thing-for-workers))
+• **Environment Agency insider alleges ‘cover-up’ over sewage sludge on farmland** ([Guardian World](https://www.theguardian.com/environment/2025/jul/09/environment-agency-insider-alleges-cover-up-sewage-sludge-farmland))
 
-Sports
-• **Turkey's youngest oil wrestlers keeping a 14th-century tradition alive:** Boys as young as 11 participated in the annual Kirkpinar Oil Wrestling Championship in Edirne, Turkey ([ABC News](https://abcnews.go.com/International/wireStory/photos-show-turkeys-youngest-oil-wrestlers-keeping-14th-123558690)).
+**Disasters and accidents**
+• **Firefighters from Mexico aid Texas flood search and rescue: ‘There are no borders’** ([Guardian World](https://www.theguardian.com/us-news/2025/jul/08/mexico-firefighters-texas-flooding-search-rescue))
 Exit code: 0
-Report generated at: Tue Jul  8 11:19:56 UTC 2025
+Report generated at: Wed Jul  9 11:19:56 UTC 2025
 ```
 
 ### 📥 Download
+1. Click the badge above → Actions tab
+2. Select latest "Daily News Aggregation" run
+3. Download `daily-news-report-2025-07-09` artifact
 1. Click the badge above → Actions tab
 2. Select latest "Daily News Aggregation" run
 3. Download `daily-news-report-2025-07-08` artifact
