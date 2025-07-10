@@ -10,55 +10,46 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 **Latest Daily Report:** [View Latest Run](https://github.com/tvanderb/Cronkite/actions)
 
-**Last Updated:** 2025-07-09 11:20 UTC
+**Last Updated:** 2025-07-10 11:19 UTC
 
 *Generated daily at 6:05 AM EST*
 
 ### 📋 Report Preview
 ```
-### Legible News
+July 10, 2025
 
-**Date: 2025-07-09**
+Armed conflicts and attacks
+• Ukraine has arrested a Chinese father and son on suspicion of spying on the Neptune missile program, a critical defense against Russia. ([Source])
+• UNAIDS reports that high-risk HIV groups, including LGBTQ+ individuals, face record levels of criminalization, threatening decades of progress in the fight against AIDS. ([Source])
+• The Trump administration has imposed sanctions on Francesca Albanese, the UN official investigating human rights abuses in Palestinian territories. ([Source])
+• A deadly flash flood in central Texas over the July Fourth weekend claimed over 100 lives, highlighting the challenges of ensuring early warnings reach vulnerable populations. ([Source])
+• Houthi forces attacked a cargo ship in the Red Sea, killing four and leaving 14 missing. Seven crew members were rescued. ([Source])
 
-**Summary:** Today's news is dominated by international conflicts, climate-related disasters, and ongoing legal proceedings. Significant events include Russia's large-scale attack on Ukraine, the humanitarian crisis in Gaza, and the Erin Patterson trial in Australia. Climate change exacerbates heatwaves in Europe, causing a surge in deaths, while international courts issue rulings on violations in Ukraine and the persecution of women by the Taliban. Political tensions rise as the US considers tariffs on copper and pharmaceuticals, and the UK faces strikes by resident doctors. Environmental concerns grow with reports of sewage sludge on UK farmland and the modification of France's energy consumption tool to favor electric heating.
+Politics and elections
+• Data shows that 1.7 million children are affected by the UK's two-child benefit cap, an increase of 37,000 in the past year. ([Source])
+• Donald Trump announced a 50% tariff on Brazilian products, linking the move to the "witch-hunt" trial against Bolsonaro. ([Source])
+• A court in Sydney rejected a developer's bid to turn a boarding house into luxury apartments, citing the importance of affordable housing. ([Source])
+• Experts warn that Republican redistricting in Texas could shape the outcome of the next year's elections. ([Source])
+• The European Commission President, Ursula von der Leyen, is facing a rare vote of censure in the European Parliament over the EU's rightward drift. ([Source])
 
----
+Disasters and accidents
+• Glaciers in northern Pakistan are melting at an accelerated rate due to record temperatures, causing deadly floods and landslides. ([Source])
+• NASA has deployed aircraft to assist in recovery efforts following recent flooding in Texas. ([Source])
 
-**Armed conflicts and attacks**
-• **Europe's human rights court finds Russia committed violations in Ukraine and was behind Flight MH17** ([ABC News](https://abcnews.go.com/International/wireStory/europes-top-human-rights-court-set-rule-cases-123597413))
-• **Children among 20 people reported killed overnight by Israeli strikes on Gaza** ([Guardian World](https://www.theguardian.com/world/live/2025/jul/09/israel-gaza-war-middle-east-latest-news-updates-ceasefire-hamas-netanyahu))
-• **Russia launches major attack on Ukraine after Trump's criticism of Putin** ([Guardian World](https://www.theguardian.com/world/live/2025/jul/09/europe-latest-news-updates-russia-ukraine-war-putin-zelenskyy-macron-starmer))
-• **Copper prices in US hit record high after Trump announces 50% tariff** ([Guardian World](https://www.theguardian.com/us-news/2025/jul/09/copper-prices-in-us-hit-record-high-trump-tariff-trade-war))
-• **Rescuers search for crew of cargo ship that sank after being attacked in Red Sea** ([Guardian World](https://www.theguardian.com/world/2025/jul/09/rescuers-search-for-crew-of-cargo-ship-eternity-c-that-sank-after-being-attacked-in-red-sea))
-• **Gaza: l’armée israélienne a bombardé le sud de l’enclave, au moins 20 personnes tuées, dont des enfants, selon défense civile** ([Le Monde](https://www.lemonde.fr/international/article/2025/07/09/deux-raids-d-israel-sur-la-bande-de-gaza-font-20-morts-dont-six-enfants-selon-la-defense-civile_6620153_3210.html))
-• **ICC issues warrant for Taliban’s supreme leader for persecution of women** ([Guardian World](https://www.theguardian.com/global-development/2025/jul/08/international-criminal-court-icc-arrest-warrants-taliban-supreme-leader-persecution-women))
-• **Canada police seize largest ever weapons cache in terrorism inquiry** ([Guardian World](https://www.theguardian.com/world/2025/jul/08/canada-quebec-rcmp-terrorism-arrests))
-
-**Law and crime**
-• **Erin Patterson trial was Victoria supreme court’s largest media matter in recent history, court data reveals** ([Guardian World](https://www.theguardian.com/australia-news/2025/jul/09/erin-patterson-trial-victoria-supreme-court-media-list-ntwnfb))
-• **Affinity Education childcare worker facing multiple child sexual abuse charges** ([Guardian World](https://www.theguardian.com/australia-news/2025/jul/09/affinity-education-childcare-worker-facing-multiple-child-sexual-abuse-charges-ntwnfb))
-
-**International relations**
-• **Climate breakdown tripled death toll in Europe’s June heatwave, study finds** ([Guardian World](https://www.theguardian.com/environment/2025/jul/09/europe-june-heatwave-study-climate-breakdown-tripled-death-toll))
-• **US Army Pushes for Massive Boost in Patriot Missile Inventory** ([Bloomberg](https://www.bloomberg.com/news/articles/2025/07/09/us-army-pushes-for-massive-boost-in-patriot-missile-inventory))
-• **Gaza aid workers overwhelmed by ‘mass casualty incidents’ at food distribution sites** ([Guardian World](https://www.theguardian.com/world/2025/jul/09/gaza-aid-workers-overwhelmed-by-mass-casualty-incidents-at-food-distribution-sites))
-• **Japan starts deploying Osprey fleet at a new base to beef up southwestern defense** ([ABC News](https://abcnews.go.com/International/wireStory/japan-starts-deploying-osprey-fleet-new-base-beef-123597779))
-• **Trump Pressures South Korea to Pay More for Defense** ([Bloomberg](https://www.bloomberg.com/news/articles/2025/07/09/trump-pressures-south-korea-to-pay-more-for-defense))
-• **UN rights office urges restraint in Kenya as fresh protests turn deadly** ([United Nations News](https://news.un.org/feed/view/en/story/2025/07/1165343))
-• **Netanyahu vows to combat what he calls ‘vilification against Israel’ online** ([Guardian World](https://www.theguardian.com/us-news/2025/jul/08/benjamin-netanyahu-israel-gaza))
-• **Far-right conspiracy theories spread online in aftermath of the Texas floods** ([Guardian World](https://www.theguardian.com/us-news/2025/jul/09/texas-floods-conspiracy-theories))
-
-**Politics and elections**
-• **Prax Lindsey oil refinery owners urged to ‘do decent thing’ for workers** ([Guardian World](https://www.theguardian.com/business/2025/jul/09/prax-lindsey-oil-refinery-owners-urged-to-do-decent-thing-for-workers))
-• **Environment Agency insider alleges ‘cover-up’ over sewage sludge on farmland** ([Guardian World](https://www.theguardian.com/environment/2025/jul/09/environment-agency-insider-alleges-cover-up-sewage-sludge-farmland))
-
-**Disasters and accidents**
-• **Firefighters from Mexico aid Texas flood search and rescue: ‘There are no borders’** ([Guardian World](https://www.theguardian.com/us-news/2025/jul/08/mexico-firefighters-texas-flooding-search-rescue))
+International relations
+• NASA is using AI to make science data easier to find, addressing the challenge of mismatched terminology in online databases. ([Source])
+• A Canadian couple's message in a bottle, thrown into the Atlantic in 2012, was found 13 years later in an Irish bay. ([Source])
+• The PSG football team defeated Real Madrid 4-0 to advance to the final of the Club World Cup. ([Source])
+• A 19-year-old surfer who went missing off the Australian coast was found on a remote island 14 km away. ([Source])
+• French comedian Bun Hay Mean, known for his role in "Astérix & Obélix: L'Empire du Milieu," was found dead at the age of 43. ([Source])
 Exit code: 0
-Report generated at: Wed Jul  9 11:19:56 UTC 2025
+Report generated at: Thu Jul 10 11:19:08 UTC 2025
 ```
 
 ### 📥 Download
+1. Click the badge above → Actions tab
+2. Select latest "Daily News Aggregation" run
+3. Download `daily-news-report-2025-07-10` artifact
 1. Click the badge above → Actions tab
 2. Select latest "Daily News Aggregation" run
 3. Download `daily-news-report-2025-07-09` artifact
