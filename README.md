@@ -10,43 +10,50 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 **Latest Daily Report:** [View Latest Run](https://github.com/tvanderb/Cronkite/actions)
 
-**Last Updated:** 2025-07-10 11:19 UTC
+**Last Updated:** 2025-07-11 11:20 UTC
 
 *Generated daily at 6:05 AM EST*
 
 ### 📋 Report Preview
 ```
-July 10, 2025
+July 11, 2025
 
 Armed conflicts and attacks
-• Ukraine has arrested a Chinese father and son on suspicion of spying on the Neptune missile program, a critical defense against Russia. ([Source])
-• UNAIDS reports that high-risk HIV groups, including LGBTQ+ individuals, face record levels of criminalization, threatening decades of progress in the fight against AIDS. ([Source])
-• The Trump administration has imposed sanctions on Francesca Albanese, the UN official investigating human rights abuses in Palestinian territories. ([Source])
-• A deadly flash flood in central Texas over the July Fourth weekend claimed over 100 lives, highlighting the challenges of ensuring early warnings reach vulnerable populations. ([Source])
-• Houthi forces attacked a cargo ship in the Red Sea, killing four and leaving 14 missing. Seven crew members were rescued. ([Source])
-
-Politics and elections
-• Data shows that 1.7 million children are affected by the UK's two-child benefit cap, an increase of 37,000 in the past year. ([Source])
-• Donald Trump announced a 50% tariff on Brazilian products, linking the move to the "witch-hunt" trial against Bolsonaro. ([Source])
-• A court in Sydney rejected a developer's bid to turn a boarding house into luxury apartments, citing the importance of affordable housing. ([Source])
-• Experts warn that Republican redistricting in Texas could shape the outcome of the next year's elections. ([Source])
-• The European Commission President, Ursula von der Leyen, is facing a rare vote of censure in the European Parliament over the EU's rightward drift. ([Source])
+• South Korea, US, and Japan conducted a joint aerial drill demonstrating strength against North Korea ([ABC News](https://abcnews.go.com/International/wireStory/south-korea-us-japan-hold-aerial-drill-demonstration-123668098))
+• Kurdish separatist fighters in Iraq began laying down weapons as part of a peace deal ([ABC News](https://abcnews.go.com/International/wireStory/kurdish-separatist-fighters-iraq-begin-laying-weapons-part-123669299))
+• Israeli strike killed at least 10 children queueing for medical treatment in Gaza ([Guardian World](https://www.theguardian.com/world/2025/jul/10/israeli-strike-kills-people-queueing-medical-point-gaza))
+• International Criminal Court reported ongoing war crimes and systematic sexual violence in Darfur ([United Nations News](https://news.un.org/feed/view/en/story/2025/07/1165367))
+• Seafarers from a cargo ship attacked by Houthis in the Red Sea were rescued after 48 hours ([Guardian World](https://www.theguardian.com/world/2025/jul/10/another-four-people-rescued-in-red-sea-after-houthi-attack-on-greek-cargo-ship-eternity-c))
 
 Disasters and accidents
-• Glaciers in northern Pakistan are melting at an accelerated rate due to record temperatures, causing deadly floods and landslides. ([Source])
-• NASA has deployed aircraft to assist in recovery efforts following recent flooding in Texas. ([Source])
+• Trump headed to Texas a week after devastating floods, with at least 120 dead ([Guardian World](https://www.theguardian.com/us-news/live/2025/jul/11/us-politics-live-news-updates-donald-trump-texas-floods-democrats-republicans))
+
+Law and crime
+• Florida recorded over 700,000 victims of human trafficking in 2024, including 100,000 children ([Guardian World](https://www.theguardian.com/us-news/2025/jul/11/florida-human-trafficking-data))
+• North Korean defector sued Kim Jong-un alleging torture and sexual violence in regime's detention facilities ([Guardian World](https://www.theguardian.com/world/2025/jul/11/north-korea-defector-to-sue-kim-jong-un))
+
+Business and economy
+• Liverpool black history researchers discovered a slaver ship advert from 1805 ([Guardian World](https://www.theguardian.com/world/2025/jul/11/liverpool-black-history-researchers-unearth-slaver-ship-advert-1805))
+• Detection of fire ants in Queensland 800km from the closest infestation sparked fury over gaps in eradication funding ([Guardian World](https://www.theguardian.com/environment/2025/jul/11/detection-of-fire-ants-in-queensland-800km-from-closest-infestation-sparks-fury-over-gaps-in-eradication-funding))
 
 International relations
-• NASA is using AI to make science data easier to find, addressing the challenge of mismatched terminology in online databases. ([Source])
-• A Canadian couple's message in a bottle, thrown into the Atlantic in 2012, was found 13 years later in an Irish bay. ([Source])
-• The PSG football team defeated Real Madrid 4-0 to advance to the final of the Club World Cup. ([Source])
-• A 19-year-old surfer who went missing off the Australian coast was found on a remote island 14 km away. ([Source])
-• French comedian Bun Hay Mean, known for his role in "Astérix & Obélix: L'Empire du Milieu," was found dead at the age of 43. ([Source])
+• Trump administration yanked $15m in research into PFAS contamination on US farms ([Guardian World](https://www.theguardian.com/us-news/2025/jul/11/trump-pfas-research-funding-farms))
+• Thousands gathered in Srebrenica on the 30th anniversary of Europe's only genocide since WWII ([ABC News](https://abcnews.go.com/International/wireStory/thousands-gather-srebrenica-30th-anniversary-europes-acknowledged-genocide-123669027))
+
+Politics and elections
+• Barnaby Joyce vowed to wind back the 'lunatic crusade' of net zero with a private member's bill ([Guardian World](https://www.theguardian.com/australia-news/2025/jul/11/barnaby-joyce-vows-to-wind-back-net-zero-private-members-bill-australia))
+• Thaksin joined Thai ministers in fine-tuning the response to Trump's tariff threat ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-11/thaksin-joins-thai-ministers-in-fine-tuning-response-to-trump-tariff-threat))
+• Trump picked former Sydney councillor and self-described 'alpha male' Nick Adams as Malaysia ambassador ([Guardian World](https://www.theguardian.com/australia-news/2025/jul/11/former-sydney-councillor-and-self-described-alpha-male-nick-adams-picked-by-trump-for-us-ambassador-for-malaysia-ntwnfb))
+• Trump to host Philippine president to discuss trade and security in Asia ([ABC News](https://abcnews.go.com/International/wireStory/trump-host-philippine-president-discuss-trade-security-asia-123665329))
+• Bangladesh's ousted Sheikh Hasina charged with crimes against humanity ([Guardian World](https://www.theguardian.com/world/2025/jul/10/bangladesh-ousted-sheikh-hasina-charged-with-crimes-against-humanity))
 Exit code: 0
-Report generated at: Thu Jul 10 11:19:08 UTC 2025
+Report generated at: Fri Jul 11 11:19:53 UTC 2025
 ```
 
 ### 📥 Download
+1. Click the badge above → Actions tab
+2. Select latest "Daily News Aggregation" run
+3. Download `daily-news-report-2025-07-11` artifact
 1. Click the badge above → Actions tab
 2. Select latest "Daily News Aggregation" run
 3. Download `daily-news-report-2025-07-10` artifact
