@@ -10,39 +10,41 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 **Latest Daily Report:** [View Latest Run](https://github.com/tvanderb/Cronkite/actions)
 
-**Last Updated:** 2025-07-13 11:17 UTC
+**Last Updated:** 2025-07-14 11:20 UTC
 
 *Generated daily at 6:05 AM EST*
 
 ### 📋 Report Preview
 ```
-### Legible News 2025-07-13
+### Legible News - July 14, 2025
 
 **Armed conflicts and attacks**
-• At least 31 Palestinians were killed while seeking aid in Gaza, with reports of shootings and airstrikes causing over 100 injuries ([Guardian](https://www.theguardian.com/world/2025/jul/13/dozens-of-palestinians-killed-in-latest-israeli-attacks-near-food-aid-distribution-sites-medics-and-witnesss-say))
-• The fuel crisis in Gaza threatens to halt all humanitarian operations, with UN agencies warning of a looming collapse ([UN News](https://news.un.org/feed/view/en/story/2025/07/1165383))
-• Ukrainian security services claim to have eliminated Russian agents involved in the murder of an officer in Kyiv ([Le Monde](https://www.lemonde.fr/international/live/2025/07/13/en-direct-guerre-en-ukraine-des-agents-russes-elimines-dans-le-pays-apres-le-meurtre-d-un-officier-selon-les-services-de-renseignement_6620967_3210.html))
-• A Sydney police officer fatally shot a man wielding a machete during an alleged brawl in a Westfield car park ([Guardian](https://www.theguardian.com/australia-news/2025/jul/13/sydney-police-fatally-shot-man-wielding-50cm-machete-during-wifes-alleged-brawl-in-westfield-car-park-ntwnfb))
+• Israel's military actions in Gaza continue to draw international attention. Recent reports indicate that at least 10 people, including six children, were killed in an airstrike while waiting for water near a distribution site, raising the death toll to over 50 in the past few days ([Guardian](https://www.theguardian.com/world/2025/jul/13/dozens-of-palestinians-killed-in-latest-israeli-attacks-near-food-aid-distribution-sites-medics-and-witnesses-say)).  
+• Ukrainian President Volodymyr Zelenskyy has expressed disappointment over the lack of serious peace negotiations with Russia, emphasizing that Ukraine should prepare for a future without a ceasefire ([Guardian](https://www.theguardian.com/world/2025/jul/13/dose-of-realism-would-allow-kyiv-to-focus-on-halting-russian-advance-ukraine)).  
+• US President Donald Trump has announced plans to expedite the sale of Patriot air defense systems and other weapons to Ukraine, amid growing tensions with Russia ([Guardian](https://www.theguardian.com/us-news/2025/jul/14/trump-ukraine-weapons-patriot-russia)).
 
-**International relations**
-• Donald Trump announced 30% tariffs on goods from the EU and Mexico, effective August 1st, reversing previous trade agreement hopes ([Guardian](https://www.theguardian.com/us-news/2025/jul/12/trump-tariffs-eu-mexico))
-• Macron called on the EU to defend European interests against Trump's tariff threat, while other EU leaders urge calm ([Guardian](https://www.theguardian.com/us-news/2025/jul/13/macron-calls-on-eu-to-defend-european-interests-resolutely-from-trump-tariffs))
-• Australia refused to commit to joining a hypothetical US-China conflict, with Anthony Albanese opposing unilateral action in Taiwan ([Guardian](https://www.theguardian.com/australia-news/2025/jul/13/australia-wont-commit-in-advance-to-joining-hypothetical-us-china-conflict-pat-conroy-says))
-• New Caledonia will be declared a state but remain French in a historic agreement, hailed by Macron as a new chapter ([Guardian](https://www.theguardian.com/world/2025/jul/13/new-caledonia-to-be-declared-a-state-in-historic-agreement-but-will-remain-french))
+**Disasters and accidents**  
+• A Beechcraft B200 aircraft crashed at London Southend Airport, resulting in an ongoing investigation. The airport remains closed, and casualty figures are yet to be confirmed ([Guardian](https://www.theguardian.com/uk-news/2025/jul/14/southend-plane-crash-essex-casualties-investigation)).  
+• Families of the victims of the recent Air India crash are seeking further clarity and transparency from investigators after the initial report was deemed vague. The report suggested the plane's fuel switches were cut off, but questions remain unanswered ([Guardian](https://www.theguardian.com/world/2025/jul/13/air-india-crash-victims-families-not-satisfied-with-vague-initial-report)).
 
-**Business and economy**
-• Vietnam urges US business groups to aid in finalizing a tariff agreement after reaching a consensus on the deal's framework ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-13/vietnam-urges-us-business-group-to-help-in-tariff-talks-media))
-• Indonesia plans to appoint a US-educated technocrat as its ambassador to Washington, filling a two-year gap in a key diplomatic post ([Bloomberg](https://www.bloomberg.com/news/articles/2025-07-13/indonesia-eyes-technocrat-as-top-us-diplomat-after-two-year-gap))
+**Politics and elections**  
+• The EU is responding to the US President's threat of imposing 30% tariffs on the bloc's imports. EU ministers have convened urgent talks to address the potential economic impact ([Guardian](https://www.theguardian.com/world/live/2025/jul/14/europe-ukraine-russia-donald-trump-tariff-latest-live-news-updates)).  
+• The New South Wales Liberal party will challenge the narrow defeat in the Sydney seat of Bradfield, where independent candidate Nicolette Boele won by a margin of 26 votes after a recount ([Guardian](https://www.theguardian.com/australia-news/2025/jul/14/nsw-liberals-court-challenge-sydney-seat-bradfield-nicolette-boele-gisele-kapterian)).
 
-**Politics and elections**
-• Queensland's LNP government launched an inquiry into the CFMEU state branch and its alleged Labor 'enablers,' likening the investigation to the 1980s Fitzgerald inquiry ([Guardian](https://www.theguardian.com/australia-news/2025/jul/13/queensland-lnp-inquiry-cfmeu-union-labor-ntwnfb))
-• Kash Patel denied rumors of resigning from the FBI over the DoJ's decision to block the release of Epstein files ([Guardian](https://www.theguardian.com/us-news/2025/jul/12/kash-patel-fbi-doj-epstein))
-• David Gergen, a political adviser to four US presidents, died at 83 ([Guardian](https://www.theguardian.com/us-news/2025/jul/12/david-gergen-dies-aged-83))
+**International relations**  
+• The Bank of Japan is expected to revise at least one of its inflation forecasts upward due to higher-than-expected rice and food prices, ahead of their policy meeting later this month ([Bloomberg](https://www.bloomberg.com/news/articles/2025/07/14/boj-is-said-likely-to-consider-raising-inflation-forecast)).  
+• The UN will host a high-level forum to accelerate action on the Sustainable Development Goals (SDGs) as the 2030 target approaches. The forum will focus on health, gender equality, and oceans ([UN News](https://news.un.org/feed/view/en/story/2025/07/1165381)).
+
+**Business and economy**  
+• The Bank of Japan has completed the sale of stocks purchased from banks during the 2000s domestic banking crisis and the Lehman Shock, turning market focus to its larger exchange-traded funds (ETFs) portfolio ([Bloomberg](https://www.bloomberg.com/news/articles/2025/07/14/boj-finishes-offloading-bank-stocks-bringing-attention-to-etfs)).
 Exit code: 0
-Report generated at: Sun Jul 13 11:17:46 UTC 2025
+Report generated at: Mon Jul 14 11:19:49 UTC 2025
 ```
 
 ### 📥 Download
+1. Click the badge above → Actions tab
+2. Select latest "Daily News Aggregation" run
+3. Download `daily-news-report-2025-07-14` artifact
 1. Click the badge above → Actions tab
 2. Select latest "Daily News Aggregation" run
 3. Download `daily-news-report-2025-07-13` artifact
