@@ -79,14 +79,15 @@ jobs:
           printf "1. Click the badge above → Actions tab\n" >> new_section.md
           printf "2. Select latest \"Daily News Aggregation\" run\n" >> new_section.md
           printf "3. Download \`daily-news-report-%s\` artifact\n" "${{ steps.date.outputs.date }}" >> new_section.md
-          awk '
+          awk awk '
           /## 📰 Latest Report/ {
             system("cat new_section.md")
             p=1
             next
           }
-          /### 📥 Download/ {
+          /^## / && p==1 {
             p=0
+            print
             next
           }
           !p {
