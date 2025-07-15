@@ -44,48 +44,6 @@ Report generated at: Mon Jul 14 11:19:49 UTC 2025
 ### 📥 Download
 1. Click the badge above → Actions tab
 2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-2025-07-14` artifact
-1. Click the badge above → Actions tab
-2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-2025-07-13` artifact
-1. Click the badge above → Actions tab
-2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-2025-07-12` artifact
-1. Click the badge above → Actions tab
-2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-2025-07-11` artifact
-1. Click the badge above → Actions tab
-2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-2025-07-10` artifact
-1. Click the badge above → Actions tab
-2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-2025-07-09` artifact
-1. Click the badge above → Actions tab
-2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-2025-07-08` artifact
-1. Click the badge above → Actions tab
-2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-2025-07-07` artifact
-1. Click the badge above → Actions tab
-2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-2025-07-06` artifact
-1. Click the badge above → Actions tab
-2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-2025-07-05` artifact
-1. Click the badge above → Actions tab
-2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-2025-07-04` artifact
-1. Click the badge above → Actions tab
-2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-2025-07-03` artifact
-1. Click the badge above → Actions tab
-2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-2025-07-03` artifact
-1. Click the badge above → Actions tab
-2. Select latest "Daily News Aggregation" run
-3. Download `daily-news-report-2025-07-03` artifact
-1. Click the badge above → Actions tab
-2. Select latest "Daily News Aggregation" run
 3. Download `daily-news-report-<YYYY-MM-DD>` artifact
 
 ## 📋 Table of Contents
