@@ -72,9 +72,9 @@ jobs:
           printf "**Last Updated:** %s\n\n" "$(date -u +'%Y-%m-%d %H:%M UTC')" >> new_section.md
           printf "*Generated daily at 6:05 AM EST*\n\n" >> new_section.md
           printf "### 📋 Report Preview\n" >> new_section.md
-          printf "\`\`\`\n" >> new_section.md
+          printf "***\n" >> new_section.md
           printf "%s\n" "$PREVIEW" >> new_section.md
-          printf "\`\`\`\n\n" >> new_section.md
+          printf "***\n\n" >> new_section.md
           printf "### 📥 Download\n" >> new_section.md
           printf "1. Click the badge above → Actions tab\n" >> new_section.md
           printf "2. Select latest \"Daily News Aggregation\" run\n" >> new_section.md
