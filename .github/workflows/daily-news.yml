@@ -2,28 +2,30 @@ name: Daily News Aggregation
 
 on:
   schedule:
-    # Run every day at 6:05 AM EST (11:05 AM UTC)
     - cron: '5 11 * * *'
-  workflow_dispatch: # Allow manual triggering
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  aggregate-news:
+  aggregate-and-publish:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.11'
-        
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        
+
     - name: Create config file
       run: |
         cat > config.json << EOF
@@ -38,51 +40,86 @@ jobs:
           "disable_console": true
         }
         EOF
-        
-    - name: Create logs directory
-      run: mkdir -p logs
-      
+
+    - name: Create directories
+      run: |
+        mkdir -p logs
+        mkdir -p reports
+
     - name: Run news aggregator
       id: run-aggregator
       run: |
         python cronkite.py > news_report.txt 2>&1
-        exit_code=$?
-        echo "exit_code=$exit_code" >> $GITHUB_OUTPUT
-        echo "Exit code: $exit_code" >> news_report.txt
-        echo "Report generated at: $(date -u)" >> news_report.txt
-        
+        echo "exit_code=$?" >> $GITHUB_OUTPUT
+
     - name: Get current date
       id: date
-      run: echo "date=$(date -u +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-      
-    - name: Upload news report as artifact
+      run: |
+        echo "date=$(date -u +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+        echo "display_date=$(date -u +'%B %-d, %Y')" >> $GITHUB_OUTPUT
+        echo "timestamp=$(date -u +'%Y-%m-%d %H:%M UTC')" >> $GITHUB_OUTPUT
+
+    - name: Save report file
+      run: cp news_report.txt "reports/${{ steps.date.outputs.date }}.md"
+
+    - name: Update README
+      run: |
+        REPORT_DATE="${{ steps.date.outputs.display_date }}"
+        REPORT_LINK="reports/${{ steps.date.outputs.date }}.md"
+        TIMESTAMP="${{ steps.date.outputs.timestamp }}"
+
+        python3 << 'PYEOF'
+        import os, re
+
+        report_date = os.environ["REPORT_DATE"]
+        report_link = os.environ["REPORT_LINK"]
+        timestamp = os.environ["TIMESTAMP"]
+
+        with open("README.md", "r") as f:
+            readme = f.read()
+
+        new_section = (
+            "## 📰 Latest Report\n\n"
+            f"**[{report_date}]({report_link})**\n\n"
+            f"*Last updated: {timestamp} · Generated daily at 6:05 AM EST*\n\n"
+            "Browse all past reports in the [`reports/`](reports/) directory."
+        )
+
+        pattern = r"## 📰 Latest Report.*?(?=\n## (?!📰))"
+        readme = re.sub(pattern, new_section + "\n\n", readme, flags=re.DOTALL)
+
+        with open("README.md", "w") as f:
+            f.write(readme)
+        PYEOF
+
+      env:
+        REPORT_DATE: ${{ steps.date.outputs.display_date }}
+        REPORT_LINK: reports/${{ steps.date.outputs.date }}.md
+        TIMESTAMP: ${{ steps.date.outputs.timestamp }}
+
+    - name: Commit and push
+      run: |
+        git config --local user.email "git@knock.email"
+        git config --local user.name "GitHub Action"
+        git add "reports/${{ steps.date.outputs.date }}.md" README.md
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Daily report: ${{ steps.date.outputs.display_date }}"
+          git push
+        fi
+
+    - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
         name: daily-news-report-${{ steps.date.outputs.date }}
         path: news_report.txt
         retention-days: 30
         if-no-files-found: error
-        
-    - name: Create summary
+
+    - name: Summary
       run: |
         echo "## Daily News Aggregation Summary" >> $GITHUB_STEP_SUMMARY
-        echo "**Run Date:** $(date)" >> $GITHUB_STEP_SUMMARY
-        echo "**Run Number:** ${{ github.run_number }}" >> $GITHUB_STEP_SUMMARY
-        echo "**Commit SHA:** ${{ github.sha }}" >> $GITHUB_STEP_SUMMARY
+        echo "**Date:** ${{ steps.date.outputs.display_date }}" >> $GITHUB_STEP_SUMMARY
         echo "**Status:** ${{ steps.run-aggregator.outputs.exit_code == '0' && '✅ Success' || '❌ Failed' }}" >> $GITHUB_STEP_SUMMARY
-        echo "" >> $GITHUB_STEP_SUMMARY
-        
-        if [ -f news_report.txt ]; then
-          echo "**Report Generated:** ✅" >> $GITHUB_STEP_SUMMARY
-          echo "**Report Size:** $(wc -c < news_report.txt) bytes" >> $GITHUB_STEP_SUMMARY
-          echo "**Artifact Name:** daily-news-report-${{ github.run_number }}-${{ github.sha }}" >> $GITHUB_STEP_SUMMARY
-        else
-          echo "**Report Generated:** ❌" >> $GITHUB_STEP_SUMMARY
-        fi
-        
-        if [ -f logs/cronkite.log ]; then
-          echo "**Logs Generated:** ✅ (not stored as artifact)" >> $GITHUB_STEP_SUMMARY
-          echo "**Log Size:** $(wc -c < logs/cronkite.log) bytes" >> $GITHUB_STEP_SUMMARY
-        else
-          echo "**Logs Generated:** ❌" >> $GITHUB_STEP_SUMMARY
-        fi 
+        echo "**Report:** [reports/${{ steps.date.outputs.date }}.md](reports/${{ steps.date.outputs.date }}.md)" >> $GITHUB_STEP_SUMMARY
