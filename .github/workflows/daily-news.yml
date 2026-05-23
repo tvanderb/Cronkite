@@ -79,10 +79,14 @@ jobs:
         with open("README.md", "r") as f:
             readme = f.read()
 
+        with open("news_report.txt", "r") as f:
+            report_text = f.read().strip()
+
         new_section = (
             "## 📰 Latest Report\n\n"
             f"**[{report_date}]({report_link})**\n\n"
             f"*Last updated: {timestamp} · Generated daily at 6:05 AM EST*\n\n"
+            f"{report_text}\n\n"
             "Browse all past reports in the [`reports/`](reports/) directory."
         )
 
