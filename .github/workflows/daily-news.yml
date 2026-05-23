@@ -48,8 +48,9 @@ jobs:
 
     - name: Run news aggregator
       id: run-aggregator
+      shell: bash {0}
       run: |
-        python cronkite.py > news_report.txt 2>&1
+        python cronkite.py > news_report.txt
         echo "exit_code=$?" >> $GITHUB_OUTPUT
 
     - name: Get current date

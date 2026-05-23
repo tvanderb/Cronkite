@@ -17,9 +17,14 @@ class CypherReportGenerator:
         
         logger.info(f"Generating report for {len(news_data.get('stories', []))} stories")
         
+        slim_stories = [
+            {k: s[k] for k in ('title', 'url', 'source', 'category') if k in s}
+            for s in news_data.get('stories', [])
+        ]
+
         prompt = f"""You are a news summarizer. Please create a daily news report in the exact style of Legible News, using the following news stories collected from various sources:
 
-{json.dumps(news_data, indent=2, default=str)}
+{json.dumps(slim_stories, indent=2, default=str)}
 
 Format requirements:
 1. Group stories by category (Armed conflicts and attacks, Disasters and accidents, Politics and elections, Law and crime, etc.).
@@ -54,7 +59,7 @@ Make this look exactly like the Legible News format you've seen before."""
         }
         
         payload = {
-            'model': 'openrouter/cypher-alpha:free',
+            'model': 'openrouter/free',
             'messages': [
                 {
                     'role': 'user',
@@ -72,6 +77,7 @@ Make this look exactly like the Legible News format you've seen before."""
             async with session.post(self.api_url, headers=headers, json=payload) as response:
                 if response.status == 200:
                     result = await response.json()
+                    logger.info(f"Model used: {result.get('model', 'unknown')}")
                     logger.info("Report generated successfully")
                     return result['choices'][0]['message']['content']
                 else:
