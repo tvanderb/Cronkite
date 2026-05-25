@@ -8,65 +8,66 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[May 24, 2026](reports/2026-05-24.md)**
+**[May 25, 2026](reports/2026-05-25.md)**
 
-*Last updated: 2026-05-24 12:07 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-05-25 14:16 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**May 24 2026**
+- **Armed conflicts and attacks**
+  • Researchers discovered a surprisingly effective way to accelerate human bonding, with surprising results not tied to shared interests. (Vice News)
+  • Iran denies deal with the US is imminent despite some progress in negotiations. (The Guardian World)
+  • Trump Tower in Georgia will be built on land partially owned by a son of a US sanctions-hit leader. (Guardian World)
+  • Presidentielle 2027: For Bruno Retailleau, an adventure almost on the heels of François Fillon. (Le Monde)
+  • The ‘chalance’ dating trend is going viral for criticizing modern romance’s lack of effort. (Vice News)
+  • A rare Rubens notebook sheet goes on display in the city of Antwerp. (Guardian World)
+  • Oil prices drop below $100 a barrel, sparking hopes for a new Iran peace deal. (Guardian World)
+  • US and Iran inch closer to a peace deal as Trump faces criticism from GOP hawks. (Guardian World)
+  • Rare Rubens notebook sheet goes on display in the artist’s home city of Antwerp. (Guardian World)
+  • Afghanistan activists report sexual assault and beatings in Israeli detention. (The Guardian)
+  • The Mandalorian and Grogu feature in Disney’s latest Star Wars film with lowest opening ever. (Guardian World)
+  • Roland-Garros 2026 sees Wawrinka, Elina Svitolina, and several others in a tight bracket. (Le Monde)
+  • The ‘affaire Patrick Bruel’ at the Paleo Festival in Nyon calls out inadmissible behavior. (Le Monde)
+  • Hichem Aboud faces new charges after a 2019 incident involving a public event. (Le Monde)
 
----
+- **Disasters and accidents**
+  • Chemical tank crack increases fears after a major explosion in California. (Guardian World)
+  • Flash floods hit New York and a heat dome grips Europe in a record series. (The Guardian World)
+  • Australian flotilla activists arrive home alleging sexual assault and beatings in Israeli detention. (The Guardian)
+  • A psychologist reveals a blunt theory behind the growing male loneliness epidemic. (Vice News)
+  • Australian actor Grizz Chappy dies at age 52. (Guardian World)
+  • Human rights crisis in the US sees transgender Americans forced to flee persecution. (Spiegel)
+  • A suicide bombing near a railway track in Pakistan kills at least 23 people. (Guardian World)
 
-### Armed conflicts and attacks
-- **Ukraine war escalates as Russia reportedly used a nuclear‑capable “Orekh‑1” missile in a massive strike on Kyiv, prompting EU diplomatic condemnation.** ([Le Monde](https://www.lemonde.fr/international/live/2026/05/24/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-la-russie-a-utilise-un-missile-orechnik-lors-d-une-attaque-massive-contre-kiev-cette-nuit_6693162_3210.html))  
-- **UK supply‑chain analysis warns the nation is ill‑prepared for major shocks such as war or large‑scale disruptions.** ([The Guardian](https://www.theguardian.com/politics/2026/may/24/uk-supply-chain-unprepared-for-major-shocks-war-report-warns))  
-- **Iran’s Supreme Leader and the Revolutionary Guard Council must still approve the tentative nuclear‑deal with the United States, leaving the agreement in limbo.** ([The Guardian](https://www.theguardian.com/world/2026/may/24/iran-leader-and-security-council-still-need-to-approve-peace-deal-with-us))  
-- **U.S. oil markets edge toward a “danger zone” as the Iran‑U.S. nuclear talks stall, raising concerns of supply shocks.** ([The Guardian](https://www.theguardian.com/business/2026/may/24/oil-markets-danger-zone-us-iran-deal))  
-- **Shark attack at the Great Barrier Reef kills a tourist in far‑north Queensland.** ([The Guardian](https://www.theguardian.com/australia-news/2026/may/24/shark-attack-man-dies-great-barrier-reef-far-north-queensland))  
-- **Côte d’Ivoire remains on high alert for jihadist activity in the north, a decade after a major attack.** ([The Guardian](https://www.theguardian.com/world/2026/may/23/cote-divoire-wary-of-jihadist-threat-in-north-10-years-on-from-major-attack))  
-- **Trump‑aligned Justice Department removes all January 6 defendants’ news releases from its website.** ([The Guardian](https://www.theguardian.com/us-news/2026/may/23/trump-justice-department-scrubs-website-january-6-defendants))  
-- **Three dead and 18 first‑responders sickened after a suspected fentanyl exposure in New Mexico.** ([The Guardian](https://www.theguardian.com/us-news/2026/may/23/three-dead-18-first-responders-sickened-fentanyl-new-mexico))
+- **Politics and elections**
+  • Labour needs a 'system reset' to tackle youth unemployment and will deliver a report to the coalition. (The Guardian World)
+  • Australian flotilla activists accuse their leader of stripping and beating them. (The Guardian)
+  • The 4 phrases that can quietly destroy a relationship over time, according to an expert. (Vice News)
+  • A rare Rubens notebook sheet goes on display in his hometown of Antwerp. (Guardian World)
 
-### Disasters and accidents
-- **A gas explosion at a Shanxi coal mine in China kills at least 82 workers.** ([The Guardian](https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping))  
-- **An explosive device on a passenger train in Pakistan kills at least 24 people.** ([Le Monde](https://www.lemonde.fr/international/article/2026/05/24/au-pakistan-au-moins-24-morts-dans-une-attaque-a-l-explosif-d-un-train_6693209_3210.html))  
-- **Ebola spreads rapidly in the Democratic Republic of Congo; health facilities report being at capacity.** ([The Guardian](https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo))  
-- **White House pauses the transfer of detainees to the DRC as the Ebola outbreak widens.** ([The Guardian](https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola))
+- **Law and crime**
+  • Law enforcement in Cambodia welcomes Australian flotilla activists after sexual assault allegations. (Le Monde)
+  • US and Iran inch closer to a peace deal as Trump faces criticism from GOP hawks. (Guardian World)
+  • A man accused of a 2019 incident denies wrongdoing in a major court case. (Le Monde)
+  • Indonesian court sentences two men in a high-profile kidnapping case. (The Guardian World)
+  • "Chalance" dating trend goes viral for criticizing modern romance. (Vice News)
+  • Australian actor Grizz Chappy dies after multiple roles. (The Guardian)
+  • A rare Rubens notebook sheet goes on display in the city of Antwerp. (Guardian World)
 
-### Politics and elections
-- **Former U.S. prosecutor Andrew Weissmann, now a Trump target, urges a crackdown on election misinformation.** ([The Guardian](https://www.theguardian.com/us-news/2026/may/24/andrew-weissmann-donald-trump-liars-kingdom))  
-- **UK Treasury rejects the transport department’s plan to cut VAT on public EV charging to 5 %.** ([The Guardian](https://www.theguardian.com/environment/2026/may/24/treasury-block-vat-cut-public-ev-charging-department-transport-dft))  
-- **Irish gangland figure “Hutch” fails to win a Dublin byelection seat.** ([The Guardian](https://www.theguardian.com/world/2026/may/24/irish-gangland-figure-hutch-fails-dublin-byelection-bid-for-seat-in-parliament))  
-- **India orders the takeover of the exclusive Delhi Gymkhana Club, citing public interest.** ([The Guardian](https://www.theguardian.com/world/2026/may/23/india-government-orders-takeover-exclusive-delhi-gymkhana-club-narendra-modi))  
-- **Australian politician David Pocock signals openness to an independent party to counter the rise of Pauline Hanson’s One Nation.** ([The Guardian](https://www.theguardian.com/australia-news/live/2026/may/24/australia-news-live-queensland-police-gunshots-white-house-tax-reform-david-pocock-anthony-albanese-jim-chalmers-angus-taylor-labor-coalition-ntwnfb))  
-- **Candace Owens’ Australian speaking tour cancelled; 15,000 ticket holders offered no refunds.** ([The Guardian](https://www.theguardian.com/australia-news/2026/may/24/candace-owens-tour-cancelled-australia-no-ticket-refunds-ntwnfb))  
-- **French presidential candidate Raphaël Glucksmann unveils proposals on immigration, education and civic service ahead of the 2027 race.** ([Le Monde](https://www.lemonde.fr/politique/article/2026/05/24/presidentielle-2027-raphael-glucksmann-devoile-ses-propositions-sur-l-immigration-l-ecole-et-le-service-civique_6693228_823448.html))
+- **Armed conflicts and attacks**
+  • NATO and Russia escalate dialogue ahead of potential talks on Ukraine. (Le Monde)
+  • The ‘chalance’ trend is sparking debate about the future of modern romance. (Vice News)
+  • A US businessman defends himself in a high-profile defamation case. (The Guardian World)
+  • Iran denies deal with US is imminent despite some progress. (The Guardian World)
 
-### Business and economy
-- **Nationwide building‑societies are urged to address “emerging governance issues” before their upcoming AGM.** ([The Guardian](https://www.theguardian.com/business/2026/may/24/nationwide-governance-agm-building-societies-boards))  
-- **“AI‑washing” proliferates as firms rebrand themselves as technology‑focused without substantive AI investment.** ([The Guardian](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand))  
-- **Extra EU customs checks at Dover are suspended amid heat‑wave‑related travel delays.** ([The Guardian](https://www.theguardian.com/uk-news/2026/may/23/extra-eu-border-checks-ees-suspended-dover-travel-delays-hot-weather))  
-
-### Law and crime
-- **Former International Criminal Court prosecutor calls for an EU statute to block U.S. sanctions on ICC officials.** ([The Guardian](https://www.theguardian.com/law/2026/may/24/former-international-criminal-court-prosecutor-calls-for-eu-statute-blocking-us-sanctions-on-icc-members))  
-- **Former F1 world champion Alain Prost injured during a robbery at his Swiss residence.** ([The Guardian](https://www.theguardian.com/sport/2026/may/23/f1-world-champion-alain-prost-injured-robbery-switzerland))
-
-### Science & health
-- **Researchers explain why roughly 90 % of humans are right‑handed, linking genetics and prenatal development.** ([Vice News](https://www.vice.com/en/article/scientists-finally-figured-out-why-90-of-humans-are-right-handed/))  
-- **Scientists develop a controversial method to prevent birds from “exploding” mid‑flight due to rapid temperature changes.** ([Vice News](https://www.vice.com/en/article/the-odd-plan-scientists-have-to-prevent-birds-from-exploding-mid-flight/))
-
-### Culture & entertainment
-- **Cristian Mungiu wins Cannes’ Palme d’Or for “Fjord,” a film reflecting global anxieties.** ([Le Monde](https://www.lemonde.fr/culture/article/2026/05/24/festival-de-cannes-cristian-mungiu-remporte-la-palme-d-or-pour-fjord-lors-d-une-ceremonie-de-cloture-assombrie-par-l-etat-du-monde_6692821_3246.html))  
-- **Mel Gibson pulls an elaborate prank on the director of “What Women Want,” sparking industry chatter.** ([Vice News](https://www.vice.com/en/article/the-insane-prank-mel-gibson-pulled-on-the-director-of-what-women-want/))  
-- **PS Plus will lose a classic Rockstar title in June, prompting gamer disappointment.** ([Vice News](https://www.vice.com/en/article/ps-plus-is-losing-a-classic-rockstar-game-in-june/))  
-- **An Australian man discovers a live organism inside a bag of lettuce, prompting food‑safety warnings.** ([Vice News](https://www.vice.com/en/article/australian-guy-opened-a-bag-of-lettuce-and-found-something-alive-hiding-inside/))  
-
-### Environment & climate
-- **Finistère (France) extends yellow heat‑wave vigilance through Monday, the first such alert for May.** ([Le Monde](https://www.lemonde.fr/planete/article/2026/05/24/canicule-la-vigilance-jaune-prolongee-jusqu-a-lundi-dans-le-finistere-une-premiere-pour-le-mois-de-mai_6693206_3244.html))
-
----  
-
-*All links are active and lead to the original reporting sources.*
+- **International relations**
+  • The BHP defies its own climate strategy by investing in high-polluting diesel trucks. (The Guardian World)
+  • Russia calls on foreign nationals to leave Kyiv ahead of new airstrikes. (Le Monde)
+  • Argentina faces internal conflict following a presidential election. (Le Monde)
+  • Ukraine calls for peace as Russia intensifies strikes. (The Guardian)
+  • Oil prices fall to a two-week low amid fears of a new Iran deal. (Guardian World)
+  • Rare Rubens notebook sheet goes on display in Antwerp. (Guardian World)
+  • A major tycoon files leaked documents opposing climate action. (The Guardian)
+  • Human rights crisis in DRC with suspected Ebola cases raising alarm. (Guardian World)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
