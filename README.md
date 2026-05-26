@@ -8,66 +8,30 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[May 25, 2026](reports/2026-05-25.md)**
+**[May 26, 2026](reports/2026-05-26.md)**
 
-*Last updated: 2026-05-25 14:16 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-05-26 14:13 UTC · Generated daily at 6:05 AM EST*
 
 ```
-- **Armed conflicts and attacks**
-  • Researchers discovered a surprisingly effective way to accelerate human bonding, with surprising results not tied to shared interests. (Vice News)
-  • Iran denies deal with the US is imminent despite some progress in negotiations. (The Guardian World)
-  • Trump Tower in Georgia will be built on land partially owned by a son of a US sanctions-hit leader. (Guardian World)
-  • Presidentielle 2027: For Bruno Retailleau, an adventure almost on the heels of François Fillon. (Le Monde)
-  • The ‘chalance’ dating trend is going viral for criticizing modern romance’s lack of effort. (Vice News)
-  • A rare Rubens notebook sheet goes on display in the city of Antwerp. (Guardian World)
-  • Oil prices drop below $100 a barrel, sparking hopes for a new Iran peace deal. (Guardian World)
-  • US and Iran inch closer to a peace deal as Trump faces criticism from GOP hawks. (Guardian World)
-  • Rare Rubens notebook sheet goes on display in the artist’s home city of Antwerp. (Guardian World)
-  • Afghanistan activists report sexual assault and beatings in Israeli detention. (The Guardian)
-  • The Mandalorian and Grogu feature in Disney’s latest Star Wars film with lowest opening ever. (Guardian World)
-  • Roland-Garros 2026 sees Wawrinka, Elina Svitolina, and several others in a tight bracket. (Le Monde)
-  • The ‘affaire Patrick Bruel’ at the Paleo Festival in Nyon calls out inadmissible behavior. (Le Monde)
-  • Hichem Aboud faces new charges after a 2019 incident involving a public event. (Le Monde)
+May 26, 2026
 
-- **Disasters and accidents**
-  • Chemical tank crack increases fears after a major explosion in California. (Guardian World)
-  • Flash floods hit New York and a heat dome grips Europe in a record series. (The Guardian World)
-  • Australian flotilla activists arrive home alleging sexual assault and beatings in Israeli detention. (The Guardian)
-  • A psychologist reveals a blunt theory behind the growing male loneliness epidemic. (Vice News)
-  • Australian actor Grizz Chappy dies at age 52. (Guardian World)
-  • Human rights crisis in the US sees transgender Americans forced to flee persecution. (Spiegel)
-  • A suicide bombing near a railway track in Pakistan kills at least 23 people. (Guardian World)
+Armed conflicts and attacks
+• [US military conducts strikes on Iranian missile sites and vessels amid stalled Trump-brokered peace talks](https://www.theguardian.com/world/2026/may/26/us-strikes-iran-missile-sites-vessels-trump-peace-deal-elusive) (Guardian World)
+• [Israel escalates airstrikes in Lebanon, targeting Hezbollah infrastructure as Netanyahu vows to "crush" the group](https://www.theguardian.com/world/2026/may/26/israel-escalates-strikes-in-lebanon-as-netanyahu-vows-to-crush-hezbollah) (Guardian World)
+• [Russia warns US to evacuate citizens and diplomats from Kyiv amid escalating tensions](https://www.bloomberg.com/news/videos/2026-05-26/russia-tells-us-to-evacuate-citizens-staff-from-kyiv-video) (Bloomberg)
+• [Japan dispatches officials to Russia to "facilitate communication" amid regional instability](https://www.bloomberg.com/news/articles/2026-05-26/japan-sends-officials-to-russia-to-facilitate-communication) (Bloomberg)
+• [WHO warns Ebola outbreak in Democratic Republic of Congo is outpacing response efforts](https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who) (Guardian World)
+• [Iranian support for Hezbollah persists as conflict in Middle East intensifies](https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz) (Guardian World)
 
-- **Politics and elections**
-  • Labour needs a 'system reset' to tackle youth unemployment and will deliver a report to the coalition. (The Guardian World)
-  • Australian flotilla activists accuse their leader of stripping and beating them. (The Guardian)
-  • The 4 phrases that can quietly destroy a relationship over time, according to an expert. (Vice News)
-  • A rare Rubens notebook sheet goes on display in his hometown of Antwerp. (Guardian World)
+Disasters and accidents
+• [Four killed in Belgium after train collides with school bus in Flanders region](https://www.theguardian.com/world/2026/may/26/investigation-belgium-train-school-bus-collision-buggenhout-flanders) (Guardian World)
+• [Thai rescue teams join efforts to free seven people trapped in flooded Laos cave](https://www.theguardian.com/world/2026/may/25/laos-flooded-cave-thai-rescuers) (Guardian World)
+• [Nebraska woman injured after dog triggers shotgun near convenience store](https://www.theguardian.com/us-news/2026/may/26/dog-shotgun-nebraska-convenience-store) (Guardian World)
 
-- **Law and crime**
-  • Law enforcement in Cambodia welcomes Australian flotilla activists after sexual assault allegations. (Le Monde)
-  • US and Iran inch closer to a peace deal as Trump faces criticism from GOP hawks. (Guardian World)
-  • A man accused of a 2019 incident denies wrongdoing in a major court case. (Le Monde)
-  • Indonesian court sentences two men in a high-profile kidnapping case. (The Guardian World)
-  • "Chalance" dating trend goes viral for criticizing modern romance. (Vice News)
-  • Australian actor Grizz Chappy dies after multiple roles. (The Guardian)
-  • A rare Rubens notebook sheet goes on display in the city of Antwerp. (Guardian World)
-
-- **Armed conflicts and attacks**
-  • NATO and Russia escalate dialogue ahead of potential talks on Ukraine. (Le Monde)
-  • The ‘chalance’ trend is sparking debate about the future of modern romance. (Vice News)
-  • A US businessman defends himself in a high-profile defamation case. (The Guardian World)
-  • Iran denies deal with US is imminent despite some progress. (The Guardian World)
-
-- **International relations**
-  • The BHP defies its own climate strategy by investing in high-polluting diesel trucks. (The Guardian World)
-  • Russia calls on foreign nationals to leave Kyiv ahead of new airstrikes. (Le Monde)
-  • Argentina faces internal conflict following a presidential election. (Le Monde)
-  • Ukraine calls for peace as Russia intensifies strikes. (The Guardian)
-  • Oil prices fall to a two-week low amid fears of a new Iran deal. (Guardian World)
-  • Rare Rubens notebook sheet goes on display in Antwerp. (Guardian World)
-  • A major tycoon files leaked documents opposing climate action. (The Guardian)
-  • Human rights crisis in DRC with suspected Ebola cases raising alarm. (Guardian World)
+Politics and elections
+• [Texas Senate runoff: Trump-backed candidate Paxton faces off against incumbent Cornyn](https://www.theguardian.com/us-news/live/2026/may/26/donald-trump-medical-walter-reed-republicans-texas-runoff-iran-latest-news-updates) (Guardian World, Bloomberg)
+• [Thomas Massie files to run in 2028 after losing primary to Trump-backed candidate](https://www.theguardian.com/us-news/2026/may/26/thomas-massie-run-2028) (Guardian World)
+• [Spain
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
