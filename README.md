@@ -8,30 +8,21 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[May 26, 2026](reports/2026-05-26.md)**
+**[May 27, 2026](reports/2026-05-27.md)**
 
-*Last updated: 2026-05-26 14:13 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-05-27 14:33 UTC · Generated daily at 6:05 AM EST*
 
 ```
-May 26, 2026
+Tuesday, May 27, 2026
 
 Armed conflicts and attacks
-• [US military conducts strikes on Iranian missile sites and vessels amid stalled Trump-brokered peace talks](https://www.theguardian.com/world/2026/may/26/us-strikes-iran-missile-sites-vessels-trump-peace-deal-elusive) (Guardian World)
-• [Israel escalates airstrikes in Lebanon, targeting Hezbollah infrastructure as Netanyahu vows to "crush" the group](https://www.theguardian.com/world/2026/may/26/israel-escalates-strikes-in-lebanon-as-netanyahu-vows-to-crush-hezbollah) (Guardian World)
-• [Russia warns US to evacuate citizens and diplomats from Kyiv amid escalating tensions](https://www.bloomberg.com/news/videos/2026-05-26/russia-tells-us-to-evacuate-citizens-staff-from-kyiv-video) (Bloomberg)
-• [Japan dispatches officials to Russia to "facilitate communication" amid regional instability](https://www.bloomberg.com/news/articles/2026-05-26/japan-sends-officials-to-russia-to-facilitate-communication) (Bloomberg)
-• [WHO warns Ebola outbreak in Democratic Republic of Congo is outpacing response efforts](https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who) (Guardian World)
-• [Iranian support for Hezbollah persists as conflict in Middle East intensifies](https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz) (Guardian World)
-
-Disasters and accidents
-• [Four killed in Belgium after train collides with school bus in Flanders region](https://www.theguardian.com/world/2026/may/26/investigation-belgium-train-school-bus-collision-buggenhout-flanders) (Guardian World)
-• [Thai rescue teams join efforts to free seven people trapped in flooded Laos cave](https://www.theguardian.com/world/2026/may/25/laos-flooded-cave-thai-rescuers) (Guardian World)
-• [Nebraska woman injured after dog triggers shotgun near convenience store](https://www.theguardian.com/us-news/2026/may/26/dog-shotgun-nebraska-convenience-store) (Guardian World)
-
-Politics and elections
-• [Texas Senate runoff: Trump-backed candidate Paxton faces off against incumbent Cornyn](https://www.theguardian.com/us-news/live/2026/may/26/donald-trump-medical-walter-reed-republicans-texas-runoff-iran-latest-news-updates) (Guardian World, Bloomberg)
-• [Thomas Massie files to run in 2028 after losing primary to Trump-backed candidate](https://www.theguardian.com/us-news/2026/may/26/thomas-massie-run-2028) (Guardian World)
-• [Spain
+• Hungarian parliament votes to restore ICC membership, overturning PM Orbán's 2022 withdrawal as prime minister seeks to rebuild international ties
+• Labour MP Ed Husic urges party to set "red line" on Israel's actions, including treatment of flotilla activists in solidarity with Palestinian civilians
+• Zelenskyy appeals to Trump for air defence systems as Russian missile strikes hit Ukrainian energy infrastructure throughout the night
+• Israel escalates aerial assault on Lebanon with over 120 airstrikes targeting Hezbollah positions across southern Lebanon and Baalbek region
+• Ebola outbreak in DR Congo worsens amid active conflict in North Kivu and widespread food insecurity, WHO warns of regional spread risk
+• Experts question US arms sale pause to Taiwan being linked to Iran conflict, calling claims "makes no sense" given separate strategic priorities
+• European climate scientists describe spring heatwaves as "mind-bogglingly crazy" after temperatures exceed 4
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
