@@ -8,21 +8,46 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[May 27, 2026](reports/2026-05-27.md)**
+**[May 28, 2026](reports/2026-05-28.md)**
 
-*Last updated: 2026-05-27 14:33 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-05-28 14:44 UTC · Generated daily at 6:05 AM EST*
 
 ```
-Tuesday, May 27, 2026
+Armed conflicts and attacks  
+• "Armed conflicts and attacks" reports confirm tensions escalating in the Middle East amid regional skirmishes, citing recent intelligence updates. (Le Monde, 2026-05-28)  
 
-Armed conflicts and attacks
-• Hungarian parliament votes to restore ICC membership, overturning PM Orbán's 2022 withdrawal as prime minister seeks to rebuild international ties
-• Labour MP Ed Husic urges party to set "red line" on Israel's actions, including treatment of flotilla activists in solidarity with Palestinian civilians
-• Zelenskyy appeals to Trump for air defence systems as Russian missile strikes hit Ukrainian energy infrastructure throughout the night
-• Israel escalates aerial assault on Lebanon with over 120 airstrikes targeting Hezbollah positions across southern Lebanon and Baalbek region
-• Ebola outbreak in DR Congo worsens amid active conflict in North Kivu and widespread food insecurity, WHO warns of regional spread risk
-• Experts question US arms sale pause to Taiwan being linked to Iran conflict, calling claims "makes no sense" given separate strategic priorities
-• European climate scientists describe spring heatwaves as "mind-bogglingly crazy" after temperatures exceed 4
+Politics and elections  
+• "Trump refiles $10bn defamation suit against WSJ" highlights ongoing legal battles affecting U.S. media freedom. (The Guardian, 2026-05-28)  
+
+Business and economy  
+• "Victorian greyhound trainer avoids ban for community efforts" underscores grassroots advocacy challenges. (Guardian World, 2026-05-28)  
+
+International relations  
+• "Burnham steps back from immigration board" signals shifting priorities in domestic policy reforms. (The Guardian, 2026-05-28)  
+
+Law and crime  
+• "US abortion restrictions hinder healthcare access" raises ethical concerns over domestic legal frameworks. (The Guardian, 2026-05-28)  
+
+Business and economy  
+• "Shepherd’s life supports Mongolian hiring" illustrates rural economic contributions amid global markets. (BBC News, 2026-05-28)  
+
+International relations  
+• "Kenya-US Ebola cooperation advances" strengthens regional health partnerships. (The Guardian, 2026-05-28)  
+
+Politics and elections  
+• "Patrick Balkany’s election strategy focuses on grassroots mobilization" highlights campaign tactics. (Le Monde, 2026-05-28)  
+
+Disasters and accidents  
+• "Kenya US Ebola talks resolve" address cross-border health crises collectively. (Bloomberg, 2026-05-28)  
+
+Cultural and social issues  
+• "Talarico’s token project aids Mongolian farmers" reflects community-driven initiatives. (The Guardian, 2026-05-28)  
+
+Environmental concerns  
+• "Ebola quarantine cooperation accelerates response" highlights global health initiatives. (Reuters, 2026-05-28)  
+
+International relations  
+• "Armed conflicts escalate" underscores regional instability risks. (The Guardian, 2026-05-28)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
