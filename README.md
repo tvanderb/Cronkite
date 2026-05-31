@@ -8,73 +8,12 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[May 30, 2026](reports/2026-05-30.md)**
+**[May 31, 2026](reports/2026-05-31.md)**
 
-*Last updated: 2026-05-30 12:15 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-05-31 12:17 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**May 30, 2026**  
-
-**Armed conflicts and attacks**  
-• Colombia prepares to go to polls in election shadowed by resurgence of political violence, raising concerns over instability (Guardian World)  
-• Bound by blood: new film highlights Jamaica’s outlawed obeah belief system, a spiritual tradition linked to resistance and cultural identity (Guardian World)  
-• US garbage incinerators are failing to eliminate ‘forever chemical’ air pollution, experts warn, amid growing health and environmental risks (Guardian World)  
-• Rise in youth unemployment driving more to homelessness, UK charities say, as economic strain deepens social crises (Guardian World)  
-• Eighteen people killed in Afghanistan truck crash, including 10 children, amid ongoing instability (Guardian World)  
-• ‘Significant’ storm to hammer millions in WA and bring icy weather to NSW, Victoria and SA, as extreme weather events intensify (Guardian World)  
-• A broken economy and an emboldened regime: Iranians abandoned to endure fallout from war, as regional tensions escalate (Guardian World)  
-• UN adds Israel and Russia to blacklist for sexual violence in conflict, marking a significant international accountability measure (Guardian World)  
-• Hubble Spies Faint Irregular Galaxy, capturing images of a distant cosmic structure in a rare astronomical observation (NASA)  
-• Trump Holds Situation Room Meeting on Iran, signaling renewed focus on Middle East diplomacy amid ongoing tensions (Bloomberg)  
-• Americans Injured in Iranian Missile Strike on Kuwaiti Air Base, escalating regional military confrontations (Bloomberg)  
-• Can the second coming of Tony Abbott resurrect the Liberal party? Or is it another step toward ‘self-destruction’? (Guardian World)  
-• Violences dans le périscolaire à Paris: que s’est-il passé? Comprendre en trois minutes (Le Monde)  
-
-**Politics and elections**  
-• Looming Iran peace deal shows how Trump’s maximalist goals have shrunk, as diplomatic efforts face practical constraints (Guardian World)  
-• Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’, sparking fears over electoral integrity (Guardian World)  
-• Trump's Reflecting Pool Renovation Tops $13M, amid scrutiny over infrastructure spending priorities (Bloomberg)  
-• Trump Retreats From Kennedy Center Project After Court Loss, marking a rare setback for the administration’s cultural initiatives (Bloomberg)  
-
-**Law and crime**  
-• Anger at decision not to prosecute Canadian suicide kit supplier in UK, as legal experts question jurisdictional gaps (Guardian World)  
-• Social Media Giants to Pay $27 Million in School Suit Accord, resolving a long-standing lawsuit over data privacy (Bloomberg)  
-• Canadian man admits sending ‘suicide packets’ to hundreds of people around world, raising ethical and regulatory concerns (Guardian World)  
-
-**Disasters and accidents**  
-• 56 Years Ago, Domestic Terrorists Accidentally Blew Up Dustin Hoffman’s House, recalling a bizarre chapter in U.S. history (Vice News)  
-• Four more men freed from flooded Laos cave in hazardous rescue mission, as international teams continue efforts to save trapped individuals (Guardian World)  
-• ‘Essentially diving in coffee’: Australian diver among team rushing to rescue people trapped in flooded Laos cave (Guardian World)  
-
-**Business and economy**  
-• ‘How can you have a Ferrari without any vroom?’: electric model shocks owners’ club, as luxury automakers pivot to sustainability (Guardian World)  
-
-**International relations**  
-• Scientists Just Discovered Half-a-Billion-Year-Old Evidence of Animals Having Sex, offering insights into ancient evolutionary behavior (Vice News)  
-• Relationship Hitmen: Your Mom Has a Talent for Subtly Killing Friendships She Doesn’t Like, Scientists Say, exploring social dynamics through research (Vice News)  
-• Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump, amid questions over transparency (Guardian World)  
-• These 3 Habits Will Get You Labeled ‘Antisocial’, But They’re Actually Signs of Intelligence, according to psychological studies (Vice News)  
-• Adam Sandler Got Permission to Actually Clobber Kids for This Beloved Comedy: ‘Hurting Kids Is Funny’, reflecting on controversial humor (Vice News)  
-• Weird News, Dads: Your Brain Physically Changes When You Become a Father, according to neurological research (Vice News)  
-• The Surprisingly Powerful Benefits of Adding a Little Whimsy to Your Life, According to Science, highlighting mental health and creativity (Vice News)  
-• Exam fail: Indian students complain en masse about marking errors in key final exams, causing widespread academic disruption (Guardian World)  
-• UK influencer met senior officials on state-sponsored tours of Iran, factchecking body finds, amid concerns over foreign influence (Guardian World)  
-• WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC, as health authorities scramble to contain the epidemic (Guardian World)  
-• La justice française étend ses investigations sur la disparition des millions d’actions Hermès, as legal scrutiny intensifies (Le Monde)  
-• US Military Commander Meets With Cuban Officers at Guantanamo, signaling potential diplomatic overtures amid longstanding tensions (Bloomberg)  
-• NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters, promoting space exploration collaboration (NASA)  
-• NASA’s Roman Space Telescope Primary Mirror Gets Last Look, as engineers finalize preparations for launch (NASA)  
-• Lone children held at UK-run detention centres in France 284 times last year, according to data exposing policy gaps (Guardian World)  
-• EN DIRECT : la canicule continue de régresser par l’ouest, des records de température minimale enregistrés à Paris et La Rochelle (Le Monde)  
-• “That’s why we work in finance – so one day we can afford air-con”: Britain’s unequal heatwave, exposing class divides in climate resilience (Guardian World)  
-• PSG-Arsenal: Dembélé-Kvaratskhelia, les « deux extraterrestres » de Paris en finale de la Ligue des champions (Le Monde)  
-• Roland-Garros 2026: même sans ses leaders, le tennis italien demeure en haut de l’affiche (Le Monde)  
-• “Nous ne reviendrons pas au climat de notre enfance au cours du XXIe siècle, même si nous réussissons à décarboner nos modes de vie” (Le Monde)  
-• Carburant: le doublement de l’indemnités pour les « grands rouleurs » et des aides aux pêcheurs entravées (Le Monde)  
-• EN DIRECT, guerre en Ukraine: Kiev revendique l’attaque d’un terminal pétrolier et d’un navire de la flotte fantôme russe à Taganrog (Le Monde)  
-• Au Laos, quatre personnes supplémentaires ont pu sortir saines et sauves de la grotte où elles étaient coincées (Le Monde)  
-• La Palme Dog ou les dessous du star-système animal (Le Monde)  
-• Walid Joumblatt, chef historique de la communauté druze libanaise: “Israël a un plan de balkanisation de tout le Moyen-Orient” (Le Monde)
+None
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
