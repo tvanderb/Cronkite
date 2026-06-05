@@ -8,62 +8,12 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[June 4, 2026](reports/2026-06-04.md)**
+**[June 5, 2026](reports/2026-06-05.md)**
 
-*Last updated: 2026-06-04 14:11 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-06-05 13:55 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**June 4 2026**
-
----
-
-### Armed conflicts and attacks
-- **Israel and Lebanon agree to a conditional cease‑fire as the United States pushes to revive Iran talks; fighting on the Lebanese border continues despite the pact.** ([The Guardian](https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us), [Bloomberg](https://www.bloomberg.com/news/videos/2026-06-04/israel-lebanon-agree-to-conditional-ceasefire-video))  
-- **U.S. House passes a war‑powers resolution aimed at limiting President Trump’s authority over a potential conflict with Iran.** ([The Guardian](https://www.theguardian.com/us-news/2026/jun/03/house-passes-war-power-resolution-trump-iran))  
-- **Rebel attacks by the Allied Democratic Forces in eastern Democratic Republic of Congo kill at least 30 people and hamper the Ebola response.** ([The Guardian](https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response))  
-- **Ukrainian forces claim strikes on a Russian warship, a powder‑factory and fuel depots in Russia and Crimea.** ([Le Monde](https://www.lemonde.fr/international/live/2026/06/04/en-direct-guerre-en-ukraine-kiev-revendique-des-frappes-sur-un-navire-russe-une-usine-de-poudre-et-des-depots-de-carburant-en-russie-et-en-crimee_6695365_3210.html))  
-- **Oman resists U.S. pressure to sever diplomatic ties with Iran over the Strait of Hormuz.** ([The Guardian](https://www.theguardian.com/world/2026/jun/04/oman-resists-us-pressure-to-break-ties-with-iran-over-strait-of-hormuz))  
-- **Japan faces a shortage of plastic bags, trays and gloves as Iran‑war‑induced naphtha scarcity tightens global petrochemical supplies.** ([The Guardian](https://www.theguardian.com/world/2026/jun/04/japan-naphtha-shortage-plastic-bag))  
-- **UK job‑cut notices surge to their highest level since 2020, a fallout of the escalating Iran‑Israel confrontation.** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-04/uk-job-cut-notices-surge-to-highest-since-2020-as-iran-war-bites))  
-- **Civilian casualties rise in Mogadishu as Somali government troops clash with opposition‑aligned militias; dozens flee the capital.** ([The Guardian](https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire))  
-
-### Politics and elections
-- **Keir Starmer accuses Elon Musk of stoking division in the UK over the murder of teenager Henry Nowak; the controversy fuels debate on social‑media influence in politics.** ([The Guardian](https://www.theguardian.com/politics/2026/jun/04/keir-starmer-elon-musk-division-henry-nowak))  
-- **Former UK finance minister Lex Greensill is barred from running any UK company for nine years following a misconduct ruling.** ([The Guardian](https://www.theguardian.com/business/2026/jun/04/lex-greensill-banned-uk-companies-nine-years))  
-- **Australia’s Labor government’s overhaul of the National Disability Insurance Scheme stalls as the Coalition and Greens explore a joint move to delay the bill.** ([The Guardian](https://www.theguardian.com/australia-news/2026/jun/04/labors-ndis-overhaul-faces-delay-as-coalition-and-greens-consider-teaming-up-to-slow-bills-passage))  
-- **Nigel Farage’s Reform UK receives an additional £7 million from cryptocurrency donors ahead of the next general election.** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-04/farage-s-reform-uk-gets-another-7-million-from-crypto-donors))  
-- **Germany reflects on its failure to secure a United Nations Security Council seat, prompting a debate on the country’s foreign‑policy direction.** ([The Guardian](https://www.theguardian.com/world/2026/jun/04/failure-to-win-seat-un-security-council-germany-friedrich-merz))  
-- **France, Italy and the United States clash over the appointment of the next special envoy to Bosnia and Herzegovina.** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-04/italy-us-france-at-odds-over-next-special-envoy-to-bosnia))  
-
-### Law and crime
-- **Oregon defendant Jesse Calhoun pleads not‑guilty to a fifth murder charge, extending a high‑profile homicide case.** ([The Guardian](https://www.theguardian.com/us-news/2026/jun/04/jesse-calhoun-pleads-not-guilty-oregon))  
-- **Documentary *Boom Box* exposes alleged unethical practices by undercover police units in the UK.** ([The Guardian](https://www.theguardian.com/film/2026/jun/04/boom-box-documentary-unethical-tactics-undercover-policing))  
-- **A U.S. immigration judge signs an order to deport a teenage murder victim from North Carolina, sparking legal and humanitarian criticism.** ([The Guardian](https://www.theguardian.com/us-news/2026/jun/03/north-carolina-judge-deport-teen-murder-victim))  
-- **Australian woman linked to Islamic State testifies that she lived with a teenage slave who was repeatedly raped.** ([The Guardian](https://www.theguardian.com/australia-news/2026/jun/04/australian-woman-linked-to-islamic-state-is-teenage-slave-repeatedly-raped-court-melbourne-ntwnfb))  
-
-### International relations
-- **Kenyan officials propose an Ebola quarantine centre that would serve only American citizens; experts warn the plan breaches WHO guidelines and could undermine regional trust.** ([The Guardian](https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya))  
-- **Disney reports a €4.2 billion operating deficit at its Paris theme parks, raising concerns about the viability of its European leisure assets.** ([The Guardian](https://www.theguardian.com/film/2026/jun/04/disney-paris-theme-park-deficit))  
-- **Protests erupt in Albania against a luxury resort backed by Jared Kushner, highlighting tensions over foreign investment and environmental impact.** ([The Guardian](https://www.theguardian.com/world/2026/jun/04/protests-in-albania-grow-over-jared-kushner-backed-luxury-resort))  
-- **HSBC is placed under formal investigation for allegedly facilitating the laundering of hundreds of millions of dollars for Lebanese businessman Riad Salamé.** ([Le Monde](https://www.lemonde.fr/les-decodeurs/article/2026/06/04/hsbc-mise-en-examen-pour-avoir-aide-riad-salame-a-detourner-des-centaines-de-millions-de-dollars-dans-l-affaire-des-biens-mal-acquis-libanais_6697394_4355770.html))  
-- **French far‑right parties exploit the murder of Henry Nowak to spread populist, race‑based rhetoric across Europe.** ([The Guardian](https://www.theguardian.com/world/2026/jun/04/polish-far-right-nowak-britain-descent-depths-earth))  
-
-### Science & health
-- **A flesh‑eating “new world screwworm” larva is discovered in a Texas calf, prompting alerts from federal animal‑health agencies.** ([The Guardian](https://www.theguardian.com/us-news/2026/jun/04/new-world-screwworm-texas-cattle-industry))  
-- **Research published in France links longer screen‑time in early childhood to lower academic performance in later years.** ([Le Monde](https://www.lemonde.fr/sciences/article/2026/06/04/plus-le-temps-d-ecran-est-long-dans-la-petite-enfance-moins-bons-sont-les-resultats-scolaires_6697437_1650684.html))  
-
-### Culture & entertainment
-- **Quentin Tarantino condemns contemporary Hollywood as a “flavourless sausage factory” and says he would rather read a book.** ([The Guardian](https://www.theguardian.com/film/2026/jun/04/quentin-tarantino-criticises-hollywood-sight-and-sound))  
-- **Larry David recounts his 1991 threat to quit *Seinfeld* over a script the network deemed “too crazy.”** ([Vice](https://www.vice.com/en/article/35-years-ago-larry-david-threatened-to-quit-over-a-seinfeld-episode-nbc-thought-was-too-crazy-to-air/))  
-- **Sony Santa Monica issues a statement responding to backlash over the design of the *God of War* character Laufey.** ([Vice](https://www.vice.com/en/article/sony-santa-monica-responds-to-god-of-war-laufey-backlash/))  
-- **A leaked schedule suggests the upcoming *Star Wars Zero* video‑game will launch before *GTA 6*, igniting fan speculation.** ([Vice](https://www.vice.com/en/article/star-wars-zero-company-release-date-leaked-and-its-launching-before-gta-6/))  
-
-### Sports
-- **At Roland‑Garros, Russian teenager Mirra Andreeva takes a 2‑set lead in her semi‑final against Ukraine’s Marta Kostyuk.** ([Le Monde](https://www.lemonde.fr/sport/live/2026/06/04/en-direct-roland-garros-2026-suivez-la-journee-du-jeudi-4-juin_6697348_3242.html))  
-
----
-
-*All stories are linked to their original sources.*
+User Safety: safe
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
