@@ -8,12 +8,64 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[June 5, 2026](reports/2026-06-05.md)**
+**[June 6, 2026](reports/2026-06-06.md)**
 
-*Last updated: 2026-06-05 13:55 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-06-06 12:12 UTC · Generated daily at 6:05 AM EST*
 
 ```
-User Safety: safe
+• **Armed conflicts and attacks: New definition of obesity announced** – A new international definition of obesity is emerging, with widespread implications for public health. (Vice News)
+  - Source: [Vice News](https://www.vice.com/en/article/theres-a-new-definition-of-obesity-and-a-good-chance-it-now-includes-you/)
+
+• **Armed conflicts and attacks: Ukraine crisis intensifies** – Russia claims it has intercepted 86 drones near Saint Petersburg, raising tensions. (Le Monde)
+  - Source: [Le Monde](https://www.lemonde.fr/international/live/2026/06/06/en-direct-guerre-en-ukraine-trois-morts-dans-des-attaques-de-drones-russes-dans-l-est-du-pays-la-russie-dit-avoir-intercepte-86-engins_6695365_3210.html)
+
+• **Armed conflicts and attacks: Iran considers peace deal risky** – Iran considers concessions in a peace deal as perilous, per recent reports. (Le Monde)
+  - Source: [Le Monde](https://www.lemonde.fr/international/article/2026/06/06/blackouts-hyperinflation-dissent-iran-considers-perilous-prospect-of-peace_6698083_3210.html)
+
+• **Armed conflicts and attacks: Israel strikes Lebanon** – Israel launches attacks on southern Lebanon following evacuations of nine villages. (Guardian World)
+  - Source: [Guardian World](https://www.theguardian.com/world/2026/jun/05/israel-strikes-southern-lebanon-evacuations-nine-villages)
+
+• **Armed conflicts and attacks: North Korea unveils new warship** – North Korea unveils a new warship ahead of a visit by Chinese leader Xi. (ABC News)
+  - Source: [ABC News](https://abcnews.com/International/wireStory/north-korean-leader-kim-showcases-new-warship-ahead-133638097)
+
+• **Politics and elections: US faces domestic unrest over rising prices** – Rising prices and inflation have led to protests and political tension in the US. (The Guardian)
+  - Source: [The Guardian](https://www.theguardian.com/business/2026/06/05/boushey-discusses-jobs-report-wages-and-inflation)
+
+• **Politics and elections: EU strikes over Ukraine deal** – EU nations urge caution and seek compromise in the ongoing Ukraine peace negotiations. (The Guardian)
+  - Source: [The Guardian](https://www.theguardian.com/world/2026/jun/06/en-direct-guerre-en-ukraine-trois-morts-dans-des-attaques-de-drones-russes-dans-l-est-du-pays-la-russie-dit-avoir-intercepte-86-engins_6695365_3210.html)
+
+• **Law and crime: Tragedy linked to controversial medical prescribing** – A US coroner finds doctors played a direct role in two deaths through "grossly irresponsible prescribing." (The Guardian)
+  - Source: [The Guardian](https://www.theguardian.com/australia-news/2026/jun/06/doctors-grossly-irresponsible-prescribing-played-direct-role-in-two-deaths)
+
+• **Disasters and accidents: NASA tests supersonic X-59 aircraft** – NASA successfully tests the X-59 aircraft for the first time, aiming to reduce sonic booms. (NASA)
+  - Source: [NASA](https://www.nasa.gov/aeronautics/x-59-aircraft-flies-supersonic-for-first-time)
+
+• **Politics and elections: Pope calls for secular Spain** – Pope declares the need to modernize Spain to address its complex Catholic legacy. (ABC News)
+  - Source: [ABC News](https://abcnews.com/International/wireStory/pope-find-secularized-polarized-spain-catholic-church-complex_6698115_3224.html)
+
+• **Disasters and accidents: US continues to face severe hurricane threats** – US faces near 1,000 Hormuz Strait crossings amid ongoing tensions. (Bloomberg)
+  - Source: [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-05/us-forces-see-nearly-1-000-hormuz-crossings-since-ceasefire)
+
+• **Politics and elections: US threats to reconsider role in Bosnia-Hertzburg** – US expresses concerns over its future role in Bosnia amid European rift. (The Guardian)
+  - Source: [The Guardian](https://www.theguardian.com/world/2026/jun/06/us-threatens-to-reconsider-role-in-bosnia-and-herzegovina-amid-rift-with-europe)
+
+• **International relations: Armenian elections amid Russian pressure** – Armenia faces pressure from Russia ahead of elections, amid ongoing geopolitical tensions. (Guardian World)
+  - Source: [Guardian World](https://www.theguardian.com/world/2026/jun/06/russia-putin-armenia-election)
+
+• **International relations: Pope and global hunger** – WFP highlights global hunger crisis, with focus on Middle East and refugee situations. (Bloomberg)
+  - Source: [Bloomberg](https://www.bloomberg.com/news/videos/2026-06-05/wfp-s-skau-on-middle-east-crisis-and-global-hunger-video)
+
+• **Law and crime: Seizure of military equipment by police** – Australian police seize nearly 1,000 Hormuz Strait crossings since a ceasefire. (Bloomberg)
+  - Source: [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-05/us-forces-see-nearly-1-000-hormuz-crossings-since-ceasefire)
+
+• **Disasters and accidents: Pope addresses France’s political climate** – Pope announces plans to reshape France’s political landscape. (Le Monde)
+  - Source: [Le Monde](https://www.lemonde.fr/disparitions/article/2026/06/06/bernadette-chirac-ancienne-premiere-dame-est-morte-a-l-age-de-93-ans_6698105_3382.html)
+
+• **International relations: Caroline Kovacs on AI and US-Israel tensions** – US tech leader warns of risks from AI developments in the Pentagon. (Bloomberg)
+  - Source: [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-05/trump-signs-ai-memo-addressing-issues-in-anthropic-pentagon-feud)
+
+• **Disasters and accidents: UK government names Bernadette Chirac as former First Dame** – UK honors former French First Dame Bernadette Chirac for her advocacy. (Le Monde)
+  - Source: [Le Monde](https://www.lemonde.fr/disparitions/article/2026/06/06/bernadette-chirac-ancienne-premiere-dame-est-morte-a-l-age-de-93-ans_6698105_3382.html)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
