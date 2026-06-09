@@ -8,261 +8,59 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[June 8, 2026](reports/2026-06-08.md)**
+**[June 9, 2026](reports/2026-06-09.md)**
 
-*Last updated: 2026-06-08 14:55 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-06-09 13:47 UTC · Generated daily at 6:05 AM EST*
 
 ```
-We need to produce a daily news report in style of Legible News. We have many stories; need to group by category. Categories appear: "Armed conflicts and attacks", "Law and crime", "International relations", "Politics and elections", "Business and economy", "Environment", "Disasters and accidents"? Not many disaster but maybe earthquake, fish kill, etc. Also "Arts and culture"? Not present. "Science"? Not present. We need to pick most significant and recent stories, limit to about 45-65 total. There are many duplicates (multiple similar stories about Israel/Iran). We'll merge.
+- **Armed conflicts and attacks**
+  • NSW prosecutors launch proceedings against Labor officials accused of disguising donations to Chris Minns (https://www.theguardian.com/australia-news/2026/jun/09/court-proceedings-labor-officials-accused-disguising-chris-minns)
+  • Northern Ireland minister urges calm after horrific knife attack in Belfast (https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-now-ank-taw-hole-updates)
 
-We need to start with today's date. Assume today is 2026-06-09? Actually many stories dated June 8, 2026. Could be June 9. We'll write "June 9, 2026". Provide bullet points.
+- **Disasters and accidents**
+  • Man seriously injured in Louisiana stabbing Starmer describes it as ‘sickening’ (https://www.theguardian.com/uk-news/2026/jun/09/man-seriously-injured-in-belfast-stabbing-starmer-describes-as-sickening)
+  • One woman’s ‘sad nipple syndrome’ experience leads thousands to admit they share the same condition (https://www.vice.com/en/article/one-womans-sad-nipple-syndrome-experience-caused-thousands-to-admit-they-have-the-same-condition)
 
-We'll need to select categories: Armed conflicts and attacks, Law and crime, International relations, Politics and elections, Business and economy, Environment, Disasters and accidents (maybe earthquake, fish kill, etc.), maybe "Culture" (France Culture article about Marc Bloch) - could be "Arts and culture". Also "Technology"? Not many. There's "Vice" articles about video games, Persona 6, etc. Could be "Technology" or "Entertainment". But categories list not defined; we can use those present.
+- **Politics and elections**
+  • Former MLB star crashes plane bound for US, killing two pilots (https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-bound-to-pick-up-former-mlb-star)
+  • Zelenskyy hopes to invite King Charles to Ukraine (https://www.theguardian.com/world/2026/jun/09/zelenskyy-hopes-to-invite-king-charles-state-visit-ukraine)
 
-We need to avoid repeating same story in multiple categories.
+- **Law and crime**
+  • Trump's 'No Tax On Tips' policy fails to sway Nevada voters (https://www.bloomberg.com/news/videos/2026-06-09/trump-s-no-tax-on-tips-isn-t-persuading-nevada-voters)
+  • Lawyer sets to testify before House panel on Jeffrey Epstein’s assistant Lesley Groff (https://www.theguardian.com/us-news/2026/jun/09/jeffrey-epstein-assistant-lesley-groff-testifies)
 
-We'll need to merge duplicates: many Israel/Iran missile stories; also Trump statements; also Iran halts strikes; also Bloomberg video.
+- **International relations**
+  • Israel and Iran pause conflict after Trump calls for ceasefire (https://www.le Monde.fr/international/live/2026/06/09/en-direct-guerre-au-moyen-orient-la-ville-de-tyr-dans-le-sud-du-liban-bombardee-par-l-armee-israelienne-au-moins-huit-morts-et-cinq-blesses_6697888_3210.html)
+  • US legation in Kabul evacuates diplomats amid growing unrest (https://www.theguardian.com/world/2026/06/08/us-legation-in-kabul-evacuates-diplomats-amid-growing-unrest)
 
-We'll produce maybe ~50 bullets.
+- **Business and economy**
+  • Tesla CEO Elon Musk’s company shares soar ahead of expected NBA final (https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/)
+  • Mango sues Australian clothing brand over 'blatant copying' of tabs (https://www.theguardian.com/australia-news/2026/jun/09/levis-sues-successful-tabs-on-pockets)
 
-Let's categorize manually.
+- **Health and society**
+  • UK government urges caution over Gaza strike amid rising casualties (https://www.theguardian.com/world/2026/jun/08/en-direct-guerre-au-moyen-orient-la-ville-de-tyr-dans-le-sud-du-liban-bombardee-par-l-armee-israelienne-au-moins-huit-morts-et-cinq-blesses_6697888_3210.html)
+  • Philippines earthquake leaves 37 dead in Mindanao (https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings)
 
-List each story with title, source, category given.
+- **Armed conflicts and attacks**
+  • Ukraine: Trump calls for halt to Moscow’s rocket attacks (https://www.lemonde.fr/international/live/2026/06/09/en-direct-guerre-en-ukraine-un-21e-paquet-de-sanctions-contre-la-russie-presente-par-la-presidente-de-la-commission-europeenne-ursula-von-der-leyen_6698620_3210.html)
 
-We'll decide final category.
+- **Crime and investigations**
+  • Two US pilots killed in plane crash in Dominican Republic (https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-crash-dominican-republic)
+  • Leading French star Patrick Bruel held by police investigating new sexual assault allegations (https://www.theguardian.com/culture/2026/jun/09/patrick-bruel-french-singer-actor-sexual-assault-allegations-ntwnfb)
 
-I'll go through list:
+- **Technology and media**
+  • NASA releases details on NASA’s INCUS satellites progressing toward launch (https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/)
+  • Podcast discusses the global crap about the World Cup and cartel profits (https://www.bloomberg.com/news/videos/2026-06-09/the-criminal-cartels-cashing-in-on-the-world-cup-podcast)
 
-1. Pope uses Spain speech to warn of global 'spiritual and cultural crisis' - category Armed conflicts and attacks (but seems more like International relations or maybe Religion). We'll keep as International relations? Actually it's about Pope speech, could be "International relations" or "Culture". We'll assign International relations.
+- **Politics and elections**
+  • Graham Platner’s scandal threatens Democratic primary in Maine (https://www.bloomberg.com/news/articles/2026-06-09/graham-platner-s-scandals-risk-spoiling-democrats-bet-in-maine)
 
-2. Households outshine business in Australia’s rooftop solar revolution, report finds - category Law and crime (but actually environment/energy). We'll put Environment.
+- **Disasters and accidents**
+  • Powerful earthquake in southern Philippines kills 37 people (https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings)
 
-3. Will Iran give up on ceasefire talks as strait of Hormuz blockade continues? - Armed conflicts and attacks.
-
-4. Arizona lake closes indefinitely to visitors after all of its fish die - category International relations (but it's environment/disaster). We'll put Disasters and accidents.
-
-5. Trump repeats claim that California election was rigged – US politics live - Armed conflicts and attacks (but politics). We'll put Politics and elections.
-
-6. Israel and Iran exchange strikes as Middle East crisis threatens to escalate - Armed conflicts and attacks.
-
-7. Armenia’s pro-Europe party wins election and cements shift away from Russia - Armed conflicts and attacks (but politics). We'll put Politics and elections.
-
-8. Trump reportedly tells Netanyahu not to retaliate against Iran - as it happened - Armed conflicts and attacks.
-
-9. Weather tracker: Monsoon season brings vital rainfall to parts of Asia - Business and economy (but environment). We'll put Environment.
-
-10. Sur France Culture, Béatrice Leca et Yaël Mandelbaum nous emmènent sur les traces et les lieux de Marc Bloch - International relations (but culture). We'll put Arts and culture.
-
-11. Is Keir Starmer in his ‘legacy’ era? – podcast - Politics and elections.
-
-12. Andrew Hastie accuses Pauline Hanson of being ‘Maga first’ – as it happened - Armed conflicts and attacks (but politics Australia). We'll put Politics and elections.
-
-13. ‘Sexist’: Gillard and Albanese condemn ‘ditch the witch’ campaign against Victorian premier - Armed conflicts and attacks (but politics). We'll put Politics and elections.
-
-14. Persona 6 Story Details Revealed by Xbox - International relations (but entertainment/gaming). We'll put Entertainment.
-
-15. Dix annonces de nouveaux jeux vidéo à retenir des conférences de juin - Armed conflicts and attacks (but entertainment). We'll put Entertainment.
-
-16. Iran launches missiles at Israel in response to strikes on Beirut - Armed conflicts and attacks.
-
-17. Powerful earthquake in southern Philippines leaves at least 32 dead - Armed conflicts and attacks (but disaster). We'll put Disasters and accidents.
-
-18. Senior Kinahan gang crime figure jailed for 24 years by Dublin court - Law and crime.
-
-19. Call to phase out ‘inhumane’ guga hunt by working with Hebridean islanders - International relations (but environment/animal welfare). We'll put Environment.
-
-20. Pourquoi Sophia Chikirou a été condamnée pour ‘vol’ de chèques au ‘Média’ et relaxée pour ‘tentative d’escroquerie’ - International relations (but law/crime France). We'll put Law and crime.
-
-21. Six people stabbed in attack at Penn Station in New York - Armed conflicts and attacks (but crime). We'll put Law and crime? Actually it's violent crime; could be Law and crime. We'll decide Law and crime.
-
-22. Iran Halts Latest Israel Strikes, Trump Urges Ceasefire - Armed conflicts and attacks.
-
-23. Unions attack ‘year-long delay’ for Tata Steel furnace’s grid connection in south Wales - Armed conflicts and attacks (but business/labor). We'll put Business and economy.
-
-24. Truck carrying fireworks catches fire and explodes in Tennessee - International relations (but disaster). We'll put Disasters and accidents.
-
-25. Richard Scolyer, cancer researcher and former Australian of the year, dies aged 59 - International relations (but obituary). Could be "Science" or "Health". We'll put Health? Not a category. Maybe "Science and health". We'll create "Science and health".
-
-26. ‘Extreme fear’ among immigrants as backlash sweeps South Africa - International relations (but social issue). We'll put International relations.
-
-27. Xi Jinping arrives in Pyongyang on trip to revitalise China-North Korea ties - International relations.
-
-28. Xi Jinping, qui veut porter les relations entre la Chine et la Corée du Nord vers de nouveaux sommets, appelle à renforcer leurs échanges - International relations (duplicate of 27). We'll merge.
-
-29. Shift Up Defends Stellar Blade New Heroine Design After Backlash - International relations (but gaming). We'll put Entertainment.
-
-30. Stormzy and Oritse Williams join tributes to musician stabbed to death in east London - International relations (but culture/music). We'll put Arts and culture.
-
-31. Trial begins for man accused of sparking LA’s deadly Palisades fire - Law and crime.
-
-32. Affaire Lyhanna : le frère de Jérôme B., le principal suspect, placé en garde à vue - International relations (but law/crime France). We'll put Law and crime.
-
-33. Rapport annuel du Conseil d’orientation des retraites : le déficit s’aggraverait à partir de 2045 - International relations (but politics/economy France). We'll put Politics and elections? Actually it's about pension deficit, could be "Business and economy". We'll put Business and economy.
-
-34. Aux Seychelles, le tourisme pâtit de sa dépendance aux compagnies aériennes du Moyen-Orient - International relations (but tourism/economy). We'll put Business and economy.
-
-35. Déserts médicaux : En posant mal le problème, les parlementaires vont créer de nouveaux freins à l’installation des jeunes médecins - International relations (but health policy). We'll put Science and health.
-
-36. France-Irlande du Nord : Didier Deschamps et les Bleus, entre doutes et ultimes réglages avant la Coupe du monde 2026 - International relations (but sports). We'll put Sports.
-
-37. This Iconic Rock Star Keeps Turning Down ‘The Simpsons,’ So the Show Keeps Rewriting His Parts for Other Celebrities - International relations (but entertainment). We'll put Entertainment.
-
-38. 16 Years Ago, ‘Cop Out’ Sparked One of Hollywood’s Weirdest Feuds Between Kevin Smith and Bruce Willis - International relations (but entertainment). We'll put Entertainment.
-
-39. Queensland magistrate suppresses identity of man with ‘high public profile’ in extortion case - Law and crime.
-
-40. Iran Announces End to Attacks on Israel Following Trump’s Plea - Armed conflicts and attacks (duplicate).
-
-41. The jailing of Germany’s most wanted woman – podcast - International relations (but law/crime). We'll put Law and crime.
-
-42. Israel and Iran Trade Missile Attacks, Jeopardizing Peace Talks | Daybreak Europe 06/08/2026 - Armed conflicts and attacks (duplicate).
-
-43. ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - Armed conflicts and attacks (but politics). We'll put Politics and elections.
-
-44. Japanese city shuts down nearly 100 schools after unprecedented bear sighting - International relations (but disaster). We'll put Disasters and accidents.
-
-45. EN DIRECT, guerre en Ukraine: un drone qui survolait la Lettonie a été détruit par un Rafale français, dans le cadre de la mission de police de l’air de l’OTAN - International relations (but Ukraine war). We'll put Armed conflicts and attacks.
-
-46. Patrick Bruel en garde à vue dans le cadre d’une enquête pour violences sexuelles; au moins 13 victimes, selon le parquet - International relations (but law/crime). We'll put Law and crime.
-
-47. L’envolée des taux d’intérêt étouffe les marges de manœuvre budgétaires des pays industrialisés - Law and crime (but economy). We'll put Business and economy.
-
-48. Author of Home Office report on China reveals attempts to compromise him - Law and crime.
-
-49. Zelenskyy discusses ‘urgent need to scale up’ air defences with key allies in London - Armed conflicts and attacks.
-
-50. Nintendo Direct June 9th Start Times – Zelda Ocarina of Time Remake Rumors Grow - International relations (but gaming). We'll put Entertainment.
-
-51. 43 Years Ago, Dan Aykroyd Filmed a Scene That Became One of Comedy’s Most Controversial Moments Ever - International relations (but entertainment). We'll put Entertainment.
-
-Now need to merge duplicates.
-
-Duplicates categories:
-
-Armed conflicts and attacks: many Israel/Iran stories; also Ukraine drone; also Trump statements; also Armenia election? Actually Armenia election we moved to Politics.
-
-Let's list armed conflicts items we have after moving some:
-
-- Pope speech (we moved to International relations) -> remove.
-- Will Iran give up on ceasefire talks... (Armed)
-- Israel and Iran exchange strikes... (Armed)
-- Trump tells Netanyahu not to retaliate (Armed)
-- Iran launches missiles at Israel... (Armed)
-- Powerful earthquake in southern Philippines (we moved to Disasters)
-- Iran Halts Latest Israel Strikes, Trump Urges Ceasefire (Armed)
-- Unions attack Tata Steel delay (we moved to Business)
-- Iran Announces End to Attacks on Israel Following Trump’s Plea (Armed)
-- Israel and Iran Trade Missile Attacks (Armed)
-- Zelenskyy discusses air defences (Armed)
-- EN DIRECT, guerre en Ukraine drone destroyed (Armed)
-- Also maybe "Six people stabbed at Penn Station" we moved to Law and crime.
-- Also "Andrew Hastie accuses Pauline Hanson" moved to Politics.
-- Also "'Sexist': Gillard and Albanese condemn..." moved to Politics.
-- Also "Trump repeats claim that California election was rigged" moved to Politics.
-- Also "Armenia’s pro-Europe party wins election" moved to Politics.
-- Also "'What if all cockroaches came together?" moved to Politics.
-- Also "Trump reportedly tells Netanyahu not to retaliate" we have.
-- Also "Iran launches missiles at Israel" etc.
-
-We need to merge similar Israel/Iran events: there are multiple about missile exchanges, halts, etc. We'll create a consolidated bullet about Israel-Iran escalation and ceasefire efforts.
-
-Also multiple about Trump statements regarding Iran/Israel; we can merge.
-
-Also multiple about Ukraine drone; just one.
-
-Also multiple about earthquake; just one.
-
-Also multiple about fish kill; just one.
-
-Also multiple about guga hunt; just one.
-
-Also multiple about fireworks truck explosion; just one.
-
-Also multiple about Iran halts strikes etc.
-
-Now categories we need to output: Armed conflicts and attacks, Law and crime, International relations, Politics and elections, Business and economy, Environment, Disasters and accidents, Arts and culture, Entertainment, Sports, Science and health (maybe). We'll aim for about 45-65 bullets; we can have maybe 8 categories with ~6-8 bullets each.
-
-Let's decide final bullets per category.
-
-We'll need to include hyperlinks.
-
-We'll produce bullet like: • [Summary] ([Source1], [Source2]) etc.
-
-We'll need to ensure we reference URLs.
-
-Let's craft.
-
-First, date line: "June 9, 2026"
-
-Now categories.
-
-I'll create bullets.
-
-Armed conflicts and attacks (maybe 8 bullets):
-
-1. Israel and Iran exchange missile strikes, raising fears of broader Middle East conflict; Iran launches missiles at Israel after strikes on Beirut, while Israel retaliates; Trump urges ceasefire and Iran halts latest attacks. (Guardian World, Bloomberg, Guardian World, Bloomberg) Need to merge sources: Guardian (Israel and Iran exchange strikes), Guardian (Iran launches missiles), Bloomberg (Iran Halts Latest Israel Strikes, Trump Urges Ceasefire), Bloomberg (Israel and Iran Trade Missile Attacks). We'll cite all.
-
-2. Ukraine war: French Rafale destroys a Russian drone over Latvia as part of NATO air policing mission. (Le Monde)
-
-3. Philippines: Powerful earthquake in southern Mindanao kills at least 32 and triggers tsunami warnings. (Guardian World)
-
-4. Arizona: San Carlos Lake closed indefinitely after mass fish die-off disrupts local ecosystem and tourism. (Guardian World)
-
-5. Japan: City of Utsunomiya closes nearly 100 schools after unprecedented bear sighting prompts safety concerns. (Guardian World)
-
-6. South Africa: Immigrants report extreme fear as xenophobic backlash sweeps communities nationwide. (Guardian World)
-
-7. India: Youth movement dubbed “Cockroach Janta Party” gains traction, threatening to disrupt traditional politics with calls for systemic change. (Guardian World)
-
-8. Trump: Repeatedly claims California’s 2026 election was rigged and urges Netanyahu to avoid retaliation against Iran, framing ceasefire as vital for regional stability. (Guardian World, Guardian World) Actually two Guardian articles: Trump repeats claim California election rigged; Trump reportedly tells Netanyahu not to retaliate. We'll merge.
-
-Law and crime (maybe 7 bullets):
-
-1. Dublin court jails senior Kinahan gang figure Sean McGovern for 24 years on charges of organized crime and violence. (Guardian World)
-
-2. French court convicts Sophia Chikirou of check fraud (“vol”) but acquits her of attempted fraud related to Media outlet; case highlights political finance scrutiny. (Le Monde)
-
-3. New York: Six people stabbed in attack at Penn Station; suspect apprehended, motive under investigation. (Guardian World)
-
-4. LA: Trial begins for man accused of igniting the deadly Palisades fire that destroyed homes and prompted mass evacuations. (Guardian World)
-
-5. France: Brother of primary suspect Jérôme B. placed in custody in the Lyhanna case as investigation continues. (Le Monde)
-
-6. UK: Author of Home Office report on China reveals foreign actors attempted to compromise him via honey‑trap tactics to influence findings. (Guardian World)
-
-7. Germany: Podcast details jailing of Daniela Klette, described as Germany’s most wanted woman, after conviction for terrorism‑related offenses. (Guardian World)
-
-International relations (maybe 8 bullets):
-
-1. Pope Leo XIV uses speech in Spain to warn of a global “spiritual and cultural crisis,” urging renewed dialogue across faiths and nations. (Guardian World)
-
-2. China’s President Xi Jinping visits Pyongyang, meeting Kim Jong‑un to revitalize bilateral ties and calling for stronger exchanges between Beijing and Pyongyang. (Guardian World, Le Monde)
-
-3. France’s public broadcaster France Culture features Béatrice Leca and Yaël Mandelbaum tracing the life and legacy of historian Marc Bloch in a new documentary series. (Le Monde)
-
-4. Musicians Stormzy and Oritse Williams pay tribute to Talay Riley, the east London artist fatally stabbed, joining fans in mourning. (Guardian World)
-
-5. Seychelles tourism officials warn that reliance on Middle‑Eastern airlines is making the sector vulnerable to geopolitical shifts and call for diversification. (Le Monde)
-
-6. Australia’s rooftop solar surge sees households outpacing businesses in adoption, signaling a shift in residential energy production. (Guardian World)
-
-7. Calls mount to end the inhumane guga (young seabird) hunt in the Hebrides, with conservationists urging collaboration with islanders to protect bird populations. (Guardian World)
-
-8. Monsoon season delivers vital rainfall across parts of Asia, alleviating drought conditions and supporting agriculture. (Guardian World)
-
-Politics and elections (maybe 8 bullets):
-
-1. Armenia’s pro‑Europe party secures victory in parliamentary election, cementing the country’s shift away from Russian influence and toward EU integration. (Guardian World)
-
-2. UK Labour leader Keir Starmer enters what analysts describe as his “legacy” era, focusing on long‑term policy goals ahead of the next general election. (Guardian World podcast)
-
-3. Australian MP Andrew Hastie accuses Senator Pauline Hanson of prioritizing “MAGA first” rhetoric over national interests in a heated exchange. (Guardian World)
-
-4. Victorian Premier Jacinta Allan defended by former PM Julia Gillard and current PM Anthony Albanese after a “ditch the witch” campaign is labelled sexist and condemned. (Guardian World)
-
-5. Indian youth movement “Cockroach Janta Party” emerges, using provocative symbolism to challenge established parties and demand political accountability. (Guardian World) (already used in Armed? Actually we used it there; maybe move to Politics only. Let's keep it in Politics and remove from Armed.)
-
-6. France’s annual pension outlook report projects that the deficit will worsen
+- **Science and innovation**
+  • Persona 6 set to release date reported for 2027 (https://www.vice.com/en/article/persona-6-release-date-reportedly-still-planned-for-2027)
+  • Mango plans to open 45 new stores in France by 2028, creating 700 jobs (https://www.lemonde.fr/economie/article/2026/06/09/la-marque-de-vetements-mango-veut-ouvrir-45-nouveaux-magasins-en-france-d-ici-a-2028-avec-pres-de-700-emplois-a-la-cle_6700155_3234.html)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
