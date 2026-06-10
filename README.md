@@ -8,59 +8,45 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[June 9, 2026](reports/2026-06-09.md)**
+**[June 10, 2026](reports/2026-06-10.md)**
 
-*Last updated: 2026-06-09 13:47 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-06-10 14:28 UTC · Generated daily at 6:05 AM EST*
 
 ```
-- **Armed conflicts and attacks**
-  • NSW prosecutors launch proceedings against Labor officials accused of disguising donations to Chris Minns (https://www.theguardian.com/australia-news/2026/jun/09/court-proceedings-labor-officials-accused-disguising-chris-minns)
-  • Northern Ireland minister urges calm after horrific knife attack in Belfast (https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-now-ank-taw-hole-updates)
+Armed Conflicts and Attacks  
+• WH Smith raises £100m as it warns on profits due to Iran war (Guardian World).  
+• Charities in England and Wales donate millions to illegal Israeli settlements (Guardian World).  
+• Navy admiral fired by Hegseth advances in South Carolina (Guardian World).  
+• Belfast victim appeals for calm (Guardian World).  
+• Video shows family’s car slowing before Israeli troops shot dead Palestinian baby (Guardian World).  
+• Orangutans in disaster parody nearly kills a child (Vice News).  
+• Family of Belfast victim seeks peace (Guardian World).  
+• Tyler Mane reveals rare breast cancer treatment (Guardian World).  
+• Graham Platner overcomes allegations for Senate nomination (Guardian World).  
 
-- **Disasters and accidents**
-  • Man seriously injured in Louisiana stabbing Starmer describes it as ‘sickening’ (https://www.theguardian.com/uk-news/2026/jun/09/man-seriously-injured-in-belfast-stabbing-starmer-describes-as-sickening)
-  • One woman’s ‘sad nipple syndrome’ experience leads thousands to admit they share the same condition (https://www.vice.com/en/article/one-womans-sad-nipple-syndrome-experience-caused-thousands-to-admit-they-have-the-same-condition)
+Disasters and Accidents  
+• Trump targets immigrants from climate-affected regions (The Guardian).  
+• Oranges in Australia face institutional challenges (Le Monde).  
+• Man shot dead during Kenya protest (Guardian World).  
+• Florida earthquake shocks coastal communities (The Guardian).  
 
-- **Politics and elections**
-  • Former MLB star crashes plane bound for US, killing two pilots (https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-bound-to-pick-up-former-mlb-star)
-  • Zelenskyy hopes to invite King Charles to Ukraine (https://www.theguardian.com/world/2026/jun/09/zelenskyy-hopes-to-invite-king-charles-state-visit-ukraine)
+Politics and Elections  
+• Hannah Thomas admits police misconduct (Guardian World).  
+• Unilever strikes over gas licensing (Le Monde).  
+• Florence Nightingale calls for justice funding (Le Monde).  
+• British Columbia quake disrupts lives (The Guardian).  
+• Australian pilots face disciplinary action (The Guardian).  
 
-- **Law and crime**
-  • Trump's 'No Tax On Tips' policy fails to sway Nevada voters (https://www.bloomberg.com/news/videos/2026-06-09/trump-s-no-tax-on-tips-isn-t-persuading-nevada-voters)
-  • Lawyer sets to testify before House panel on Jeffrey Epstein’s assistant Lesley Groff (https://www.theguardian.com/us-news/2026/jun/09/jeffrey-epstein-assistant-lesley-groff-testifies)
+International Relations  
+• UN urges review of migration policy (Le Monde).  
+• Chinese measures face global scrutiny (Le Monde).  
+• Pope Leo blesses Sagrada Família (Guardian World).  
+• Graham Platner secures Senate nomination (Guardian World).  
+• Starfleet’s Artemis III updates discussed (The Guardian).  
 
-- **International relations**
-  • Israel and Iran pause conflict after Trump calls for ceasefire (https://www.le Monde.fr/international/live/2026/06/09/en-direct-guerre-au-moyen-orient-la-ville-de-tyr-dans-le-sud-du-liban-bombardee-par-l-armee-israelienne-au-moins-huit-morts-et-cinq-blesses_6697888_3210.html)
-  • US legation in Kabul evacuates diplomats amid growing unrest (https://www.theguardian.com/world/2026/06/08/us-legation-in-kabul-evacuates-diplomats-amid-growing-unrest)
-
-- **Business and economy**
-  • Tesla CEO Elon Musk’s company shares soar ahead of expected NBA final (https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/)
-  • Mango sues Australian clothing brand over 'blatant copying' of tabs (https://www.theguardian.com/australia-news/2026/jun/09/levis-sues-successful-tabs-on-pockets)
-
-- **Health and society**
-  • UK government urges caution over Gaza strike amid rising casualties (https://www.theguardian.com/world/2026/jun/08/en-direct-guerre-au-moyen-orient-la-ville-de-tyr-dans-le-sud-du-liban-bombardee-par-l-armee-israelienne-au-moins-huit-morts-et-cinq-blesses_6697888_3210.html)
-  • Philippines earthquake leaves 37 dead in Mindanao (https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings)
-
-- **Armed conflicts and attacks**
-  • Ukraine: Trump calls for halt to Moscow’s rocket attacks (https://www.lemonde.fr/international/live/2026/06/09/en-direct-guerre-en-ukraine-un-21e-paquet-de-sanctions-contre-la-russie-presente-par-la-presidente-de-la-commission-europeenne-ursula-von-der-leyen_6698620_3210.html)
-
-- **Crime and investigations**
-  • Two US pilots killed in plane crash in Dominican Republic (https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-crash-dominican-republic)
-  • Leading French star Patrick Bruel held by police investigating new sexual assault allegations (https://www.theguardian.com/culture/2026/jun/09/patrick-bruel-french-singer-actor-sexual-assault-allegations-ntwnfb)
-
-- **Technology and media**
-  • NASA releases details on NASA’s INCUS satellites progressing toward launch (https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/)
-  • Podcast discusses the global crap about the World Cup and cartel profits (https://www.bloomberg.com/news/videos/2026-06-09/the-criminal-cartels-cashing-in-on-the-world-cup-podcast)
-
-- **Politics and elections**
-  • Graham Platner’s scandal threatens Democratic primary in Maine (https://www.bloomberg.com/news/articles/2026-06-09/graham-platner-s-scandals-risk-spoiling-democrats-bet-in-maine)
-
-- **Disasters and accidents**
-  • Powerful earthquake in southern Philippines kills 37 people (https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings)
-
-- **Science and innovation**
-  • Persona 6 set to release date reported for 2027 (https://www.vice.com/en/article/persona-6-release-date-reportedly-still-planned-for-2027)
-  • Mango plans to open 45 new stores in France by 2028, creating 700 jobs (https://www.lemonde.fr/economie/article/2026/06/09/la-marque-de-vetements-mango-veut-ouvrir-45-nouveaux-magasins-en-france-d-ici-a-2028-avec-pres-de-700-emplois-a-la-cle_6700155_3234.html)
+Law and Crime  
+• Orangutan incident highlights ethical concerns (Vice News).  
+• Graham Platner navigates political challenges (Guardian World).
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
