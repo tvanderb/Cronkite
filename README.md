@@ -8,45 +8,12 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[June 10, 2026](reports/2026-06-10.md)**
+**[June 11, 2026](reports/2026-06-11.md)**
 
-*Last updated: 2026-06-10 14:28 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-06-11 14:50 UTC · Generated daily at 6:05 AM EST*
 
 ```
-Armed Conflicts and Attacks  
-• WH Smith raises £100m as it warns on profits due to Iran war (Guardian World).  
-• Charities in England and Wales donate millions to illegal Israeli settlements (Guardian World).  
-• Navy admiral fired by Hegseth advances in South Carolina (Guardian World).  
-• Belfast victim appeals for calm (Guardian World).  
-• Video shows family’s car slowing before Israeli troops shot dead Palestinian baby (Guardian World).  
-• Orangutans in disaster parody nearly kills a child (Vice News).  
-• Family of Belfast victim seeks peace (Guardian World).  
-• Tyler Mane reveals rare breast cancer treatment (Guardian World).  
-• Graham Platner overcomes allegations for Senate nomination (Guardian World).  
-
-Disasters and Accidents  
-• Trump targets immigrants from climate-affected regions (The Guardian).  
-• Oranges in Australia face institutional challenges (Le Monde).  
-• Man shot dead during Kenya protest (Guardian World).  
-• Florida earthquake shocks coastal communities (The Guardian).  
-
-Politics and Elections  
-• Hannah Thomas admits police misconduct (Guardian World).  
-• Unilever strikes over gas licensing (Le Monde).  
-• Florence Nightingale calls for justice funding (Le Monde).  
-• British Columbia quake disrupts lives (The Guardian).  
-• Australian pilots face disciplinary action (The Guardian).  
-
-International Relations  
-• UN urges review of migration policy (Le Monde).  
-• Chinese measures face global scrutiny (Le Monde).  
-• Pope Leo blesses Sagrada Família (Guardian World).  
-• Graham Platner secures Senate nomination (Guardian World).  
-• Starfleet’s Artemis III updates discussed (The Guardian).  
-
-Law and Crime  
-• Orangutan incident highlights ethical concerns (Vice News).  
-• Graham Platner navigates political challenges (Guardian World).
+None
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
