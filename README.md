@@ -8,12 +8,12 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[June 11, 2026](reports/2026-06-11.md)**
+**[June 12, 2026](reports/2026-06-12.md)**
 
-*Last updated: 2026-06-11 14:50 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-06-12 14:13 UTC · Generated daily at 6:05 AM EST*
 
 ```
-None
+User Safety: safe
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
