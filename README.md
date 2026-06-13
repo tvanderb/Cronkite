@@ -8,12 +8,22 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[June 12, 2026](reports/2026-06-12.md)**
+**[June 13, 2026](reports/2026-06-13.md)**
 
-*Last updated: 2026-06-12 14:13 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-06-13 12:58 UTC · Generated daily at 6:05 AM EST*
 
 ```
-User Safety: safe
+June 13, 2026  
+
+Armed conflicts and attacks  
+• Ongoing talks between the US and Iran suggest an interim peace deal may be finalized within 24 hours, amid reports of Iranian military buildup with Russian-made missiles ([Guardian World](https://www.theguardian.com/world/2026/jun/12/trump-rollercoaster-deal-us-iran), [Le Monde](https://www.lemonde.fr/international/live/2026/06/13/en-direct-guerre-au-moyen-orient-l-armee-israelienne-annonce-des-bombardements-imminents-sur-le-sud-du-liban_6701050_3210.html), [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-12/iran-likely-added-russian-made-missiles-as-it-rebuilt-arsenal))  
+• A woman is in critical condition after a shark attack at Coogee Beach in Australia ([Guardian World](https://www.theguardian.com/australia-news/2026/jun/13/woman-in-critical-condition-after-shark-attack-at-coogee-beach))  
+• Palestinian-American woman Sama Safi remains detained without charge by the Israeli military ([Guardian World](https://www.theguardian.com/us-news/2026/jun/13/palestinian-held-sama-safi-israeli-military))  
+• Dutch far-right party PVV ordered to pay damages to a court artist after altering an image with AI ([Guardian World](https://www.theguardian.com/world/2026/jun/13/geert-wilders-pvv-dutch-far-right-party-damages-court-artist-change-image-ai))  
+
+Politics and elections  
+• Former Spanish Prime Minister José Luis Rodríguez Zapatero faces a tax fraud inquiry following the discovery of €1.3 million in jewelry ([Guardian World](https://www.theguardian.com/world/2026/jun/12/former-spain-pm-zapatero-faces-tax-fraud-inquiry))  
+• US officials estimate an 80-85% chance of finalizing an interim Iran deal to reopen the Strait of Hormuz and address nuclear concerns ([Bloomberg](https
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
