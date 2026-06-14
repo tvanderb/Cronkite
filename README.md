@@ -8,22 +8,19 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[June 13, 2026](reports/2026-06-13.md)**
+**[June 14, 2026](reports/2026-06-14.md)**
 
-*Last updated: 2026-06-13 12:58 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-06-14 13:02 UTC · Generated daily at 6:05 AM EST*
 
 ```
-June 13, 2026  
-
-Armed conflicts and attacks  
-• Ongoing talks between the US and Iran suggest an interim peace deal may be finalized within 24 hours, amid reports of Iranian military buildup with Russian-made missiles ([Guardian World](https://www.theguardian.com/world/2026/jun/12/trump-rollercoaster-deal-us-iran), [Le Monde](https://www.lemonde.fr/international/live/2026/06/13/en-direct-guerre-au-moyen-orient-l-armee-israelienne-annonce-des-bombardements-imminents-sur-le-sud-du-liban_6701050_3210.html), [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-12/iran-likely-added-russian-made-missiles-as-it-rebuilt-arsenal))  
-• A woman is in critical condition after a shark attack at Coogee Beach in Australia ([Guardian World](https://www.theguardian.com/australia-news/2026/jun/13/woman-in-critical-condition-after-shark-attack-at-coogee-beach))  
-• Palestinian-American woman Sama Safi remains detained without charge by the Israeli military ([Guardian World](https://www.theguardian.com/us-news/2026/jun/13/palestinian-held-sama-safi-israeli-military))  
-• Dutch far-right party PVV ordered to pay damages to a court artist after altering an image with AI ([Guardian World](https://www.theguardian.com/world/2026/jun/13/geert-wilders-pvv-dutch-far-right-party-damages-court-artist-change-image-ai))  
-
-Politics and elections  
-• Former Spanish Prime Minister José Luis Rodríguez Zapatero faces a tax fraud inquiry following the discovery of €1.3 million in jewelry ([Guardian World](https://www.theguardian.com/world/2026/jun/12/former-spain-pm-zapatero-faces-tax-fraud-inquiry))  
-• US officials estimate an 80-85% chance of finalizing an interim Iran deal to reopen the Strait of Hormuz and address nuclear concerns ([Bloomberg](https
+2026-06-14  
+Armed conflicts and attacks • NSW lifts drone ban over Sydney beach following a shark attack incident (Guardian World) • Ukraine and Moldova begin first phase of EU membership negotiations amid ongoing security concerns (Guardian World) • Zelenskyy thanks UK for intercepting Russian shadow fleet oil tanker in the English Channel (Guardian World) • MPs call for end to real estate event over fears it promotes sale of Israeli settlements (Guardian World) • Australian girl killed in Pakistan after reportedly being shot by police (Guardian World) • Blaze at 1m-sq-ft California warehouse rages into third day (Guardian World) • Deadly Philippines earthquake found to have raised seabed by up to 2 metres (Guardian World) • Trump to meet Mideast partners on sidelines of G7 in France (Bloomberg) • Donald Trump faces a foe he can never defeat: Father Time (Guardian World) • Trump taps lawyer who helped defend him as Wall Street’s top cop (Bloomberg)  
+Disasters and accidents • Deadly Philippines earthquake found to have raised seabed by up to 2 metres (Guardian World) • Blaze at 1m-sq-ft California warehouse rages into third day (Guardian World)  
+Politics and elections • Farage vows to ban foreign nationals from social housing as byelection looms (Guardian World) • Wes Streeting plans to increase high-skilled immigration if he becomes PM (Guardian World) • UK poised to water down 2030 EV sales targets after industry and union pressure (Guardian World) • Arlette Testyler, rescapée de la rafle du Vél’d’Hiv’en 1942, est morte (Le Monde) • Nicolas Kssis-Martov, historien du sport: « Le football a toujours cristallisé les enjeux politiques de la gauche » (Le Monde) • Trump to meet Mideast partners on sidelines of G7 in France (Bloomberg)  
+Law and crime • Australian girl killed in Pakistan after reportedly being shot by police (Guardian World) • Arlette Testyler, rescapée de la rafle du Vél’d’Hiv’en 1942, est morte (Le Monde) • Trump taps lawyer who helped defend him as Wall Street’s top cop (Bloomberg)  
+International relations • DNA from 2,000-year-old grape seeds points to origins of modern winemaking (Guardian World) • Ukrainian and Moldovan leaders to enter first phase of EU membership negotiations (Guardian World) • Diplomacy is no longer a safe space for UK’s wounded premier (Bloomberg) • Albaniaans protest against another luxury development on Adriatic coast (Guardian World) • “Straight out of Trumpland”: LGBTQ+ members fight for Pride after Essex library ban (Guardian World) • Trump fête ses 80 ans, son ami Dana White apporte le MMA au cœur de la Maison Blanche (Le Monde) • Présidente 2027: Raphaël Glucksmann fait salle comble aux Docks d’Aubervilliers et se pose en adversaire du RN (Le Monde)  
+Business and economy • UK, Japan plan to sign £18 billion clean energy investment deal (Bloomberg)  
+Other • UFC to pay White House fighters in crypto issued by Trump company (Guardian World) • Jamaican beach access campaigners go to court to fight privatisation of coast (Guardian World) • Streeting pledges global talent drive, North Sea investment plan (Bloomberg) • “Straight out of Trumpland”: LGBTQ+ members fight for Pride after Essex library ban (Guardian World) • Mourners line Bangkok streets to pay respects to Thailand’s Princess Bha (Guardian World)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
