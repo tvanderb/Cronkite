@@ -8,47 +8,50 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[June 15, 2026](reports/2026-06-15.md)**
+**[June 16, 2026](reports/2026-06-16.md)**
 
-*Last updated: 2026-06-15 16:21 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-06-16 16:02 UTC · Generated daily at 6:05 AM EST*
 
 ```
-June 15, 2026
+- **Armed conflicts and attacks**
+  • Russia’s frigate reportedly fired warning shots at a British yacht in the Channel, sparking international reactions ([Guardian World](https://www.theguardian.com/uk-news/2026/jun/16/russian-frigate-fires-warning-shots-at-british-yacht-in-channel-reports))
+  • The incident draws attention from global leaders, with some expressing concern over potential escalation ([Le Monde](https://www.lemonde.fr/international/live/2026/06/16/en-direct-guerre-en-ukraine-un-navire-de-guerre-russe-a-tire-des-coups-de-semonce-en-direction-d-un-bateau-dans-la-manche_6702230_3210.html))
 
-**Armed conflicts and attacks**
-• Donald Trump and Iranian negotiator Mohammad Ghalibaf have electronically signed a framework peace deal focusing on shipping, sanctions relief, and deferred nuclear talks ([Guardian World](https://www.theguardian.com/world/2026/jun/15/analysis-us-iran-peace-deal-shipping-sanctions-relief-nuclear-talks-ballistic-missiles), [Le Monde](https://www.lemonde.fr/international/live/2026/06/15/en-direct-guerre-au-moyen-orient-donald-trump-j-d-vance-et-le-negociateur-iranien-mohammad-ghalibaf-ont-signe-electroniquement-un-accord-cadre), [NPR World](https://www.npr.org/2026/06/15/g-s1-128145/up-first-newsletter-iran-war-g7-summit-ufc-fight)).
-• War-weary citizens in Lebanon are greeting a proposed ceasefire with caution, while Israeli officials remain defiant over the inclusion of a Lebanon truce within the US-Iran deal ([Guardian World](https://www.theguardian.com/world/2026/jun/15/war-weary-lebanese-ceasefire-caution), [Guardian World](https://www.theguardian.com/world/2026/jun/15/israel-territory-lebanon-defence-minister-israel-katz)).
-• Russian attacks in Kyiv have targeted the UNESCO-protected Dormition Cathedral and set fire to the Pechersk Lavra monastery ([Guardian World](https://www.theguardian.com/world/2026/jun/15/kyiv-pechersk-lavra-monastery-on-fire-russian-attacks-ukraine), [Bloomberg](https://www.bloomberg.com/news/videos/2026-06-15/russia-strikes-unesco-protected-cathedral-in-kyiv-video), [Le Monde](https://www.lemonde.fr/international/live/2026/06/15/en-direct-guerre-en-ukraine-kiev-affirme-avoir-trouve-des-debris-d-un-drone-de-conception-russe-sur-le-site-de-la-cathedrale-de-la-dormition)).
-• Indian leaders at the G7 summit have expressed outrage over the US killing of several sailors ([Guardian World](https://www.theguardian.com/world/2026/jun/15/indian-outrage-over-us-killing-of-sailors-mounts-as-leaders-attend-g7-summit)).
-• A teenager in Brisbane is allegedly plotting terror attacks against Liberal party targets after being influenced by the Unabomber ([Guardian World](https://www.theguardian.com/australia-news/2026/jun/15/brisbane-teenager-allegedly-plotted-terror-attacks-after-being-influenced-by-unabomber-court-hears-ntwnfb)).
+- **Disasters and accidents**
+  • A 15-year-old Kenyan student fell 15 floors and died while working at a Sydney hotel; her family is seeking answers ([Guardian World](https://www.theguardian.com/australia-news/2026/jun/17/kenyan-student-sheila-chebii-death-sydney-hotel-meriton-suites-ntwnfb))
+  • A Starbucks store in Korea closed temporarily after a mishap during a promotion, prompting public outrage ([Guardian World](https://www.theguardian.com/world/2026/jun/15/starbucks-korea-shut-all-stores-tank-day-promotion))
 
-**Business and economy**
-• Oil prices have hit a three-month low and markets have rallied following the breakthrough in the US-Iran peace deal, though experts warn that energy prices may not return to pre-war levels for months ([Guardian World](https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal), [Guardian World](https://www.theguardian.com/business/2026/jun/15/return-pre-crisis-oil-gas-supplies-months-away-iran-strait-of-hormuz)).
-• Senator Chuck Schumer has proposed a revamp of the Ex-Im Bank as its expiration deadline approaches ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-15/schumer-proposes-ex-im-bank-revamp-as-expiration-deadline-looms)).
-• Economists suggest it is unlikely that France will be able to stabilize its national debt by 2029 ([Le Monde](https://www.lemonde.fr/politique/article/2026/06/15/stabiliser-la-dette-de-la-france-en-2029-des-economistes-estiment-peu-probable-d-y-parvenir_6703235_823448.html)).
+- **Politics and elections**
+  • With the US Senate preparing for a deal signing, both sides claim victory in the agreement ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-16/us-iran-prepare-for-deal-signing-with-both-claiming-win-video))
+  • The UK government is conducting a thorough investigation into a recent attack involving a Russian warship in the English Channel ([Le Monde](https://www.lemonde.fr/international/live/2026/06/16/en-direct-guerre-en-ukraine-un-navire-de-guerre-russe-a-tire-des-coups-de-semonce-en-direction-d-un-bateau-dans-la-manche_6702230_3210.html))
+  • The EU seeks to close a gap in US military cuts in Europe, highlighting the importance of transatlantic cooperation ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-16/nato-seeks-to-make-up-shortfall-of-us-military-cuts-in-europe))
 
-**Politics and elections**
-• The UK Court of Appeal has ruled that the ban on the activist group Palestine Action was lawful ([Guardian World](https://www.theguardian.com/uk-news/2026/jun/15/ban-on-palestine-action-was-lawful-court-of-appeal-rules), [Guardian World](https://www.theguardian.com/uk-news/2026/jun/15/arrested-protesters-devastated-after-appeal-court-rules-ban-on-palestine-action-is-lawful)).
-• The Reform party has been accused of proposing £40 billion in tax cuts to improve its standing in the Makerfield byelection ([Guardian World](https://www.theguardian.com/politics/live/2026/jun/15/keir-starmer-social-media-ban-under-16s-tik-tok-instagram-snapchat-twitter-x-meta-uk-politics-latest-news-updates)).
-• Spanish Prime Minister Pedro Sanchez faces a difficult week as his wife and a former Prime Minister are summoned before judges ([Guardian World](https://www.theguardian.com/world/2026/jun/15/spain-pedro-sanchez-begona-gomez-jose-luis-rodriguez-zapatero-trial)).
-• Donald Trump has announced a July 4th rally in Washington D.C. and recently hosted a UFC cage match at the White House ([Guardian World](https://www.theguardian.com/us-news/live/2026/jun/15/donald-trump-ufc-white-house-michelle-obama-g7-iran-peace-deal-us-politics-latest-news-updates)).
+- **Law and crime**
+  • An Australian student died after falling 15 floors while working at a hotel in Kenya; authorities are investigating the circumstances ([Guardian World](https://www.theguardian.com/world/2026/jun/17/kenyan-student-sheila-chebii-death-kps))
+  • A Russian artist and critic of Vladimir Putin was shot dead in Pakistan, intensifying international scrutiny of the regime ([Guardian World](https://www.theguardian.com/world/2026/jun/16/russia-artist-putin-critic-robert-kuzovkov-shot-dead-poland))
 
-**Law and crime**
-• The son of Norway's crown princess, Marius Borg Høiby, has been convicted of rape and sentenced to four years in prison ([Guardian World](https://www.theguardian.com/world/2026/jun/15/son-norway-crown-princess-convicted-rape-marius-borg-hoiby)).
-• A UK court has found a man guilty of the sexual abuse and murder of an adopted baby ([Guardian World](https://www.theguardian.com/uk-news/2026/jun/15/uk-court-finds-man-guilty-of-murdering-adopted-baby)).
-• A One Nation branch official has come under fire for racist posts calling Aboriginal people "stone age" and defending the Hitler Youth ([Guardian World](https://www.theguardian.com/australia-news/2026/jun/16/one-nation-hitler-youth-john-drew-ntwnfb)).
+- **International relations**
+  • The Guardian reports a potential deal between the US and Iran for a peace agreement, despite both claiming victory ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-16/us-iran-prepare-for-deal-signing-with-both-claiming-win-video))
+  • A live-action version of *Beavis and Butt-Head* is rumored to be in development, with wild casting rumors ([Vice News](https://www.vice.com/en/article/a-live-action-beavis-and-butt-head-movie-almost-happened-and-the-rumored-cast-guidance))
+  • The Maldives is considering a controversial “Copper Valley” project as a response to rising copper prices on the Warsaw Bourse ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-16/poland-floats-copper-valley-idea-as-lumina-metals-gains-on-warsaw-bourse-debut))
 
-**Disasters and accidents**
-• A plane crash in Missouri has killed 11 skydivers ([Guardian World](https://www.theguardian.com/us-news/2026/jun/15/missouri-skydivers-plane-crash)).
-• US musician Oliver Tree, 32, was killed in a helicopter crash in Brazil ([Guardian World](https://www.theguardian.com/world/2026/jun/14/musician-oliver-tree-32-killed-in-helicopter-crash-in-brazil)).
-• A 21-year-old woman died in Brazil after being thrown from a rope jump bridge without a harness ([Guardian World](https://www.theguardian.com/world/2026/jun/15/brazil-rope-jump-bridge-woman-dies)).
-• A woman lost an arm following a shark attack at Coogee Beach in Sydney ([Guardian World](https://www.theguardian.com/australia-news/2026/jun/15/coogee-shark-attack-woman-survivor-leah-stewart-sydney-arm-amputated)).
+- **Disasters and accidents**
+  • A luxury steam machine benchmarks leak reported to cause concern over performance ([Vice News](https://www.vice.com/en/article/steam-machine-benchmarks-reportedly-leak-and-spark-concern-over-performance))
+  • The UK parliament explores voting on a new law regarding the cost of luxury items, as both parties claim to have passed it ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-16/nato-seeks-to-make-up-shortfall-of-us-military-cuts-in-europe))
 
-**International relations**
-• The UN has called for the establishment of an aid corridor in the Strait of Hormuz ([United Nations News](https://news.un.org/feed/view/en/story/2026/06/1167717)).
-• The University of Cambridge has been accused of tolerating bullying and misogyny during a tribunal ([Guardian World](https://www.theguardian.com/education/2026/jun/15/university-of-cambridge-accused-of-tolerating-misogyny-and-bullying-in-tribunal)).
-• In Italy, a moped stolen in 1984 was recently returned to its original owner ([Guardian World](https://www.theguardian.com/world/2026/jun/15/stolen-moped-returned-to-owner-italy)).
-• Saharan heat is expected to cause temperatures to soar across Europe ([Guardian World](https://www.theguardian.com/environment/2026/jun/15/weather-tracker-sahara-heatwave-temperatures-europe-australia)).
+- **Crime and violence**
+  • The UK government is investigating the shooting of a Kenyan student while she was visiting a hotel in Pakistan; authorities are urging the public to remain vigilant ([Guardian World](https://www.theguardian.com/world/2026/jun/17/kenyan-student-sheila-chebii-death-pakistan-hania-ahmed-police-ntwnfb))
+  • A South African jazz pianist is buried at age 91 amid controversy over a recent death [The Guardian](https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies)
+
+- **Education and academic issues**
+  • A teacher in Paris is under scrutiny after allegedly relaxing charges against a former elementary school principal [Le Monde](https://www.lemonde.fr/societe/article/2026/06/16/periscolaire-a-paris-pourquoi-un-ex-animateur-de-l-ecole-elementaire-titon-a-ete-relaxe-d-accusations-de-harcelement-sexuel-sur-des-eleves-de-cm1_6703875_3224.html)
+  • A French political leader is demanding justice after being shot by police while visiting Pakistan [The Guardian](https://www.theguardian.com/world/2026/jun/16/australian-girl-shot-killed-pakistan-hania-ahmed-police-ntwnfb)
+
+- **War and conflict**
+  • France anticipates a heatwave with temperatures potentially reaching 40°C locally by Friday, with Paris expected to exceed 35°C on Thursday and Friday ([Le Monde](https://www.lemonde.fr/planete/article/2026/06/16/vague-de-chaleur-meteo-france-anticipe-des-pointes-a-40-c-localement-en-fin-de-semaine_6703866_3244.html))
+  • Zelenskyy praised G7 leaders for their strong ideas on forcing Russia into peace as the conflict in Ukraine continues ([Guardian World](https://www.theguardian.com/world/live/2026/06/16/g7-world-leaders-ukraine-russia-war-iran-trump-zelenskyy-putin-eu-france-eu-europe-latest-news-updates))
+
+Let me know if you need even more stories organized by category!
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
