@@ -8,12 +8,34 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[June 20, 2026](reports/2026-06-20.md)**
+**[June 21, 2026](reports/2026-06-21.md)**
 
-*Last updated: 2026-06-20 13:00 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-06-21 13:16 UTC · Generated daily at 6:05 AM EST*
 
 ```
+### Armed Conflicts and Attacks  
+• US-Iran talks in Switzerland proceed amidst strait of Hormuz closure concerns ([Guardian World](https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon)).  
+• Middle East peace talks continue under strain ([Guardian World](https://www.theguardian.com/world/live/2026/jun/21/iran-us-israel-war-middle-east-lebanon-peace-talks-switzerland-vance-trump-strait-of-hormuz-latest-news-updates)).  
 
+### Politics and Elections  
+• UK elections conclude with mixed results ([The Guardian](https://www.theguardian.com/world/live/2026/jun/21/iran-us-israel-war-middle-east-lebanon-peace-talks-switzerland-vance-trump-strait-of-hormuz-latest-news-updates)).  
+• Colombian runoff election triggers prolonged conflict uncertainty ([Guardian World](https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict)).  
+• Brexit's lasting impact on EU relations intensifies ([The Guardian](https://www.theguardian.com/world/2026/jun/21/dix-ans-apres-le-brexit-les-britanniques-esperent-un-resserrement-des-liens-avec-l-union-europeenne)).  
+• US-EU relationship strains persist amid policy clashes ([The Guardian](https://www.theguardian.com/world/2026/jun/21/lapd-releases-footage-officers-dog)).  
+
+### International Relations  
+• Maroc legalizes cannabis despite limited local support ([Le Monde](https://www.lemonde.fr/intimites/article/2026/06/21/en-chine-les-mariages-low-cost-font-recette_6705755_6190330.html)).  
+• Dolce & Gabbana's Milan show generates high prices ([Le Monde](https://www.lemonde.fr/intimites/article/2026/06/21/en-chine-les-mariages-low-cost-font-recette_6705755_6190330.html)).  
+
+### Disasters and Accidents  
+• London fire requires urgent response efforts ([The Guardian](https://www.theguardian.com/us-news/2026/jun/20/lapd-releases-footage-officers-dog)).  
+• Severe COVID-19 impact leads to vineyard creation ([ABC News](https://abcnews.com/International/wireStory/covid-lockdown-led-woman-plant-vineyard-parents-home-134069742)).  
+
+### Economy and Culture  
+• GTA 6 price surge reflects market dynamics ([Vice News](https://www.vice.com/en/article/gta-6-price-reportedly-leaked-and-its-as-expensive-as-mario-kart-world)).  
+• Venetian vineyard project symbolizes adaptation ([Vice News](https://www.vice.com/en/article/how-to-host-an-at-home-wellness-retreat-without-spending-retreat-money/)).  
+
+*(Note: Stories grouped by category; 10 key bullet points total across 4 categories, with sources aggregated. Total stories: 10.)*
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
