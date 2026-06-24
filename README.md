@@ -8,72 +8,12 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[June 23, 2026](reports/2026-06-23.md)**
+**[June 24, 2026](reports/2026-06-24.md)**
 
-*Last updated: 2026-06-23 13:47 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-06-24 13:28 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**June 23 2026**
-
----
-
-### Armed conflicts and attacks
-- A study of U.S. data‑centers finds that a majority are exposed to climate‑related hazards such as floods, wildfires and heatwaves, raising concerns over digital‑infrastructure resilience. ([The Guardian](https://www.theguardian.com/us-news/2026/jun/23/datacenters-climate-hazards-study))  
-- The EU faces intense criticism after proposals to host Taliban representatives in Brussels, sparking debate over diplomatic engagement with the militant group. ([The Guardian](https://www.theguardian.com/world/2026/jun/23/eu-faces-fierce-criticism-plans-host-taliban-brussels))  
-- Iran’s president travelled to Pakistan as U.S.–Iran teams negotiate a war‑ending deal and agree to allow UN nuclear inspectors back into Iran. ([NPR](https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal))  
-- South Africa sees a surge in anti‑migrant xenophobic attacks, driven by economic strain and political rhetoric. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-23/south-africa-anti-migrant-backlash-what-driving-protests-xenophobic-attacks))  
-- A gunman opened fire in Montréal, leaving a manifesto inspired by the “incel” movement; the incident reignites concerns over online radicalisation. ([Le Monde](https://www.lemonde.fr/international/video/2026/06/23/les-images-de-la-fusillade-de-montreal-le-tireur-a-laisse-un-manifeste-inspire-du-courant-incel_6708994_3210.html))  
-- UK MP Andrew Hastie (Australia) was granted extra security after a “One Nation” campaign targeted him. ([The Guardian](https://www.theguardian.com/australia-news/2026/jun/23/andrew-hastie-extra-security-one-nation-campaign-ntwnfb))  
-- Former UK far‑right activist Tommy Robinson was praised by Australian TV host Karl Stefanovic for his “tenacity” and “courage” on a podcast, provoking backlash. ([The Guardian](https://www.theguardian.com/media/2026/jun/23/karl-stefanovic-uk-far-right-tommy-robinson-podcast-video-ntwnfb))  
-
-### Disasters and accidents
-- A Florida condominium collapse, long considered sudden, was revealed by a forensic report to have progressed over several weeks, highlighting construction oversight failures. ([The Guardian](https://www.theguardian.com/us-news/2026/jun/23/florida-condo-collapse))  
-- Record heatwave across Europe killed two children found in a car in France; temperatures are forecast to reach 44 °C in parts of the continent. ([The Guardian](https://www.theguardian.com/environment/2026/jun/22/europe-record-heatwave-temperatures-forecast-reach-44c))  
-
-### Politics and elections
-- Former Brexit champion Nigel Farage claimed he could spend a £5 million gift on Ferraris or horse‑betting, dismissing public scrutiny of his finances. ([The Guardian](https://www.theguardian.com/politics/2026/jun/23/nigel-farage-5m-gift-crypto-billionaire-not-any-of-your-business))  
-- A new book by former Trump aides alleges they risked their lives to obtain White House secrets, describing “near‑lethal” encounters. ([The Guardian](https://www.theguardian.com/us-news/2026/jun/23/new-trump-book-regime-change))  
-- Scottish National Party former chief operating officer Peter Murrell was sentenced to five years in prison for embezzling £400,000 from the party. ([The Guardian](https://www.theguardian.com/politics/2026/jun/23/peter-murrell-sentenced-embezzlement-snp-scottish-national-party))  
-- Australian opposition leader Angus Taylor declined to state his position on multiculturalism, fueling intra‑party debate. ([The Guardian](https://www.theguardian.com/australia-news/2026/jun/23/liberal-party-opposition-leader-angus-taylor-multiculturalism-ntwnfb))  
-- A UK parliamentary select committee will examine claims that Britain prioritised ties with the UAE over preventing mass atrocities in Sudan. ([The Guardian](https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond))  
-- Colombia’s election of a far‑right leader has prompted warnings that democratic institutions could be undermined. ([The Guardian](https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump))  
-
-### Law and crime
-- Kenya’s health minister halted construction of a U.S.‑funded Ebola treatment centre, citing procedural breaches. ([The Guardian](https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility))  
-- A Romanian court issued an injunction forcing a nationalist group to stop hoisting St George’s flags in Oxfordshire. ([The Guardian](https://www.theguardian.com/uk-news/2026/jun/23/nationalist-group-stop-hoisting-st-george-flags-oxfordshire-court-injunction))  
-- Cult leader William Kamm and his wife were accused in Sydney of grooming a young girl for a decade, sparking renewed scrutiny of “Little Pebble” sect. ([The Guardian](https://www.theguardian.com/australia-news/2026/jun/23/cult-leader-william-kamm-little-pebble-wife-girl-sydney-court-ntwnfb))  
-- Niger formally requested withdrawal from the International Criminal Court, a move that could affect ongoing investigations. ([Le Monde](https://www.lemonde.fr/international/article/2026/06/23/le-niger-a-officiellement-depose-sa-demande-de-retrait-de-la-cour-penale-internationale_6709222_3210.html))  
-
-### Business and economy
-- German finance minister Christian Merkel (Merz) backed a pension‑age reform that would channel €30 billion into markets, aiming to shore up the country’s retirement system. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-23/merz-says-he-ll-push-ahead-with-plan-to-raise-german-pension-age))  
-- An audit firm was fined and barred after “egregious” failures in reviewing the Gupta metals empire, underscoring regulatory tightening. ([The Guardian](https://www.theguardian.com/business/2026/jun/23/audit-firm-gupta-metals-empire-fined-and-banned-frc-uk))  
-- Bloomberg’s day‑break video notes a sharp sell‑off in global tech stocks led by SpaceX‑related concerns. ([Bloomberg](https://www.bloomberg.com/news/videos/2026-06-23/daybreak-europe-6-23-2026-video))  
-- Billionaire Gautam Adani met Donald Trump Jr. in India while under U.S. indictment for alleged bribery, raising questions about political influence. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-23/billionaire-gautam-adani-met-donald-trump-jr-while-facing-us-bribery-charges))  
-
-### Science & technology
-- NASA’s **Chandra** X‑ray Observatory identified a possible supernova remnant, adding to the catalogue of stellar explosions. ([NASA](https://www.nasa.gov/image-article/nasas-chandra-finds-possible-supernova-remnant/))  
-- The **Webb** telescope traced comet 3I/ATLAS’s material to an ancient, distant origin, offering clues about the early solar system. ([NASA](https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/))  
-- A student‑run sounding‑rocket mission is slated for launch, providing hands‑on research opportunities for university teams. ([NASA](https://www.nasa.gov/centers-and-facilities/wallops/nasa-sounding-rocket-to-launch-student-experiments/))  
-- NASA invited media to the Artemis Accords signing ceremony in Botswana, marking a new partnership for lunar exploration. ([NASA](https://www.nasa.gov/news-release/nasa-invites-media-to-botswana-artemis-accords-signing-ceremony/))  
-
-### Culture & entertainment
-- Bethesda revealed development updates for **The Elder Scrolls VI** and the upcoming Marvel‑licensed **Blade** game. ([Vice](https://www.vice.com/en/article/bethesda-gives-development-updates-for-elder-scrolls-6-and-marvels-blade-games/))  
-- A Vice feature details the 2017 film that pushed Jordan Peele away from acting, describing his reaction as “F*** This.” ([Vice](https://www.vice.com/en/article/this-2017-movie-made-jordan-peele-step-away-from-acting-f-this/))  
-- New Fortnite update (June 25) adds a roster of sprites with unique powers; the guide explains acquisition methods. ([Vice](https://www.vice.com/en/article/all-new-fortnite-sprites-in-june-25-update-powers-revealed-how-to-get-them/))  
-- A fresh souls‑like game entered Steam’s beta, attracting rapid early‑player interest. ([Vice](https://www.vice.com/en/article/new-soulslike-beta-gets-off-to-a-fast-start-on-steam/))  
-- Dungeons & Dragons released nine new feats that are powerful but carry notable drawbacks. ([Vice](https://www.vice.com/en/article/dungeons-and-dragons-nine-new-feats-are-powerful-but-come-with-a-downside/))  
-- A “Chief Breakup Officer” role was advertised by a dating site, offering professional “dumping” services. ([Vice](https://www.vice.com/en/article/a-dating-site-is-hiring-a-chief-breakup-officer-to-professionally-dump-people-for-you/))  
-- Jon Stewart once called a high‑profile actor his “worst Daily Show guest,” labeling him “a big pain in the ass.” ([Vice](https://www.vice.com/en/article/jon-stewart-once-called-this-a-list-actor-his-worst-daily-show-guest-a-big-pain-in-the-a/))  
-
-### International relations
-- Marco Rubio travelled to Gulf allies to discuss divisions over the U.S.–Iran cease‑fire arrangement. ([The Guardian](https://www.theguardian.com/world/2026/jun/23/marco-rubio-gulf-allies-us-iran-ceasefire-deal))  
-- France’s World Cup squad, hailed as the “most talented” by international press, entered the 2026 tournament with three “Musketeers.” ([Le Monde](https://www.lemonde.fr/sport/article/2026/06/23/portee-par-ses-trois-mousquetaires-l-equipe-de-france-est-selon-la-presse-internationale-la-plus-talentueuse-de-la-coupe-du-monde-2026_6708609_3242.html))  
-- A lost memoir of a Hiroshima survivor was uncovered in a U.S. archive, offering new personal testimony of the atomic bombing. ([The Guardian](https://www.theguardian.com/books/2026/jun/23/lost-memoir-of-hiroshima-survivor-found-after-decades-in-us-archive))  
-- Iran accelerated outreach to Asia’s biggest oil importers after a U.S. waiver eased sanctions. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-23/iran-rushes-to-woo-asia-s-largest-oil-importers-after-us-waiver))  
-
----  
-
-*Compiled from The Guardian, Bloomberg, Vice, Le Monde, NPR, NASA and other reputable outlets.*
+None
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
