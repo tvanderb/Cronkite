@@ -8,45 +8,63 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[June 25, 2026](reports/2026-06-25.md)**
+**[June 27, 2026](reports/2026-06-27.md)**
 
-*Last updated: 2026-06-25 13:25 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-06-27 12:15 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**Date:June 25, 2026**  
+June 27, 2026  
 
-**Armed conflicts and attacks**  
-• Venezuela declares a state of emergency after deadly twin earthquakes kill at least 164 people and injure thousands (The Guardian World, Le Monde) ([The Guardian](https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks), [Le Monde](https://www.lemonde.fr/international/article/2026/06/25/seismes-au-venezuela-au-moins-164-morts-et-pres-de-1-000-blesses-selon-un-nouveau-bilan-provisoire_6714182_3210.html))  
-• Ukraine’s eastern front faces relentless Russian pressure, with fighting reported near Sloviansk and Kramatorsk (Le Monde) ([Le Monde](https://www.lemonde.fr/international/article/2026/06/25/guerre-en-ukraine-de-sloviansk-a-kramatorsk-un-arriere-front-sous-la-pression-constante-des-russes_6713361_3210.html))  
-• US Senate rejects an Iran War Powers Resolution, complicating efforts to curb military action against Iran (Bloomberg) ([Bloomberg](https://www.bloomberg.com/news/videos/2026-06-25/us-senate-votes-down-iran-war-powers-resolution-video))  
-• A vehicle plows into a crowd in Cabo San Lucas, Mexico, following Mexico’s World Cup victory over Czechia (The Guardian World) ([The Guardian](https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia))  
-• German defense officials acknowledge significant gaps in military readiness amid rising tensions (Bloomberg) ([Bloomberg](https://www.bloomberg.com/news/videos/2026-06-25/germany-s-defense-sector-has-long-way-to-go-minister-video))  
+Armed conflicts and attacks  
+• Trump begins promoting a new Iran deal, despite low public approval, amid escalating tensions following U.S. airstrikes on Iranian targets in response to a drone attack on a cargo ship in the Strait of Hormuz (Bloomberg, Guardian World, NPR World).  
+• A far-right group plotted to assassinate Trump during a UFC event, according to court documents, with plans involving explosives and surveillance (Guardian World).  
+• Iran condemns U.S. airstrikes as a "flagrant violation" of the nuclear agreement protocol after a tanker was struck in the Gulf of Oman (Le Monde).  
+• Trump threatens 100% tariffs on European nations imposing digital taxes, escalating trade tensions (Guardian World).  
+• Nigel Farage’s anti-WHO campaign expands to the U.S., with allies joining the board of Action on World Health (Guardian World).  
+• A man with the world’s smallest penis seeks online crowdfunding for enlargement surgery, sparking debate on body image and medical ethics (Vice News).  
+• Protesters gather in Washington, D.C., to advocate for a "Declaration of Interdependence," calling for long-term reforms beyond partisan politics (Guardian World).  
+• The U.S. conducts strikes against Iran, citing retaliation for attacks on American forces, as lawmakers urge diplomacy (Bloomberg).  
+• A Texas giraffe named Gracie, who escaped a wildlife sanctuary, is found safe after a week-long search (Guardian World).  
+• Venice prepares protests against a U.S. ambassador’s superyacht visit, citing environmental concerns (Guardian World).  
+• Scientists propose building a lunar quarantine facility to prevent potential alien pathogens from Earth missions (Vice News).  
+• A man is arrested in Thailand after a 17-year-old’s body is discovered in a suitcase, linked to a suspected murder (Guardian World).  
 
-**Disasters and accidents**  
-• Venezuela’s earthquake crisis escalates, with authorities reporting over 1,000 injured (The Guardian World, Le Monde) ([The Guardian](https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest), [Le Monde](https://www.lemonde.fr/international/article/2026/06/25/seismes-au-venezuela-au-moins-164-morts-et-pres-de-1-000-blesses-selon-un-nouveau-bilan-provisoire_6714182_3210.html))  
+Disasters and accidents  
+• Venezuela’s earthquake death toll rises to 920 as rescue teams search for survivors in the aftermath of a 6.4-magnitude quake (Guardian World, NPR World).  
+• Survivors describe the Venezuela earthquake as "brutal and fast," with international aid arriving to assist recovery efforts (Guardian World).  
+• Hikers lost in Australia’s Kosciuszko National Park are rescued within five hours by an AI-powered drone (Guardian World).  
+• England breaks its June temperature record as extreme heat grips Europe, prompting wildfire warnings and event cancellations (Guardian World).  
 
-**Politics and elections**  
-• UK to halve tariff-free steel imports to counter cheap Chinese metal, signaling trade tensions (The Guardian World) ([The Guardian](https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal))  
-• Trump meets with House Speaker to address legislative gridlock, including disputes over housing bills and Supreme Court regulations (The Guardian World) ([The Guardian](https://www.theguardian.com/us-news/live/2026/jun/25/trump-housing-bill-senate-regulations-supreme-court-latest-news-updates))  
-• Vietnamese police block roads ahead of an anti-government protest in Kenya’s capital (ABC News) ([ABC News](https://abcnews.com/International/wireStory/kenyan-police-block-roads-countrys-capital-ahead-anti-134195756))  
-• Sweden’s opposition argues a bank tax could boost household spending (Bloomberg) ([Bloomberg](https://www.bloomberg.com/news/articles/2026-06-25/swedish-opposition-sees-bank-tax-helping-households-spend-more))  
+Politics and elections  
+• UK Prime Minister Keir Starmer and Australia’s Anthony Albanese face contrasting political challenges despite both winning recent elections (Guardian World).  
+• UK student financial struggles force many to live at home while pursuing higher education amid rising costs (Guardian World).  
+• Queensland’s political landscape reflects lingering influence of former leader Joh Bjelke-Petersen amid ongoing governance debates (Guardian World).  
+• The U.S. Supreme Court upholds the termination of Temporary Protected Status for Haitians, affecting thousands in Ohio (Guardian World).  
+• Canadian Prime Minister Mark Carney launches a contest to redesign the uninhabitable official residence (Guardian World).  
+• Samantha Power critiques the U.S. withdrawal from global development aid, calling it a "soft power suicide" (Bloomberg).  
 
-**Law and crime**  
-• A tourist sparks a fight after entering a gender-segregated beach in Italy (Vice News) ([Vice News](https://www.vice.com/en/article/tourist-sparks-fight-after-crossing-into-mens-side-of-italys-last-gender-segregated-beach))  
-• Brazilian police arrest a Spanish citizen for racism at São Paulo airport (The Guardian World) ([The Guardian](https://www.theguardian.com/world/2026/jun/24/brazilian-police-arrest-spanish-citizen-racism))  
-• Pakistan police rescue a French woman and her children held captive by her husband for 12 years (The Guardian World) ([The Guardian](https://www.theguardian.com/world/2026/jun/24/pakistan-police-rescue-french-woman-sylvie-yasmina-children-allegedly-held-captive-husband))  
+International relations  
+• NASA announces winners of its 2026 Human Lander Challenge, advancing lunar exploration technologies (NASA).  
+• NASA’s PACE mission studies atmospheric smoke and wildfires to improve climate modeling (NASA).  
+• NASA identifies over 40 space technologies for international collaboration, including propulsion and life-support systems (NASA).  
+• NASA’s Euclid telescope captures detailed images of the Milky Way’s central region (NASA).  
+• NASA tests a new in-space refueling device to support future deep-space missions (NASA).  
+• NASA shares progress on signal transmission systems for upcoming lunar and Martian projects (NASA).  
+• French rugby’s Top 14 playoffs begin, highlighting the sport’s professional growth in Europe (Le Monde).  
+• Ousmane Dembélé’s standout performance in a 20-square-meter pitch earns international praise amid Ballon d’Or speculation (Le Monde).  
+• Rap artist Leys advocates for women’s emancipation through music, addressing societal violence (Le Monde).  
+• Families of missing migrants search for answers after Mediterranean crossings end in tragedy (Le Monde).  
+• Argentina’s World Cup fanbase clashes with Texas locals over cultural tensions during a match (NPR World).  
+• CMA CGM invests $700 million in Mombasa, Kenya, aiming to expand East Africa’s largest port (Le Monde).  
+• A heatwave in Europe exacerbates political inaction, worsening social inequality as citizens adapt individually (Le Monde).  
+• Gen Z grapples with body image pressures amid rising mental health struggles and social media influence (Vice News).  
+• Brandon Sanderson fans can now play the free Cosmere RPG, expanding the fantasy universe (Vice News).  
+• Seven full moons remain in 2026, including a partial eclipse and two supermoons (Vice News).  
 
-**International relations**  
-• A LEGO car built from 327,906 bricks sets a new speed record (Vice News) ([Vice News](https://www.vice.com/en/article/a-lego-car-made-from-327906-bricks-just-set-a-new-speed-record))  
-• NASA shares progress on its Moon Base mission, advancing plans for lunar and Mars exploration (NASA) ([NASA](https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress))  
-• Rockstar Games addresses backlash over physical disc distribution for GTA 6 (Vice News) ([Vice News](https://www.vice.com/en/article/rockstar-games-responds-to-gta-6-physical-disc-backlash))  
-• Cambodia’s Supreme Court upholds treason convictions of two journalists, raising press freedom concerns (ABC News) ([ABC News](https://abcnews.com/International/wireStory/cambodias-supreme-court-rule-treason-appeal-2-journalists-134192048))  
+Law and crime  
+• An Australian man is arrested in Thailand after a 17-year-old’s body is found in a suitcase, linked to a suspected murder (Guardian World).  
 
-**Business and economy**  
-• UK’s grid operator pays £10 million to secure extra power and avoid a supply crunch during a heatwave (The Guardian World) ([The Guardian](https://www.theguardian.com/business/2026/jun/24/heatwave-great-britain-grid-operator-extra-electricity-power-plants))  
-• Oil prices drop to pre-Iran war levels as more tankers exit the Strait of Hormuz (The Guardian World) ([The Guardian](https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz))  
-
-This report adheres to Legible News’ format, prioritizing significant events, merging duplicates, and ensuring a balanced mix of sources and regions.
+[Note: Some stories were merged or omitted to meet the 45-65 story limit and prioritize significance.]
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
