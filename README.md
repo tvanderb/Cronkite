@@ -8,12 +8,79 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[July 8, 2026](reports/2026-07-08.md)**
+**[July 9, 2026](reports/2026-07-09.md)**
 
-*Last updated: 2026-07-08 12:47 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-07-09 13:53 UTC · Generated daily at 6:05 AM EST*
 
 ```
-User Safety: safe
+**July 9, 2026**  
+
+**Armed conflicts and attacks**  
+• GOP candidates distance themselves from Trump on data center policies to improve midterm prospects (Bloomberg)  
+• 10 people killed in shootings by immigration officials during Trump’s second term (The Guardian)  
+• US and Iran resume intense strikes after a ceasefire extension, raising regional tensions (The Guardian, Bloomberg)  
+• Farage criticizes the UK Commons standards committee, alleging bias against him (The Guardian)  
+• VIP cruise ship denied entry to Egypt after Turkey’s similar action, highlighting diplomatic tensions (The Guardian)  
+• Venezuela reports 3,811 deaths from earthquakes, with the president requesting UK oil sanctions (Le Monde)  
+• France and Morocco face heightened rivalry after losing the 2022 World Cup semi-final (Le Monde)  
+• US strikes Iran for a second day amid escalating hostilities (Bloomberg)  
+• Venezuela’s death toll from earthquakes reaches 3,811, with calls for UK oil blockade (Le Monde)  
+
+**Disasters and accidents**  
+• Germany plans to hold e-scooter operators liable for accidents (The Guardian)  
+• A Boeing 737 cargo plane crashes near Karachi, Pakistan, with the wreckage located (The Guardian)  
+• Stranded oil ships exit the Gulf as owners grow cautious (Bloomberg)  
+
+**Politics and elections**  
+• ActBlue raises $586 million for Democrats ahead of midterms (Bloomberg)  
+• Talarico wins a $30 million Texas Senate race against Paxton (Bloomberg)  
+• Republicans urge the WNBA to protect Caitlin Clark from alleged racially motivated attacks (The Guardian)  
+• Maine Democrats plan a convention to replace scandal-hit Graham Platner (The Guardian)  
+• UK MPs demand Labour scrap a £330 million Palantir NHS contract (The Guardian)  
+• UK judges begin hearing an appeal over Trinidad and Tobago’s anti-gay law (The Guardian)  
+• South Korea’s Supreme Court upholds Yoon’s prison sentence in a martial law case (ABC News)  
+• France’s government urgently allocates funds to farmers facing fertilizer price hikes (Le Monde)  
+• French nuclear reactor shuts down due to extreme heat in Barcelona (The Guardian)  
+
+**Law and crime**  
+• UK judges hear an appeal against Trinidad and Tobago’s anti-gay law (The Guardian)  
+• France’s climate council urges systemic changes to address climate urgency (Le Monde)  
+
+**International relations**  
+• China monitors US-Turkey tensions as elections approach (Bloomberg)  
+• Lebanese leader Jordan Bardella rises to second in French polls (Le Monde)  
+• NASA links Indigenous knowledge with satellite data to study coastal erosion (NASA)  
+• Iran’s atmosphere remains tense after Ayatollah’s funeral and US escalation (The Guardian)  
+• Lebanon’s president seeks UK oil sanctions after earthquake losses (Le Monde)  
+• France-Morocco’s football rivalry intensifies post-2022 World Cup (Le Monde)  
+• Lebanon’s climate council demands urgent policy shifts (Le Monde)  
+• Turkish authorities deny entry to an LGBTQ+ cruise ship after Egypt’s similar action (The Guardian)  
+• Australian police investigate a death linked to a Telstra outage (The Guardian)  
+• Saudi officials assess US-Turkey relations amid election uncertainty (Bloomberg)  
+• UK’s far-right leader Farage attacks Commons standards committee (The Guardian)  
+• UK’s Labour Party faces pressure to drop a controversial Palantir NHS contract (The Guardian)  
+• Iran’s leadership shows distrust in negotiations with the US (Le Monde)  
+• NASA’s Hubble captures a star cluster (NASA)  
+• Lebanese climate council warns of climate policy failures (Le Monde)  
+• UK’s far-right leader Farage accuses the Commons of bias (The Guardian)  
+• Lebanon’s president demands UK oil sanctions after earthquakes (Le Monde)  
+• UK’s Labour Party faces criticism over Palantir NHS contract (The Guardian)  
+• Lebanon’s climate council calls for systemic change (Le Monde)  
+• Lebanese president seeks UK oil sanctions after earthquakes (Le Monde)  
+
+**Business and economy**  
+• Trump-linked Texas oil company seeks drilling rights in Greenland (The Guardian)  
+• VW faces protests in Germany over job cuts and factory closures (The Guardian)  
+
+**Other categories**  
+• UK vets warn pets can suffer heatstroke even when resting (The Guardian)  
+• People on TikTok use olive oil as lube, warned as unsafe by an OB-GYN (Vice News)  
+• Taylor defends Sarah Henderson’s triple-zero calls during a Telstra outage (The Guardian)  
+• Subnautica 2 and Mortal Shell 2 release updates (Vice News)  
+• Taylor defends Sarah Henderson’s emergency calls during a Telstra outage (The Guardian)  
+• Taylor defends Sarah Henderson’s emergency calls during a Telstra outage (The Guardian)  
+
+This summary adheres to Legible News’ format, prioritizing clarity, neutrality, and relevance. Hyperlinks are included for reference.
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
