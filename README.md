@@ -58,6 +58,7 @@ python cronkite.py
 - NPR World — https://feeds.npr.org/1004/rss.xml
 - Al Jazeera — https://www.aljazeera.com/xml/rss/all.xml
 - Le Monde — https://www.lemonde.fr/rss/une.xml
+- Der Spiegel — https://www.spiegel.de/international/index.rss
 - La Repubblica — https://www.repubblica.it/rss/homepage/rss2.0.xml
 - The Economist — https://www.economist.com/international/rss.xml
 - Financial Times — https://www.ft.com/world?format=rss
@@ -103,18 +104,11 @@ python cronkite.py
 - Hacker News
 - Mastodon (mastodon.social)
 
-### Government & Major Feeds (2024)
-- NASA — https://www.nasa.gov/rss/dyn/breaking_news.rss
-- Government of Canada — https://www.canada.ca/en/news/feed.xml
-- Supreme Court of Canada — https://decisions.scc-csc.ca/scc-csc/en/rss/index.do
-- White House (USA) — https://www.whitehouse.gov/briefing-room/feed/
-- CDC Newsroom (USA) — https://tools.cdc.gov/api/v2/resources/media/403372.rss
-- GOV.UK News (UK) — https://www.gov.uk/government/announcements.atom
-- Australian Government News — https://www.australia.gov.au/news-media.rss
-- Australian Department of Health — https://www.health.gov.au/news/rss
-- EU Newsroom — https://ec.europa.eu/commission/presscorner/api/rss/all/en
+### Government & Major Feeds
+- NASA — https://www.nasa.gov/feed/
+- GOV.UK News (UK) — https://www.gov.uk/search/news-and-communications.atom
+- EU Newsroom — https://ec.europa.eu/commission/presscorner/api/rss?language=en
 - United Nations News — https://news.un.org/feed/subscribe/en/news/all/rss.xml
-- Associated Press — https://apnews.com/rss/apf-topnews
 
 ### Academic & Research Feeds
 - Harvard Gazette — https://news.harvard.edu/gazette/feed/
@@ -130,7 +124,7 @@ python cronkite.py
 - The Lancet — https://www.thelancet.com/rssfeed/lancet_current.xml
 - Proceedings of the National Academy of Sciences — https://www.pnas.org/rss/current.xml
 - PLOS One — https://journals.plos.org/plosone/feed/atom
-- arXiv — http://export.arxiv.org/rss/cs.AI
+- arXiv — https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=25
 - bioRxiv — https://connect.biorxiv.org/biorxiv_xml.php?subject=all
 
 ### Industry Feeds
@@ -139,7 +133,7 @@ python cronkite.py
 - Ars Technica — https://feeds.arstechnica.com/arstechnica/index
 - The Verge — https://www.theverge.com/rss/index.xml
 - Engadget — https://www.engadget.com/rss.xml
-- Forbes Tech — https://www.forbes.com/technology/feed/
+- Forbes Innovation — https://www.forbes.com/innovation/feed/
 - Fortune — https://fortune.com/feed/
 - Business Insider — https://www.businessinsider.com/rss
 - CNBC — https://www.cnbc.com/id/100003114/device/rss/rss.html

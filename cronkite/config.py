@@ -97,6 +97,7 @@ SOURCE_WEIGHTS = {
     'The Verge': 0.7,
     'Engadget': 0.7,
     'Forbes Tech': 0.8,
+    'Forbes Innovation': 0.8,
     'Fortune': 0.8,
     'Business Insider': 0.7,
     'CNBC': 0.8,
@@ -175,6 +176,7 @@ SOURCE_HIERARCHY = {
     'The Verge': 6,
     'Engadget': 6,
     'Forbes Tech': 6,
+    'Forbes Innovation': 6,
     'Fortune': 6,
     'Business Insider': 6,
     'CNBC': 6,
@@ -295,6 +297,7 @@ RSS_FEEDS = [
     ('NPR World', 'https://feeds.npr.org/1004/rss.xml'),
     ('Al Jazeera', 'https://www.aljazeera.com/xml/rss/all.xml'),
     ('Le Monde', 'https://www.lemonde.fr/rss/une.xml'),
+    ('Der Spiegel', 'https://www.spiegel.de/international/index.rss'),
     ('La Repubblica', 'https://www.repubblica.it/rss/homepage/rss2.0.xml'),
     ('The Economist', 'https://www.economist.com/international/rss.xml'),
     ('Financial Times', 'https://www.ft.com/world?format=rss'),
@@ -309,10 +312,10 @@ RSS_FEEDS = [
 
 # Government RSS feeds - only working ones
 GOVERNMENT_RSS_FEEDS = [
-    # US Federal Government - only working feeds
     ('NASA', 'https://www.nasa.gov/feed/'),
-    # Canadian Government - only working feeds
-    ('Government of Canada', 'https://www.canada.ca/en/news/feed.xml'),
+    ('GOV.UK News (UK)', 'https://www.gov.uk/search/news-and-communications.atom'),
+    ('EU Newsroom', 'https://ec.europa.eu/commission/presscorner/api/rss?language=en'),
+    ('United Nations News', 'https://news.un.org/feed/subscribe/en/news/all/rss.xml'),
 ]
 
 # Academic RSS feeds - only working ones
@@ -332,7 +335,7 @@ ACADEMIC_RSS_FEEDS = [
     ('The Lancet', 'https://www.thelancet.com/rssfeed/lancet_current.xml'),
     ('Proceedings of the National Academy of Sciences', 'https://www.pnas.org/rss/current.xml'),
     ('PLOS One', 'https://journals.plos.org/plosone/feed/atom'),
-    ('arXiv', 'http://export.arxiv.org/rss/cs.AI'),
+    ('arXiv', 'https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=25'),
     ('bioRxiv', 'https://connect.biorxiv.org/biorxiv_xml.php?subject=all'),
 ]
 
@@ -355,7 +358,7 @@ INDUSTRY_RSS_FEEDS = [
     ('Ars Technica', 'https://feeds.arstechnica.com/arstechnica/index'),
     ('The Verge', 'https://www.theverge.com/rss/index.xml'),
     ('Engadget', 'https://www.engadget.com/rss.xml'),
-    ('Forbes Tech', 'https://www.forbes.com/technology/feed/'),
+    ('Forbes Innovation', 'https://www.forbes.com/innovation/feed/'),
     ('Fortune', 'https://fortune.com/feed/'),
     ('Business Insider', 'https://www.businessinsider.com/rss'),
     ('CNBC', 'https://www.cnbc.com/id/100003114/device/rss/rss.html'),

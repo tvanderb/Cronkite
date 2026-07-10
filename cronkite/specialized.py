@@ -63,7 +63,7 @@ class GovernmentScraper:
         try:
             feed = feedparser.parse(content)
             for entry in feed.entries:
-                pub_date = self._parse_date(str(entry.get('published', '') or ''))
+                pub_date = self._parse_date(str(entry.get('published', '') or entry.get('updated', '') or ''))
                 if pub_date and pub_date > cutoff_time:
                     story = NewsStory(
                         title=str(entry.get('title', '') or ''),
@@ -76,7 +76,7 @@ class GovernmentScraper:
                     )
                     stories.append(story)
         except Exception as e:
-            logging.error(f"Error parsing government content for {source_name}: {e}")
+            logger.error(f"Error parsing government content for {source_name}: {e}")
         
         return stories
     
@@ -112,12 +112,12 @@ class AcademicScraper:
             for i, result in enumerate(results):
                 source_name = ACADEMIC_RSS_FEEDS[i][0]
                 if isinstance(result, Exception):
-                    logging.error(f"Error fetching academic source {source_name}: {result}")
+                    logger.error(f"Error fetching academic source {source_name}: {result}")
                 elif isinstance(result, list):
-                    logging.info(f"Collected {len(result)} stories from academic source {source_name}")
+                    logger.info(f"Collected {len(result)} stories from academic source {source_name}")
                     stories.extend(result)
         
-        logging.info(f"Total academic stories collected: {len(stories)}")
+        logger.info(f"Total academic stories collected: {len(stories)}")
         return stories
     
     async def _fetch_academic_feed(self, session: aiohttp.ClientSession, 
@@ -125,7 +125,7 @@ class AcademicScraper:
                                  cutoff_time: datetime) -> List[NewsStory]:
         """Fetch individual academic RSS feed"""
         try:
-            logging.info(f"Fetching academic feed: {source_name} from {feed_url}")
+            logger.info(f"Fetching academic feed: {source_name} from {feed_url}")
             
             timeout = aiohttp.ClientTimeout(total=30, connect=10)
             async with session.get(feed_url, timeout=timeout, 
@@ -133,12 +133,12 @@ class AcademicScraper:
                 if response.status == 200:
                     content = await response.text()
                     stories = self._parse_academic_content(content, source_name, cutoff_time)
-                    logging.info(f"Successfully parsed {len(stories)} stories from academic source {source_name}")
+                    logger.info(f"Successfully parsed {len(stories)} stories from academic source {source_name}")
                     return stories
                 else:
-                    logging.error(f"HTTP error {response.status} for academic source {source_name}")
+                    logger.error(f"HTTP error {response.status} for academic source {source_name}")
         except Exception as e:
-            logging.error(f"Error fetching academic source {source_name}: {e}")
+            logger.error(f"Error fetching academic source {source_name}: {e}")
         return []
     
     def _parse_academic_content(self, content: str, source_name: str, 
@@ -150,7 +150,7 @@ class AcademicScraper:
         try:
             feed = feedparser.parse(content)
             for entry in feed.entries:
-                pub_date = self._parse_date(str(entry.get('published', '') or ''))
+                pub_date = self._parse_date(str(entry.get('published', '') or entry.get('updated', '') or ''))
                 if pub_date and pub_date > cutoff_time:
                     story = NewsStory(
                         title=str(entry.get('title', '') or ''),
@@ -163,7 +163,7 @@ class AcademicScraper:
                     )
                     stories.append(story)
         except Exception as e:
-            logging.error(f"Error parsing academic content for {source_name}: {e}")
+            logger.error(f"Error parsing academic content for {source_name}: {e}")
         
         return stories
     
@@ -199,12 +199,12 @@ class IndustryScraper:
             for i, result in enumerate(results):
                 source_name = INDUSTRY_RSS_FEEDS[i][0]
                 if isinstance(result, Exception):
-                    logging.error(f"Error fetching industry source {source_name}: {result}")
+                    logger.error(f"Error fetching industry source {source_name}: {result}")
                 elif isinstance(result, list):
-                    logging.info(f"Collected {len(result)} stories from industry source {source_name}")
+                    logger.info(f"Collected {len(result)} stories from industry source {source_name}")
                     stories.extend(result)
         
-        logging.info(f"Total industry stories collected: {len(stories)}")
+        logger.info(f"Total industry stories collected: {len(stories)}")
         return stories
     
     async def _fetch_industry_feed(self, session: aiohttp.ClientSession, 
@@ -212,7 +212,7 @@ class IndustryScraper:
                                  cutoff_time: datetime) -> List[NewsStory]:
         """Fetch individual industry RSS feed"""
         try:
-            logging.info(f"Fetching industry feed: {source_name} from {feed_url}")
+            logger.info(f"Fetching industry feed: {source_name} from {feed_url}")
             
             timeout = aiohttp.ClientTimeout(total=30, connect=10)
             async with session.get(feed_url, timeout=timeout, 
@@ -220,12 +220,12 @@ class IndustryScraper:
                 if response.status == 200:
                     content = await response.text()
                     stories = self._parse_industry_content(content, source_name, cutoff_time)
-                    logging.info(f"Successfully parsed {len(stories)} stories from industry source {source_name}")
+                    logger.info(f"Successfully parsed {len(stories)} stories from industry source {source_name}")
                     return stories
                 else:
-                    logging.error(f"HTTP error {response.status} for industry source {source_name}")
+                    logger.error(f"HTTP error {response.status} for industry source {source_name}")
         except Exception as e:
-            logging.error(f"Error fetching industry source {source_name}: {e}")
+            logger.error(f"Error fetching industry source {source_name}: {e}")
         return []
     
     def _parse_industry_content(self, content: str, source_name: str, 
@@ -237,7 +237,7 @@ class IndustryScraper:
         try:
             feed = feedparser.parse(content)
             for entry in feed.entries:
-                pub_date = self._parse_date(str(entry.get('published', '') or ''))
+                pub_date = self._parse_date(str(entry.get('published', '') or entry.get('updated', '') or ''))
                 if pub_date and pub_date > cutoff_time:
                     story = NewsStory(
                         title=str(entry.get('title', '') or ''),
@@ -250,7 +250,7 @@ class IndustryScraper:
                     )
                     stories.append(story)
         except Exception as e:
-            logging.error(f"Error parsing industry content for {source_name}: {e}")
+            logger.error(f"Error parsing industry content for {source_name}: {e}")
         
         return stories
     

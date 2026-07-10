@@ -1,5 +1,12 @@
 {
   "cypher_api_key": "Cypher API Key",
+  "openrouter_models": [
+    "poolside/laguna-xs-2.1:free",
+    "cohere/north-mini-code:free",
+    "nvidia/nemotron-3-super-120b-a12b:free",
+    "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "google/gemma-4-31b-it:free"
+  ],
   "newsapi_key": "NewsAPI Key",
   "hours_back": 24,
   "story_limit": 150,

@@ -1,6 +1,6 @@
 import aiohttp
 import json
-from typing import Dict
+from typing import Dict, List, Optional
 from cronkite import get_logger
 
 logger = get_logger(__name__)
@@ -8,8 +8,17 @@ logger = get_logger(__name__)
 class CypherReportGenerator:
     """Generate final report using OpenRouter Cypher Alpha"""
     
-    def __init__(self, api_key: str):
+    DEFAULT_MODELS = [
+        "poolside/laguna-xs-2.1:free",
+        "cohere/north-mini-code:free",
+        "nvidia/nemotron-3-super-120b-a12b:free",
+        "nvidia/nemotron-3-ultra-550b-a55b:free",
+        "google/gemma-4-31b-it:free",
+    ]
+
+    def __init__(self, api_key: str, models: Optional[List[str]] = None):
         self.api_key = api_key
+        self.models = models or self.DEFAULT_MODELS
         self.api_url = "https://openrouter.ai/api/v1/chat/completions"
     
     async def generate_report(self, news_data: Dict) -> str:
@@ -58,29 +67,40 @@ Make this look exactly like the Legible News format you've seen before."""
             'X-Title': 'News Aggregator'  # Optional: your app title
         }
         
-        payload = {
-            'model': 'openrouter/free',
-            'messages': [
-                {
-                    'role': 'user',
-                    'content': prompt
-                }
-            ],
-            'max_tokens': 4000,
-            'temperature': 0.7,
-            'top_p': 1,
-            'frequency_penalty': 0,
-            'presence_penalty': 0
-        }
-        
         async with aiohttp.ClientSession() as session:
-            async with session.post(self.api_url, headers=headers, json=payload) as response:
-                if response.status == 200:
-                    result = await response.json()
-                    logger.info(f"Model used: {result.get('model', 'unknown')}")
-                    logger.info("Report generated successfully")
-                    return result['choices'][0]['message']['content']
-                else:
-                    error_text = await response.text()
-                    logger.error(f"OpenRouter API error: {response.status} - {error_text}")
-                    raise Exception(f"OpenRouter API error: {response.status} - {error_text}") 
+            last_error = None
+            for model in self.models:
+                payload = {
+                    'model': model,
+                    'messages': [
+                        {
+                            'role': 'user',
+                            'content': prompt
+                        }
+                    ],
+                    'max_tokens': 4000,
+                    'temperature': 0.7,
+                    'top_p': 1,
+                    'frequency_penalty': 0,
+                    'presence_penalty': 0
+                }
+                logger.info(f"Requesting report from OpenRouter model: {model}")
+                async with session.post(self.api_url, headers=headers, json=payload) as response:
+                    if response.status == 200:
+                        result = await response.json()
+                        logger.info(f"Model used: {result.get('model', 'unknown')}")
+                        choice = result['choices'][0]
+                        content = choice['message'].get('content')
+                        if content:
+                            logger.info("Report generated successfully")
+                            return content
+
+                        finish_reason = choice.get('finish_reason', 'unknown')
+                        last_error = f"OpenRouter returned empty content from {model} (finish_reason={finish_reason})"
+                        logger.warning(last_error)
+                    else:
+                        error_text = await response.text()
+                        last_error = f"OpenRouter API error from {model}: {response.status} - {error_text}"
+                        logger.warning(last_error)
+
+            raise Exception(last_error or "OpenRouter API error: no models configured")

@@ -49,7 +49,10 @@ async def main():
     
     # Generate report
     logger.info("Generating final report using Cypher Alpha")
-    cypher_generator = CypherReportGenerator(config['cypher_api_key'])
+    openrouter_models = config.get('openrouter_models')
+    if not openrouter_models and config.get('openrouter_model'):
+        openrouter_models = [config['openrouter_model']]
+    cypher_generator = CypherReportGenerator(config['cypher_api_key'], models=openrouter_models)
     report = await cypher_generator.generate_report(news_data)
     
     logger.info("Report generation complete")
