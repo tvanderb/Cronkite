@@ -8,82 +8,59 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[July 12, 2026](reports/2026-07-12.md)**
+**[July 13, 2026](reports/2026-07-13.md)**
 
-*Last updated: 2026-07-12 12:04 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-07-13 13:28 UTC · Generated daily at 6:05 AM EST*
 
 ```
-July 12, 2026
+July 13, 2026
 
-Armed conflicts and attacks
-• Israel's war in Gaza continues to dominate US midterm election discussions as Democrats remain divided on policy stance ([Guardian World](https://www.theguardian.com/us-news/2026/jul/12/israel-gaza-war-democrats-midterms))
-• EU faces criticism for delayed implementation of trade ban with illegal Israeli settlements ([Guardian World](https://www.theguardian.com/world/2026/jul/12/eu-accused-dragging-its-feet-ban-trade-israeli-settlements))
-• Iran launches attacks on Gulf countries following fresh US strikes, escalating Middle East crisis ([Guardian World](https://www.theguardian.com/world/live/2026/jul/12/iran-gulf-us-strikes-jordan-qatar-uae-strait-hormuz-latest-news-updates-live))
-• US strikes on Iran escalating regional tensions, with Iran responding with attacks on Gulf Arab states ([NPR World](https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf))
-• US allies express concern over Trump's inconsistent policy shifts at NATO summit ([Guardian World](https://www.theguardian.com/us-news/2026/jul/12/trump-nato-summit-ankara))
-• Toronto shooting at Salsa on St Clair street festival results in two deaths and four injuries as police search for active shooter ([Guardian World](https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter))
-• Ukraine forces announce strike on Syzran petroleum refinery in Samara region ([Le Monde](https://www.lemonde.fr/international/live/2026/jul/12/en-direct-guerre-en-ukraine-les-forces-arm-ees-ukrainiennes-annoncent-avoir-frappe-la-raffinerie-de-petrole-de-syzran-dans-l-oblast-russe-de-samara_6722853_3210.html))
-• Venezuelan earthquake death toll surpasses 4,300 as recovery efforts face significant challenges ([Guardian World](https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort))
+**Armed conflicts and attacks**
+• US and Iran exchange fire amid escalating tensions over the Strait of Hormuz, with both sides claiming control of the vital shipping route [Bloomberg, Guardian World]
+• Iran launches retaliatory strikes following fresh US airstrikes, with Tehran stating attacks render diplomacy futile [Guardian World]
+• Houthi forces in Yemen seize a Red Cross medical convoy, taking pilots hostage amid ongoing regional conflict [La Repubblica]
+• UK officially lists Iran's Islamic Revolutionary Guard Corps (IRGC) as a terrorist organization in response to regional tensions [Guardian World]
+• Wildfires rage in France's Fontainebleau forest and near Paris, prompting emergency responses and cultural site closures [Le Monde, Guardian World]
+• Firefighting aircraft deployed from southern France tackle massive blaze near Paris in Fontainebleau region [Guardian World]
+• Temperatures soar in the Italian Alps, leading to climbing guide protests and route blockades on the Cervino mountain [La Repubblica]
+• Major wildfire burns 800 hectares in Fontainebleau forest, forcing closure of multiple sectors during heat wave [Le Monde]
 
-Disasters and accidents
-• Venezuela earthquake death toll exceeds 4,300, highlighting scale of recovery difficulties ([Guardian World](https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort))
-• Heat wave increases water consumption and strains supply infrastructure ([Le Monde](https://www.lemonde.fr/planete/article/2026/07/12/la-canicule-fait-grimper-la-consommation-d-eau-et-met-les-reseaux-d-approvisionnement-a-rude-epreuve_6722854_3244.html))
-• Journalist Matthew Miller faces financial investigation amid car crash recovery ([Guardian World](https://www.theguardian.com/us-news/2026/jul/12/sports-analyst-matt-miller-charity-work-inquiry))
+**Politics and elections**
+• Senator Lindsey Graham's sudden death triggers urgent scramble to replace him as Congress reconvenes, with key Republican and Democratic maneuvers underway [Guardian World, Bloomberg]
+• European Commission President Ursula von der Leyen proposes EU-wide ban on social media access for children under 13, outlining new child safety measures [Guardian World]
+• President Zelenskyy removes Prime Minister as allied leaders convene emergency summit in Paris to address Ukrainian crisis [Bloomberg]
+• Swedish MEP files police complaint against Danish colleague for alleged racist hate speech during parliamentary proceedings [Guardian World]
+• Pension reforms announced in UK with timeline for "biggest generational changes," affecting millions of savers [GOV.UK]
+• French political campaign for 2027 elections officially begins with distinct messaging strategy emerging [La Repubblica]
 
-Politics and elections
-• Marine Le Pen extends lead in French election poll following court ruling ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-11/le-pen-extends-lead-in-french-election-poll-after-court-ruling))
-• Italian government faces criticism over approach to US red terror talk, opposition calls it inappropriate attempt to court Trump ([La Repubblica](https://www.repubblica.it/politica/2026/07/12/news/governo_meloni_vertice_usa_terrorismo_rosso_trump-425466301/))
-• Lindsey Graham dies at age 71, Trump calls him "a true patriot" ([La Repubblica](https://www.repubblica.it/esteri/2026/07/12/news/lindsey_graham_morto_senatore_usa_repubblicano_trump-425465932/))
-• Democrats scramble to fill Maine Senate vacancy ([Bloomberg](https://www.bloomberg.com/news/videos/2026-07-11/democrats-race-to-fill-maine-senate-slot-video))
-• UK government under pressure over Tommy Robinson's Russia trip funded by Musk, calls for defense of UK democracy ([Guardian World](https://www.theguardian.com/politics/2026/jul/12/tommy-robinson-musk-russia-trip-defend-uk-democracy-ed-davey))
-• Rachel Reeves warns Andy Burnham to expect "shocks and challenges" in No 10 role ([Guardian World](https://www.theguardian.com/politics/2026/jul/12/rachel-reeves-andy-burnham-expectations-no-10))
-• One Nation party capitalizing on Australian economic pessimism, questioning "stagflation impulse" ([Guardian World](https://www.theguardian.com/business/2026/jul/12/one-nation-australia-economy-stagflation-impulse-ntwnfb))
+**Law and crime**
+• More than 120 families contacted as police investigate alleged abuse by Sydney childcare worker, expanding criminal probe [Guardian World]
+• UNSW academic subjected to Nazi salutes in classroom setting, prompting investigation by antisemitism commission [Guardian World]
+• Singapore court postpones French teenager's notorious straw-licking case to July 30, continuing high-profile legal saga [Bloomberg]
+• Keystone pipeline operator agrees to $26.9 million penalty settlement over 2024 Kansas oil spill incident [Guardian World]
 
-Law and crime
-• Police confirm Ann Widdecombe death not politically motivated ([Guardian World](https://www.theguardian.com/uk-news/2026/jul/12/ann-widdecombe-death-police-investigation))
-• UK described as "wild west" for experimental peptides by expert warning ([Guardian World](https://www.theguardian.com/society/2026/jul/12/uk-wild-west-for-experimental-peptides-expert))
-• Court rules against RN in defamation case involving "L'Arlésienne" and "StreetPress" ([Le Monde](https://www.lemonde.fr/societe/article/2026/07/12/a-beaucaire-le-rn-deboute-de-sa-procedure-en-diffamation-contre-l-arlesienne-et-streetpress_6722878_3224.html))
-• Missing woman's former partner charged with murder following discovery of remains in Queensland bushland ([Guardian World](https://www.theguardian.com/australia-news/2026/jul/12/missing-woman-jana-armstrong-queensland-man-charged-murder-ntwnfb))
+**Disasters and accidents**
+• At least 27 killed and 22 critically injured in devastating fire at Bangkok pub, with authorities investigating cause [Guardian World]
+• Fire claims life of British tourist in Andalusian blaze, bringing death toll to 13 as incident stabilizes [Le Monde]
 
-International relations
-• Former Qatar Emir Hamad bin Khalifa Al Thani dies at age 72 ([Le Monde](https://www.lemonde.fr/disparitions/article/2026/07/12/hamad-ben-khalifa-al-thani-ancien-emir-du-qatar-est-mort-a-l-age-de-72-ans_6722881_3382.html))
-• AI companies seek to weaken Australia's copyright laws, drawing criticism from artists and Labor Party division ([Guardian World](https://www.theguardian.com/technology/2026/jul/12/ai-australia-will-labor-water-down-copyright-laws-datacentres))
-• French far-right party LFI accused of using antisemitic imagery as part of power takeover strategy ([Le Monde](https://www.lemonde.fr/idees/article/2026/07/12/chez-lfi-la-mise-en-circulation-de-motifs-antisemites-fait-partie-de-l-arsenal-de-la-prise-de-pouvoir_6722884_3232.html))
-• Heat wave exacerbates water consumption and strains supply infrastructure ([Le Monde](https://www.lemonde.fr/planete/article/2026/07/12/la-canicule-fait-grimper-la-consommation-d-eau-et-met-les-reseaux-d-approvisionnement-a-rude-epreuve_6722854_3244.html))
+**International relations**
+• EU pledges comprehensive social media restrictions for minors, with von der Leyen announcing child protection initiatives [Guardian World]
+• Queensland tribunal finds state unlawfully detained children in adult watch houses without proper sanitation facilities [Guardian World]
+• Body language expert analyzes Argentina's political shift as Milei's influence wanes, exploring potential third-way governance [Bloomberg]
+• Ongoing wildfires across Europe intensify as extreme heat waves fuel blazes in multiple countries [Guardian World, Le Monde]
+• TSMC sales surge amid Middle East crisis, with fresh US-Iran strikes threatening regional stability and trade routes [Bloomberg]
+• French artists appeal to Macron over severe budget cuts to cultural sector, calling for urgent intervention [Le Monde]
+• Italy's political landscape heats up with 2027 election campaign officially commencing under new slogan [La Repubblica]
+• Macron's decade-long military relationship characterized by mutual distrust and unresolved tensions [Le Monde]
 
-Business and economy
-• Study examines impact of socioeconomic and healthcare factors on early breastfeeding initiation in Bangladesh using 2022 BDHS data ([Academic PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353716))
-• Research focuses on children's health in policy development through global collaboration ([Academic The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00856-1/fulltext?rss=yes))
-• New LS Lowry exhibition seeks to dispel "naive and uncultured" perceptions of artist's work ([Guardian World](https://www.theguardian.com/artanddesign/2026/jul/12/new-ls-lowry-exhibition-aims-to-demolish-naive-and-uncultured-myth))
-• Hotel staycation trend with pools and relaxed rules popular among families with children ([Industry Business Insider](https://www.businessinsider.com/staycations-with-kids-hotel-pool-no-rules-2026-7))
-• Dynamic positioning of Rpc34 winged helix protein studied in RNA polymerase III elongation complex ([Academic PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2601775123?af=R))
-• Meiotic cohesin Rec8 protein imposes fitness costs on yeast gametes affecting gene expression evolution ([Academic PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2524968123?af=R))
-• Research explores dual paths of information behavioral choice influenced by information and emotion ([Academic PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353608))
-• Study identifies 73 previously unknown volcanic calderas beneath Earth's oceans using AI analysis ([Vice News](https://www.vice.com/en/article/how-ai-helped-scientists-find-73-unknown-volcanic-calderas-beneath-earths-oceans/))
-• Bungie reportedly in early talks to develop Destiny-style Borderlands 1 remake ([Vice News](https://www.vice.com/en/article/bungie-borderlands-1-remake-rumor/))
-• Arnaud Lagesse, head of IBL conglomerate, looks to capitalize on African consumption growth ([Le Monde](https://www.lemonde.fr/international/article/2026/07/12/a-l-etroit-sur-l-ile-maurice-arnaud-lagesse-patron-du-conglomerat-ibl-veut-profiter-de-la-consommation-galopante-en-afrique_6722866_3210.html))
-• Tour de France 2026 Stage 9 shortened due to heat wave conditions ([Le Monde](https://www.lemonde.fr/sport/article/2026/07/12/tour-de-france-2026-le-parcours-de-la-neuvieme-etape-raccourcie-en-raison-de-la-canicule-malemort-ussel_6722876_3242.html))
-
-Technology
-• AI companies pressure Australia to weaken copyright protections, prompting artist outrage and Labor Party division ([Guardian World](https://www.theguardian.com/technology/2026/jul/12/ai-australia-will-labor-water-down-copyright-laws-datacentres))
-
-Health and medicine
-• Record-breaking Ebola treatment trial begins enrolling first patients in Democratic Republic of Congo ([Guardian World](https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc))
-
-Science and research
-• Monitoring biodiversity hotspot in conflict zones reveals Lake Chad remains critical wetland for African waterbirds ([Academic PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2603538123?af=R))
-
-Entertainment
-• House of the Dragon Season 3, Episode 4 release time announced for HBO Max viewing ([Forbes](https://www.forbes.com/sites/erikkain/2026/07/11/house-of-the-dragon-season-3-episode-4-release-time/))
-• Family Guy: Five jokes deemed too offensive to air ([Vice News](https://www.vice.com/en/article/2-family-guy-jokes-that-were-too-offensive-to-make-it-to-air/))
-
-Sports
-• 2026 Wimbledon: Linda Noskova wins title at 21, becoming "queen of the grass" ([Le Monde](https://www.lemonde.fr/sport/article/2026/07/11/linda-noskova-imperiale-sur-gazon-et-nouvelle-reine-de-wimbledon-a-21-ans_6722739_3242.html))
-• Wallabies' resurgence under Joe Schmidt challenged by France's strong performance ([Guardian World](https://www.theguardian.com/sport/blog/2026/jul/12/wallabies-australia-france-rugby-joe-schmidt-gap))
-• Argentina and England advance to World Cup 2026 semi-finals after dramatic Saturday matches ([Le Monde](https://www.lemonde.fr/sport/article/2026/07/12/coupe-du-monde-2026-l-argentine-rejoint-l-angleterre-en-demi-finale-ce-qu-il-faut-retenir-du-samedi-11-juillet_6722869_3242.html))
-
-Culture
-• Weekly horoscope predictions for July 12-18 period ([Vice News](https://www.vice.com/en/article/weekly-horoscope-july-12-july-18/))
+**Business and economy**
+• Morgan Stanley's $2.5 billion parking meter asset sale creates controversy in Chicago city council proceedings [Bloomberg]
+• California lawmakers push legislative fix for Hollywood film tax credit program facing budgetary challenges [Bloomberg]
+• Study examines socioeconomic factors affecting early breastfeeding initiation in Bangladesh using 2022 demographic health survey data [PLOS One]
+• Research explores RNA polymerase III elongation complex dynamics with implications for cellular function [PNAS]
+• Scientific investigation reveals cervical spine development mechanisms in yeast gametes affecting gene expression evolution [PNAS]
+• Economic analysis examines information choice behavior moderated by user credibility factors [PLOS One]
+• Pension scheme rankings undergo dramatic shifts as UK government implements sweeping reforms [GOV.UK]
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
