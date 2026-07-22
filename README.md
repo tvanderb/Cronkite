@@ -8,84 +8,86 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[July 21, 2026](reports/2026-07-21.md)**
+**[July 22, 2026](reports/2026-07-22.md)**
 
-*Last updated: 2026-07-21 12:42 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-07-22 12:44 UTC · Generated daily at 6:05 AM EST*
 
 ```
-July 21, 2026
+July 23, 2026
 
-Armed conflicts and attacks
-• Almost 100 troops injured in recent weeks as Iran launches reprisals on US allies, Pentagon admits ([Guardian World])
-• Russian warship carries out rare live-fire exercise 45 miles off UK coast ([Guardian World])
-• IDF accused of working with settlers after latest deadly West Bank raid ([Guardian World])
-• Ukrainian drone strikes bring darkness to Crimea's summer with no electricity, water, or fuel ([Guardian World])
-• Gaza celebrates World Cup victory of Spanish team they took into their hearts ([Guardian World])
-• Trump urged to end Iran escalation as US deaths and injuries rise ([Guardian World])
+**Armed conflicts and attacks**
+• Trump ally Andy Biggs pledges to "work with people" he disagrees with after winning Arizona primary (Guardian World)
+• Iran war costs revealed at $37.5bn as Senator Hegseth warns of "another forever war" (Guardian World)
+• Hegseth estimates rising cost of Iran war now at $37.5bn – live coverage (Guardian World)
+• Wednesday briefing: Trump's Iran gamble has produced a crisis reshaping the global order (Guardian World)
+• Trump's Iran gamble has produced a crisis reshaping the global order (Guardian World)
+• Mamdani urges US government to arrest Netanyahu if Israeli PM visits US (Guardian World)
+• New York Mayor Zohran Mamdani admits he lacks legal authority to arrest Benjamin Netanyahu (Le Monde)
+• Iran's foreign minister describes moment of attack that killed Khamenei (Guardian World)
+• Lebanon's southern pilot zones launch as first test of Israel-Hezbollah framework (Le Monde)
+• Italy shaken after man dies during police arrest (La Repubblica)
+• Zelenskyy fires Ukraine army chief and offers Fedorov "prominent position" (Guardian World)
+• Ukraine president holds emergency army leadership meeting after protests (Le Monde)
 
-Disasters and accidents
-• Rescue crews in Afghanistan search for missing, dead in rubble left by flash flooding ([ABC News])
-• Rescuers in Afghanistan search for missing and dead after flash floods destroy homes ([Guardian World])
-• First Nations groups devastated by Canada's wildfires say government did not help ([Guardian World])
-• Au Chili, une violente tempête fait au moins 10 morts et laisse 100 000 personnes isolées, l'état de catastrophe déclaré ([Le Monde])
+**Politics and elections**
+• Platner Replacement in Maine Has 100 Days to Beat Susan Collins (Bloomberg)
+• French lawmakers adopt sweeping social media ban for children under 15 (ABC News)
+• France becomes first EU country to ban social media access for under-15s (Guardian World)
+• US plans new tariffs on dozens of economies as temporary duties expire (Bloomberg)
+• Opposition parties shut down Indian parliament in solidarity with "cockroach" protests (Guardian World)
+• India's Cockroach movement protesters show no sign of backing down (Guardian World)
+• Australia to warn China it won't be bullied by "provocative" actions as it builds military and nuclear arsenal (Guardian World)
+• Budget 2027: Sebastien Lecornu juge le niveau de la dette et du déficit de la France "préoccupant, grave même" (Le Monde)
 
-Politics and elections
-• Canada ready to 'intensify' trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live ([Guardian World])
-• Election voting advice from AI chatbots 'inaccurate and unreliable' ([Guardian World])
-• Thames Water investors offer 'golden share' in bid to head off nationalisation ([Guardian World])
-• UK borrows less than expected as Healey vows to 'buffer against uncertainty' ([Guardian World])
-• Trump's Election Demands Get Test in Key Arizona Primary Races ([Bloomberg])
-• Andy Burnham's first Labour cabinet: who's in and who's out? ([Guardian World])
-• First Thing: Trump urged to end Iran escalation as US deaths and injuries rise ([Guardian World])
-• UK borrows less than expected as Healey vows to 'buffer against uncertainty' ([Guardian World])
-• Defence stocks rally as John Healey appointed chancellor; UK borrows less than expected in June – business live ([Guardian World])
-• 'No electricity, no water, no fuel': Ukrainian drone strikes bring darkness to Crimea's summer ([Guardian World])
+**Law and crime**
+• British woman jailed in Hong Kong after making false rape allegations (Guardian World)
+• Court win for low-paid Domino's workers in underpayment class action (Guardian World)
+• Michelin-starred restaurant owner in South Korea faces jail over ant dessert (Guardian World)
+• World's largest meat company faces legal challenge over green credentials of $6bn global expansion (Guardian World)
+• Health worker monitored for Ebola in London hospital after working in DRC (Guardian World)
 
-Law and crime
-• Suspect who sent anonymous tip to Alaska police charged with 1993 killing ([Guardian World])
-• Protests in Italy after death of Moroccan man under police restraint ([Guardian World])
-• Muslim leader speaks out after more than 80 days in ICE detention: 'It brought back memories from Palestine' ([Guardian World])
-• Descendant of Nazi opponent tries to remove far-right party's wreath at Hitler plot memorial event ([ABC News])
-• 'Front groups and fellow travelers': state department attacks US left over Cuba ([Guardian World])
+**International relations**
+• Japan-exclusive PlayStation game from 1997 is coming to Nintendo Switch 2 (Vice News)
+• ALP announces sweeping changes to student work placements as Gaza war looms large at party conference (Guardian World)
+• Norway's national oil company profits double to $11.5bn amid war on Iran (Guardian World)
+• Six beluga whales finally leave embattled Canadian marine park (Guardian World)
+• People with secret "safe phones" advised to turn off devices during national test of AusAlert emergency warning (Guardian World)
+• Spain hotel chain ceases operations in Cuba under pressure from Washington (Guardian World)
+• Atlanta rapper Alley Boy passes away at 42 after battling kidney disease (Vice News)
+• Italy shaken after man dies during police arrest (La Repubblica)
 
-International relations
-• International criminal groups use technology to expand in, beyond Asia: UN report ([ABC News])
-• Putin meets North Korean foreign minister in diplomatic push ([NPR World])
-• Shanghai science forum photos show China's AI, robotics advances in rivalry with US ([ABC News])
-• Donald Trump impose au Canada de nouveaux droits de douane de 50 % sur plusieurs produits ([Le Monde])
-• Tens of thousands of Cockroach movement protesters defy police with Delhi march ([Guardian World])
-• 'Un corps noir dans un espace blanc, c'est un accident industriel': la peau, un nuancier de discriminations au travail ([Le Monde])
-• Certains ont été licenciés, d'autres sont expulsés de leur logement: des dizaines de milliers d'étrangers chassés d'Afrique du Sud ([Le Monde])
-• Laurent Nuñez, ministre de l'intérieur: 'Faire confiance aux policiers et aux gendarmes ne signifie jamais les soustraire au contrôle de la justice' ([Le Monde])
-• Interruption du concert de Barbara Butch à Grenoble: la maire écologiste, Laurence Ruffin, dénonce la « stratégie d'intimidation » des « insoumis » ([Le Monde])
-• Anna Wintour et André Leon Talley, une rupture brutale ([Le Monde])
-• Le projet de loi d'urgence agricole adopté dans la cacophonie par une Assemblée nationale fracturée sur la question des pesticides ([Le Monde])
-• EN DIRECT, guerre en Ukraine: plus de 5 millions de réfugiés ukrainiens accueillis en Europe depuis le début de la guerre, selon le HCR ([Le Monde])
+**Business and economy**
+• "He's an analog man in a digital AI world": Nolan's "The Odyssey" made back its $250M budget in 3 days without industrywide AI cost cutting (Fortune)
+• Samsung Unpacked 2026: all the news from the July foldable launch (The Verge)
+• Louis E. Brus (1943–2026): A consummate physical chemist and pioneer in exploration of spectroscopy of materials at nanoscale (PNAS)
+• Prediction of factors contributing to Pain Intensity among low back pain patients: A comparative machine learning frameworks (Random Forest versus XGBoost) (PLOS One)
+• Peak Design's modular Field Bracket has a finder tag built-in (The Verge)
+• OpenAI admits to unprecedented hack of platform by its own AI agents (Le Monde)
 
-Business and economy
-• Jamie Dimon won't put more of his own money into the long end of the bond market right now—thanks to the $39 trillion national debt ([Fortune])
-• Ford's $30,000 electric truck: all the news about the company's big EV re-do ([The Verge])
-• Healthy diet too expensive for one in three people globally, UN report finds ([Guardian World])
+**Science and technology**
+• They'll verify. They just won't act. How authority framing and laundered code turn a trusted agentic CI/CD pipeline into an attack surface (arXiv)
+• Bidirectional association between cognitive function and depressive symptoms in UK community elderly based on physical activity as mediator (PLOS One)
 
-Science and technology
-• A Continual Validation, Updating, and Decision-Making Framework for Self-Adaptive Digital Twins via Robust Model Predictive Control: A Case Study in Additive Manufacturing ([Academic arXiv])
-• Repeatability and reproducibility of a clinical device for Brillouin microscopy to measure the biomechanics of the anterior segment of the eye: In vivo tests ([Academic PLOS One])
-• Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026 ([Industry TechCrunch])
-• Man of his word: Pope Leo speeches declared human-authored by Australian AI detection tool ([Guardian World])
-• Louis E. Brus (1943–2026): A consummate physical chemist and a pioneer in the exploration of spectroscopy of materials at the nanoscale ([Academic Proceedings of the National Academy of Sciences])
+**Environment**
+• Le recul environnemental de trop: Monique Barbut, ministre de la transition écologique, annonce remettre sa démission après le vote de la loi d'urgence agricole (Le Monde)
 
-Health
-• Healthy diet too expensive for one in three people globally, UN report finds ([Guardian World])
+**Health and medicine**
+• Health worker monitored for Ebola in London hospital after working in DRC (Guardian World)
 
-Culture and entertainment
-• What Is the Rarest Fortnite Sprite? Lowest Drop Rates Revealed ([Vice News])
-• Why Some Gen Z Women Are Choosing the Rich Husband Fantasy Over the Career Grind ([Vice News])
-• People Are Embracing 'French Sundays' as the Antidote to Weekend Burnout ([Vice News])
-• CD Projekt Red Confirms New Witcher 3: Songs of the Past Footage for Gamescom ([Vice News])
-• 3 One-Hit Wonders From the 2000s That Deserved to Be More Than a Distant Myspace Memory ([Vice News])
-• What to Expect From August's Solar Eclipse in Leo, According to Astrologers ([Vice News])
-• Why 'Queening' Is the Sex Act Women Keep Coming Back To, According to Experts ([Vice News])
-• Introducing 'Petfishing,' the Dating Trend Turning Dogs and Cats Into Bait ([Vice News])
+**Culture and entertainment**
+• 10 Women in Hip-Hop and R&B Who Deserve More Recognition for Their Contributions to the Genre (Vice News)
+• 4 Rock Songs With Opening Lines That Every Millennial Recognizes Immediately (Vice News)
+• Cheech & Chong's Mini Blazers Are the Rare Kief-Coated Pre-Rolls That Don't Smoke Like a Mess (Vice News)
+• Quit Ruining Your Whiskey. Get a Machine That Makes Big Ice. (Vice News)
+
+**Sports**
+• Tour de France 2026: la course contre le temps de l'équipe TotalEnergies, en quête d'un repreneur (Le Monde)
+
+**Social issues**
+• Brittany Higgins accuses Pauline Hanson of victim-blaming for calling domestic violence a "two-way street" (Guardian World)
+• Hannah Rapp's violent death sparks outpouring of grief (Guardian World)
+• Mahmood and Streeting accused of making "cheap jokes" about prisoner early release scheme (Guardian World)
+• NHS trust investigated for corporate manslaughter after Nottingham attacks (Guardian World)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
