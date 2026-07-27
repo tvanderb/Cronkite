@@ -8,100 +8,12 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[July 26, 2026](reports/2026-07-26.md)**
+**[July 27, 2026](reports/2026-07-27.md)**
 
-*Last updated: 2026-07-26 12:10 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-07-27 13:47 UTC · Generated daily at 6:05 AM EST*
 
 ```
-July 29, 2025
 
-**Armed conflicts and attacks**
-
-• At least one person killed and 16 injured when a vehicle plowed into a crowd during Berlin's Pride parade, with police searching for a 21-year-old suspect linked to Islamist networks (The Guardian, Le Monde)
-
-• Wildfires across France and Spain have forced over 250,000 people to evacuate, with firefighters struggling to contain blazes in the Gironde region where conditions have worsened since 2022 (The Guardian, Le Monde)
-
-• Iran warns that attacks by the United States could cause the regional conflict to "expand further" amid ongoing Israel-Hezbollah tensions and claims of Israeli strikes on Iranian shipping (The Guardian, Le Monde, La Repubblica)
-
-• Iran-backed Houthis claim missile attack on Saudi Arabia as regional tensions escalate following Israeli airstrikes and Hezbollah-Israel exchanges (The Guardian)
-
-• Live coverage of escalating Middle East conflict with Iran asserting war risks, Trump allegedly planning escalation over Patriot missile shortages, and diplomatic appeals to France and Syria for mediation (Le Monde, La Repubblica)
-
-• Live updates on Israel-Hezbollah conflict report an "impossible" Israeli victory leading to appeals for French mediation in 2006 and Syrian assistance in 2026 (Le Monde)
-
-• Peace activists from Israel and Palestine discuss courage in leaving comfort zones and dominant narratives in the Middle East conflict (Le Monde)
-
-• Live coverage of Iran-US-Israel war developments including claims Russia may receive 30,000 additional North Korean soldiers (Le Monde)
-
-• Live report on Middle East war with Iran accusing Ukraine of attacking a ship in the Caspian Sea (Le Monde)
-
-**Politics and elections**
-
-• UK journalists report self-censoring stories about Trump and the right due to safety concerns, changing how they report on political figures (The Guardian)
-
-• Former Vodafone franchisee found drowned triggers family calls for "Adrian's Law" to better protect franchise employees (The Guardian)
-
-• Trump's plan to expand mail-in voting blocked by appeals court ruling in favor of state authority over election procedures (Bloomberg)
-
-• Australian political conference sees "socialist" teachers targeting eight Victorian Labor MPs including education minister in coordinated campaign (The Guardian)
-
-• UK government appoints Lord Vallance as chair of new Prime Minister's AI Taskforce to drive technological transformation across government operations (GOV.UK)
-
-• New York mayoral candidate Zohran Mamdani's consistent suit-wearing style becomes political talking point about professional presentation (The Guardian)
-
-• India's education minister Dharmendra Pradhan resigns following successful protests by youth movement against perceived establishment figures (The Guardian)
-
-• French beekeepers express "scandalous, irrational and irresponsible" anger over government decision to lift pesticide ban, citing environmental concerns (The Guardian)
-
-• French presidential election 2027: "insoumis" movement and their popular caravans attempt to win over disengaged voters in upcoming campaign (Le Monde)
-
-• Trump revives Cold War rhetoric warning of "communist menace" as Democrats gain political momentum heading toward 2026 elections (The Guardian)
-
-**Law and crime**
-
-• Venezuelan prisoners file lawsuit against aviation companies that transported them to notorious Salvadoran detention facility, alleging human rights violations (The Guardian)
-
-• Police continue search for suspect after deadly attack at Berlin Pride event, investigating connections to extremist networks (The Guardian)
-
-• Italian judge Francesco Caruso states agent errors in Fakir case, calling the investigation's handling a significant procedural mistake (La Repubblica)
-
-**International relations**
-
-• Archaeologists revise theories about cause of death for famous Inca child mummies previously believed to have died from ritual sacrifice or disease (Vice News)
-
-• Modern medicine's life extension capabilities raise concerns about quality versus quantity of life, with medical professionals questioning current healthcare approaches (Vice News)
-
-• Scientists capture rare footage of Arctic squid species exhibiting unprecedented parental care behavior, guarding offspring in natural habitat (Vice News)
-
-• 294-million-year-old fossil preserves exceptionally rare soft tissue structures that scientists rarely encounter in ancient remains (Vice News)
-
-• Capcom announces strategy to release new Resident Evil games annually, expanding the popular survival horror franchise (Vice News)
-
-• First-ever recorded case of eye-to-eye corneal transplant enables patient to regain sight after previously impossible medical procedure (La Repubblica)
-
-• Italian entrepreneur complains about paying 30 full tanks of fuel monthly, calling the situation unfair and economically damaging (La Repubblica)
-
-• Tour de France 2026 final stage modified due to wildfires, with Paris to Champs-Elyses route altered for safety considerations (Le Monde)
-
-• Weekly astrological predictions for July 26-August 1 provide entertainment-focused horoscope readings (Vice News)
-
-**Business and economy**
-
-• Study examines how multi-dimensional urban planning affects PM2.5 pollution levels in Yangtze River Delta downstream urban agglomerations (PLOS One)
-
-• Biological research reveals how tumor-derived cytokines enhance bitter taste perception in fruit flies through specific neural pathways (PNAS)
-
-• British pubs report substantial sales increase from England's World Cup participation, generating over £150m in additional revenue (The Guardian)
-
-• Italian small business owner publicly criticizes fuel pricing policies, describing current rates as exploitative toward southern entrepreneurs (La Repubblica)
-
-**Disasters and accidents**
-
-• Boxing match concludes with Anthony Joshua facing Kristian Prenga after being sent to canvas twice during bout at ringside (Le Monde)
-
-**Science and technology**
-
-• UK government launches AI Taskforce led by Lord Vallance to transform public services through artificial intelligence implementation (GOV.UK)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
