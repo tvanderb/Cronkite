@@ -8,73 +8,12 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[July 28, 2026](reports/2026-07-28.md)**
+**[July 29, 2026](reports/2026-07-29.md)**
 
-*Last updated: 2026-07-28 13:01 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-07-29 13:10 UTC · Generated daily at 6:05 AM EST*
 
 ```
-July 28, 2026
 
-**Armed conflicts and attacks**
-• Trump warns of return to 'strong military action' if Iran diplomacy fails ([Guardian World](https://www.theguardian.com/world/2026/jul/27/trump-warns-return-strong-military-action-iran-diplomacy-fails))
-• France and Spain race to control wildfires as fresh heatwave hits, as UN warns 'the climate alarm is blaring' – Europe live ([Guardian World](https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates))
-• France and Spain race to contain huge wildfires before fresh heatwave begins ([Guardian World](https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins))
-• Tories' Philp accuses French navy of firing shots near him in Channel incident ([Guardian World](https://www.theguardian.com/uk-news/2026/jul/28/tory-mp-chris-philp-accuses-french-navy-of-firing-shots-in-channel-incident))
-• Trump administration forced treatment on hunger striker in ICE detention, document reveals ([Guardian World](https://www.theguardian.com/us-news/2026/jul/28/trump-administration-forced-treatment-ice-hunger-striker))
-• Prisoners at Iran's largest jail sew lips shut in hunger strike as executions soar ([Guardian World](https://www.theguardian.com/world/2026/jul/28/prisoners-iran-largest-jail-sew-lips-shut-hunger-strike-executions-soar))
-• La corsa del boia in Iran: altri due giovani impiccati tra le proteste. L'Onu a Teheran: "Fermatevi" ([La Repubblica](https://www.repubblica.it/esteri/2026/07/28/news/esecuzioni_iran_proteste_impiccagione_onu-425497800/))
-• EN DIRECT, guerre au Moyen-Orient : après plusieurs jours d'accalmie, des échanges diplomatiques entre l'Iran, Oman et l'Arabie saoudite ([Le Monde](https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-au-moyen-orient-des-echanges-diplomatiques-entre-l-iran-oman-et-l-arabie-saoudite-apres-plusieurs-jours-consecutifs-d-accalmie_6725301_3210.html))
-• Asia 'scraping the bottom of the barrel' as Red Sea oil blockade worsens energy crisis ([Guardian World](https://www.theguardian.com/world/2026/jul/28/asia-energy-oil-crisis-red-sea-blockade-houthis))
-• A dog saved Houssein Hamze from a bomb. When war returned, he stayed to care for Lebanon's animals ([Guardian World](https://www.theguardian.com/world/2026/jul/28/man-who-stayed-to-save-lebanon-wartime-animals-mashala-shelter))
-• Survivors rise to 48 with more missing after Vietnamese ship sinks in South China Sea ([ABC News](https://abcnews.com/International/wireStory/survivors-rise-48-missing-after-vietnamese-ship-sinks-135143274))
-• First Thing: Pentagon accused of disrespecting war dead as Trump threatens to resume Iran war ([Guardian World](https://www.theguardian.com/us-news/2026/jul/28/first-thing-pentagon-accused-of-disrespecting-war-dead-as-trump-threatens-to-resume-iran-war))
-• Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago ([Guardian World](https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile))
-• Shots fired near US consulate in Canada for second time in four months ([Guardian World](https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto))
-• Off-duty police officer detains man who attacked three women with knives in Paris ([Guardian World](https://www.theguardian.com/world/2026/jul/27/off-duty-police-officer-detains-man-attacked-women-knives-paris))
-• 'You say genocide, I say war': Boy George releases pro-Israel song, We Will Dance Again ([Guardian World](https://www.theguardian.com/music/2026/jul/27/you-say-genocide-i-say-war-boy-george-releases-pro-israel-song-we-will-dance-again))
-• 'It felt like being in a disaster movie': uncertainty after evacuation from France's Bordeaux wildfires ([Guardian World](https://www.theguardian.com/world/2026/jul/27/it-felt-like-being-in-a-disaster-movie-inside-the-evacuation-from-frances-bordeaux-wildfires))
-
-**Disasters and accidents**
-• Multiple people trapped inside shopping centre in Japan after earthquake – live updates ([Guardian World](https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates))
-• Pakistan monsoon death toll tops 100 in a month as more heavy rain forecast ([ABC News](https://abcnews.com/International/wireStory/pakistan-monsoon-death-toll-tops-100-month-heavy-135115888))
-• 'We have lost everything': extreme rainfall across Asia brings flash floods and typhoons ([Guardian World](https://www.theguardian.com/environment/2026/jul/28/extreme-rainfall-asia-flash-floods-typhoons-climate-change))
-• Sismi al Giappone: un terremoto di magnitudine 7,1 scuote il sud, un'allerta tsunami emessa e poi rapidamente levata ([Le Monde](https://www.lemonde.fr/international/article/2026/07/28/japon-un-seisme-de-magnitude-7-1-frappe-kumamoto-et-declenche-une-alerte-au-tsunami_6734975_3210.html))
-• Incendi: cosa sono i pirocumulonembi, i temporali di braci e fulmini generati dal fuoco ([La Repubblica](https://www.repubblica.it/cronaca/2026/07/28/news/pirocumulonembi_incendio_tempesta_fuoco_francia_cosa_e_significato-425497397/))
-
-**Politics and elections**
-• National Data Guardian statement on NHS Federated Data Platform data access, in response to the Not With My NHS Data campaign ([Government GOV.UK News (UK)](https://www.gov.uk/government/news/national-data-guardian-statement-on-nhs-federated-data-platform-data-access-in-response-to-the-not-with-my-nhs-data-campaign))
-• Ben Carroll announces royal commission into construction sector in first act as new Victorian premier ([Guardian World](https://www.theguardian.com/australia-news/2026/jul/28/ben-carroll-announces-royal-commission-into-construction-sector-in-first-act-as-new-victorian-premier))
-• After 48 hours of acrimony, Ben Carroll's U-turn for the age needs to set Victoria on a new course ([Guardian World](https://www.theguardian.com/australia-news/2026/jul/28/ben-carroll-premier-u-turn-victoria-labor))
-• India's Cockroach movement threatens to restart protests after mass student arrests ([Guardian World](https://www.theguardian.com/world/2026/jul/28/india-cockroach-janta-party-cjp-demands-protesters-release))
-• Javier Milei accuses US Democrats of financing 'anti-Argentina campaign' at World Cup ([Guardian World](https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup))
-• Labour MPs Warn Burnham Against 'Punitive' UK Welfare Cuts ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-27/labour-mps-warn-burnham-against-punitive-uk-welfare-cuts))
-• 'Shake down Angus': Taylor named as potential donor to NSW Liberal 'Reformers' being investigated by Icac ([Guardian World](https://www.theguardian.com/australia-news/2026/jul/28/icac-nsw-liberals-reformers-morrison-perrottet-woke-alleged-payments-angus-taylor-ntwnfb))
-• EN DIRECT, guerre en Ukraine : Volodymyr Zelensky est aux États-Unis, pour l'hommage au sénatateur Lindsey Graham, mais surtout pour parler défense antimissile avec Donald Trump ([Le Monde](https://www.lemonde.fr/international/live/2026/jul/28/en-direct-guerre-en-ukraine-volodymyr-zelensky-est-aux-etats-unis-pour-l-hommage-au-senateur-lindsey-graham-mais-surtout-pour-parler-defense-antimissile-avec-donald-trump_6732775_3210.html))
-• Joint statement by European Commission and High Representative marking the 75th anniversary of the 1951 Convention relating to the Status of Refugees ([Government EU Newsroom](https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1694))
-• Zinedine Zidane officiellement nommé à la tête de l'équipe de France, une évidence après des années d'attente ([Le Monde](https://www.lemonde.fr/sport/article/2026/07/28/zinedine-zidane-officiellement-nomme-a-la-tete-de-l-equipe-de-france-une-evidence-apres-des-annees-d-attente_6735008_3242.html))
-• Meurtre de Thomas Perotto, à Crépol, en 2023 : 'À partir du moment où le racisme anti-Blanc existe, la justice doit le caracteriser' ([Le Monde](https://www.lemonde.fr/societe/article/2026/07/28/meurtre-de-thomas-perotto-a-crepol-en-2023-a-partir-du-moment-ou-le-racisme-anti-blanc-existe-la-justice-doit-le-caracteriser_6734908_3224.html))
-• Stati Uniti, il paradosso dem: avanti nei sondaggi ma indietro nelle finanze tra debiti e prestiti ([La Repubblica](https://www.repubblica.it/esteri/2026/07/28/news/democratici_stati_uniti_debiti_sondaggi_midterm_fondi-425497183/))
-• Novanta secondi di buio: eclissi di Sole del 12 agosto, dove vederla e come farlo senza rischi ([La Repubblica](https://www.repubblica.it/cronaca/2026/07/28/news/eclissi_solare_2026_quando_vedere_allineamento-425497048/))
-• Fondi Safe per armi, Tajani: "Li useremo". Stop Lega: "Decide Parlamento". UE chiede chiarezza ([La Repubblica](https://www.repubblica.it/politica/2026/07/28/news/fondi_safe_armi_tajani_prenotati_149_miliardi_crosetto-425497487/)
-
-**Business and economy**
-• Marmite and Dove owner Unilever warns of price rises due to growing costs ([Guardian World](https://www.theguardian.com/business/2026/jul/28/marmite-dove-unilever-price-rises-costs-world-cup))
-• More rail services in England set to slow as heatwave shrinks soil ([Guardian World](https://www.theguardian.com/uk-news/2026/jul/28/rail-services-train-england-slow-heatwave-south-western-railway-greater-anglia))
-• About 900,000 Origin Energy customers affected by hack as company admits it was warned weeks before public told ([Guardian World](https://www.theguardian.com/australia-news/2026/jul/28/about-900000-origin-energy-customers-affected-by-hack-as-company-admits-it-was-warned-weeks-before-public-told))
-• Accidents du travail: syndicats et patronat appellent « à la prudence » quant au plan d'économies dans la branche ([Le Monde](https://www.lemonde.fr/economie/article/2026/07/28/accidents-du-travail-syndicats-et-patronat-appellent-a-la-prudence-quant-au-plan-d-economies-dans-la-branche_6735077_3234.html))
-• Tumor-derived cytokine enhances bitter sensing through remote control of bitter taste neurons via the Upd3/Spz5/Toll-6 axis in Drosophila ([Academic Proceedings of the National Academy of Sciences](https://www.pnas.org/doi/abs/10.1073/pnas.2535541123?af=R))
-• Focused Ultrasound Blood-Tumor Barrier Opening Rapidly Augments Intratumor CD4 and CD8 T Cell Representation in a Genetically Engineered Mouse Model of Glioma ([Academic bioRxiv](https://www.biorxiv.org/content/10.64898/2026.07.26.740799v1?rss=1))
-
-**International relations**
-• Call of Duty Black Ops PS5 Ports Sell 7 Million Copies Despite Physical Disc Boycott ([Vice News](https://www.vice.com/en/article/call-of-duty-black-ops-ps5-ports-sell-7-million-copies/))
-• 4 'Punk Goes' Albums From the 2000s That Will Make You Miss Your Old Tumblr Page ([Vice News](https://www.vice.com/en/article/4-punk-goes-albums-from-the-2000s-that-will-make-you-miss-your-old-tumblr-page/))
-• EN DIRECT, incendies : ë importante reprise de feu ë à Lège-Cap-Ferret, les campings et villages de vacances de Lacanau évacués ([Le Monde](https://www.lemonde.fr/planete/live/2026/07/28/en-direct-incendies-importante-reprise-de-feu-a-lege-cap-ferret-les-campings-et-villages-de-vacances-de-lacanau-evacues_6730417_3244.html))
-• Dawn raid targets 'umbrella cheaters' reserving beach spots in Naples ([Guardian World](https://www.theguardian.com/world/2026/jul/28/umbrellas-deck-chairs-crackdown-reserving-beach-spots-naples))
-• 26 Years Ago, 'Meet the Parents' Had a Scene So Disturbing the CIA Changed It ([Vice News](https://www.vice.com/en/article/26-years-ago-meet-the-parents-had-a-scene-so-disturbing-the-cia-changed-it/))
-• A l'ONU, la délégation américaine quitte une réunion du Conseil de sécurité après des critiques françaises ([Le Monde](https://www.lemonde.fr/international/article/2026/07/28/a-l-onu-la-delegation-americaine-quitte-une-reunion-du-conseil-de-securite-en-reaction-a-des-critiques-francaises_6734638_3210.html))
-• Salta il maxi-vertice tra Volenterosi e Usa su Hormuz: pesa la linea rossa dello sminamento Ue ([La Repubblica](https://www.repubblica.it/esteri/2026/07/28/news/hormuz_vertice_ue_volenterosi_stati_uniti_sminamento-425496949/))
-• 30 Years Ago, a Random Naked Guy Ended Up in 'Twister,' and We Still Don't Know Why ([Vice News](https://www.vice.com/en/article/30-years-ago-a-random-naked-guy-ended-up-in-twister-and-we-still-dont-know-why/))
-• Jason Alexander Apolog
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
