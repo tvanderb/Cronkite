@@ -8,70 +8,79 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[July 30, 2026](reports/2026-07-30.md)**
+**[July 31, 2026](reports/2026-07-31.md)**
 
-*Last updated: 2026-07-30 12:50 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-07-31 13:02 UTC · Generated daily at 6:05 AM EST*
 
 ```
-July 30, 2026
+July 31, 2026
 
-Armed conflicts and attacks
-• US launches new wave of strikes against Iran targets overnight, with analysts warning region has entered "uncharted territory" following US-Saudi attacks in Iraq ([Guardian World], [Bloomberg])
-• US hits dozens of targets in Iran overnight as peace efforts under threat ([Guardian World])
-• Record absence of Cameroon President Paul Biya reignites health speculation amid ongoing political tensions ([Guardian World])
-• Ukraine war: unidentified object crashes in Poland, President Tusk suggests it may be Russian missile ([La Repubblica])
-• Defence firms see profit boosts as governments increase military spending ([Guardian World])
-• EU to provide nearly €3.5 billion additional aid to Ukraine to strengthen military capabilities ([Le Monde])
+**Armed conflicts and attacks**
+• US airstrikes hit multiple Iranian targets overnight amid escalating tensions following earlier attacks on Iran (The Guardian World, NPR World)
+• Trump announces "historical agreement" for Hamas to disarm, though details remain unclear and significant obstacles persist (Le Monde, NPR World)
+• Iran responds to US strikes by targeting Israeli assets and seeking to regain control over conflict dynamics (Le Monde)
+• Saudi Arabia prepares major sea and potential land offensive against Houthis in Yemen (The Guardian World)
+• Ukraine conflict continues with Russian reports of strikes on Loukoël refinery in Volgograd region (Le Monde)
+• At least 34 people killed as thousands cross from Morocco to Spanish enclave of Ceuta (The Guardian World)
+• Wildfire near Sizewell nuclear plant causes "total devastation" to Suffolk landscape (The Guardian World)
+• Ebola outbreak in Democratic Republic of Congo becomes fastest growing in virus history (The Guardian World)
 
-Disasters and accidents
-• Death toll in Japan earthquake rises to at least 34 as heat and aftershocks hamper rescue operations ([Le Monde], [Guardian World])
-• Rescue teams face "race against time" searching for trapped survivors as Japan earthquake death toll reaches 13 ([Guardian World])
-• Two days after Japan earthquake, at least 34 dead, thousands of survivors, rescue operations hampered by heatwave ([Le Monde])
-• Four people found dead on small boats after attempting Channel crossing ([Guardian World])
-• Major incident declared as 90 firefighters tackle Suffolk heath wildfire ([Guardian World])
-• Firefighters race to extinguish blazes across EU as fire weather breaks records ([Guardian World])
-• Families displaced from billionaire-owned London tower after suffering without air conditioning during heatwave ([Guardian World])
+**Disasters and accidents**
+• Climate crisis intensifying wildfire conditions across Europe, described as "extremely scary findings" (The Guardian World)
+• British-Azerbaijani man arrested in Cyprus for allegedly spying on UK airbase for Iran (The Guardian World)
+• Hull funeral director Robert Bush sentenced to 20 years for leaving bodies to rot in mortuary (The Guardian World)
+• Man walks 10 miles down mountain after being impaled by trekking pole (Vice News)
+• British man seeks court permission to attend son's funeral after fall from hotel window in Cyprus (ABC News)
 
-Politics and elections
-• UK and Spain foreign ministers issue joint statement on wildfires and climate action ([GOV.UK])
-• UK and France foreign ministers issue joint statement on wildfires and climate action ([GOV.UK])
-• Bank of England holds key interest rate at 3.75% for fifth consecutive time this year ([ABC News], [Guardian World])
-• EU launches AI Gigafactories initiative to boost Europe's computing capacity with over €30 billion in investment ([EU Newsroom])
-• German Chancellor selects papal encyclical as beach reading amid political challenges ([Guardian World])
-• Belgian writer Raoul Vaneigem, known for lyrical resistance to commercial society, dies ([Le Monde])
+**Politics and elections**
+• Trump scheduled to meet cabinet at Camp David as Iran conflict continues (The Guardian World)
+• Top Democrats accuse Republicans of becoming "gelatinous blobs" on Iran war strategy (The Guardian World)
+• Fifa planning to pursue private investment despite controversy, with Gianni Infantino supporter resigning in protest (Le Monde)
+• Turkey's Erdogan faces mounting pressure as opposition gains ground in key regions (The Guardian World)
+• UK petrol prices reach Iran war highs, adding strain to households (The Guardian World)
+• BP puts North Sea oil and gas business up for sale (The Guardian World, Bloomberg)
 
-Law and crime
-• Airbus fined £6.4 million for breaching export rules regarding sensitive technology ([Guardian World])
-• Kumanjayi Little Baby murder trial delayed until December ([Guardian World])
-• Grant writing coaching groups study shows coaching improves proposal submission and success rates ([bioRxiv])
-• NSW to deploy paramedics rather than police to certain mental health emergencies following multiple deaths ([Guardian World])
-• Police funding gaps and political corruption highlighted in Indian series "Delhi Crime" ([Le Monde])
+**Law and crime**
+• Spain's Sánchez blames trafficking gangs as estimated 60,000 migrants reach Ceuta (The Guardian World, Le Monde)
+• ICAC hears evidence of friendship breakdown between Reformers members in Australian corruption inquiry (The Guardian World)
+• "Rob has the bucks cash": NSW Liberals used Reformers funds for personal expenditure, ICAC hears (The Guardian World)
+• Archbishop of Canterbury supports £100m pledge to help communities affected by historic enslavement (The Guardian World)
 
-International relations
-• EU wildfires intensify as extreme heat triggers red alert warnings across Europe ([La Repubblica])
-• Heatwave prompts government promise fulfillment of 33,000 air conditioners for hospitals and care homes ([Le Monde])
-• Europe's industries unprepared for new climate crises according to economic analysis ([Le Monde])
-• Global democracy map shows declining freedoms worldwide ([La Repubblica])
-• Ferrari Luce subscription model sells out within two months, exceeding 2026 China projections ([La Repubblica])
-• Railway systems face infrastructure damage from extreme heat affecting transport networks ([La Repubblica])
-• No TAV camping ban enforced at Susa and Bussoleno with increased security controls ([La Repubblica])
-• Italy-Ukraine-Russia war updates continue with latest developments ([La Repubblica])
-• FIFA proposes opening organization to private investors under new governance plan ([Le Monde])
-• Archibald Prize 2026 people's choice award goes to portrait of Jewish leader after Bondi terror attack ([Guardian World])
-• The Weeknd mourns death of musical pioneer who inspired his career ([Vice News])
-• Therapist identifies five subtle signs your partner lacks respect ([Vice News])
-• Three essential punk albums celebrating 20th anniversary this year ([Vice News])
-• Zelda Ocarina of Time remake release date receives update from Nintendo ([Vice News])
-• New Fortnite sprites and skins revealed for Chapter 7 Season 4 update ([Vice News])
-• Fortnite Chapter 7 Season 4 skins leak ahead of July 30 update ([Vice News])
-• DJI Osmo Pocket 4P review highlights benefits of dual-lens system ([The Verge])
+**International relations**
+• EU to require AI labels on authentic-looking content (The Guardian World)
+• UN Secretary-General race sees Rebeca Grynspan emerge as frontrunner (Le Monde)
+• France seizes assets of pro-Putin propagandist Xenia Fedorova under expulsion order (Le Monde)
+• DRC announces negotiated surrender of FDLR rebels in eastern region, complicating Rwanda peace process (Le Monde)
+• US government map of Africa mislabels every country at global conference (The Guardian World)
+• France seizes assets of pro-Putin propagandist Xenia Fedorova under expulsion order (Le Monde)
+• India student protesters use Instagram memes to counter Modi's WhatsApp/X strategy (Bloomberg)
+• Turkey's Erdogan faces mounting pressure as opposition gains ground in key regions (The Guardian World)
 
-Business and economy
-• Study protocol published for multimodal prehabilitation program in older adults with chronic limb-threatening ischemia ([PLOS One])
-• Research on grant writing coaching demonstrates impact on proposal success rates ([bioRxiv])
-• Trump administration orders luxury vehicle fleet for government use amid public criticism ([Guardian World])
-• Proposed legislation seeks to defund bike lanes citing DEI initiatives ([Guardian World])
-• Amazon's short story collections highlighted as compelling Kindle feature ([The Verge])
+**Business and economy**
+• BP puts North Sea oil and gas business up for sale (The Guardian World)
+• Samsung Galaxy Watch 9 available at $40 discount at Costco with over $50 in freebies (The Verge)
+• "It ain't the same": bitter battle to free Ben & Jerry's unfolds (The Guardian World)
+• Tesla considering sale of Chinese operations as SpaceX merger discussions continue (La Repubblica)
+• Archbishop of Canterbury supports £100m pledge to help communities affected by historic enslavement (The Guardian World)
+
+**Technology**
+• Sony responds to PlayStation player backlash over PS5 physical disc elimination (Vice News)
+• AI labels to be compulsory on authentic-looking content under EU rules (The Guardian World)
+
+**Science and health**
+• New research shows repeated sampling outperforms self-refinement techniques at equal token cost in AI models (arXiv)
+• Predicting microscopic axon topology in cortical neurospheres through interactive tracking pipeline (bioRxiv)
+
+**Culture and entertainment**
+• Sony responds to PlayStation player backlash over PS5 physical disc elimination (Vice News)
+• Call of Duty Black Ops 1 PS5 update fixes sniper issues and party matchmaking (Vice News)
+• Fortnite Ironmouse sprite release date confirmed after vaulting (Vice News)
+• 4 underrated mid-90s songs that accidentally created 2000s nu-metal identified (Vice News)
+• What people want to inherit from dead relatives versus what they don't (Vice News)
+
+**Weather and environment**
+• Climate crisis supercharging Europe's wildfire weather patterns (The Guardian World)
+• Huge great white shark spotted traveling up US and Canada coasts as sightings surge (The Guardian World)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
