@@ -8,63 +8,82 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[August 17, 2026](reports/2026-08-17.md)**
+**[August 18, 2026](reports/2026-08-18.md)**
 
-*Last updated: 2026-08-17 11:34 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-08-18 11:34 UTC · Generated daily at 6:05 AM EST*
 
 ```
-August 17, 2026
+August 18, 2026
 
 **Armed conflicts and attacks**
-• Israel strikes Lebanon as Hezbollah clashes escalate; Jared Kushner meets Hamas representatives during Gaza peace efforts ([Guardian World](https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates), [Guardian World](https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting))
-• Trump announces reduction of joint military drills with South Korea, citing improved relations with North Korea despite warnings from defense officials ([Guardian World](https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un), [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-16/trump-says-he-s-curtailing-military-drills-with-south-korea))
-• Senior Russian banker Andrei Klepach dismissed after publicly warning about wartime economic challenges ([Guardian World](https://www.theguardian.com/world/2026/aug/17/andrei-klepach-russian-banker-fired-warning-economy))
-• Violent clashes between Israeli forces and Hezbollah continue in Lebanon, threatening regional stability ([Le Monde](https://www.lemonde.fr/international/article/2026/08/17/au-liban-des-frappes-israeliennes-meurtrieres-fragilisent-un-peu-plus-le-cessez-le-feu-avec-le-hezbollah_6747969_3210.html))
-
-**Politics and elections**
-• Brazil's Lula da Silva launches historic fourth presidential campaign amid legal challenges from imprisoned former president Bolsonaro's son ([Guardian World](https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro))
-• New Mexico Attorney General announces expansion of social media safety legislation following $900 million settlement with Meta ([Guardian World](https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws))
-• Australian political tensions rise as Taylor demands Albanese repeal controversial tax measures in exchange for NDIS reform support ([Guardian World](https://www.theguardian.com/australia-news/2026/aug/17/angus-taylor-links-support-for-ndis-reform-to-removal-of-widow-tax-loophole))
-• UK Labour Party pledges creation of opt-out register for online gambling advertisements amid criticism of government's oversight gaps ([Guardian World](https://www.theguardian.com/australia-news/2026/aug/17/labor-pledges-opt-out-register-for-online-gambling-ads-australia))
-• US Representative Alexandria Ocasio-Cortez reportedly considering 2028 presidential bid, raising questions about America's prospects for female socialist leadership ([La Repubblica](https://www.repubblica.it/politica/rubriche/spin-off/2026/08/17/news/ocasio_cortez_presidenziali_usa_2028-425532337/))
+• Oil prices surge as US-Iran ceasefire expires and Trump threatens Oman with military action (Guardian World)
+• Russia warns UK of "consequences" over reports Ukraine using British drones in attacks on Russian territory (Guardian World)
+• South Korea president calls for military independence following Trump's suggestion to cut joint drills with US (Guardian World)
+• Trump's move to reduce South Korea alliance criticized as "inane, haphazard decision" by lawmakers (Guardian World)
+• South Korea pushes for nuclear submarine deal after Trump's rebuke (Bloomberg)
+• Ebola outbreak in Democratic Republic of Congo becomes deadliest in country's history (Guardian World)
+• Russian missiles hit Petchenihy in Kharkiv oblast, killing 10, according to local authorities (Le Monde)
+• Russian Supreme Court blocks only anti-war party from running in upcoming elections (Le Monde)
+• Hamas accepts US peace roadmap for Gaza; Israel expected to respond on disarmament (Le Monde)
+• Iran conflict updates: Araghchi states "Israel is the obstacle to agreement with the USA" (La Repubblica)
 
 **Disasters and accidents**
-• Ebola outbreak in Democratic Republic of Congo reaches record levels, becoming the country's deadliest such epidemic on record ([Guardian World](https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history))
-• Severe flooding in Chiba, Japan results in significant casualties and raises concerns about future climate-related risks ([Le Monde](https://www.lemonde.fr/planete/article/2026/08/17/pluies-torrentielles-a-chiba-un-lourd-bilan-humain-et-la-prefiguration-des-risques-a-venir-pour-le-japon_6748181_3244.html))
-• Emergency alert issued for England and Wales as authorities implement enhanced wildfire response measures including military deployment and outdoor cooking restrictions ([Government GOV.UK News](https://www.gov.uk/government/news/emergency-alert-to-be-sent-to-england-and-wales-as-government-steps-up-wildfire-response-with-funding-military-support-and-bbq-ban))
+• Mechanical fault suspected in helicopter crash that killed British newlyweds off Sifnos, Greece (Guardian World)
+• South Korea city devastated by nearly one meter of rainfall, triggering deadly landslide (Guardian World)
+• Family of missing 18-year-old hiker "absolutely devastated" as search continues in rugged NSW terrain (Guardian World)
+• WA police appeal for help locating 10-year-old girl missing from Perth suburbs (Guardian World)
+
+**Politics and elections**
+• Trump 2.0 administration has deleted or altered nearly 400 US federal datasets, threatening public health and education data (Guardian World)
+• Redistricting disrupts Florida primary as Alaska awaits Dan Sullivan v Dan Sullivan legal battle (Guardian World)
+• Top Democrats compete in Florida primary despite lack of progressive platform differences (Guardian World)
+• Can Trump's peace plan for Gaza be salvaged? Analysis of current developments (Guardian World)
+• Netanyahu and Kushner hold talks without making progress on stalled Gaza agreement (Guardian World)
+• Netanyahu party campaign billboard compares opponent Mamdani to Iranian and Hezbollah leaders (Guardian World)
+• Myanmar's leader to meet Putin on first Moscow visit as president (Bloomberg)
+• Trump threatens to bomb Oman if it interferes with Iran deal as Kushner meets Netanyahu (Guardian World)
+• Bondi library removes book "How to Sell a Genocide" from shelves following complaint (Guardian World)
 
 **Law and crime**
-• Australian court hears testimony about Victorian defendant Ralph Carr describing his experience as "living hell" following rape conviction ([Guardian World](https://www.theguardian.com/australia-news/2026/aug/17/ralph-carr-in-living-hell-after-being-convicted-of-victorian-court-hears-ntwnfb))
-• UK government prepares emergency alert system for England and Wales as part of expanded wildfire mitigation strategy ([Government GOV.UK News](https://www.gov.uk/government/news/emergency-alert-to-be-sent-to-england-and-wales-as-government-steps-up-wildfire-response-with-funding-military-support-and-bbq-ban))
+• Sydney Swans to sanction players for "serious breach" regarding sexual assault allegations (Guardian World)
+• Italian security law criticized after death of Moroccan man in police custody; migration "weaponized" (Guardian World)
+• Emergency judge called for Red Cross ambulance driver Luca Spada after deaths in transit (La Repubblica)
 
 **International relations**
-• French Prime Minister faces public booing during visit to wildfire-affected region while Belgium contends with major blaze ([Guardian World](https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates))
-• Japanese athlete Iapichino expresses personal journey toward self-acceptance while addressing maternal expectations ([La Repubblica](https://www.repubblica.it/sport/vari/2026/08/17/news/larissa_iapichino_intervista_oro_salto_lungo_europei_atletica_2026-425532751/))
-• Italy's Izmir celebrates post-Odyssea success with claims about Homer's birthplace, though Erdogan expresses opposition ([La Repubblica](https://www.repubblica.it/viaggi/2026/08/17/news/turchia_izmir_e_l_euforia_del_dopo-odissea_omero_e_nostro_ecco_le_prove_ma_erdogan_non_ci_sta-425532639/))
-• French presidential election discussions center around potential referendum strategies for 2027 ([Le Monde](https://www.lemonde.fr/politique/article/2026/08/17/presidentielle-2027-un-drole-de-consensus-pour-le-referendum_6747979_823448.html))
-• French cost of living increases by 1.66% over the year, with student expenses rising over 35% since Emmanuel Macron's election in 2017 ([Le Monde](https://www.lemonde.fr/campus/article/2026/08/17/le-cout-de-la-vie-etudiante-a-augmente-de-1-66-sur-un-an-et-de-plus-de-35-depuis-l-election-d-emmanuel-macron-en-2017-alerte-l-unef_6747977_4401467.html))
+• Controversial NDIS bill passes Senate with "substantial" amendments after Labor and Coalition agreement (Guardian World)
+• UK pay growth slows as job vacancies reach five-year low amid ongoing geopolitical tensions (Guardian World)
+• Governments' borrowing costs hit multi-decade highs as US-Iran peace prospects diminish (Guardian World)
+• Fortnite Cube Hours scheduled for Sprite Spree Week (August 18) (Vice News)
+• South Korea city deluged by almost one meter of rain, triggering deadly landslide (Guardian World)
+• A Gaza family fears settler violence will displace them from West Bank home (NPR World)
+• Riyadh creates entirely new public transportation network to transform city commuting (Le Monde)
 
 **Business and economy**
-• JP Morgan Chase CEO Jamie Dimon writes directly to UK Chancellor Rachel Reeves urging against implementation of windfall taxes on banking sector ([Guardian World](https://www.theguardian.com/business/2026/aug/17/jp-morgan-boss-jamie-dimon-warns-uk-chancellor-windfall-tax-banks))
-• Virgin Trains receives approval to operate services connecting UK with continental Europe, challenging Eurostar's market dominance ([Guardian World](https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar))
-• Prominent investor known as "AI stock god" loses 56% of portfolio invested heavily in two specific stocks before catastrophic collapse ([MarketWatch](https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories))
-• AI-powered political action committees spend significantly in Florida as they influence selection process for Trump's vice-presidential candidate ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-17/rival-ai-pacs-spend-big-in-florida-to-sway-trump-s-governor-pick))
+• Overground running incurs higher energetic cost than treadmill running at 1% grade, study finds (PLOS One)
+• UK pay growth slows as job vacancies hit five-year low (Guardian World)
+• Governments' borrowing costs hit multi-decade highs as US-Iran peace hopes fade (Guardian World)
+• British shoppers snap up picnic foods during heatwave; "picky bits" popular (Guardian World)
+• SAR11 Genome Atlas published: comprehensive genome and gene catalog for dominant ocean bacterial clade (bioRxiv)
+• CRISPR treatment offers new hope after 34 years of sickle cell crises (UC Berkeley News)
+• Usher's Atlanta mansion features art collection, hookah lounge, and barbershop (MarketWatch)
+• Virgin Trains moves closer to European rail services, challenging Eurostar dominance (Guardian World)
+
+**Environment**
+• England's ancient oak trees dying in extreme hot and dry weather conditions (Guardian World)
 
 **Science and technology**
-• Researchers utilize artificial intelligence to discover and construct counterexample disproving convergence properties of three-block Alternating Direction Method of Multipliers algorithm when identity matrix serves as third constraint block ([arXiv](https://arxiv.org/abs/2608.14396v1))
-• New computational model CT-PestNet developed using cross-scale feature distillation enhancement and vision transformer architecture achieves improved crop pest classification accuracy ([PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356061))
-• Advanced membrane-embedded Bcl-2 protein production technique employs cell-free synthesis methods enabling continuous exchange processes for co-translational protein insertion into lipid bilayer nanodiscs ([bioRxiv](https://www.biorxiv.org/content/10.64898/2026.08.15.745005v1?rss=1))
+• New genomic atlas reveals SAR11 bacteria genome for ocean ecosystem studies (bioRxiv)
+• CRISPR gene editing provides breakthrough treatment for chronic sickle cell disease (UC Berkeley News)
 
-**Health and medicine**
-• Observational study establishes statistically significant association between gallstone presence and subclinical coronary atherosclerosis development using propensity score matching methodology ([PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356142))
-• Research investigates relationships between soil aggregate characteristics, electrical conductivity, organic carbon content, and nutrient availability within highway construction environments in mountainous alpine zones ([PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356363))
+**Culture and entertainment**
+• Magic: The Gathering releases five new The Hobbit card drops featuring super rare cards and art (Vice News)
+• 3 one-hit wonders from the 1990s who still perform regularly (Vice News)
+• Brent Hinds appears on new CKY song, marking first posthumous recording of late Mastodon guitarist (Vice News)
+• Drake responds to "Goated" Ella Langly spotted dancing to his song with Lil Wayne (Vice News)
 
-**Entertainment and culture**
-• Grammy-winning rapper Hayden Panettiere, best known for roles in "Heroes" and "Nashville," passes away at age 36 ([Guardian World](https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36), [Le Monde](https://www.lemonde.fr/disparitions/article/2026/08/17/hayden-panettiere-revelee-par-les-series-heroes-et-nashville-est-morte-a-l-age-de-36-ans_6747975_3382.html))
-• Musician Thom Yorke joins forces with Massive Attack, Paranoia, and other artists in coordinated effort urging Australian Prime Minister to reject new North Sea oil drilling initiatives ([Guardian World](https://www.theguardian.com/business/2026/aug/17/massive-attack-paris-paloma-musicians-burnham-rosebank-north-sea-drilling))
-• Pop star cancels upcoming tour following public revelation of severe financial difficulties and health issues, subsequently liquidating personal possessions ([Vice News](https://www.vice.com/en/article/controversial-rock-star-cancels-tour-after-revealing-hes-broke-and-sick-and-selling-off-prized-possessions/))
-• BTS fanbase expresses outrage toward group members attending Chris Brown concert, with critics stating expectations were not met ([Vice News](https://www.vice.com/en/article/k-pop-fans-outraged-with-bts-members-who-attended-chris-brown-concert-honestly-i-expected-better/))
-• Sea turtle Rhossi completes incredible 5,000-mile migration journey from Wales to Texas, making full recovery under care at Houston zoo ([Guardian World](https://www.theguardian.com/us-news/2026/aug/17/rhossi-sea-turtle-texas-wales-recovery-update-houston-zoo))
+**Human interest**
+• Hayden Panettiere, known for "Heroes" and "Nashville," dies at age 36 (Associated Press)
+• Usher's Atlanta mansion showcases extensive art collection alongside recreational amenities (MarketWatch)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
