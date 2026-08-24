@@ -8,77 +8,12 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[August 23, 2026](reports/2026-08-23.md)**
+**[August 24, 2026](reports/2026-08-24.md)**
 
-*Last updated: 2026-08-23 11:28 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-08-24 11:41 UTC · Generated daily at 6:05 AM EST*
 
 ```
-August 24, 2026
 
-**Armed conflicts and attacks**
-• Russia withdraws ambassador to UK as Kremlin escalates pressure over Ukraine support ([Guardian World](https://www.theguardian.com/world/2026/08/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin))
-• Iran-linked hackers blamed for cyber-attack that shut down UK power plant ([Guardian World](https://www.theguardian.com/world/2026/08/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant))
-• Man leaves young son on Mount Fuji before ascending Japan's highest peak ([Guardian World](https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan))
-• Seventeen-year-old girl killed in sword attack at school in Sweden ([Guardian World](https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden))
-• 'No more!!!': Trump lashes out after US-Canada talks devolve into trade war ([Guardian World](https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war))
-• The 'ordinary' woman accused of assassinating a Russian commander in Crimea ([Guardian World](https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea))
-• Fur seal's death marks first Australian mainland mammal fatality from spreading H5 bird flu strain ([Guardian World](https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu))
-• Against the wind: despite Trump's attacks, unions are fighting for good US clean energy jobs ([Guardian World](https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump))
-• Trump's Economic Isolation Plan Risks Iran Strikes Across Gulf ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-22/trump-s-economic-isolation-plan-risks-iran-strikes-across-gulf))
-• Trade Breakdown Deepens US Canada Rift ([Bloomberg](https://www.bloomberg.com/news/videos/2026-08-22/trade-breakdown-deepens-us-canada-rift-video))
-• Canada vows 'dollar for dollar' response as US puts 50% tariffs on some goods ([Guardian World](https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail))
-
-**Disasters and accidents**
-• 'These were brave officers': tributes paid to police among seven killed in A66 crash ([Guardian World](https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank))
-• Apparently a Titanic-themed kids' ride is where we draw the line ([Vice News](https://www.vice.com/en/article/apparently-a-titanic-themed-kids-ride-is-where-we-draw-the-line/))
-• 'I hate Democrats, but I love Abdul': voters who left over Gaza return for progressive push ([Guardian World](https://www.theguardian.com/us-news/2026/aug/23/democrats-abdul-el-sayed-progressives))
-
-**Politics and elections**
-• Jean-Luc Mélenchon sur le budget 2027: 'Nous le censurerons, j'en suis certain' ([Le Monde](https://www.lemonde.fr/politique/article/2026/08/23/jean-luc-melenchon-sur-le-budget-2027-nous-le-censurerons-j-en-suis-certain_6754097_823448.html))
-• EN DIRECT, guerre en Ukraine: Volodymyr Zelensky estime qu'organiser des élections provoquerait un 'tsunami' qui 'fracturerait' le pays ([Le Monde](https://www.lemonde.fr/international/live/2026/08/23/en-direct-guerre-en-ukraine-volodymyr-zelensky-estime-qu-organiser-des-elections-provoquerait-un-tsunami-qui-fracturerait-l-ukraine_6753793_3210.html))
-• Swans fans turn up to support women's team - as it happened ([Guardian World](https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb))
-• Championnats du monde de badminton: Delphine Delrue et Thom Gicquel, sacrés en double mixte, lancent parfaitement une journée historique pour la France ([Le Monde](https://www.lemonde.fr/sport/article/2026/08/23/championnats-du-monde-de-badminton-delphine-delrue-et-thom-gicquel-sacres-en-double-mixte-lancent-parfaitement-une-journee-historique-pour-la-france_6754094_3242.html))
-
-**Law and crime**
-• Paolo Campana, professeur de criminologie: 'Le crime organisé cherche aussi à se présenter comme une alternative à la puissance publique' ([Le Monde](https://www.lemonde.fr/societe/article/2026/08/23/paolo-campana-professeur-de-criminologie-le-crime-organise-cherche-aussi-a-se-presenter-comme-une-alternative-a-la-puissance-publique_6754098_3224.html))
-• Affaire Gisèle Journo: les influenceurs une nouvelle fois sommés de se positionner sur la question de la guerre à Gaza ([Le Monde](https://www.lemonde.fr/pixels/article/2026/08/23/affaire-gisele-journo-les-influenceurs-une-nouvelle-fois-sommes-de-se-positionner-sur-la-question-de-la-guerre-a-gaza_6754027_4408996.html))
-
-**Business and economy**
-• Women want 'dads,' not 'duds': A Nobel-winning historian has a theory for falling birthrates, but the economics aren't so straightforward ([Industry Fortune](https://fortune.com/2026/08/23/women-dads-not-duds-claudia-goldin-birthrate-economics-data/))
-• 'I had no one to bird with who wasn't 20 years older than me': Meet the Gen Zers who transformed grandma's hobby into an analog craze ([Industry Fortune](https://fortune.com/2026/08/23/gen-z-birding-analog-hobby-college-bird-watching/))
-• Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent ([Industry The Verge](https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv))
-• Reliability and validity of the Chinese version of Global Sleep Assessment Questionnaire in adult patients with sleep disorders ([Academic PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356270))
-• An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it ([Industry The Verge](https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review))
-• When my brother had kids, I didn't even want to meet them. It made me realize why I don't want children of my own. ([Industry Business Insider](https://www.businessinsider.com/never-wanted-kids-brother-had-twins-question-2026-8))
-• Burnham Needs to Avoid Messy UK Budget to Keep Good Vibes Alive ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-23/burnham-needs-to-avoid-messy-uk-budget-to-keep-good-vibes-alive))
-• As debt surpasses $40 trillion, the bill for Washington spending comes due ([NewsAPI The Washington Post](https://www.washingtonpost.com/business/2026/08/22/debt-surpasses-40-trillion-bill-washington-spending-comes-due/))
-• Manuscript fragments hiding in plain sight shed light on medieval Guernsey's literary life ([Guardian World](https://www.theguardian.com/uk-news/2026/aug/23/manuscript-fragments-discovery-medieval-guernsey))
-• London's low emission zone is working - so why are cities around the world so cautious about clean air? ([Guardian World](https://www.theguardian.com/environment/2026/aug/23/london-low-emission-zone-working-other-cities-cautious-clean-air))
-• Personal care products are awash in unlabeled toxic chemicals, study finds ([Guardian World](https://www.theguardian.com/us-news/2026/aug/23/personal-care-products-unlabeled-toxic-chemicals))
-• [Articles] Liver resection after atezolizumab and bevacizumab versus maintenance therapy for locally advanced hepatocellular carcinoma (TALENTOP): a multicentre, open-label, randomised, phase 3 trial ([Academic The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01252-3/fulltext?rss=yes))
-• Mark Carney dénonce la 'guerre' commerciale lancée par Donald Trump contre le Canada et s'inquiète de 'menaces contre la langue française' ([Le Monde](https://www.lemonde.fr/international/article/2026/08/23/mark-carneye-denonce-la-guerre-commerciale-lancee-par-donald-trump-contre-le-canada-et-s-inquiete-de-menaces-contre-la-langue-francaise_6753507_3211.html))
-
-**International relations**
-• Your Skull Is Hiding a Secret Organ, and Scientists Just Found It ([Vice News](https://www.vice.com/en/article/your-skull-is-hiding-a-secret-organ-and-scientists-just-found-it/))
-• Scientists Grew Mini Brains That Kept Aging for Years, and Somehow Remembered It ([Vice News](https://www.vice.com/en/article/scientists-grew-mini-brains-that-kept-aging-for-years-and-somehow-remembered-it/))
-• Scientists Finally Solved the Mystery of Why You Sound Like a Chainsaw in Your Sleep ([Vice News](https://www.vice.com/en/article/scientists-finally-solved-the-mystery-of-why-you-sound-like-a-chainsaw-in-your-sleep/))
-• As debt surpasses $40 trillion, the bill for Washington spending comes due ([NewsAPI The Washington Post](https://www.washingtonpost.com/business/2026/08/22/debt-surpasses-40-trillion-bill-washington-spending-comes-due/))
-• Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide ([Guardian World](https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide))
-• Artemis II crew to receive top US space medal for historic lunar journey ([Guardian World](https://www.theguardian.com/science/2026/aug/23/artemis-ii-crew-top-us-space-medal))
-• 'No more!!!': Trump lashes out after US-Canada talks devolve into trade war ([Guardian World](https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war))
-• Canada vows 'dollar for dollar' response as US puts 50% tariffs on some goods ([Guardian World](https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail))
-• Les noyades en hausse de 14% par rapport à 2025, avec 301 décès depuis le 19 juin, selon la ministre des sports ([Le Monde](https://www.lemonde.fr/societe/article/2026/08/23/les-noyades-en-hausse-de-14-par-rapport-a-2025-avec-301-deces-depuis-le-19-juin-selon-la-ministre-des-sports_6754096_3224.html))
-• 'Nous sommes contraints d'utiliser le même cathéter 20 ou 30 fois': à Gaza, pénuries et évacuations entravées mettent les malades en danger ([Le Monde](https://www.lemonde.fr/international/article/2026/08/23/nous-sommes-contraints-d-utiliser-le-meme-catheter-20-ou-30-fois-a-gaza-penuries-et-evacuations-entravees-mettent-les-malades-en-danger_6753749_3210.html))
-• Formule 1: plongée dans l'ops room d'Alpine à Enstone, au cœur de la bataille des données ([Le Monde](https://www.lemonde.fr/sport/article/2026/08/23/formule-1-plongee-dans-l-ops-room-d-alpine-a-enstone-au-c-ur-de-la-bataille-des-donnees_6753827_3242.html))
-• 'L'eau ne sert pas seulement à boire ou à produire, elle fait fonctionner les écosystèmes' ([Le Monde](https://www.lemonde.fr/idees/article/2026/08/23/l-eau-ne-sert-pas-seulement-a-boire-ou-a-produire-elle-fait-fonctionner-les-ecosystemes_6753748_3232.html))
-• A la recherche des lycéens présents au procès de Klaus Barbie: 'La tension collective y était très forte, je la ressens encore' ([Le Monde](https://www.lemonde.fr/m-le-mag/article/2026/08/23/a-la-recherche-des-lyceens-presents-au-proces-de-klaus-barbie-la-tension-collective-y-etait-tres-forte-je-la-ressens-encore_6753754_4500055.html))
-• Sydney Marathon admits 'unfortunate error' as finisher's medal depicts Munich stadium as race highlight ([Guardian World](https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error))
-
-**Disasters and accidents**
-• Les noyades en hausse de 14% par rapport à 2025, avec 301 décès depuis le 19 juin, selon la ministre des sports ([Le Monde](https://www.lemonde.fr/societe/article/2026/08/23/les-noyades-en-hausse-de-14-par-rapport-a-2025-avec-301-deces-depuis-le-19-juin-selon-la-ministre-des-sports_6754096_3224.html))
-
-**Politics and elections**
-• Manovra, la misura elettorale: meno tasse sulle tredicesime ([La Repubblica](https://www.repubblica.it/economia/2026/08/23/news/manovra_detassazione_tredicesime_redditi_bassi-425542044/))
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
