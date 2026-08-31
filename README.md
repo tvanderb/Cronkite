@@ -8,77 +8,12 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[August 30, 2026](reports/2026-08-30.md)**
+**[August 31, 2026](reports/2026-08-31.md)**
 
-*Last updated: 2026-08-30 15:18 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-08-31 17:59 UTC · Generated daily at 6:05 AM EST*
 
 ```
-August 30, 2026
 
-Armed conflicts and attacks
-• Andy Burnham pledges to end indefinite prison terms, calling it "a step towards healing" for the UK justice system (Guardian World)
-• Palestinian woman and NBC News team reportedly attacked in the West Bank, raising concerns about press freedom in the occupied territories (Guardian World)
-• People fleeing Sudan civil war face "dire and deteriorating" conditions in the refuge city of El Fasher, with humanitarian access increasingly restricted (Guardian World)
-• Man arrested over fatal stabbing of British woman in Germany at Rosenheim train station (Guardian World)
-
-Disasters and accidents
-• Northern Cyprus ferry capsizes with nearly 270 people on board, resulting in at least six deaths and dozens missing (Guardian World)
-• Flooding devastates swathes of Indiana, with response efforts hampered by political divisions and inadequate preparation (Guardian World)
-• Nepal-Tibet floods raise death toll and leave approximately 3,000 people missing as bad weather hampers rescue operations (Guardian World)
-• Daughter traces mother and aunt's last known location in Nepal through TikTok video after they went missing in the floods (Guardian World)
-• Two sailors missing after French trawler crashes in the English Channel off the coast of Normandy (Le Monde)
-
-Politics and elections
-• Iceland rejects EU accession talks in referendum following divisive campaign, maintaining the country's non-EU status (Guardian World)
-• Canada erects giant "Lake Ontario" sign as diplomatic dispute with the United States over the lake's name escalates (Guardian World)
-• Pacific Islands Forum meeting descends into turmoil as several leaders withdraw from the Palau summit amid regional tensions (Guardian World)
-• Prosecutors consider charges against officers involved in the spycops scandal that revealed undercover policing abuses in the UK (Guardian World)
-
-Law and crime
-• New York City announces increased cooling tower inspections following outbreaks of legionnaires' disease in the city's buildings (Guardian World)
-• Recruiter "Phoenix" placed into liquidation just months after repurchase erased millions in debt, affecting hundreds of workers (Guardian World)
-• Trump EPA accused of manipulating safety data regarding a highly toxic flame retardant, raising concerns about chemical regulation transparency (Guardian World)
-
-Business and economy
-• AI economy compared to a "bad dating app," with companies drowning in pitch decks and stuck in pilot purgatory, mirroring dotcom bubble dynamics but potentially worse (Fortune)
-• Gen Zer lands NBA internship after washing his college basketball team's dirty clothes and mopping floors to demonstrate passion for sports business (Fortune)
-• Women's professional soccer faces "champagne problem" with packed calendar around World Cup, testing long-term sustainability of recent growth (Fortune)
-• Vijay Pande of a16z shifts from making 30 annual investments to smaller bets after managing $4 billion in venture capital (TechCrunch)
-• NYC resident turns $347,000 fixer-upper into four Airbnb units, expanding to additional properties after initial success (Business Insider)
-• Venture capitalist discusses strategic shift toward more conservative investment approach after massive fund management experience (TechCrunch)
-
-International relations
-• Tottenham coach De Zerbi faces criticism after spending €35.5 million with zero points gained, raising questions about coaching effectiveness in Serie A (La Repubblica)
-• Itamar Ben Gvir, Israeli far-right minister, praised deteriorating detention conditions for Palestinians, sparking international condemnation (Le Monde)
-• Swiss rave party shooting in Aarau results in death of Italian woman, with five injured and suspects at large (Le Monde)
-• Shooting at techno event in Aargau, Switzerland kills Italian woman, authorities do not rule out terrorist attack (La Repubblica)
-• NASA's Nancy Grace Roman space telescope launches after surviving Trump-era budget cuts, targeting dark energy and exoplanet research (Guardian World)
-• French novelist Safran Foer discusses how climate change this summer altered his life and the need for collective environmental action (La Repubblica)
-
-Science and health
-• Massive study reveals optimal social media usage limits, finding potential answers to "how much is too much" online (Vice News)
-• Research indicates most effective methods for quitting smoking according to comprehensive scientific analysis (Vice News)
-• Cross-sectional study in Vietnam examines prevalence of suicidal ideation, plans, and attempts among LGBTQ+ individuals (PLOS One)
-• Academic research explores impact of settled diatoms on autumn phytoplankton blooms in the Pacific Arctic Chukchi shelf (PLOS One)
-• Canadian Colorectal Centre of Excellence launches registry to study children with Hirschsprung's disease and anorectal malformations (PLOS One)
-
-Technology and environment
-• New space telescope Roman successfully launches to investigate dark energy and search for exoplanets after budgetary challenges (Guardian World)
-• Glacier monitoring vessel documents dramatic retreat of one of Greenland's largest ice shelves over four-week expedition (Le Monde)
-• Appalachian Trail hiking experience recreated in beautiful pixel art game "A Trail Tale" for virtual exploration (The Verge)
-• Six Flags X2 roller coaster's injury history examined ahead of season, revealing ongoing safety concerns with the attraction (Vice News)
-
-Culture and society
-• Tom Hardy collaborates with 1990s hip-hop legends on new mixtape, bridging film and music worlds (Vice News)
-• 50 Cent tells Rick Ross to "drop a new flavor of wings" after he cancels tour dates, continuing public feud between rappers (Vice News)
-• Weekly horoscope provides astrological predictions for August 30-September 5 period (Vice News)
-• Five ways to train your brain to be more positive without feeling forced or artificial explored in psychological research (Vice News)
-• Three reasons why people struggle to recognize their own strengths according to psychology professor analysis (Vice News)
-
-Arts and entertainment
-• Italian mystery surrounding ricin poisoning case involves teacher, school principal, and priest, with investigators pursuing new leads (La Repubblica)
-• Four generations share story of transformation of Grand Pins camping site in Lacanau, adapting to climate change and wildfire threats (Le Monde)
-• "A Trail Tale" offers gorgeous pixel art recreation allowing vicarious hiking of the Appalachian Trail experience (The Verge)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
