@@ -8,243 +8,30 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[September 2, 2026](reports/2026-09-02.md)**
+**[September 3, 2026](reports/2026-09-03.md)**
 
-*Last updated: 2026-09-02 15:05 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-09-03 14:59 UTC · Generated daily at 6:05 AM EST*
 
 ```
-We need to create a daily news report in style of Legible News, grouping by category, each bullet with main headline, key details, source citation(s) in parentheses, hyperlinks. Need to select about 45-65 stories total, mixing sources and regions, focusing on most significant/recent. Use provided list of stories (many). We must merge duplicates if same event appears multiple times (but seems each story unique). We need to choose categories: list includes many categories: Armed conflicts and attacks, Disasters and accidents, Politics and elections, Law and crime, Business and economy, International relations, etc.
-
-We need to produce report with date at top.
-
-We need to limit total stories maybe around 50.
-
-We must pick most significant stories across categories. Let's parse list and decide.
-
-We'll go through each story and assign to a primary category (most relevant). We'll need to avoid duplicates.
-
-Let's enumerate each story title with source and category as given. The given categories may be inaccurate; we need to choose best. We'll trust given categories but can adjust.
-
-We'll produce categories: Armed conflicts and attacks, Disasters and accidents, Politics and elections, Law and crime, Business and economy, International relations, maybe also Technology? Not listed but some are tech. But we stick to given categories.
-
-Given many stories are International relations. We'll need to select top ones.
-
-We need to include hyperlinks using URLs.
-
-We'll produce bullet points like: • Summary (Source). If multiple sources for same event, list both.
-
-We need to merge duplicates: not many duplicates.
-
-We'll aim for ~50 bullets.
-
-Let's decide selection.
-
-We'll go through list, pick notable:
-
-Armed conflicts and attacks:
-- Hakeem Jeffries vows 'serious response' after two House Democrats vote with Republicans (Guardian) – category Armed conflicts and attacks (but maybe politics; but given category Armed conflicts and attacks, but seems political. We'll maybe move to Politics.
-- Tim Cook handed $47m package for new role as executive chair of Apple (Guardian) – category Armed conflicts and attacks (makes no sense). Likely mis-categorized; better Business/economy.
-- Architect of UK’s AI strategy joins Anthropogenic amid conflict of interest warning (Guardian) – Armed conflicts and attacks (makes no sense). Probably Business/tech.
-- Ed Miliband promises 'comprehensive reset' of UK policy toward Israel (Guardian) – Armed conflicts and attacks (should be Politics).
-- Pete Hegseth criticized for body-shaming Canadian cadet program members (Guardian) – Armed conflicts and attacks (maybe Law? but okay).
-- Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI (Guardian) – Armed conflicts and attacks (Law?).
-- Iran accuses US of 'war crime' after missile blast kills four people at wedding (Guardian) – Armed conflicts and attacks.
-- Trump ally defends Venezuela oil deal amid 'gunpoint diplomacy' criticism (Guardian) – International relations but maybe Armed? We'll keep International.
-- What's really behind Trump's deference to Putin? (Guardian) – Armed conflicts and attacks (maybe Politics).
-- US woman gets 38 stitches after being bitten by otter in Lake Tahoe (Guardian) – Armed conflicts and attacks (should be Disasters/accidents?).
-- 'Timidity is a virus': Paul Keating fights the fading of the light as he seeks to enshrine his legacy (Guardian) – International relations? Actually Australia news but category International relations.
-- Mark Carney tells US to 'start being serious' amid escalating trade war (Guardian) – Armed conflicts and attacks (should be Politics/economy).
-- US and Iran exchange more airstrikes, fuelling fears of wider return to hostilities (Guardian) – Armed conflicts and attacks.
-- Blackout risk rises as heatwave stresses largest US electric grids (Guardian) – Armed conflicts and attacks (should be Disasters/International).
-- Four in court after newborn baby girl stabbed to death in Sheffield (Guardian) – Law and crime.
-- etc.
-
-Given many mis-categorizations, we need to decide best category ourselves.
-
-Let's create categories: Armed conflicts and attacks, Disasters and accidents, Politics and elections, Law and crime, Business and economy, International relations.
-
-We'll go through each story and assign.
-
-I'll list each story with brief note.
-
-1. Relational-Core Graph Analytics... (arXiv) – Business and economy (given). Keep Business.
-
-2. Hakeem Jeffries vows 'serious response' after two House Democrats vote with Republicans – Politics (maybe). We'll assign Politics and elections.
-
-3. SteamDB Sold to Nexus Mods, Sparking Monetization Concerns – International relations? Actually tech/business. Could be Business and economy. We'll assign Business.
-
-4. Prevalence of intestinal parasites... HIV patients... – Business and economy (given). Keep Business.
-
-5. New York law requires hairdressers to learn how to work with all hair types – International relations? Actually US domestic policy, maybe Politics. But category International relations given; we could put Politics.
-
-6. Chevron CEO Wirth on Investing $7 Billion in Venezuela – International relations (makes sense). Keep International.
-
-7. Confidence-guided integration of otoscopy videos... – Business and economy (given). Keep Business.
-
-8. Andy Burnham pressed on borrowing costs and spending at first PMQs – Politics and elections (given). Keep Politics.
-
-9. Is Xbox Live Down Right Now? Players Report Massive Server Outage – International relations? Actually tech/service outage; maybe Business/economy. We'll assign Business.
-
-10. Tim Cook handed $47m package for new role as executive chair of Apple – Business and economy (makes sense). We'll assign Business.
-
-11. Architect of UK’s AI strategy joins Anthropic amid conflict of interest warning – Business and economy (tech). We'll assign Business.
-
-12. I lived with my dad for 5 years while attending law school... – Business and economy (given). Keep Business (human interest).
-
-13. E se gli Stati Uniti restassero completamente al buio? (Italy article about US blackout risk) – International relations (makes sense). Keep International.
-
-14. How Bruce Richman Turned His HIV Diagnosis Into a Global Movement – International relations (given). Keep International.
-
-15. Ed Miliband promises 'comprehensive reset' of UK policy toward Israel – Politics and elections (makes sense). We'll assign Politics.
-
-16. L’apertura della scuola in tutta Italia coincide con la sesta ondata di calore: 'Posticipatela' – International relations (given). Could be Disasters (heatwave). We'll assign Disasters and accidents.
-
-17. Arriva la sesta ondata di calore sull’Italia: 'Estate infinita, la più calda da 3 secoli' – International relations (given). Disasters.
-
-18. Almost half of world’s farmers poisoned by pesticides every year, experts find – International relations (given). Could be Business/economy (agri). We'll assign Business.
-
-19. Pete Hegseth criticized for body-shaming Canadian cadet program members – Armed conflicts and attacks (given). Could be Law/crime? We'll keep Armed conflicts.
-
-20. Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI – Armed conflicts and attacks (given). Could be Law and crime. We'll assign Law and crime.
-
-21. Barclays faces complaint over backing for power plant near world’s largest mangrove forest – Politics and elections (given). Could be International relations (environment). We'll assign Politics.
-
-22. Iran accuses US of 'war crime' after missile blast kills four people at wedding – Armed conflicts and attacks (given). Keep Armed.
-
-23. Trump ally defends Venezuela oil deal amid 'gunpoint diplomacy' criticism – International relations (given). Keep International.
-
-24. What's really behind Trump’s deference to Putin? – Armed conflicts and attacks (given). Could be Politics. We'll assign Politics.
-
-25. Watch the New Episode of Chef’s Night Out: Sauna, Shots & Karaoke in Helsinki – International relations (given). Could be Culture but we keep International.
-
-26. Acer’s new MacBook Air rival is nearly a pound lighter than Apple’s laptop – Business and economy (given). Keep Business.
-
-27. Au Brésil, le crime organisé gagne du terrain sur le littoral du Nordeste, fief électoral du président Lula – Law and crime (given). Keep Law.
-
-28. Agression homophobe de Pierre Picavet: un homme mis en examen – International relations (given). Could be Law and crime. We'll assign Law.
-
-29. A la Mostra de Venise, George Clooney étrille l’administration Trump... – International relations (given). Keep International.
-
-30. Story of the Bayeux Tapestry to be brought to communities across the country as Prime Minister joins The King and Queen and President Macron at exhibition opening – Politics and elections (given). Keep Politics.
-
-31. Swedish minister defends strict post-Brexit removals of Britons – Politics and elections (given). Keep Politics.
-
-32. US woman gets 38 stitches after being bitten by otter in Lake Tahoe – Armed conflicts and attacks (given). Could be Disasters and accidents (animal attack). We'll assign Disasters.
-
-33. ‘Timidity is a virus’: Paul Keating fights the fading of the light as he seeks to enshrine his legacy – International relations (given). Keep International.
-
-34. Mark Carney tells US to 'start being serious' amid escalating trade war – Armed conflicts and attacks (given). Could be Politics/economy. We'll assign Politics.
-
-35. Après la tentative de coup d’État au Niger, l’Algérie inaugure sa nouvelle doctrine de déploiement militaire hors de ses frontières – International relations (given). Keep International.
-
-36. Blackout risk rises as heatwave stresses largest US electric grids – Armed conflicts and attacks (given). Could be Disasters. We'll assign Disasters.
-
-37. Après la tentative de coup d’État au Niger... (already covered). Actually duplicate? There's also a line about Alexandre young banker – International relations (given). Keep International.
-
-38. EU Moves to Support Ukraine Grain Exports and Shield Farmers – Business and economy (given). Keep Business.
-
-39. 3 Ska-Punk Bands of the 90s That Had Millennials Skanking and Wearing Checkers and Plaid – Disasters and accidents (given). Actually culture; but we keep Disasters? Might be weird. We'll maybe skip.
-
-40. USS Abraham Lincoln arrives at Thai port after gruelling 270 days at sea – Armed conflicts and attacks (given). Could be International relations (military). We'll assign International.
-
-41. Ray Hadley used homophobic slur against Alan Jones and said he wanted to bury him figuratively and literally, court hears – Armed conflicts and attacks (given). Could be Law and crime. We'll assign Law.
-
-42. Andy Burnham blames Tory legacy for leaving UK economy vulnerable – Politics and elections (given). Keep Politics.
-
-43. Four in court after newborn baby girl stabbed to death in Sheffield – Law and crime (given). Keep Law.
-
-44. France Inter: les personnels de Radio France demandent le retrait de la chronique de Charles Sapin et votent la grève – International relations (given). Could be Politics (media). We'll assign Politics? but keep International.
-
-45. En Thaïlande, le pouvoir augmente la pression sur les touristes et les étrangers – International relations (given). Keep International.
-
-46. Les Pays-Bas transfèrent 86 tonnes d’or des Etats-Unis et du Canada vers le Royaume-Uni, invoquant l’instabilité géopolitique croissante – International relations (given). Keep International.
-
-47. Se vinci ti esonero. Il paradosso di Giampaolo che aveva già colpito Ancelotti e favorito Fabregas – International relations (given). Could be Sports; we keep International.
-
-48. 4 Dance Crazes of the 2000s That Predate Gen Z’s TikTok Dances – International relations (given). Keep International.
-
-49. Queensland police investigate after 5,500 sheep worth $1.7m stolen from farm – International relations (given). Could be Law and crime (theft). We'll assign Law.
-
-50. Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case – International relations (given). Could be Law and crime. We'll assign Law.
-
-51. L’Iran réplique aux attaques américaines en visant des bases états-uniennes dans plusieurs pays du Golfe – International relations (given). Keep International.
-
-52. Japan halves speed limit to 30km/h on all narrow city streets – International relations (given). Could be Politics (transport). We'll assign Politics.
-
-53. Nicholas Cullinan, directeur du British Museum: Tout le monde a conscience que le prêt de la tapisserie de Bayeux est extraordinaire – International relations (given). Keep International.
-
-54. Lettres d’amour de ma grand-mère: mensonges et retrouvailles dans un mélodrame ancré dans les valeurs traditionnelles chinoises – International relations (given). Keep International.
-
-55. Allarme di Tajani: 'Possibili tentativi d’influences russe sul voto in Italia'. Salvini si smarca – International relations (given). Could be Politics. We'll assign Politics.
-
-56. Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims – Disasters and accidents (given). Keep Disasters.
-
-57. Guerra Ucraina - Russia, news. Lipsia, identificati, 2 sospetti. Uno aveva visto turistico italiano – International relations (given). Keep International.
-
-58. On This Day 21 Years Ago, Kanye West Shocked the World (And Mike Meyers) With a Stunning Impromptu Accusation – Politics and elections (given). Could be Culture; we keep Politics.
-
-59. US and Iran exchange more airstrikes, fuelling fears of wider return to hostilities – Armed conflicts and attacks (given). Keep Armed.
-
-Now we need to select most significant stories, limit to ~45-65 total. We have many International relations; we need to trim.
-
-We'll aim for maybe 8-10 per category.
-
-Let's list categories with selected stories.
-
-Armed conflicts and attacks:
-- Iran accuses US of 'war crime' after missile blast kills four people at wedding (Guardian)
-- Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI (Guardian) (maybe Law though)
-- Pete Hegseth criticized for body-shaming Canadian cadet program members (Guardian)
-- US and Iran exchange more airstrikes, fuelling fears of wider return to hostilities (Guardian)
-- US woman gets 38 stitches after being bitten by otter in Lake Tahoe (maybe Disasters)
-- Mark Carney tells US to 'start being serious' amid escalating trade war (maybe Politics)
-- Trump ally defends Venezuela oil deal amid 'gunpoint diplomacy' criticism (maybe International)
-- What's really behind Trump’s deference to Putin? (maybe Politics)
-- USS Abraham Lincoln arrives at Thai port after gruelling 270 days at sea (maybe International)
-- Ray Hadley used homophobic slur against Alan Jones... (maybe Law)
-- Blackout risk rises as heatwave stresses largest US electric grids (maybe Disasters)
-- Four in court after newborn baby girl stabbed to death in Sheffield (Law)
-- etc.
-
-We need to pick truly armed conflicts: Iran-US missile blast, US-Iran airstrikes, maybe Tumbler Ridge shooting (though it's mass shooting in Canada?), Pete Hegseth body-shaming not armed conflict. So maybe only a few.
-
-Let's define Armed conflicts and attacks as military/violent conflict: Iran-US missile blast, US-Iran airstrikes, maybe Tumbler Ridge mass shooting (gun violence), maybe USS Abraham Lincoln deployment (military). Also maybe Blackout risk not armed.
-
-We'll select:
-- Iran accuses US of 'war crime' after missile blast kills four people at wedding (Guardian)
-- US and Iran exchange more airstrikes, fuelling fears of wider return to hostilities (Guardian)
-- Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI (Guardian) (mass shooting)
-- USS Abraham Lincoln arrives at Thai port after gruelling 270 days at sea (Guardian) (military deployment)
-
-That's 4.
-
-Disasters and accidents:
-- Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims (Guardian)
-- Arriva la sesta ondata di calore sull’Italia: 'Estate infinita, la più calda da 3 secoli' (La Repubblica) (heatwave)
-- L’apertura della scuola in tutta Italia coincide con la sesta ondata di calore: 'Posticipatela' (La Repubblica) (heatwave school opening) maybe combine with heatwave.
-- Blackout risk rises as heatwave stresses largest US electric grids (Guardian)
-- US woman gets 38 stitches after being bitten by otter in Lake Tahoe (Guardian) (animal attack)
-- Quebec? Not present.
-- Maybe also "Almost half of world’s farmers poisoned by pesticides every year" could be health disaster but we put Business.
-
-Select top 5:
-- Nepal-Tibet flood deaths pass 1,000 (Guardian)
-- Italy heatwave sixth wave (La Repubblica) (two articles maybe combine)
-- US blackout risk due to heatwave (Guardian)
-- Otter attack in Lake Tahoe (Guardian)
-- Maybe "Almost half of world’s farmers poisoned by pesticides every year" (Guardian) but we could put Business.
-
-We'll keep 4-5.
-
-Politics and elections:
-- Hakeem Jeffries vows 'serious response' after two House Democrats vote with Republicans (Guardian)
-- Andy Burnham pressed on borrowing costs and spending at first PMQs (Guardian)
-- Ed Miliband promises 'comprehensive reset' of UK policy toward Israel (Guardian)
-- Story of the Bayeux Tapestry to be brought to communities... (GOV.UK)
-- Swedish minister defends strict post-Brexit removals of Britons (Guardian)
-- Andy Burnham blames Tory legacy for leaving UK economy vulnerable (Guardian)
-- Barclays faces complaint over backing for power plant near world’s largest mangrove forest (Guardian)
-- Mark Carney tells US
+September 3, 2026  
+
+**Business and economy**  
+• Europe doesn’t need any lessons on growth; Fortune will reveal 500 reasons why on September 16 ([Industry Fortune](https://fortune.com/2026/09/03/september-16-fortune-ceo-forum-500-uk/))  
+• Yen surges as markets anticipate a Bank of Japan rate hike ([Guardian World](https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates))  
+• Dutch central bank transfers 86 tonnes of gold to the UK from the US and Canada, citing geopolitical unrest ([Guardian World](https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest))  
+• U.S. economy gains momentum as summer ends, but lingering risks remain ([Industry MarketWatch](https://www.marketwatch.com/story/the-u-s-economy-powers-up-as-summer-winds-down-but-its-not-free-of-tripwires-2208ae5a?mod=mw_rss_topstories))  
+• Advice column urges men to share household chores, starting with teaching sons to help ([Industry Business Insider](https://www.businessinsider.com/teaching-men-to-clean-asking-son-husband-help-chores-2026-9))  
+• UK mortgage holders prepare for higher rates amid a global bond sell‑off ([Guardian World](https://www.theguardian.com/money/2026/sep/03/uk-mortgage-borrowers-brace-for-rate-jump-global-bond-sell-off))  
+• John Lewis to launch a YouTube chat‑show aimed at improving AI‑driven search results ([Guardian World](https://www.theguardian.com/business/2026/sep/03/john-lewis-youtube-chat-show-angela-scanlon))  
+• Apple Maps renames Lake Ontario as “Lake America” for U.S. users following a Trump executive order ([Guardian World](https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america))  
+• New University of Washington research shows the Arctic melt season is now a week longer than in the 1980s ([Academic University of Washington News](https://www.washington.edu/news/2026/09/02/qa-the-arctic-melt-season-is-a-week-longer-now-than-it-was-in-the-1980s-shows-new-uw-research-on-sea-ice-trends/))  
+
+**Politics and elections**  
+• Swedish opposition parties pledge to assist Britons facing deportation if they gain power ([Guardian World](https://www.theguardian.com/world/2026/sep/03/swedish-mp-promises-help-for-britons-facing-deportation-if-his-party-wins-power-general-election))  
+• Wife of a British man threatened with deportation from Sweden urges Andy Burnham to intervene ([Guardian World](https://www.theguardian.com/world/2026/sep/03/wife-of-british-man-at-risk-of-deportation-from-sweden-calls-on-burnham-to-intervene))  
+• Kemi Badenoch denounces Reform UK’s proposed press bans as “authoritarian” in live UK politics coverage ([Guardian World](https://www.theguardian.com/politics/live/2026/sep/03/andy-burnham-emmanuel-macron-zack-polanski-latest-news-updates))  
+• Hong Kong court upholds convictions of Cardinal Joseph Zen and others related to a protester relief fund ([ABC News](https://abcnews.com/International/wireStory/hong-kong-court-upholds-convictions-cardinal-joseph-zen-136163714))  
+• La Repubblica publishes the (now‑deleted) interview with Ranucci and Lavitola on Zimbabwe and carbon credits ([La Repubblica](https://roma.repubblica.it/cronaca/2026/09/03/news/ranucci_lavitola_intervista_zimbabwe_carbon_credit-42556253
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
