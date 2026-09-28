@@ -8,83 +8,12 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[September 27, 2026](reports/2026-09-27.md)**
+**[September 28, 2026](reports/2026-09-28.md)**
 
-*Last updated: 2026-09-27 15:37 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-09-28 18:34 UTC · Generated daily at 6:05 AM EST*
 
 ```
-September 28, 2026
 
-**Armed conflicts and attacks**
-• Mass shootings in Johannesburg and Cape Town leave at least 27 dead [Guardian World](https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town)
-• Trump rejects Iran's seven-day peace deal to reopen Strait of Hormuz [Guardian World](https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz)
-• US airstrikes on Ecuadorian fishing boats raise humanitarian concerns [Guardian World](https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers)
-• Villagers near RAF Fairford describe evacuation after suspected incident [Guardian World](https://www.theguardian.com/uk-news/2026/sep/27/villagers-raf-fairford-evacuation)
-• Pope Leo XIV condemns "fleau des violences sexuelles" within Church during France visit [Le Monde](https://www.lemonde.fr/international/article/2026/09/27/visite-du-pape-a-lourdes-leon-xiv-reaffirme-son-opposition-a-l-aide-a-mourir-et-denonce-le-fleau-des-violences-sexuelles-au-sein-de-l-egle_6784031_3211.html)
-• Live coverage: Ukraine war updates with casualties in northeastern regions [Le Monde](https://www.lemonde.fr/international/live/2026/09/27/en-direct-guerre-en-ukraine-les-dernierees-informations-et-nos-reponses-a-vos-questions_6783795_3210.html)
-• Five arrests made after explosives discovered near UK RAF base used by US military [La Repubblica](https://www.repubblica.it/esteri/2026/09/27/news/gran_bretagna_allarme_esplosivi_base_raf_usata_dagli_usa_per_operazioni_in_iran_diversi_arresti-425610393/)
-• Northern Ireland experiences heightened tensions with Catholic and Protestant demonstrations [La Repubblica](https://www.repubblica.it/esteri/2026/09/27/news/irlanda_del_nord_tensione_altissima_catene_umane_di_cattolici_contro_una_marcia_protestante-425610181/)
-
-**Politics and elections**
-• One Nation boss calls David Farley an "asshole" in texts ahead of Farrer by-election [Guardian World](https://www.theguardian.com/australia-news/2026/sep/28/one-nation-kelvin-morton-david-farley-asshole-farrer-byelection-text-messages-ntwnfb)
-• One Nation demands up to $630,000 from Victorian election candidates [Guardian World](https://www.theguardian.com/australia-news/2026/sep/27/one-nation-to-demand-thousands-from-victorian-election-candidates-ntwnfb)
-• Burnham faces first Labour conference as Prime Minister [Bloomberg](https://www.bloomberg.com/news/videos/2026-09-27/burnham-faces-first-labour-conference-as-pm-video)
-• Midterm election fight expands into Republican strongholds [Bloomberg](https://www.bloomberg.com/news/videos/2026-09-27/midterm-fight-expands-into-republican-strongholds-video)
-• Serb President Vučić to step down, switching to PM role in move echoing Putin [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-27/serb-president-vucic-to-quit-in-switch-to-pm-post-echoing-putin-s-power-move)
-• Live coverage: French Senate elections second round concluded [Le Monde](https://www.lemonde.fr/politique/live/2026/09/27/en-direct-senatoriales-2026-le-second-tour-est-clos-suivez-les-resultats-et-les-reactions-en-direct_6784204_823448.html)
-
-**Business and economy**
-• AI giants leverage safety concerns to build competitive moats while warning of existential risks [Industry Fortune](https://fortune.com/2026/09/27/ai-giants-openai-sam-altman-anthropic-dario-amodei-existential-risk-humanity-competitive-moat-safety/)
-• Targeted left ventricular lead placement study published in The Lancet [Academic The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01597-7/fulltext?rss=yes)
-• US-China trade truce leaves key issues unresolved [Bloomberg](https://www.bloomberg.com/news/videos/2026-09-27/us-china-trade-truce-leaves-key-issues-unresolved-video)
-• Flat-rate tax system generates nearly double the revenue per invoice compared to standard VAT [La Repubblica](https://www.repubblica.it/economia/2026/09/27/news/operai_partite_iva_flat_tax_fisco_iniquo_patrimoniale-425609942/)
-
-**Law and crime**
-• Only 3% of US sickle cell patients receive red blood cell exchange treatment [Guardian World](https://www.theguardian.com/society/2026/sep/27/sickle-cell-patients-red-blood-cell-exchange)
-• Six killed in Athens apartment block explosion; Greek authorities seek answers [Guardian World](https://www.theguardian.com/world/2026/sep/26/greek-authorities-seek-answers-after-six-killed-in-athens-apartment-block-explosion)
-• British celebrities defeat AI companies in lobbying for free use of their work, issuing warning to Australia [Guardian World](https://www.theguardian.com/australia-news/2026/sep/28/uk-celebrity-warning-for-australia-ai-copyright)
-• UK GPs report being "too busy to talk to patients in depth" with three-quarters expressing concern [Guardian World](https://www.theguardian.com/society/2026/sep/27/three-in-four-uk-gps-too-busy-to-talk-to-their-patients-in-depth)
-
-**International relations**
-• RBA expected to hike cash rate to 4.6%, highest level since 2011 [Guardian World](https://www.theguardian.com/australia-news/2026/sep/28/rba-expected-to-hike-cash-rate-to-46-its-highest-level-since-2011)
-• Democracy challenges Silicon Valley's AI power players seeking to transform world [Guardian World](https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power)
-• Pope Leo XIV celebrates open-air mass before 700,000 people in Paris [Guardian World](https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris)
-• Pope visits Lourdes; receives survivors of priestly abuse, calls issue "dolente piaga" [La Repubblica](https://www.repubblica.it/esteri/2026/09/27/news/papa_a_lourdes_tra_i_malati_vittime_degli_abusi_dei_preti-425610422/)
-• UN vaccine solidarity declaration signed by most nations except EU and USA; Italy also abstains [La Repubblica](https://www.repubblica.it/esteri/2026/09/27/news/pandemie_ue_e_usa_non_sottoscrivono_dichiarazione_onu_per_solidarieta_vaccinale_anche_l_italia_tra_gli_astenuti-425610575/)
-• Swiss voters reject right-wing referendum on military neutrality with 68.8% voting no [La Repubblica](https://www.repubblica.it/esteri/2026/09/27/news/svizzera_schiaffo_alla_destra_referendum_su_neutralita_bocciata_stretta-425610715/)
-• French President Macron announces new UK taxes to fund major elder care reform [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-27/burnham-hints-at-new-uk-taxes-to-pay-for-social-care-reform)
-• Three giant pandas relocated to Atlanta Zoo following Xi-Trump summit [Guardian World](https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit)
-
-**Entertainment and culture**
-• Rockstar reveals new GTA 6 artwork featuring characters Jason and Lucia [Vice News](https://www.vice.com/en/article/gta-6-jason-lucia-new-artwork-game-informer/)
-• FNAF Fortnite collaboration confirmed by Epic Games with release date, skins, and mode details [Vice News](https://www.vice.com/en/article/fnaf-fortnite-collab-confirmed-by-epic-games-release-date-skins-and-mode-revealed/)
-• RuPaul and Milton Berle share awkward MTV VMA moment [Vice News](https://www.vice.com/en/article/rupaul-and-milton-berle-had-one-of-the-most-awkward-mtv-vma-moments-ever/)
-• Chief Keef performs first headlining show in Chicago in over a decade [Vice News](https://www.vice.com/en/article/chief-keef-performs-first-headlining-show-in-hometown-of-chicago-in-over-a-decade/)
-
-**Technology and science**
-• Only 3% of US sickle cell patients receive red blood cell exchange for disease, researchers find [Guardian World](https://www.theguardian.com/society/2026/sep/27/sickle-cell-patients-red-blood-cell-exchange)
-• AFP Grand Final breaks TV audience records [Guardian World](https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb)
-
-**Health and medicine**
-• New targeted left ventricular lead placement study in biventricular pacing for heart failure published in Denmark [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01597-7/fulltext?rss=yes)
-
-**Environment and society**
-• Cape Town divides over plan to remove monkeys amid complaints about "baboon faeces" covering homes [Guardian World](https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe)
-• Yann Couvreur behind "success story" of pâtisseries amid employee dissatisfaction [Le Monde](https://www.lemonde.fr/economie/article/2026/09/27/yann-couvreur-derriere-la-success-story-de-ses-patisseries-le-malaise-des-salaries_6784238_3234.html)
-• British celebrities warn Australia about AI copyright issues [Guardian World](https://www.theguardian.com/australia-news/2026/sep/28/uk-celebrity-warning-for-australia-ai-copyright)
-
-**Urban development and architecture**
-• Architect Peter Zumthor donates three buildings to Fondation Beyeler [Le Monde](https://www.lemonde.fr/culture/article/2026/09/27/l-architecte-peter-zumthor-offre-trois-batiments-sigles-a-la-fondation-beyeler_6784409_3246.html)
-
-**Social issues and human interest**
-• "Hell on earth": Last residents survive on weeds in Russian-occupied Oleshky [Guardian World](https://www.theguardian.com/world/2026/sep/27/hell-on-earth-last-residents-eat-weeds-to-survive-in-russian-occupied-oleshky)
-• Colombia sees return of "mano de hierro" against coca cultivation and trafficking [Le Monde](https://www.lemonde.fr/international/article/2026/09/27/en-colombie-le-retour-de-la-main-de-fer-contre-la-culture-et-le-trafic-de-cocaine_6784239_3210.html)
-• Family rebuilding story: "In this new five-person household, the atmosphere is brilliant, noisy, we laugh a lot" [Le Monde](https://www.lemonde.fr/intimites/article/2026/09/27/dans-cette-nouvelle-vie-a-cinq-de-famille-recomposee-l-ambiance-est-geniale-bruyante-on-ris-beaucoup_6784307_6190330.html)
-• Street history: Rue des Acacias from horse-drawn carriages to yéyés [Le Monde](https://www.lemonde.fr/m-styles/article/2026/09/27/c-est-l-histoire-d-une-rue-acacias-des-carrossiers-aux-yeyes_6784413_4497319.html)
-• French Senate elections live blog: second round results and reactions [Le Monde](https://www.lemonde.fr/politique/live/2026/09/27/en-direct-senatoriales-2026-le-second-tour-est-clos-suivez-les-resultats-et-les-reactions-en-direct_6784204_823448.html)
-
-**Transportation and mobility**
-• Lime bike profits double as rider numbers surge across England [Guardian World](https://www.theguardian.com/world/2026/sep/27/lime-bike-profits-double-rider-numbers-surge-england)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
