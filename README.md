@@ -8,12 +8,69 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[September 28, 2026](reports/2026-09-28.md)**
+**[September 29, 2026](reports/2026-09-29.md)**
 
-*Last updated: 2026-09-28 18:34 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-09-29 16:51 UTC · Generated daily at 6:05 AM EST*
 
 ```
+September 30, 2026
 
+Armed conflicts and attacks
+• Estonian authorities blame Russia for an arson attack on a drone manufacturer that supplies Ukraine (Guardian World)
+• Questions remain over Iran's connection to an alleged RAF Fairford bomb plot (Guardian World)
+• Israel: Poison traces found on Netanyahu's travel documents to UAE, official says; UAE leader asked Netanyahu to be excused (La Repubblica)
+• Russian forces tell NATO: "We will defend Kaliningrad with full arsenal" amid Ukraine war developments (La Repubblica)
+• Pope Leo XIV states: "AI and wars, we cannot stand by. Dialogue is needed" regarding extremist trends (La Repubblica)
+
+Disasters and accidents
+• Body of newborn baby discovered on Welsh shoreline, prompting search for mother (Guardian World)
+• New York man killed after bag caught in subway train doors (Guardian World)
+
+Politics and elections
+• Australia concedes no scientific consensus on social media harms for teenagers, but 'credible risks' justify ban (Guardian World)
+• Spanish government approves measures to ease housing crisis amid outcry over eviction of 87-year-old (Guardian World)
+• Guardian Essential poll: Australia's Coalition primary vote sinks to lowest ever as majority support hardline immigration policies (Guardian World)
+• US Senator blocks bill to prohibit Trump from demolishing Kennedy Center without Congressional approval (Guardian World)
+• Trump set to host Nvidia and Anthropic CEOs to discuss AI risks (Bloomberg)
+• UK's Burnham states Brexit has done more harm than good in revolutionary and left-wing speech (Bloomberg)
+• French students and police clash as school blockades turn violent (Guardian World)
+• European Commission outlines five-point plan to strengthen resilience and security of EU external borders (Government EU Newsroom)
+• European Parliament inaugurates David Maria Sassoli building amid discussions on EU future (Government EU Newsroom)
+• Germany's AfD proposes economic forum with Russia and USA in 2027 to reopen Nord Stream (La Repubblica)
+• Italy: Gasoline prices capped as Q8 accepts government price cap invitation (La Repubblica)
+• Italy: Gianni Di Vita's clinics raided in poisoning case; wife's bag seized (La Repubblica)
+• September 29 strike in France: over 200,000 people demonstrated demanding increased funding for public sector (Le Monde)
+
+Law and crime
+• Lindsay Clancy returns to court after Massachusetts murder case mistrial (Guardian World)
+• Trump administration asks Supreme Court to allow denial of gender-affirming care to transgender prisoners (Guardian World)
+• Violent interpellation in Corbeil-Essonnes: new video contradicts police version (Le Monde)
+• Italy: Poisoning investigation of Gianni Di Vita continues; wife's bag seized (La Repubblica)
+
+Business and economy
+• Iran's currency hits new record low as it accuses US of seeking to turn Iran "back into a colony" (Industry Fortune)
+• Mumps vaccine study evaluates real-world protective effect among children under 15 in Taizhou (Academic PLOS One)
+• Family moves to small Maine island after finding $1,000/month house deal (Business Insider)
+• Small business owner reports $2,000 per person Greece trip was worth six-figure revenue boost (Business Insider)
+• Individual chooses Columbia over UPenn scholarship, questions decision (Business Insider)
+• South West Water fined £8m for hundreds of sewage spills in Cornwall and Devon (Guardian World)
+• Soho House launches investigation after out-of-date food mislabeled in Shoreditch kitchen (Guardian World)
+• Targeted left ventricular lead placement trial in heart failure patients published in Denmark (Academic The Lancet)
+
+International relations
+• Ethiopia accuses Eritrea, Sudan, and Egypt of supporting rebels (Le Monde)
+• Eiffel Tower chief to step down after excluding female staff during Hindu delegation visit (ABC News)
+• France: More than 200,000 people protested September 29 demanding increased public sector funding (Le Monde)
+• Gaza: Israeli army describes "targeted factories" and "collateral damage" methods (Le Monde)
+• Eiffel Tower director Patrick Branco Ruivo announces departure after female staff exclusion controversy (Le Monde)
+• Contraceptive pill alert: Health concerns over desogestrel causing patient anxiety and treatment interruptions (Le Monde)
+• Italy: September 29 strike with 200,000+ protesters demanding more public funding (Le Mode)
+• India: Safety burden for sexual assault cannot fall on women from Jamui to Delhi (Guardian World)
+• New AI trends emerge: "Weaponized Pooping" becoming internet sensation (Vice News)
+• "Grandmaslop" AI family photo trend freaks out internet (Vice News)
+• Scientific evidence supports "sleep on it" advice for decision-making (Vice News)
+• Gen Z expects millennials to retire so they can have jobs (Vice News)
+• Heroes of the Storm adds new character after nearly six-year hiatus (Vice News)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
