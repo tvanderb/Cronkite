@@ -8,80 +8,12 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[October 4, 2026](reports/2026-10-04.md)**
+**[October 6, 2026](reports/2026-10-06.md)**
 
-*Last updated: 2026-10-04 15:45 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-10-06 17:10 UTC · Generated daily at 6:05 AM EST*
 
 ```
-October 5, 2026
 
-**Armed conflicts and attacks**  
-• Russia strikes Kyiv bridge as German chancellor Friedrich Merz visits Ukraine to reiterate support and warn Russia ([Guardian World](https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine))  
-• Russia vows to step up strikes after warning Kyiv ([Bloomberg](https://www.bloomberg.com/news/articles/2026-10-04/russia-again-strikes-kyiv-bridge-as-infrastructure-attacks-widen))  
-• Ukraine war: Russia hits Nord Bridge in broad daylight as Merz addresses Kyiv ([La Repubblica](https://www.repubblica.it/esteri/2026/10/04/news/rapporto_onu_ucraina_vittime_civili_2026_torture_russi-425625188/))  
-• UN report: 15,000 civilians killed or injured by Russians in Ukraine in 2026, up 55% from 2025 ([La Repubblica](https://www.repubblica.it/esteri/2026/10/04/news/rapporto_onu_ucraina_vittime_civili_2026_torture_russi-425625188/))  
-• Lebanon: Houthis encircle Taeyz, president announces offensive to reclaim entire country ([Le Monde](https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html))  
-• Brazil elections: Lula and Bolsonaro face off in decisive vote for Latin America’s future ([Bloomberg](https://www.bloomberg.com/news/videos/2026-10-04/lula-and-bolsonaro-face-off-in-brazil-vote-video), [Guardian World](https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro))  
-• Latvia election: Premier’s party poised for big win shadowed by Putin ([Bloomberg](https://www.bloomberg.com/news/articles/2026-10-03/latvian-premier-s-party-set-to-win-election-short-of-majority))
-
-**Disasters and accidents**  
-• US Coast Guard searches for missing medical plane with six people after debris found ([Guardian World](https://www.theguardian.com/us-news/2026/oct/04/missing-air-ambulance-massachusetts-debris-found))  
-• Five-year-old girl in coma after car hits NRL fans in Newcastle; P-plater charged ([Guardian World](https://www.theguardian.com/australia-news/2026/oct/03/several-people-injured-after-vehicle-hits-crowd-at-knights-grand-final-farewell-in-newcastle))  
-• No bail for P-plater over Newcastle crash injuring nine including five-year-old in induced coma ([Guardian World](https://www.theguardian.com/australia-news/2026/oct-04/no-bail-for-p-plater-over-newcastle-crash-that-left-five-year-old-in-induced-coma-and-injured-nine-other-nrl-fans-ntwnfb))  
-• FlyDubai co-pilot’s time in Australia investigated after alleged cockpit attack ([Guardian World](https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb))  
-• UAE shared details about FlyDubai flight with Israel, including pilots’ names and nationalities ([ABC News](https://abcnews.com/International/wireStory/uae-shared-details-flydubai-flight-israel-including-pilots-136983853))
-
-**Politics and elections**  
-• Green Party votes to equate Zionism with racism, drawing condemnation from Israel as “stain on UK history” ([Guardian World](https://www.theguardian.com/politics/2026/oct/04/green-party-votes-adopt-policy-zionism-racism), [Guardian Live](https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates))  
-• Nigel Farage questioned by standards commissioner over £5m gift ([Guardian World](https://www.theguardian.com/politics/2026/oct/04/nigel-farage-questioned-by-standards-commissioner-over-gift-reform-uk))  
-• Jacob Rees-Mogg accuses Tucker Carlson of “verging on defending Hitler” ([Guardian World](https://www.theguardian.com/us-news/2026/oct/04/jacob-rees-mogg-tucker-carlson-adolf-hitler-second-world-war-uk-armed-forces-vladimir-putin))  
-• JD Vance promotes Maha connections while eyeing 2028 election ([Guardian World](https://www.theguardian.com/us-news/2026/oct/04/jd-vance-maha-2028-election))  
-• Trump names Jay Clayton as new White House AI czar ([Guardian World](https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar))
-
-**Law and crime**  
-• Thousands of child-on-child sexual offences reported in schools in England and Wales ([Guardian World](https://www.theguardian.com/education/2026/oct/04/child-on-child-sexual-abuse-schools-england-and-wales))  
-• Egyptian journalist faces terrorism charges as entire newsroom detained ([Guardian World](https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom))  
-• Court quashes block on mothers and children in Gaza joining families in UK ([Guardian World](https://www.theguardian.com/politics/2026/oct/04/court-quashes-block-on-mothers-and-children-in-gaza-joining-families-in-uk))  
-• Mass shootings leave two dead in Georgia and 12-year-old girl dead in Baltimore ([Guardian World](https://www.theguardian.com/us-news/2026/oct/04/mass-shootings-georgia-baltimore))
-
-**Business and economy**  
-• Sen. Mitch McConnell closed loophole in hemp law he championed; $28 billion THC industry fights for survival ([Fortune](https://fortune.com/2026/10/04/sen-mitch-mcconnell-loophole-industrial-hemp-law-28-billion-thc-industry/))  
-• Grindr CEO, who graduated with $500, becomes self-made millionaire advocating kids work in office by age 10 ([Fortune](https://fortune.com/article/grindr-ceo-george-arison-graduated-with-500-dollar-now-self-made-millionaire-career-advice-kids-teach-grit-office/))  
-• Gen Z poised to be wealthier than millennials yet report economic despair due to job market scams and fake listings ([Fortune](https://fortune.com/2026/10/04/gen-z-wealth-millennials-economic-despair-job-market-ai-homeownership/))  
-• Diesel prices force commercial fishermen to stay docked, with some blaming Donald Trump ([Fortune](https://fortune.com/2026/10/04/diesel-prices-commercial-fishermen-trump-canada-trade-war-noaa-cuts/))  
-• Costa Coffee returns to profit with iced drinks and matcha menu ([Guardian World](https://www.theguardian.com/business/2026/oct/04/costa-coffee-shops-return-profit-iced-drinks-matcha))  
-• UK car industry faces trade dilemma between Chinese and EU markets ([Guardian World](https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws))  
-• Thousands of Glasgow council workers face pay cuts in major fire-and-rehire plan after union talks collapse ([Guardian World](https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down))  
-• ASML sales absent in Europe symbolizing lack of chip investment ([Le Monde](https://www.lemonde.fr/economie/article/2026/10/04/l-absence-de-ventes-du-fabricant-asml-en-europe-symbole-du-manque-d-investissements-dans-les-puces-electroniques_6788218_3234.html))
-
-**International relations**  
-• Australia and Turkey criticized for hosting UN climate conference while expanding coal use ([Guardian World](https://www.theguardian.com/environment/2026/oct/05/australia-and-turkey-criticised-for-hosting-un-climate-conference-while-embracing-coal))  
-• France to close over 400 schools on Monday amid planned protests ([Guardian World](https://www.theguardian.com/world/2026/oct-04/schools-france-closed-protests-planned))  
-• Brazil heads to polls in decisive election determining Latin America’s future ([Guardian World](https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro))
-
-**Miscellaneous**  
-• AirPods Pro 3 available as great deal at $179 ([The Verge](https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale))  
-• “Chatigue” describes fatigue from always texting first ([Vice News](https://www.vice.com/en/article/chatigue-is-what-happens-when-youre-tired-of-always-texting-first/))  
-• Simple phone habit may quietly increase anxiety ([Vice News](https://www.vice.com/en/article/the-simple-phone-habit-that-can-quietly-make-you-more-anxious/))  
-• Seven questions to help figure out what you want from life ([Vice News](https://www.vice.com/en/article/7-questions-that-can-help-you-figure-out-what-you-actually-want-from-life/))  
-• Weekly horoscope: October 4–10 ([Vice News](https://www.vice.com/en/article/weekly-horoscope-october-4-october-10/))  
-• Why Nas dissed a global pop star in 2020 ([Vice News](https://www.vice.com/en/article/why-nas-randomly-dissed-one-of-the-biggest-pop-stars-in-the-world-in-2020/))  
-• Zelda Ocarina of Time remake reveals new Hyrule Castle Town and Gerudo Fortress gameplay ([Vice News](https://www.vice.com/en/article/zelda-ocarina-of-time-remake-reveals-new-hyrule-castle-town-and-gerudo-fortress-gameplay/))  
-• Complete Chapter 7 Season 4 Sprite list for Fortnite ([Vice News](https://www.vice.com/en/article/fortnite-sprite-list-chapter-7-season-4-complete/))  
-• French medicine intern exams reignited by suspected fraud ([Le Monde](https://www.lemonde.fr/campus/article/2026/10/04/le-debat-sur-les-epreuves-orales-de-l-internat-de-medecine-relance-par-une-suspicion-de-fraude_6788275_4401467.html))  
-• German Chancellor Merz tells Putin: “Stop this senseless war” in Kyiv address ([Le Monde](https://www.lemonde.fr/international/live/2026/10/04/en-direct-guerre-en-ukraine-monsieur-poutine-arretez-cette-guerre-insensee-declare-le-chancelier-allemand-friedrich-merz-a-kiev_6787996_3210.html))  
-• Analysis seeks to anticipate foreign interventions in A Viginum case ([Le Monde](https://www.lemonde.fr/les-decodeurs/article/2026/10/04/a-viginum-les-analystes-cherchent-a-anticiper-les-ingerences-etrangeres-si-on-s-arrete-a-la-menace-prorusse-on-se-coupe-d-une-partie-du-sujet_6788259_4355770.html))  
-• French high school closures expected between 400–500 institutions ([Le Monde](https://www.lemonde.fr/societe/article/2026/10/04/blocage-des-lycees-edouard-geffray-estime-qu-entre-400-et-500-etablissements-vont-suspendre-les-cours-lundi_6788263_3224.html))  
-• Political parties maintain 2027 presidential bids despite low expectations ([Le Monde](https://www.lemonde.fr/politique/article/2026/10/04/presidentielle-pourquoi-les-partis-ne-veulent-pas-faire-l-impasse-sur-2027_6788265_823448.html))  
-• Labels like “100% human” debated in AI-saturated world ([Le Monde](https://www.lemonde.fr/m-perso/article/2026/10/04/on-ne-peut-pas-abandonner-la-culture-a-l-ia-vers-l-emergence-d-une-labellisation-100-humain_6788000_4497916.html))  
-• Poor sleep linked to reduced lifespan ([La Repubblica](https://www.repubblica.it/esteri/dossier/lena/2026/10/04/news/dormire_male_puo_costare_anni_vita_continental_breakfast-425624760/))  
-• New EU passenger rights for flights including trolley compensation ([La Repubblica](https://www.repubblica.it/economia/2026/10/04/news/voli_diritti_passeggeri_rimborsi_regolamento_ue-425624292/))  
-• Italian politics: Renzi closes Leopolda, calls Forza Italia to join him; Conte rejects Trump ([La Repubblica](https://firenze.repubblica.it/cronaca/2026/10/04/news/firenze_chiusura_leopolda_renzi_forza_italia_conte-425625275/))  
-• Spain’s right-wing voters demand anti-eviction housing laws ([La Repubblica](https://www.repubblica.it/esteri/2026/10/04/news/in_spagna_elettori_di_destra_vuole_leggi_anti-sfratto_sulla_casa-425625081/))  
-• Verstappen involved in chaos at Sepang; Antonelli scores points; Hamilton scores podium after comeback ([La Repubblica](https://www.repubblica.it/sport/formulauno/2026/10/04/news/verstappen_gp_malesia_sepang_bahrain_antonelli_ferrari-425625166/))  
-• Street golf turns city streets into courses with asphalt greens and tree holes ([Le Monde](https://www.lemonde.fr/m-perso/article/2026/10/04/le-golf-de-rue-transforme-la-ville-en-terrain-de-jeu-le-bitume-en-green-et-les-pieds-d-arbre-en-trous_6788260_4497916.html))  
-• Budget 2027: Laurent Wauquiez says LR won’t censor candidates but refuses pension cuts ([Le Monde](https://www.lemonde.fr/politique/article/2026/10/04/budget-2027-laurent-wauquiez-affirme-que-lr-ne-pratiquera-pas-le-petit-jeu-de-la-censure-mais-refuse-de-ponctionner-les-retraites_6788223_823448.html))  
-• Quebec’s Paul St-Pierre Plamondon positioned as potential next premier ([Le Monde](https://www.lemonde.fr/international/article/2026/10/04/au-quebec-paul-st-pierre-plamondon-independantiste-et-identitaire-pressenti-pour-devenir-le-prochain-premier-ministre_6788269_3210.html))
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
