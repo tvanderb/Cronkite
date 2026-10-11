@@ -8,46 +8,52 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[October 10, 2026](reports/2026-10-10.md)**
+**[October 11, 2026](reports/2026-10-11.md)**
 
-*Last updated: 2026-10-10 16:13 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-10-11 16:39 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**Legible News — Daily Report**  
-**October 10, 2026**
+**October 11, 2026**
 
 ---
 
 ### Armed conflicts and attacks
-• Houthi forces attack Riyadh airport, injuring dozens; Yemen government says it recaptured Bab al-Mandab Strait ([The Guardian](https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz), [Le Monde](https://www.lemonde.fr/international/article/2026/10/10/les-houthiste-du-yemen-vise-une-nouvelle-fois-l-aeroport-de-riyad-faisant-de-nombreux-blesses_6791016_3210.html))  
-• Hurricane Isaias strikes Florida panhandle, kills two, leaves hundreds of thousands without power before weakening to post-tropical cyclone ([The Guardian](https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates), [The Guardian](https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone))  
-• Thousands gather in London to support Palestinians, marking three years of war in Gaza ([The Guardian](https://www.theguardian.com/world/2026/oct/10/thousands-in-london-express-support-for-palestinians-after-three-years-genocide))  
-• Nine people, including children, killed in mass shooting in Pennsylvania ([The Guardian](https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania))  
-• Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors allege ([The Guardian](https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say))  
-• Zelenskyy condemns Trump-Putin diesel deal, says it undermines Ukraine ([The Guardian](https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine))  
-• Havana syndrome mystery persists as CIA officers report new symptoms; Russia link investigated ([The Guardian](https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia))  
-• Emergency president says Gaza ceasefire not holding, calls Strip “open-air cage” ([La Repubblica](https://www.repubblica.it/esteri/2026/10/10/news/gaza_intervista_miccio_presidente_emergency_cessate_il_fuoco_non_c_e_e_una_gabbia_a_cielo_aperto-425638672/))  
-• ICJ judge Navi Pillay awarded Nobel Peace Prize for advancing international law ([The Guardian](https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize))  
-• Tornadoes hit Marsala, Sicily, injuring dozens and damaging buildings ([The Guardian](https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage))  
-• Three men found guilty of murdering two Australian surfers and their US friend in Mexico ([The Guardian](https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb))
+
+• Houthi rebels claim responsibility for missile attack on Riyadh’s King Khalid International Airport that killed 12 people and wounded over 300; Saudi authorities confirm casualties and vow response ([Guardian](https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates), [NPR](https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say), [Le Monde](https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-nouvelle-attaque-contre-l-aeroport-de-riyad-au-lendemain-de-frappes-imputees-aux-houthistes-ayant-fait-12-morts_6791939_3210.html))
+
+• Donald Trump announces surprise “energy ceasefire” between Russia and Ukraine halting strikes on energy infrastructure for 60 days; Volodymyr Zelenskyy says he was not informed in advance but signals willingness to accept if Putin agrees, and suggests he would call elections under a truce ([Guardian](https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates), [Le Monde](https://www.lemonde.fr/international/live/2026/10/11/en-direct-guerre-en-ukraine-c-est-aux-ukrainiens-de-choisir-leur-dirigeant-dit-volodymyr-zelensky-en-reponse-a-donald-trump_6791198_3210.html), [La Repubblica](https://www.repubblica.it/esteri/2026/10/11/diretta/guerra_ucraina_russia_news_oggi-425640146/))
+
+• Escalating clashes between Pakistan and Afghanistan along their shared border cause heavy civilian casualties and displacement; both sides accuse the other of cross-border shelling ([Le Monde](https://www.lemonde.fr/international/article/2026/10/11/entre-le-pakistan-et-l-afghanistan-une-escalade-aux-lourdes-consequences-humaines_6791923_3210.html))
+
+• Canadian military faces growing difficulty defending the vast Arctic territory as melting ice opens new routes and strategic competition intensifies; officials cite insufficient icebreakers, surveillance, and personnel ([Le Monde](https://www.lemonde.fr/international/article/2026/10/11/au-canada-l-armee-confrontee-a-la-difficile-defense-de-l-immense-territoire-arctique_6791928_3210.html))
+
+• Former SAS soldier Ben Roberts-Smith attends Canberra ceremony honoring Australian troops who served in Afghanistan, his first major public appearance since losing defamation case over war crimes allegations ([Guardian](https://www.theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb))
+
+• Experts warn Trump-Putin energy deal will have minimal impact on U.S. diesel prices, citing global market dynamics and limited Russian refining capacity ([Guardian](https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices))
+
+• U.S. defense policies hinder European allies’ efforts to build autonomous military capabilities while simultaneously pressuring them to increase spending, French analysis finds ([Le Monde](https://www.lemonde.fr/international/article/2026/10/11/defense-tout-en-attendant-des-europeens-qu-ils-augmentent-leurs-capacites-les-etats-unis-entravent-les-efforts-de-leurs-allies_6791306_3210.html))
 
 ---
 
 ### Disasters and accidents
-• Magnitude 7.7 earthquake strikes Panama, triggering panic in capital ([The Guardian](https://www.theguardian.com/world/2026/oct/09/panama-earthquake))  
-• Hurricane Isaias weakens after Florida landfall; two dead, widespread outages ([The Guardian](https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone))  
-• Tornado outbreak in Sicily causes injuries and structural damage ([The Guardian](https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage))
+
+• Panama declares state of emergency after magnitude 6.3 earthquake and persistent aftershocks rattle communities, damaging hundreds of homes and cutting power and water in Chiriquí province ([Guardian](https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency))
+
+• Tropical Storm Isaias leaves thousands without power across Florida and Alabama as it moves north; utilities warn restoration could take days in hardest-hit coastal areas ([Guardian](https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages))
+
+• Missing Australian hiker Jordan Yap, 28, found dead on remote trail in Peru’s Cordillera Huayhuash after week-long search; authorities believe he fell while attempting a high-altitude crossing ([Guardian](https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru))
+
+• Flu cases in England running significantly above seasonal norms for September, UK Health Security Agency reports; early surge prompts calls for accelerated vaccination campaign ([Guardian](https://www.theguardian.com/society/2026/oct/11/flu-season-early-rise-september-england-vaccination-jab-ukhsa))
 
 ---
 
 ### Politics and elections
-• NYC EMS workers say low pay drives exodus: “People are leaving” ([The Guardian](https://www.theguardian.com/us-news/2026/oct/10/ems-workers-nyc-low-pay))  
-• “Cockroach Party” leaders detained in Delhi ahead of protests; chief election officer resigns ([The Guardian](https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns), [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-10/cockroach-party-leaders-detained-to-stop-protests-video))  
-• Trump announces deal to buy Russian diesel as US prices rise; critics call it “desperate” ([Fortune](https://fortune.com/2026/10/10/diesel-prices-russia-deal-trump-putin-fuel-energy-costs-midterm-elections/), [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-10/trump-turns-to-russia-as-diesel-prices-rise-video), [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-09/balance-of-power-late-edition-10-09-2026-video), [The Guardian](https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine), [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-09/wasserman-schultz-russia-diesel-deal-is-desperate-video))  
-• UK Food Standards Agency orders recall of eggs from Ukrainian producer over Salmonella Enteritidis ([GOV.UK](https://www.gov.uk/government/news/the-food-standards-agency-calls-on-businesses-to-withdraw-and-recall-eggs-from-one-ukrainian-food-business-as-investigations-find-salmonella-enteritid))  
-• Trump criticizes Nobel Committee after peace prize snub, attacks Norway ([The Guardian](https://www.theguardian.com/us-news/2026/oct/09/trump-nobel-peace-prize))  
-• French presidential campaign focuses on Article 11 referendum mechanism ([Le Monde](https://www.lemonde.fr/politique/article/2026/10/10/referendum-l-histoire-tourmentee-de-l-article-11-de-la-constitution-au-c-ur-de-la-campagne-presidentielle_6790950_823448.html))  
-• In Autun, seniors and retirees increasingly lean toward RN for 2
+
+• Raphaël Glucksmann wins French left-wing presidential primary outright with 66% of first-round vote, avoiding runoff; will represent unified left in 2027 election against Macron’s centrist camp and far right ([Le Monde](https://www.lemonde.fr/election-presidentielle-2027/live/2026/10/11/en-direct-primaire-a-gauche-qui-de-raphael-glucksmann-olivier-faure-segolene-royal-emmanuel-maurel-ou-jerome-guedj-va-se-qualifier-pour-le-second-tour-suivez-les-resultats-du-premier-tour_6791926_6205049.html))
+
+• Donald Trump publicly urges Senator John Fetterman to switch from Democratic to Republican Party, praising his “common sense” on trade and Israel; Fetterman dismisses overture ([Guardian](https://www.theguardian.com/us-news/2026/oct/11/trump-john-fetterman))
+
+• UK government struggles to curb English Channel small-boat crossings as
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
