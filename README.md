@@ -8,52 +8,12 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[October 11, 2026](reports/2026-10-11.md)**
+**[October 12, 2026](reports/2026-10-12.md)**
 
-*Last updated: 2026-10-11 16:39 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-10-12 20:14 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**October 11, 2026**
 
----
-
-### Armed conflicts and attacks
-
-• Houthi rebels claim responsibility for missile attack on Riyadh’s King Khalid International Airport that killed 12 people and wounded over 300; Saudi authorities confirm casualties and vow response ([Guardian](https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates), [NPR](https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say), [Le Monde](https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-nouvelle-attaque-contre-l-aeroport-de-riyad-au-lendemain-de-frappes-imputees-aux-houthistes-ayant-fait-12-morts_6791939_3210.html))
-
-• Donald Trump announces surprise “energy ceasefire” between Russia and Ukraine halting strikes on energy infrastructure for 60 days; Volodymyr Zelenskyy says he was not informed in advance but signals willingness to accept if Putin agrees, and suggests he would call elections under a truce ([Guardian](https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates), [Le Monde](https://www.lemonde.fr/international/live/2026/10/11/en-direct-guerre-en-ukraine-c-est-aux-ukrainiens-de-choisir-leur-dirigeant-dit-volodymyr-zelensky-en-reponse-a-donald-trump_6791198_3210.html), [La Repubblica](https://www.repubblica.it/esteri/2026/10/11/diretta/guerra_ucraina_russia_news_oggi-425640146/))
-
-• Escalating clashes between Pakistan and Afghanistan along their shared border cause heavy civilian casualties and displacement; both sides accuse the other of cross-border shelling ([Le Monde](https://www.lemonde.fr/international/article/2026/10/11/entre-le-pakistan-et-l-afghanistan-une-escalade-aux-lourdes-consequences-humaines_6791923_3210.html))
-
-• Canadian military faces growing difficulty defending the vast Arctic territory as melting ice opens new routes and strategic competition intensifies; officials cite insufficient icebreakers, surveillance, and personnel ([Le Monde](https://www.lemonde.fr/international/article/2026/10/11/au-canada-l-armee-confrontee-a-la-difficile-defense-de-l-immense-territoire-arctique_6791928_3210.html))
-
-• Former SAS soldier Ben Roberts-Smith attends Canberra ceremony honoring Australian troops who served in Afghanistan, his first major public appearance since losing defamation case over war crimes allegations ([Guardian](https://www.theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb))
-
-• Experts warn Trump-Putin energy deal will have minimal impact on U.S. diesel prices, citing global market dynamics and limited Russian refining capacity ([Guardian](https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices))
-
-• U.S. defense policies hinder European allies’ efforts to build autonomous military capabilities while simultaneously pressuring them to increase spending, French analysis finds ([Le Monde](https://www.lemonde.fr/international/article/2026/10/11/defense-tout-en-attendant-des-europeens-qu-ils-augmentent-leurs-capacites-les-etats-unis-entravent-les-efforts-de-leurs-allies_6791306_3210.html))
-
----
-
-### Disasters and accidents
-
-• Panama declares state of emergency after magnitude 6.3 earthquake and persistent aftershocks rattle communities, damaging hundreds of homes and cutting power and water in Chiriquí province ([Guardian](https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency))
-
-• Tropical Storm Isaias leaves thousands without power across Florida and Alabama as it moves north; utilities warn restoration could take days in hardest-hit coastal areas ([Guardian](https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages))
-
-• Missing Australian hiker Jordan Yap, 28, found dead on remote trail in Peru’s Cordillera Huayhuash after week-long search; authorities believe he fell while attempting a high-altitude crossing ([Guardian](https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru))
-
-• Flu cases in England running significantly above seasonal norms for September, UK Health Security Agency reports; early surge prompts calls for accelerated vaccination campaign ([Guardian](https://www.theguardian.com/society/2026/oct/11/flu-season-early-rise-september-england-vaccination-jab-ukhsa))
-
----
-
-### Politics and elections
-
-• Raphaël Glucksmann wins French left-wing presidential primary outright with 66% of first-round vote, avoiding runoff; will represent unified left in 2027 election against Macron’s centrist camp and far right ([Le Monde](https://www.lemonde.fr/election-presidentielle-2027/live/2026/10/11/en-direct-primaire-a-gauche-qui-de-raphael-glucksmann-olivier-faure-segolene-royal-emmanuel-maurel-ou-jerome-guedj-va-se-qualifier-pour-le-second-tour-suivez-les-resultats-du-premier-tour_6791926_6205049.html))
-
-• Donald Trump publicly urges Senator John Fetterman to switch from Democratic to Republican Party, praising his “common sense” on trade and Israel; Fetterman dismisses overture ([Guardian](https://www.theguardian.com/us-news/2026/oct/11/trump-john-fetterman))
-
-• UK government struggles to curb English Channel small-boat crossings as
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
