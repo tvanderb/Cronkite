@@ -8,12 +8,91 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[October 12, 2026](reports/2026-10-12.md)**
+**[October 13, 2026](reports/2026-10-13.md)**
 
-*Last updated: 2026-10-12 20:14 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-10-13 18:07 UTC · Generated daily at 6:05 AM EST*
 
 ```
+**October 14, 2026**
 
+**Armed conflicts and attacks**
+• Saudi Arabia struck strategic oil depots near Yemen's capital in a military operation (Guardian World)
+• Russia attempted to interfere in the 2016 Brexit referendum, MI5 confirms (Guardian World)
+• Texas man was run over by ICE agents who were allegedly chasing someone else (Guardian World)
+• Five people killed when Hurricane Simon and Tropical Storm Rachel hit Mexico's Pacific coast (Guardian World)
+• Rapper-Wrestler lost his job after performing a controversial freestyle about deadly attacks (Vice News)
+
+**Disasters and accidents**
+• Indonesia wildfire sparked by El Niño razed almost 300 homes (Guardian World)
+• Argentina temporarily closed Iguazu Falls following El Niño-fueled surge in water levels (Guardian World)
+• Flying foxes in New South Wales and Victoria face mass starvation due to food shortages (Guardian World)
+
+**Politics and elections**
+• Elon Musk became the largest donor of the 2026 midterm election cycle with $366 million spent (Guardian World)
+• AI Anxiety Collides With the Midterms as voters express concerns about artificial intelligence's role in society (Bloomberg)
+• Germany and Ukraine jointly demanded a ceasefire for the entire energy sector (Bloomberg)
+• UK bird populations fell to lowest level on record, prompting conservation concerns (Guardian World)
+• India's contentious electoral revision sparked protests and outrage over alleged manipulation (Guardian World)
+• French high school students mobilized 480,000 people nationally, with 161,500 demonstrating in Paris (Le Monde)
+• France's National Assembly unanimously adopted comprehensive legislation against gender-based violence (VSS law) (Le Monde)
+• Canada's Prime Minister Carney emphasized national unity as Alberta referendum approaches (ABC News)
+
+**Law and crime**
+• The FTC and seven U.S. states sought contempt ruling against Martin Shkreli regarding pharmaceutical ban (Guardian World)
+• Kimberly Guilfoyle denied allegations of misconduct while resigning as U.S. ambassador to Greece (Guardian World)
+• Florida carried out execution despite scrutiny over previous botched Tennessee attempt (Guardian World)
+• Hundreds of early-release prisoners in England and Wales were not being properly tagged, MPs report (Guardian World)
+• French actor Francis Renaud was detained for rape, harassment, and violence charges (Le Monde)
+• Child safety staff were determined to send Elizabeth Struhs home with parents despite medical concerns, inquest hears (Guardian World)
+• Australian politician Anne Aly revealed receiving 19 death threats in one week (Guardian World)
+• Norway man died after walking from Canada to Alaska with his dog, found dead just steps from his destination (La Repubblica)
+• Former French Prime Minister François Fillon's alibi was questioned in ongoing investigation, plaintiff publishes book (Le Mode)
+
+**International relations**
+• UK requested Interpol to reject Argentina's 'politically motivated' requests for Falklands oil arrests (Guardian World)
+• UK committed to respecting and defending rights of Overseas Territories populations, statement at UN Fourth Committee (Government GOV.UK News)
+• Britons traveling to EU countries were advised not to apply for delayed ETIAS visa waiver (Guardian World)
+• UK bird populations fell to lowest level on record (Guardian World)
+• UK Statement at UN Fourth Committee on Overseas Territories' right to self-determination (Government GOV.UK News)
+
+**Business and economy**
+• New study protocol evaluates effectiveness and cost-benefit of worksite mental health program among manufacturing workers (PLOS One)
+• Research on low peak expiratory flow and subsequent lung disease diagnosis in Health and Retirement Study participants (PLOS One)
+• Self-management intervention effectiveness studied for type 2 diabetes patients at high risk for kidney disease (PLOS One)
+• Interactive effects of seed rate, sowing method, and variety on teff yield analyzed in Ethiopian highlands (PLOS One)
+• PAGE Framework developed for studying comics at scale using artificial intelligence (arXiv)
+• Knowledge, willingness, and self-efficacy in CPR studied among Malaysian tertiary institution participants (PLOS One)
+• Xteink X4 Pro e-reader reviewed as compact device available at reduced price (The Verge)
+• Fortnite announced new sprites coming in October 15 update (Vice News)
+
+**Technology**
+• FTC and seven states sought contempt ruling against Shkreli over pharmaceutical ban (Guardian World)
+• AI Anxiety Collides With the Midterms as artificial intelligence impacts political landscape (Bloomberg)
+
+**Environment**
+• UK bird populations fell to lowest level on record according to new environmental study (Guardian World)
+• Flying foxes in NSW and Victoria face mass starvation amid food shortages (Guardian World)
+• Indonesia wildfire fueled by El Niño razes almost 300 homes (Guardian World)
+• Connected glasses regulation requires EU to make recording functions clearly visible for privacy protection (Le Mode)
+
+**Culture**
+• Dungeons and Dragons Modern Horror Adventure adds new playable species and four backgrounds (Vice News)
+• Tove Lo discussed high-energy crowds and evolved sound at Portola 2026 Festival (Vice News)
+• Tom Morello recalled forbidden guitar techniques with late Randy Rhoads (Vice News)
+• Tupac Shakur's convicted killer faces life sentence over 30 years after rapper's murder (Vice News)
+
+**Education**
+• French high school movement mobilized 480,000 students nationwide, with 161,500 in Paris alone (Le Monde)
+
+**Health**
+• Worksite mental health program effectiveness evaluated among manufacturing workers (PLOS One)
+• Self-management intervention studied for clinical outcomes in type 2 diabetes patients (PLOS One)
+• Low peak expiratory flow linked to first self-reported lung disease diagnosis (PLOS One)
+• CPR knowledge and self-efficacy studied in Malaysian tertiary institutions (PLOS One)
+• Murine monocyte-derived dendritic cells showed unique identity compared to other phagocytes (bioRxiv)
+
+**Sports**
+• AFL instructed Sportsbet to cease using players in AI-generated content (Guardian World)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
