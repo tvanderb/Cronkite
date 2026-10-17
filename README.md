@@ -8,9 +8,9 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[October 16, 2026](reports/2026-10-16.md)**
+**[October 17, 2026](reports/2026-10-17.md)**
 
-*Last updated: 2026-10-16 15:28 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-10-17 14:11 UTC · Generated daily at 6:05 AM EST*
 
 ```
 
