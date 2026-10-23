@@ -8,22 +8,81 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[October 22, 2026](reports/2026-10-22.md)**
+**[October 23, 2026](reports/2026-10-23.md)**
 
-*Last updated: 2026-10-22 15:54 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-10-23 15:42 UTC · Generated daily at 6:05 AM EST*
 
 ```
 **October 23, 2026**
 
 **Armed conflicts and attacks**
-• Russia launches missile barrage on Kyiv hours after agreeing to resume peace talks with Ukraine, killing at least five and damaging energy infrastructure ([The Guardian](https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine))
-• U.S. orders non-emergency diplomats to leave Saudi Arabia following Houthi missile and drone attacks on the kingdom ([The Guardian](https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks))
-• North Korea announces restart of border propaganda loudspeakers as relations with South Korea deteriorate ([The Guardian](https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea))
-• Drone strike on market at Sudan–South Sudan border kills over 150 civilians, including women and children ([Le Monde](https://www.lemonde.fr/afrique/article/2026/10/22/commercants-femmes-enfants-ils-n-ont-epargne-personne-plus-de-150-civils-tues-dans-une-frappe-de-drone-a-la-frontiere-entre-le-soudan-et-le-soudan-du-sud_6798599_3212.html))
-• Trump administration reportedly weighing new military strikes on Iran; Iranian Revolutionary Guards threaten retaliation against U.S. bases as oil supplies dwindle ([La Repubblica](https://www.repubblica.it/esteri/2026/10/22/news/trump_pensa_nuovo_attacco_iran_pasdaran_finite_scorte_petrolio_minacciano_basi_usa-425666868/))
-• Photojournalist Heidi Levine recounts rescue by Palestinian youths during Israeli settler attack in West Bank ([The Guardian](https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank))
-• French courts fast-track rioting cases, drawing criticism from lawyers and defendants over due process concerns ([The Guardian](https://www.theguardian.com/world/2026/oct/22/fallout-fast-tracking-french-rioting-cases))
-• Pro-Trump media amplifies European protests as warning for U.S., framing unrest as precursor to domestic instability ([The Guardian](
+• Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis, with ongoing Starlink satellite network disruptions reported (Guardian World)
+• Netanyahu orders "very extensive" operation in West Bank after two Israeli soldiers killed, subsequently closing West Bank following attacks in Hebron (Guardian World, NPR World)
+• Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes (Guardian World)
+• El Salvador deploys special forces to Haiti to locate four missing soldiers who came under attack (ABC News)
+• French police open fire on attackers at concerts in Trappes and La Verrière, resulting in one death and four injuries in automatic weapon incident (Le Monde)
+
+**Disasters and accidents**
+• Storm Austen leaves 289,000 private households without electricity across 23 departments in north and west France on red alert (Le Monde)
+• Thousands of homes without power as Storm Austen hits south-west England (Guardian World)
+• Magnitude-7 earthquake in Tibet kills at least 16 and destroys hundreds of homes (Guardian World)
+• Ebola outbreak in Nigeria raises concerns about virus spread from Swiss patient linked to DR Congo (Guardian World)
+
+**Politics and elections**
+• Brazil's Lula and Bolsonaro tied heading into runoff election, with Lula opening state toolbox to woo voters on social programs and economic initiatives (Bloomberg, ABC News)
+• US Supreme Court sides with Republicans on rejecting student IDs in New Hampshire midterms (Guardian World)
+• Brazil election battle for the Amazon highlighted in podcast discussion (Guardian World)
+• India slashes cost of cancer drugs after court rules price mark-ups are "extortion" (Guardian World)
+• Musk giving tops $445 million in final midterm election push for GOP candidates (Bloomberg)
+• UK government to make unprecedented intervention in setting of water bills amid investment concerns (Guardian World)
+• Jim Chalmers faces difficult economic choices where solving one problem worsens another (Guardian World)
+• Reform Party Farage donor reveals business ties to foundation linked to Iranian regime (Guardian World)
+• CFTC Chair discusses prediction markets, election implications, and oil trading trends (Bloomberg)
+• Why the anti-Trump playbook is failing in Canada's timber country (Bloomberg)
+
+**Economy and business**
+• Oil prices rise above $115 a barrel amid fears US will renew strikes on Iran (Guardian World)
+• UK government intervention in water bills raises questions about utility pricing and investment (Guardian World)
+• Australia's Jim Chalmers faces economic policy challenges balancing competing priorities (Guardian World)
+• Billionaire Olivier Bouygues convicted of two years suspended prison for destroying protected bird species (Le Monde)
+• French water bill pricing to be subject to unprecedented government intervention (Le Monde)
+
+**Law and crime**
+• US supreme court rules against accepting student IDs in New Hampshire midterms (Guardian World)
+• Trump ordered to sit for deposition in $10 billion defamation lawsuit against BBC (NBC News)
+• Beau Lamarre-Condon allegedly confessed to friend about killing, asking for help cleaning "mess" during murder trial (Guardian World)
+• Mother sought advice from Alan Jones after broadcaster's alleged indecent assault of her son, court hears (Guardian World)
+• Trump's top border official defends Big Bend border wall plan despite mounting opposition (Guardian World)
+
+**International relations**
+• Beetlejuice Fortnite skin revealed with release date and pricing details (Vice News)
+• Scientists discover potential best source of protein on Earth that is not meat (Vice News)
+• Mystery over source of Ebola infection in Nigeria fuels concern about virus spread (Guardian World)
+• Finland's 24-hour newborn puppy livestream becomes TV smash hit (Guardian World)
+• Petrolina, Brazil faces "tsunami of mountains" seismic activity with earthquake fears in Palermo area (La Repubblica)
+• El Salvador deploys special forces to Haiti for military assistance mission (ABC News)
+• UK government prepares citizens with survival guide including three-day supplies, cash, and radio (La Repubblica)
+• Pope Francis cancels visit to Assisi on doctor's advice, prepares for Latin America trip (La Repubblica)
+• Protests and roadblocks removed in Campania and Calabria, authorities declare return to normalcy (La Repubblica)
+
+**Science and health**
+• Study finds perceived social support impacts college athletes' academic burnout with cognitive reappraisal as moderating factor (PLOS One)
+• Research identifies potential new anti-aging beauty treatment derived from human remains (Vice News)
+• Phase 3 clinical trial shows efficacy and safety of mitapivat for sickle cell disease patients (The Lancet)
+• Digital media use presents public health challenges for children and adolescents, according to new framework (The Lancet)
+• Altered sperm DNA methylation provides epigenetic pathway from overweight and older fathers to intergenerational disease transmission (PNAS)
+
+**Culture and society**
+• Cardi B reveals fatigue with feuding against female rappers, calls it "kinda boring" (Vice News)
+• Eight Gen Z dating trends that millennials strongly dislike emerge in social research (Vice News)
+• "Chatfishing" phenomenon spreading on dating apps raises new concerns (Vice News)
+• Finnish 24-hour newborn puppy livestream captures global attention as television sensation (Guardian World)
+• Italian families abandon victims: 80,000 euros spent on Mattia case with no justice achieved (La Repubblica)
+
+**Environment**
+• Europe records 50,000 deaths this summer from heat waves, with Italy ranking first and Milan setting records (La Repubblica)
+• Scientists warn we have entered new glacial era as global warming halts, based on recent findings (La Repubblica)
+• Nepal refuses to rebuild roads in same locations after mountain tsunami, citing population relocation needs (Le Mode)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
