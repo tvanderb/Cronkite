@@ -8,81 +8,43 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[October 23, 2026](reports/2026-10-23.md)**
+**[October 24, 2026](reports/2026-10-24.md)**
 
-*Last updated: 2026-10-23 15:42 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-10-24 14:27 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**October 23, 2026**
+**Legible News — Daily Report**  
+**October 24, 2026**
 
-**Armed conflicts and attacks**
-• Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis, with ongoing Starlink satellite network disruptions reported (Guardian World)
-• Netanyahu orders "very extensive" operation in West Bank after two Israeli soldiers killed, subsequently closing West Bank following attacks in Hebron (Guardian World, NPR World)
-• Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes (Guardian World)
-• El Salvador deploys special forces to Haiti to locate four missing soldiers who came under attack (ABC News)
-• French police open fire on attackers at concerts in Trappes and La Verrière, resulting in one death and four injuries in automatic weapon incident (Le Monde)
+---
 
-**Disasters and accidents**
-• Storm Austen leaves 289,000 private households without electricity across 23 departments in north and west France on red alert (Le Monde)
-• Thousands of homes without power as Storm Austen hits south-west England (Guardian World)
-• Magnitude-7 earthquake in Tibet kills at least 16 and destroys hundreds of homes (Guardian World)
-• Ebola outbreak in Nigeria raises concerns about virus spread from Swiss patient linked to DR Congo (Guardian World)
+### Armed conflicts and attacks
+• Israel razes a neighborhood in Hebron, West Bank, displacing Palestinian families after two Israeli soldiers were killed; the operation described as collective punishment. ([Guardian](https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes), [Guardian](https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed))  
+• Ukraine and Russia signal openness to new peace talks; Melania Trump reportedly involved in diplomatic outreach, though major obstacles remain. ([ABC News](https://abcnews.com/International/wireStory/ukraine-russia-eye-new-peace-talks-melania-trumps-137534005))  
+• Gunmen open fire at a church funeral in Jordan, killing eight and wounding 40. ([Guardian](https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan))  
+• Saudi airstrikes hit Houthi-held Sanaa, Yemen, killing at least four people. ([Le Monde](https://www.lemonde.fr/international/article/2026/10/24/au-yemen-des-frappes-saoudiennes-font-au-moins-quatre-morts-a-sanaa-capitale-aux-mains-des-houthistes_6799703_3210.html))  
+• Ukrainian drone strike kills three in Russian-occupied Kharkiv oblast. ([Le Monde](https://www.lemonde.fr/international/live/2026/10/24/en-direct-guerre-en-ukraine-trois-personnes-tuees-par-un-drone-ukrainien-dans-la-partie-occupee-de-l-oblast-de-kharkiv_6796922_3210.html))  
+• Drinking water supplies dwindle in a Yemeni city besieged by Houthi rebels. ([NPR](https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels))  
+• Marco Rubio urges Cubans to act now for political change, signaling harder U.S. line. ([Guardian](https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump))  
+• Australian Greens senator Jordon Steele-John takes leave from parliament after misconduct allegations. ([Guardian](https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb), [Guardian](https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb))  
+• Helen Haines, Australian MP, improving after losing both legs in alleged attack. ([Guardian](https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb))  
+• Typhoon Champi kills one, injures over 500 in Taiwan before heading toward China. ([Guardian](https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china))
 
-**Politics and elections**
-• Brazil's Lula and Bolsonaro tied heading into runoff election, with Lula opening state toolbox to woo voters on social programs and economic initiatives (Bloomberg, ABC News)
-• US Supreme Court sides with Republicans on rejecting student IDs in New Hampshire midterms (Guardian World)
-• Brazil election battle for the Amazon highlighted in podcast discussion (Guardian World)
-• India slashes cost of cancer drugs after court rules price mark-ups are "extortion" (Guardian World)
-• Musk giving tops $445 million in final midterm election push for GOP candidates (Bloomberg)
-• UK government to make unprecedented intervention in setting of water bills amid investment concerns (Guardian World)
-• Jim Chalmers faces difficult economic choices where solving one problem worsens another (Guardian World)
-• Reform Party Farage donor reveals business ties to foundation linked to Iranian regime (Guardian World)
-• CFTC Chair discusses prediction markets, election implications, and oil trading trends (Bloomberg)
-• Why the anti-Trump playbook is failing in Canada's timber country (Bloomberg)
+---
 
-**Economy and business**
-• Oil prices rise above $115 a barrel amid fears US will renew strikes on Iran (Guardian World)
-• UK government intervention in water bills raises questions about utility pricing and investment (Guardian World)
-• Australia's Jim Chalmers faces economic policy challenges balancing competing priorities (Guardian World)
-• Billionaire Olivier Bouygues convicted of two years suspended prison for destroying protected bird species (Le Monde)
-• French water bill pricing to be subject to unprecedented government intervention (Le Monde)
+### Disasters and accidents
+• Storm Boelo brings 80 mph gusts and heavy rain to northern UK. ([Guardian](https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk))  
+• British woman dies trying to save her two sons during a snorkeling trip in the Bahamas. ([Guardian](https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip))  
+• Thunderstorms, heavy rain, and flash flooding forecast for much of Australia. ([Guardian](https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia))  
+• Nine years after the Grenfell Tower fire, UK buildings still lag on safety retrofits. ([Le Monde](https://www.lemonde.fr/economie/article/2026/10/24/neuf-ans-apres-l-incendie-dramatique-de-la-tour-grenfell-a-londres-la-tres-lente-mise-aux-normes-des-immeubles-britanniques_6799682_3234.html))  
+• In Naples, 20 people hospitalized in two days after accidentally ingesting gasoline amid fuel shortage panic. ([La Repubblica](https://napoli.repubblica.it/cronaca/2026/10/23/news/emergenza_carburante_cardarelli_20_chiamate_benzina_ingerita_accidentalmente-425670435/))  
+• Britons stockpile tinned food, toilet paper, and power banks following government preparedness advice. ([Guardian](https://www.theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice))
 
-**Law and crime**
-• US supreme court rules against accepting student IDs in New Hampshire midterms (Guardian World)
-• Trump ordered to sit for deposition in $10 billion defamation lawsuit against BBC (NBC News)
-• Beau Lamarre-Condon allegedly confessed to friend about killing, asking for help cleaning "mess" during murder trial (Guardian World)
-• Mother sought advice from Alan Jones after broadcaster's alleged indecent assault of her son, court hears (Guardian World)
-• Trump's top border official defends Big Bend border wall plan despite mounting opposition (Guardian World)
+---
 
-**International relations**
-• Beetlejuice Fortnite skin revealed with release date and pricing details (Vice News)
-• Scientists discover potential best source of protein on Earth that is not meat (Vice News)
-• Mystery over source of Ebola infection in Nigeria fuels concern about virus spread (Guardian World)
-• Finland's 24-hour newborn puppy livestream becomes TV smash hit (Guardian World)
-• Petrolina, Brazil faces "tsunami of mountains" seismic activity with earthquake fears in Palermo area (La Repubblica)
-• El Salvador deploys special forces to Haiti for military assistance mission (ABC News)
-• UK government prepares citizens with survival guide including three-day supplies, cash, and radio (La Repubblica)
-• Pope Francis cancels visit to Assisi on doctor's advice, prepares for Latin America trip (La Repubblica)
-• Protests and roadblocks removed in Campania and Calabria, authorities declare return to normalcy (La Repubblica)
-
-**Science and health**
-• Study finds perceived social support impacts college athletes' academic burnout with cognitive reappraisal as moderating factor (PLOS One)
-• Research identifies potential new anti-aging beauty treatment derived from human remains (Vice News)
-• Phase 3 clinical trial shows efficacy and safety of mitapivat for sickle cell disease patients (The Lancet)
-• Digital media use presents public health challenges for children and adolescents, according to new framework (The Lancet)
-• Altered sperm DNA methylation provides epigenetic pathway from overweight and older fathers to intergenerational disease transmission (PNAS)
-
-**Culture and society**
-• Cardi B reveals fatigue with feuding against female rappers, calls it "kinda boring" (Vice News)
-• Eight Gen Z dating trends that millennials strongly dislike emerge in social research (Vice News)
-• "Chatfishing" phenomenon spreading on dating apps raises new concerns (Vice News)
-• Finnish 24-hour newborn puppy livestream captures global attention as television sensation (Guardian World)
-• Italian families abandon victims: 80,000 euros spent on Mattia case with no justice achieved (La Repubblica)
-
-**Environment**
-• Europe records 50,000 deaths this summer from heat waves, with Italy ranking first and Milan setting records (La Repubblica)
-• Scientists warn we have entered new glacial era as global warming halts, based on recent findings (La Repubblica)
-• Nepal refuses to rebuild roads in same locations after mountain tsunami, citing population relocation needs (Le Mode)
+### Politics and elections
+• Jordan Bardella re-elected president of France’s National Rally with 98.98% of the vote as sole candidate. ([Le Monde](https://www.lemonde.fr/politique/article/2026/10/24/au-congres-du-rn-a-orleans-jordan-bardella-seul-candidat-a-sa-succession-est-reelu-president-du-parti-avec-98-98-des-voix_6799707_823448.html))  
+• Trump pushes DOJ lawsuit over Alaska Senate race; tests political
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
