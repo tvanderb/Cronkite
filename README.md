@@ -8,43 +8,47 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[October 24, 2026](reports/2026-10-24.md)**
+**[October 25, 2026](reports/2026-10-25.md)**
 
-*Last updated: 2026-10-24 14:27 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-10-25 14:56 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**Legible News — Daily Report**  
-**October 24, 2026**
+**Date:** 25 October 2026  
 
----
+**Armed conflicts and attacks**  
+• Iran war risks escalation after elections, with US and Israeli polls adding pressure that could spark broader confrontation (Fortune, Bloomberg) – [Fortune](https://fortune.com/article/airbnb-ceo-brian-chesky-warns-two-types-of-people-wont-survive-the-ai-era-pure-people-managers-and-workers-who-resist-change/), [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-25/us-and-israel-elections-loom-over-iran-war-video)  
+• Israel election tests Netanyahu’s hold on power amid heightened security concerns (Bloomberg) – [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-25/israel-election-tests-netanyahu-s-hold-on-power-video)  
+• US military grants Elon Musk’s SpaceX access to sensitive tracking data, raising questions about civilian‑military integration (The Guardian) – [The Guardian](https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data)  
+• ‘Gaza’s suffering has become campaign fodder’ – Palestinians fear the worst from Israel’s election outcome (The Guardian) – [The Guardian](https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election)  
+• Israeli soldiers raze a neighbourhood in Hebron, displacing dozens of families (The Guardian) – [The Guardian](https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes)  
+• Storm Boelo leaves more than 82 000 UK properties without power and forces dozens of flight cancellations across Europe (The Guardian, Le Monde) – [The Guardian](https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk), [Le Monde](https://www.lemonde.fr/planete/article/2026/10/25/tempete-boelo-a-l-aeroport-d-amsterdam-des-dizaines-de-vols-annules-en-raison-de-vents-violents_6800080_3244.html)  
+• ‘Unusually large’ multi‑state storm triggers severe weather warnings for Australia’s east coast (The Guardian) – [The Guardian](https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east)  
 
-### Armed conflicts and attacks
-• Israel razes a neighborhood in Hebron, West Bank, displacing Palestinian families after two Israeli soldiers were killed; the operation described as collective punishment. ([Guardian](https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes), [Guardian](https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed))  
-• Ukraine and Russia signal openness to new peace talks; Melania Trump reportedly involved in diplomatic outreach, though major obstacles remain. ([ABC News](https://abcnews.com/International/wireStory/ukraine-russia-eye-new-peace-talks-melania-trumps-137534005))  
-• Gunmen open fire at a church funeral in Jordan, killing eight and wounding 40. ([Guardian](https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan))  
-• Saudi airstrikes hit Houthi-held Sanaa, Yemen, killing at least four people. ([Le Monde](https://www.lemonde.fr/international/article/2026/10/24/au-yemen-des-frappes-saoudiennes-font-au-moins-quatre-morts-a-sanaa-capitale-aux-mains-des-houthistes_6799703_3210.html))  
-• Ukrainian drone strike kills three in Russian-occupied Kharkiv oblast. ([Le Monde](https://www.lemonde.fr/international/live/2026/10/24/en-direct-guerre-en-ukraine-trois-personnes-tuees-par-un-drone-ukrainien-dans-la-partie-occupee-de-l-oblast-de-kharkiv_6796922_3210.html))  
-• Drinking water supplies dwindle in a Yemeni city besieged by Houthi rebels. ([NPR](https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels))  
-• Marco Rubio urges Cubans to act now for political change, signaling harder U.S. line. ([Guardian](https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump))  
-• Australian Greens senator Jordon Steele-John takes leave from parliament after misconduct allegations. ([Guardian](https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb), [Guardian](https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb))  
-• Helen Haines, Australian MP, improving after losing both legs in alleged attack. ([Guardian](https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb))  
-• Typhoon Champi kills one, injures over 500 in Taiwan before heading toward China. ([Guardian](https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china))
+**Disasters and accidents**  
+• Storm Boelo knocks out power to 82 000 households in the UK and causes widespread travel disruptions (The Guardian, Le Monde) – *[see Armed conflicts and attacks]*  
+• Australian east‑coast storm system brings flooding and high winds, with more severe weather expected (The Guardian) – *[see Armed conflicts and attacks]*  
 
----
+**Politics and elections**  
+• Midterm fight intensifies in the final campaign stretch as Democrats and Republicans double down on messaging (Bloomberg) – [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-25/midterm-fight-intensifies-in-final-campaign-stretch-video)  
+• Musk’s financial backing reshapes the midterm spending race, amplifying Republican advertising in key Senate contests (Bloomberg) – [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-25/musk-s-money-reshapes-the-midterm-spending-race-video)  
+• Rep. Crenshaw presses Elon Musk on providing Starlink services to Ukraine (Bloomberg) – [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-25/rep-crenshaw-presses-musk-on-starlink-for-ukraine-video)  
+• UK’s Angela Rayner defends Andy Burnham’s move to revisit EU free‑movement policy (Bloomberg) – [Bloomberg](https://www.bloomberg.com/news/articles/2026-10-25/uk-s-rayner-defends-burnham-move-to-revisit-eu-free-movement)  
+• Trump administration’s proposed cuts would remove roughly 13 % of Americans from food‑stamp rolls (The Guardian) – [The Guardian](https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts)  
+• Higher energy costs weigh on Trump’s midterm pitch as voters feel the squeeze at the pump (Bloomberg) – [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-25/higher-energy-costs-weigh-on-trump-s-midterm-pitch-video)  
+• Trump touts new US Audi plant and defends tariffs at a rally, framing the deal as a win for American jobs (Bloomberg) – [Bloomberg](https://www.bloomberg.com/news/articles/2026-10-25/trump-defends-tariffs-at-rally-as-he-says-audi-to-build-us-plant)  
+• Brazilian presidential race comes down to the wire as Lula and Bolsonaro rally massive support (Bloomberg, The Guardian) – [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-25/brazil-s-presidential-race-comes-down-to-the-wire-video), [The Guardian](https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election)  
+• More than one million Lula supporters rally on the eve of the Brazilian runoff, underscoring a surge in left‑leaning enthusiasm (The Guardian) – [The Guardian](https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro)  
+• Hundreds of thousands march across France over school funding and policing policies (The Guardian) – [The Guardian](https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing)  
+• Midterms 2026: Democrats see a path to reclaiming the Senate via Maine (Le Monde) – [Le Monde](https://www.lemonde.fr/international/article/2026/10/25/midterms-2026-pour-les-democrates-la-reconquete-du-senat-passe-par-le-maine_6800076_3210.html)  
+• Albania’s prime minister proposes stricter crowd‑control measures after violent anti‑government protests (Le Monde) – [Le Monde](https://www.lemonde.fr/international/article/2026/10/25/en-albanie-le-premier-ministre-veut-durcir-la-gestion-des-foules-apres-de-violentes-manifestations_6800089_3210.html)  
 
-### Disasters and accidents
-• Storm Boelo brings 80 mph gusts and heavy rain to northern UK. ([Guardian](https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk))  
-• British woman dies trying to save her two sons during a snorkeling trip in the Bahamas. ([Guardian](https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip))  
-• Thunderstorms, heavy rain, and flash flooding forecast for much of Australia. ([Guardian](https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia))  
-• Nine years after the Grenfell Tower fire, UK buildings still lag on safety retrofits. ([Le Monde](https://www.lemonde.fr/economie/article/2026/10/24/neuf-ans-apres-l-incendie-dramatique-de-la-tour-grenfell-a-londres-la-tres-lente-mise-aux-normes-des-immeubles-britanniques_6799682_3234.html))  
-• In Naples, 20 people hospitalized in two days after accidentally ingesting gasoline amid fuel shortage panic. ([La Repubblica](https://napoli.repubblica.it/cronaca/2026/10/23/news/emergenza_carburante_cardarelli_20_chiamate_benzina_ingerita_accidentalmente-425670435/))  
-• Britons stockpile tinned food, toilet paper, and power banks following government preparedness advice. ([Guardian](https://www.theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice))
+**Law and crime**  
+• Suspect in the shooting death of a teenage driver on a Missouri highway is charged in a second fatal road incident (The Guardian) – [The Guardian](https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway)  
+• Eleven people are wounded in a drive‑by shooting near a Florida university (The Guardian) – [The Guardian](https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university)  
+• A 19‑year‑old woman is shot in the head in a drive‑by attack outside a boxing event near Brisbane (The Guardian) – [The Guardian](https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb)  
 
----
-
-### Politics and elections
-• Jordan Bardella re-elected president of France’s National Rally with 98.98% of the vote as sole candidate. ([Le Monde](https://www.lemonde.fr/politique/article/2026/10/24/au-congres-du-rn-a-orleans-jordan-bardella-seul-candidat-a-sa-succession-est-reelu-president-du-parti-avec-98-98-des-voix_6799707_823448.html))  
-• Trump pushes DOJ lawsuit over Alaska Senate race; tests political
+**International relations**  
+• Ethnic minorities in England are less likely to receive breast‑cancer diagnoses from routine screening (The Guardian) – [The Guardian](https://www.theguardian.com/society/2026/oct/25/ethnic-minorities-england-breast-cancer-screening-disparity
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
