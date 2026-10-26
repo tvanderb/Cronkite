@@ -8,47 +8,81 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[October 25, 2026](reports/2026-10-25.md)**
+**[October 26, 2026](reports/2026-10-26.md)**
 
-*Last updated: 2026-10-25 14:56 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-10-26 17:16 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**Date:** 25 October 2026  
+**October 27, 2026**
 
-**Armed conflicts and attacks**  
-• Iran war risks escalation after elections, with US and Israeli polls adding pressure that could spark broader confrontation (Fortune, Bloomberg) – [Fortune](https://fortune.com/article/airbnb-ceo-brian-chesky-warns-two-types-of-people-wont-survive-the-ai-era-pure-people-managers-and-workers-who-resist-change/), [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-25/us-and-israel-elections-loom-over-iran-war-video)  
-• Israel election tests Netanyahu’s hold on power amid heightened security concerns (Bloomberg) – [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-25/israel-election-tests-netanyahu-s-hold-on-power-video)  
-• US military grants Elon Musk’s SpaceX access to sensitive tracking data, raising questions about civilian‑military integration (The Guardian) – [The Guardian](https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data)  
-• ‘Gaza’s suffering has become campaign fodder’ – Palestinians fear the worst from Israel’s election outcome (The Guardian) – [The Guardian](https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election)  
-• Israeli soldiers raze a neighbourhood in Hebron, displacing dozens of families (The Guardian) – [The Guardian](https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes)  
-• Storm Boelo leaves more than 82 000 UK properties without power and forces dozens of flight cancellations across Europe (The Guardian, Le Monde) – [The Guardian](https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk), [Le Monde](https://www.lemonde.fr/planete/article/2026/10/25/tempete-boelo-a-l-aeroport-d-amsterdam-des-dizaines-de-vols-annules-en-raison-de-vents-violents_6800080_3244.html)  
-• ‘Unusually large’ multi‑state storm triggers severe weather warnings for Australia’s east coast (The Guardian) – [The Guardian](https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east)  
+**Armed conflicts and attacks**
+• UK sanctions Sudanese military leaders implicated in El Fasher 'campaign of rape' (Guardian World)
+• Sudan paramilitary drone strikes cause mass power cuts in eastern states (Guardian World)
+• High-level delegation visits Iran to try to avert flare-up with US and Israel (Guardian World)
+• Japanese prosecutors charge US marine suspected of robbing and killing woman (Guardian World)
+• Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela (Guardian World)
+• Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race (Guardian World)
 
-**Disasters and accidents**  
-• Storm Boelo knocks out power to 82 000 households in the UK and causes widespread travel disruptions (The Guardian, Le Monde) – *[see Armed conflicts and attacks]*  
-• Australian east‑coast storm system brings flooding and high winds, with more severe weather expected (The Guardian) – *[see Armed conflicts and attacks]*  
+**Disasters and accidents**
+• Man found dead in Queensland flood waters as state hit by multiple storms and days-long deluge (Guardian World)
+• US forces accused of 'weaponising' Somalia's floods by trapping women and children in path of El Niño (Guardian World)
 
-**Politics and elections**  
-• Midterm fight intensifies in the final campaign stretch as Democrats and Republicans double down on messaging (Bloomberg) – [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-25/midterm-fight-intensifies-in-final-campaign-stretch-video)  
-• Musk’s financial backing reshapes the midterm spending race, amplifying Republican advertising in key Senate contests (Bloomberg) – [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-25/musk-s-money-reshapes-the-midterm-spending-race-video)  
-• Rep. Crenshaw presses Elon Musk on providing Starlink services to Ukraine (Bloomberg) – [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-25/rep-crenshaw-presses-musk-on-starlink-for-ukraine-video)  
-• UK’s Angela Rayner defends Andy Burnham’s move to revisit EU free‑movement policy (Bloomberg) – [Bloomberg](https://www.bloomberg.com/news/articles/2026-10-25/uk-s-rayner-defends-burnham-move-to-revisit-eu-free-movement)  
-• Trump administration’s proposed cuts would remove roughly 13 % of Americans from food‑stamp rolls (The Guardian) – [The Guardian](https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts)  
-• Higher energy costs weigh on Trump’s midterm pitch as voters feel the squeeze at the pump (Bloomberg) – [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-25/higher-energy-costs-weigh-on-trump-s-midterm-pitch-video)  
-• Trump touts new US Audi plant and defends tariffs at a rally, framing the deal as a win for American jobs (Bloomberg) – [Bloomberg](https://www.bloomberg.com/news/articles/2026-10-25/trump-defends-tariffs-at-rally-as-he-says-audi-to-build-us-plant)  
-• Brazilian presidential race comes down to the wire as Lula and Bolsonaro rally massive support (Bloomberg, The Guardian) – [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-25/brazil-s-presidential-race-comes-down-to-the-wire-video), [The Guardian](https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election)  
-• More than one million Lula supporters rally on the eve of the Brazilian runoff, underscoring a surge in left‑leaning enthusiasm (The Guardian) – [The Guardian](https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro)  
-• Hundreds of thousands march across France over school funding and policing policies (The Guardian) – [The Guardian](https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing)  
-• Midterms 2026: Democrats see a path to reclaiming the Senate via Maine (Le Monde) – [Le Monde](https://www.lemonde.fr/international/article/2026/10/25/midterms-2026-pour-les-democrates-la-reconquete-du-senat-passe-par-le-maine_6800076_3210.html)  
-• Albania’s prime minister proposes stricter crowd‑control measures after violent anti‑government protests (Le Monde) – [Le Monde](https://www.lemonde.fr/international/article/2026/10/25/en-albanie-le-premier-ministre-veut-durcir-la-gestion-des-foules-apres-de-violentes-manifestations_6800089_3210.html)  
+**Politics and elections**
+• Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro (Guardian World)
+• Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live (Guardian World)
+• Serbia wakes up to new reality after student-led movement ousts Vučić – as it happened (Guardian World)
+• Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede (Guardian World)
+• Serbia's Student List preparing for talks on forming government despite no clear leader (Guardian World)
+• European gas prices soar to four-year high over winter supply fears (Guardian World)
+• UK poised to miss reduced aid spending target of 0.3% of national income (Guardian World)
+• Macron Has Few Bargaining Chips as He Keeps Lid on Violence (Bloomberg)
+• What Lula's Win Means for Brazil's Markets, Currency (Bloomberg)
+• 'Democracy always': Lula vows no return to dictatorship in Brazil after election win (Guardian World)
+• Xi Jinping's corruption crackdown in the spotlight as China prepares for meeting of top leaders (Guardian World)
+• Brexit, il premier Burnham: "Voglio che il Regno Unito torni in Ue prima che muoia" (La Repubblica)
+• Hausse des taux d'intérêt: "Sans accalmie sur les marchés financiers, la France pourrait bien avoir besoin d'une aide de la BCE rapidement" (Le Monde)
+• L'appel de cinq ministres européens de la défense: "Pour que l'espace euro-atlantique demeure sûr, nous devons davantage investir dans nos propres capacités et nos propres ressources" (Le Monde)
 
-**Law and crime**  
-• Suspect in the shooting death of a teenage driver on a Missouri highway is charged in a second fatal road incident (The Guardian) – [The Guardian](https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway)  
-• Eleven people are wounded in a drive‑by shooting near a Florida university (The Guardian) – [The Guardian](https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university)  
-• A 19‑year‑old woman is shot in the head in a drive‑by attack outside a boxing event near Brisbane (The Guardian) – [The Guardian](https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb)  
+**Law and crime**
+• Manhunt under way in Tennessee after convicted murderer escapes prison (Guardian World)
+• Fifteen-year-old arrested in shooting near Florida university that injured 12 (Guardian World)
+• Maurene Comey was illegally fired as federal prosecutor, judge rules (Guardian World)
+• Russell Brand had 'insane sexual appetite' and his bad behaviour was normalised, trial told (Guardian World)
+• Australian judge rejects prisoner's human rights challenge to Vegemite ban (NPR World)
+• Visa and Mastercard threatened with potential £5bn UK lawsuit over fees (Guardian World)
+• Correction: Clinical efficacy of empiric antibiotic therapy in Chinese patients with cirrhosis and bacterial infections: A multicenter study (PLOS One)
+• Correction: Health system costs and systemic treatment patterns by disease stage for 8577 people diagnosed with melanoma in New South Wales, Australia 2006–2019 (PLOS One)
 
-**International relations**  
-• Ethnic minorities in England are less likely to receive breast‑cancer diagnoses from routine screening (The Guardian) – [The Guardian](https://www.theguardian.com/society/2026/oct/25/ethnic-minorities-england-breast-cancer-screening-disparity
+**International relations**
+• Trump calls Bill Maher a 'total loser' in 1,300-word Truth Social rant (Guardian World)
+• Le prénom: « Je n'ai jamais demandé à mes parents pourquoi ils m'avaient appelé Jacques » (Le Monde)
+• Mort de Cédric Chouviat : le procès des policiers mis en cause pour homicide involontaire renvoyé à juin 2027 (Le Mode)
+• Roma, terremoto Wesley. La moglie sui social: "Ero incinta e mi tradiva, anche con prostitute" (La Repubblica)
+• Législatives en Israël: Gadi Eisenkot, le principal opposant à Benyamin Nétanyahou, prône l'union et l'apaisement (Le Monde)
+• La fête du popol d'Lula in piazza. Ma Bolsonaro non si arrende: "Non rinuncoro al mio Brasile" (La Repubblica)
+• Serbia, dal crollo della pensilina alla vittoria: così il movimento degli studenti ha battuto Vucic (La Repubblica)
+• 'La révision constitutionnelle que Marine Le Pen entend mettre en œuvre ferait basculer la France dans le camp des démocraties illibérales' (Le Monde)
+• Attentat de Trappes : de nouveaux éléments de l'enquête confirment le mobile raciste du suspect (Le Monde)
+• Michèle Barzach, ancienne ministre de la santé de Jacques Chirac, est morte (Le Monde)
+• Le Ghana sème objets et fantômes du colonialisme à la Fondation Cartier (Le Monde)
+• Antonelli, il mondiale è questione di giorni. Sinner lo applaude: "Fortissimo" (La Repubblica)
+• Jack White Shares News of Older Brother's Death, Pens Touching Tribute to 'Beautiful Soul' (Vice News)
+• Jay-Z Fires Back at Critics Claiming His Stadium Concerts Were Empty (Vice News)
+
+**Business and economy**
+• Trump said China was headed for 'big trouble.' Yet its economy is growing faster than the U.S., and its deficits are moving in the right direction (Fortune)
+• US Data Centers Face Midterms Test, AI Demand Risk (Bloomberg)
+• Anthropic's IPO filing lays out a plan to 'revolutionize every area of human endeavor' with AI (The Verge)
+• The chaos in France is a 'warning signal' for Australia's public spending and rising costs (Guardian World)
+• From Deliberately Constructed Systemic Representations of the World of Activity to Dialogue: A Five-Level Communication Architecture for Strong Language-Based ASI (arXiv)
+• Bio-Templated Zinc Oxide Nanotherapeutics from Flemingia macrophylla kuntze Ex Merr: In Vivo Anti-Diabetic and Anti-Inflammatory Efficacy in Drosophila melanogaster (bioRxiv)
+• Acute social defeat induces cannabinoid type 1 receptor-dependent synaptic depression in the anterior ventral subiculum to anterior hypothalamic nucleus pathway to drive social avoidance in male mice (bioRxiv)
+• Nitrogen deposition does not alter the temperate forest soil carbon pool: A 14-y experiment on varied nitrogen fertilization (PNAS)
+• [Articles] Efficacy and safety of mitapivat in patients with sickle cell disease (RISE UP): a phase 3, double-blind, global, randomised, placebo-controlled trial (The Lancet)
+• Altered sperm DNA methylation provides an epigenetic route from overweight and older men to intergenerational disease transmission (PNAS)
+• Specialized and experience-dependent neural dynamics in the medial amygdala and bed nucleus of stria terminalis upon social and sexual olfactory and tactile cues (bioRxiv)
+• A synchronization modulation electric field reduces early ischemic kidney injury in pigs and suppresses a stress and inflammatory program without detectable leukocyte accumulation (bioRxiv)
+• [Series] The public health challenges of children's and adolescents' digital media use: applying the digital determinants of health as an interpretive framework (The Lancet)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
