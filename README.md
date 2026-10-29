@@ -8,79 +8,195 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[October 28, 2026](reports/2026-10-28.md)**
+**[October 29, 2026](reports/2026-10-29.md)**
 
-*Last updated: 2026-10-28 17:06 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-10-29 17:24 UTC · Generated daily at 6:05 AM EST*
 
 ```
-October 28, 2026
+The user wants me to create a daily news report in the style of Legible News, grouping stories by category, with each story as a single bullet point with headline, key details, and source citations. I need to merge duplicate stories, use clean journalistic language, include hyperlinks, and aim for 45-65 total stories.
 
-**Armed conflicts and attacks**
-• Spain's high-speed rail network faces scrutiny after a fatal collision between two trains in Toledo kills at least 68 people, prompting three days of national mourning declared by Prime Minister Pedro Sánchez ([Guardian World](https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo), [Le Monde](https://www.lemonde.fr/international/live/2026/10/28/en-direct-accident-entre-deux-trains-en-espagne-au-moins-68-morts-selon-un-nouveau-bilan-provisoire-et-trois-jours-de-deuil-national-d-celebre.html))
-• Gulf states are reportedly negotiating a multi-part peace deal to prevent escalation of potential US-Iran conflict following recent tensions ([Guardian World](https://www.theguardian.com/world/2026/oct-28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war))
-• Trump displayed an oil tanker with "1M barrels of oil" and suggested Venezuela as potential 51st state during campaign events ([Guardian World](https://www.theguardian.com/us-news/2026/oct-27/trump-oil-tanker-venezuela))
-• Australia may need to recruit hundreds more personnel to crew Aukus submarines, according to retired admiral warning ([Guardian World](https://www.theguardian.com/world/2026/oct-28/australia-must-recruit-hundreds-more-to-crew-aukus-submarines-retired-admiral-warns))
-• In Serbia, a new type of democracy is emerging that draws close attention from European observers ([Guardian World](https://www.theguardian.com/world/2026/oct-28/in-serbia-a-new-type-of-democracy-is-taking-hold-and-europe-is-watching-closely))
+First, I need to analyze the provided stories and group them by category. The categories mentioned in the data are: Business and economy, International relations, Armed conflicts and attacks, Politics and elections, Law and crime, Disasters and accidents. Also there are some that might not fit neatly.
 
-**Disasters and accidents**
-• A high-speed train collision in Spain's Toledo region resulted in at least 68 fatalities and dozens of injuries, marking the second fatal rail incident in the country this year ([Guardian World](https://www.theguardian.com/world/live/2026/oct-28/spain-train-crash-toledo-europe-latest-news-updates), [Le Monde](https://www.lemonde.fr/international/live/2026/10/28/en-direct-accident-entre-deux-trains-en-espagne-au-moins-68-morts-selon-un-nouveau-bilan-provisoire-et-trois-jours-de-deuil-national-d-celebre.html))
-• India's Cyclone Arnab has caused significant extreme weather damage, highlighting increasing climate risks in the region ([ABC News](https://abcnews.com/International/wireStory/indias-cyclone-arnab-brings-high-toll-extreme-weather-137638919))
-• Menindee Lakes in Australia have dropped to their lowest levels in five years, raising concerns among experts about potential mass fish deaths ([Guardian World](https://www.theguardian.com/australia-news/2026/oct-28/menindee-lakes-water-levels-drop-mass-fish-death-fears))
+Let me list all stories with their categories:
 
-**Politics and elections**
-• Israeli election results show Netanyahu's bloc and main opposition set to fall short of majority as 92% of ballots counted, with coalition talks looming ([Guardian World](https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news), [Le Monde](https://www.lemonde.fr/international/live/2026/10/28/en-direct-legislatives-en-israel-isaac-herzog-le-president-israelien-exhorte-les-partis-politiques-a-tout-faire-pour-former-une-coalition-gouvernementale-malgre-l-absence-de-majorite-claire_6801217_3210.html))
-• In the 2026 midterms, Trump and Vance rallied supporters in final push while Alaska's Murkowski backed a Democrat for governor ([Guardian World](https://www.theguardian.com/us-news/live/2026/oct-28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest))
-• Flavio Bolsonaro fled Brazil after losing the presidential election, reportedly seeking refuge in Miami ([Guardian World](https://www.theguardian.com/world/2026/oct-28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat), [Le Monde](https://www.lemonde.fr/international/article/2026/10/27/flavio-bolsonaro-brazil-argentina-fled_6801496_3210.html))
-• Jean-Luc Mélenchon stated he would replace the director of Bpifrance if elected in the 2027 French presidential race ([Le Monde](https://www.lemonde.fr/politique/article/2026/10/28/presidentielle-2027-jean-luc-melenchon-affirme-qu-il-remplacera-le-directeur-de-bpifrance-s-il-est-elu_6801605_823448.html))
-• King Charles will address legacy of slavery with Commonwealth leaders during upcoming summit ([Guardian World](https://www.theguardian.com/world/2026/oct-28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit))
-• US secured over 23 additional votes in UN resolution opposing Cuba embargo ([Bloomberg](https://www.bloomberg.com/news/articles/2026-10-28/us-wins-over-23-more-countries-in-un-vote-against-cuba-embargo))
+1. Women astronauts outnumber men in NASA’s new class — Business and economy
+2. Eight of England’s nine water companies still failing on environment — Business and economy
+3. Who will you learn from in 6 days at TechCrunch Founder Summit? — Business and economy
+4. New Report Teases Elder Scrolls VI Name and Reveal Window — International relations (but seems more entertainment/gaming)
+5. Study of 100,000 Australians seeks causes of mental health disorders and early onset cancer — International relations (health/science)
+6. Lawyers for Marist Brothers face questions over advice to keep serial offender out of ‘legal arena’ — International relations (law/crime)
+7. Fuel Costs, Tariffs Erode Republicans' Edge in Farm Belt — Armed conflicts and attacks (but seems politics/economy)
+8. Finland launches criminal investigation into Google’s clearing of forest for datacentre site — International relations
+9. NEC's Hassett Sees Fed Acting If October Inflation Data High — International relations (economy)
+10. Democrats lead Texas and Michigan Senate races, poll shows; turmoil in Alaska amid campaign investigation — Politics and elections
+11. Iran Receives Letter From Vance, Though No Word on Likely Reply — Politics and elections
+12. Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition — Politics and elections
+13. Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority — Politics and elections
+14. Burnham denies preventing ministers from speaking about plans for closer relationship with EU — Politics and elections
+15. En Thaïlande, le combat solitaire du lanceur d’alerte Yingcheep Atchanont contre la fraude électorale — International relations
+16. ‘Why has the Chancellor left the wealthiest untouched?’ — Armed conflicts and attacks (but seems UK politics/economy)
+17. Senate race in once reliably Republican South Carolina tied in final stretch — Politics and elections
+18. GOP House Oversight Chair Probes Democrats in Alaska Senate Race — Politics and elections
+19. Pragmatic or pointless? Europe’s rift over whether to pick up the phone to Putin — International relations
+20. Downbeat UK Forecasts Raise Chance of Upside Surprise for Healey — International relations (economy)
+21. Efficacy and safety of mitapivat in patients with sickle cell disease — Business and economy (health/science)
+22. Punk Band’s Guerrilla Concert in Times Square Ends in Chaos as NYPD Shuts It Down — International relations (culture)
+23. Elke Sommer, prolific German star... dies aged 85 — Armed conflicts and attacks (but culture/obituary)
+24. Drake Gets Unexpected Birthday Surprise... — International relations (culture)
+25. Nvidia CEO reportedly targeted by Chinese spy — Politics and elections (tech/security)
+26. Union in plea to save Poundland from administration, with 12,000 jobs at risk — Law and crime (business)
+27. The public health challenges of children's and adolescents’ digital media use — Business and economy (health)
+28. I made Ina Garten's apple, pumpkin, and pecan pies... — Business and economy (lifestyle)
+29. Police investigate gang links as woman, 19, dies after drive-by shooting at Logan pub — International relations (crime)
+30. DoorDash to buy Instacart for $17bn in major grocery delivery consolidation — Business and economy
+31. World of Warcraft: Forever Launch Trailer... — Armed conflicts and attacks (gaming)
+32. EU backs away from offer to Canada to start ‘associate member’ talks — International relations
+33. The ‘breathing space budget’ — Politics and elections
+34. Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’ — Politics and elections
+35. Economic Pain Turns Nebraska Into Unexpected Battleground — International relations (politics/economy)
+36. Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges — Armed conflicts and attacks (human rights)
+37. Netanyahu bloc loses majority as most ballots counted — Politics and elections
+38. Au Maroc, le long de la « Donald J. Trump Highway »... — International relations
+39. Travelers Are Ditching Traditional Vacations for ‘Skillcations.’ — International relations (travel)
+40. Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA — Politics and elections (space)
+41. Rare love letters to French aristocrat shed light on Louis XVI maritime mystery — International relations (history)
+42. How did the Spain train crash happen and what will investigators be asking? — Disasters and accidents
+43. Two Colorado college students found dead after going missing during hike — International relations (crime)
+44. Attentat raciste de Trappes... — International relations (terrorism/crime)
+45. En Espagne, la catastrophe ferroviaire d’Urda... — Disasters and accidents
+46. En Israël, Benyamin Netanyahou accuse les partis arabes de fraude électorale... — International relations (politics)
+47. Présidentielle 2027 : les préfectures de Paris et des Hauts-de-Seine interdisent le colloque sur la « remigration » — International relations (politics)
+48. La NASA accélère son plan de vol pour retourner sur la Lune dès 2028... — International relations (space)
+49. Le Mexique soulagé de la réélection de Lula au Brésil — International relations (politics)
+50. È ancora Corto Maltese... — International relations (culture)
+51. La crociera dei super ricchi anti-Trump bloccata per il caro carburanti... — International relations (travel/politics)
+52. Caso Siher, i togati del Csm... — Politics and elections (Italy judiciary)
+53. Bce, Lagarde lascerà il 7 febbraio... — Politics and elections (economy)
+54. Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami — Politics and elections
+55. « Je veux avoir la liberté de parole », dit Christine Lagarde... — International relations (economy)
+56. Sugar e Plastic tax, sette anni di rinvii... — International relations (politics/economy)
+57. Le madri dei liceali: "Anche noi in piazza contro la violenza sui nostri figli" — International relations (social)
+58. Serbia, il sistema Vucic si sgretola... — International relations (politics)
+59. Affitti, meno tasse per chi loca a negozi, giovani e a canone concordato... — International relations (economy/housing)
+60. Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush... — Armed conflicts and attacks (gaming/culture)
+61. Vaccination of pregnant mares with mRNA... — Business and economy (science)
+62. Fox News Moves South Carolina Senate Contest to Toss-Up in New Rating — Politics and elections
+63. En Afrique, les masculinistes ont le vent en poupe... — International relations (social)
+64. Scioperi del 30 ottobre, l’Italia si ferma... — International relations (labor/strikes)
+65. I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team... — Business and economy (tech)
+66. Cornell faculty press ahead with no-confidence vote in handling of gang-rape case — International relations (education/crime)
+67. Keynote speech by President von der Leyen on EU-Canada relations... — Politics and elections
+68. Hello Kitty company cuts ties with Japanese spy show after China outcry — International relations (business/culture)
 
-**Law and crime**
-• A UK court heard that Guardian and ITN have "duty to public and sources" to publish sexual allegations against a well-known figure ([Guardian World](https://www.theguardian.com/uk-news/2026/oct-28/guardian-itn-duty-to-public-and-sources-publish-sexual-allegations-against-well-known-figure-court-hears))
-• Socialist Hasan Piker filed lawsuit against conservative counterpart over "violent racist" portrayal ([Guardian World](https://www.theguardian.com/us-news/2026/oct-28/hasan-piker-lawsuit-scott-jennings))
-• Russell Brand told court he "misused" fame for "reckless philandering" during legal proceedings ([Guardian World](https://www.theguardian.com/uk-news/live/2026/oct-28/russell-brand-evidence-trial-latest-news-updates))
-• Amine Kessaci, an anti-narcotics activist, received determination in trial for assassination of his brother ([Le Monde](https://www.lemonde.fr/societe/article/2026/10/28/on-m-a-arrache-une-partie-de-ma-vie-a-17-ans-seulement-au-proces-des-accuses-de-l-assassinat-de-son-frere-la-determination-sans-faille-du-militant-anti-narcotrafic-amine-kessaci_6801588_3224.html))
-• Police clarified that previously reported deceased Arizona woman was actually alive in Mexico ([Guardian World](https://www.theguardian.com/us-news/2026/oct-28/shayna-feinman-missing-arizona-woman-mexico))
+Now I need to group by category. The categories I see in the data: 
+- Armed conflicts and attacks (7, 16, 23, 31, 36, 60)
+- Disasters and accidents (42, 45)
+- Politics and elections (10, 11, 12, 13, 14, 17, 18, 33, 34, 37, 40, 52, 53, 54, 62, 67)
+- Law and crime (26)
+- International relations (4,5,6,8,9,15,19,20,22,24,25,29,32,35,38,39,41,43,44,46,47,48,49,50,51,55,56,57,58,59,63,64,66,68)
+- Business and economy (1,2,3,21,27,28,30,61,65)
 
-**International relations**
-• Egypt fined prominent editor Lina Attalah and shut down independent outlet Mada Masr as part of press freedom crackdown ([Guardian World](https://www.theguardian.com/world/2026/oct-28/egypt-lina-attalah-mada-masr-press-freedom-clampdown))
-• Norway promoted its public restrooms after Donald Trump called the country "a country of shit" ([Le Monde](https://www.lemonde.fr/international/article/2026/10/28/la-norvege-vante-ses-toilettes-publiques-apres-que-donald-trump-l-a-qualifiee-de-pays-de-chiottes_6801610_3210.html))
-• French parliament examined presumption of AI content usage ([Le Monde](https://www.lemonde.fr/economie/article/2026/10/28/intelligence-artificielle-la-presomption-d-utilisation-des-contenus-culturels-examinee-par-l-assemblee-nationale_6801607_3234.html))
-• At least 50,000 people fled Ethiopia to Kenya due to conflicts in southern country ([Le Monde](https://www.lemonde.fr/afrique/article/2026/10-28/ethiopie-au-moins-50-000-personnes-ont-fui-au-kenya-en-raison-d-affrontements-dans-le-sud-du-pays_6801596_3212.html))
-• French President Emmanuel Macron convened defense council to prepare weekend protests ([Le Monde](https://www.lemonde.fr/politique/article/2026/10-28/mobilisations-sociales-emmanuel-macron-a-preside-un-conseil-de-defense-pour-preparer-les-manifestations-du-week-end_6801580_823448.html))
-• French Interior Minister Laurent Nuñez requested enhanced security measures for Christian sites during All Saints' Day celebrations ([Le Monde](https://www.lemonde.fr/societe/article/2026/10-28/laurent-nunez-demande-le-renforcement-de-la-securite-des-lieux-de-culte-et-des-cimetieres-chretiens-pour-les-fetes-de-la-toussaint_6801599_3224.html))
-• French social housing and youth centers are struggling to evolve their business models ([Le Monde](https://www.lemonde.fr/economie/article/2026/10-28/les-maisons-des-jeunes-et-de-la-culture-contraintes-de-faire-evoluer-leur-modele_6801584_3234.html))
-• Protests across France featured student marches against police abuse and beatings ([La Repubblica](https://www.repubblica.it/cronaca/2026/10-28/news/cortei_studenti_abusi_polizia_proteste_genitori-425680304.html))
+But some categorizations seem off. For example, story 7 "Fuel Costs, Tariffs Erode Republicans' Edge in Farm Belt" is categorized as Armed conflicts and attacks but is clearly politics/economy. Story 16 "Why has the Chancellor left the wealthiest untouched?" is Armed conflicts and attacks but is UK budget politics. Story 23 Elke Sommer obituary is Armed conflicts and attacks but is culture. Story 31 World of Warcraft trailer is Armed conflicts and attacks but gaming. Story 36 Cambodian police scam compounds is Armed conflicts and attacks but human rights/crime. Story 60 Call of Duty using Seoul crowd crush footage is Armed conflicts and attacks but gaming/culture.
 
-**Business and economy**
-• UK Shadow Chancellor John Healey announced £100 payment to households to help navigate 'global economic storms' in Budget 2026 ([Guardian World](https://www.theguardian.com/uk-news/2026/oct-28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms))
-• Budget 2026 included £100 energy payment for millions and increased bank tax amid watchdog warnings about slowing living standards ([Guardian World](https://www.theguardian.com/uk-news/live/2026/oct-28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics))
-• Machine Gaming Duty was increased to 25% in UK budget ([Bloomberg](https://www.bloomberg.com/news/videos/2026-10-28/healey-on-gaming))
-• UK defense spending pledge targets 3% of GDP by 2030 under Healey's leadership ([Bloomberg](https://www.bloomberg.com/news/articles/2026-10-28/healey-vows-to-boost-uk-defense-spending-to-3-of-output-by-2030))
-• Couples report mixed success keeping finances separate after marriage until having children changed circumstances ([Business Insider](https://www.businessinsider.com/kept-finances-separate-then-we-had-baby-money-changes-2026-10))
-• Apple launched touchscreen MacBook Pro with live coverage of keynote event ([The Verge](https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog))
+I should re-categorize based on actual content. The user said "Group stories by category (Armed conflicts and attacks, Disasters and accidents, Politics and elections, Law and crime, etc.)". So I should use those categories and assign appropriately.
 
-**Science and health**
-• Disparities exist in breast and bowel cancer screening participation and diagnosis stage among people with pre-existing mental health disorders according to population-based study ([PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361617))
-• IOL power calculation formulas comparison in short eyes using ESCRS calculator and eyetemis shows influence of anterior segment biometry ([PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361501))
-• Erector spinae plane block added to intercostal nerve block showed benefits versus intercostal nerve block alone for postoperative analgesia in VATS surgery ([PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361408))
-• Efficacy and safety of mitapivat in patients with sickle cell disease (RISE UP) phase 3 trial published ([The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01480-7/fulltext?rss=yes))
-• Public health challenges of children's and adolescents' digital media use explored through digital determinants of health framework ([The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01611-9/fulltext?rss=yes))
-• Weight gain susceptibility in male C57BL/6 mice on high-fat diet linked to specific genes not expressed in brain ([PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2613656123?af=R))
-• Glutamine-derived NADH fuels lactate production to maximize ATP yield under oxygen constraints in head and neck cancer cells ([bioRxiv](https://www.biorxiv.org/content/10.64898/2026.10.25.761662v1?rss=1))
+Let me re-categorize:
 
-**Culture and society**
-• Metal band Ugly Breakup became public when fired musicians accused founder of toxic behavior ([Vice News](https://www.vice.com/en/article/metal-bands-ugly-breakup-turns-public-as-fired-musicians-accuse-founder-of-toxic-behavior/))
-• Dallas Cowboys Cheerleaders reached agreement with My Chemical Romance over concert costume similarities ([Vice News](https://www.vice.com/en/article/dallas-cowboys-cheerleaders-reach-agreement-with-my-chemical-romance-over-bizarre-concert-costumes/))
-• The Who legend admitted disliking Led Zeppelin for unexpected reasons ([Vice News](https://www.vice.com/en/article/the-who-legend-admits-he-didnt-like-led-zeppelin-for-a-surprising-reason/))
-• Analysis of most impressive vocal performances from 1991 highlighted ([Vice News](https://www.vice.com/en/article/3-of-the-most-impressive-vocal-performances-of-1991/))
-• List of most haunting rap songs compiled for Halloween season ([Vice News](https://www.vice.com/en/article/3-of-the-most-haunting-rap-songs-of-all-time-just-in-time-for-halloween-season/))
+**Armed conflicts and attacks**: 
+- Story 36: Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges (human rights abuses)
+- Story 60: Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush in new video game (maybe not armed conflict, but violence)
+- Story 44: Attentat raciste de Trappes (terrorist attack)
+- Story 7: Fuel Costs, Tariffs Erode Republicans' Edge in Farm Belt (not armed conflict)
+- Story 16: Chancellor wealthiest untouched (not armed conflict)
+- Story 23: Elke Sommer dies (not armed conflict)
+- Story 31: World of Warcraft trailer (not armed conflict)
 
-**Education and youth**
-• Social mobilizations in France saw Emmanuel Macron preside over defense council to prepare weekend demonstrations ([Le Monde](https://www.lemonde.fr/politique/article/2026/10-28/mobilisations-sociales-emmanuel-macron-a-preside-un-conseil-de-defense-pour-preparer-les-manifestations-du-week-end_6801580_823448.html))
+So only 36, 44, 60 maybe. But 60 is about video game using real footage of a crowd crush (which was a disaster). Might fit Disasters and accidents? The crowd crush was a disaster. But the story is about using footage in a game. Could be Armed conflicts and attacks? Not really. Maybe International relations.
 
-**Sports**
-• Football team Fleetwood Town celebrated unexpected fairytale victory over higher-tier opponent ([Guardian World](https://www.theguardian.com/football/2026/oct-28/this-isnt-supposed-to-happen-giant-slaying-fleetwood-revels-in-fairytale-win))
+Better to stick to the provided categories but adjust where obviously wrong. The user said "If a story fits multiple categories, choose the most relevant one." So I'll assign based on content.
+
+Let me create a mapping:
+
+**Politics and elections** (many):
+- 10: Democrats lead Texas and Michigan Senate races; turmoil in Alaska
+- 11: Iran receives letter from Vance
+- 12: Israel's choice: Netanyahu vs Palestinian-backed coalition
+- 13: Coalition talks loom in Israel as Netanyahu and Eisenkot blocs fall short
+- 14: Burnham denies preventing ministers from speaking about EU plans
+- 17: South Carolina Senate race tied
+- 18: GOP House Oversight Chair probes Democrats in Alaska Senate race
+- 33: The 'breathing space budget' (UK budget)
+- 34: Christine Lagarde steps down from ECB for freedom of speech
+- 37: Netanyahu bloc loses majority as most ballots counted (duplicate of 12/13?)
+- 40: Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA (space, but NASA is government)
+- 52: Caso Siher, togati del Csm chiedono apertura pratica a tutela gip Milano (Italian judiciary politics)
+- 53: Bce, Lagarde lascerà il 7 febbraio (ECB politics)
+- 54: Flávio Bolsonaro calls himself leader of Brazil after fleeing to Miami
+- 62: Fox News moves South Carolina Senate contest to toss-up
+- 67: Keynote speech by von der Leyen on EU-Canada relations
+
+**International relations** (many):
+- 4: New Report Teases Elder Scrolls VI (gaming, but maybe not IR)
+- 5: Study of 100,000 Australians seeks causes of mental health disorders and early onset cancer (health/science)
+- 6: Lawyers for Marist Brothers face questions over advice to keep serial offender out of legal arena (law/crime)
+- 8: Finland launches criminal investigation into Google's clearing of forest for datacentre site (environment/tech)
+- 9: NEC's Hassett sees Fed acting if October inflation data high (economy)
+- 15: Thailand whistleblower Yingcheep Atchanont vs electoral fraud (politics)
+- 19: Europe's rift over whether to pick up the phone to Putin (geopolitics)
+- 20: Downbeat UK forecasts raise chance of upside surprise for Healey (economy)
+- 22: Punk band guerrilla concert in Times Square ends in chaos (culture)
+- 24: Drake gets birthday surprise from Jim Carrey (culture)
+- 25: Nvidia CEO reportedly targeted by Chinese spy (tech/security)
+- 29: Police investigate gang links as woman dies after drive-by shooting in Brisbane (crime)
+- 32: EU backs away from offer to Canada to start associate member talks (diplomacy)
+- 35: Economic pain turns Nebraska into unexpected battleground (US politics/economy)
+- 38: Morocco's Donald J. Trump Highway in Western Sahara (geopolitics)
+- 39: Travelers ditching traditional vacations for skillcations (travel)
+- 41: Rare love letters to French aristocrat shed light on Louis XVI maritime mystery (history)
+- 43: Two Colorado college students found dead after missing during hike (crime)
+- 46: Netanyahu accuses Arab parties of electoral fraud and foreign funding (Israel politics)
+- 47: French prefectures ban identitarian colloquium on remigration (France politics)
+- 48: NASA accelerates plan to return to Moon by 2028 (space)
+- 49: Mexico relieved by Lula's reelection in Brazil (diplomacy)
+- 50: Corto Maltese new graphic novel (culture)
+- 51: Anti-Trump super-rich cruise blocked in Cambodia due to fuel costs/war in Iran (geopolitics/travel)
+- 55: Christine Lagarde wants freedom of speech after announcing departure from ECB (economy)
+- 56: Sugar and plastic tax, seven years of delays (Italy economy/politics)
+- 57: Mothers of high school students protest violence against their children (Italy social)
+- 58: Serbia, Vucic system crumbling, judges under scrutiny (Serbia politics)
+- 59: Rent, less taxes for those renting to shops, youth, agreed rent (Italy economy)
+- 63: In Africa, masculinists gaining ground (social)
+- 64: Strikes October 30, Italy stops (labor)
+- 66: Cornell faculty no-confidence vote in handling of gang-rape case (education/crime)
+- 68: Hello Kitty company cuts ties with Japanese spy show after China outcry (business/culture)
+
+**Business and economy**:
+- 1: Women astronauts outnumber men in NASA's new class (space/employment)
+- 2: Eight of England's nine water companies still failing on environment (utilities/environment)
+- 3: TechCrunch Founder Summit speakers (tech business)
+- 21: Efficacy and safety of mitapivat in sickle cell disease (pharma/health)
+- 27: Public health challenges of children's digital media use (health/tech)
+- 28: Ina Garten pie recipes (lifestyle)
+- 30: DoorDash to buy Instacart for $17bn (business)
+- 61: Vaccination of pregnant mares with mRNA (vet science)
+- 65: AI agents managing fantasy soccer team (tech)
+
+**Disasters and accidents**:
+- 42: Spain train crash investigation
+- 45: Spain railway catastrophe Urda (same as 42? Probably same event)
+- 29: Drive-by shooting in Brisbane (crime, not disaster)
+- 44: Racist attack in Trappes (terrorism, armed conflict)
+
+**Law and crime**:
+- 26: Union plea to save Poundland from administration (business law)
+- 6: Marist Brothers lawyers (law)
+- 29: Drive-by shooting (crime)
+- 43: Colorado students found dead (crime)
+- 44: Trappes attack (terrorism)
+- 66: Cornell gang-rape case (crime)
+
+**Armed conflicts and attacks**:
+- 36: Cambodian police guarding scam compounds (human rights abuses)
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
