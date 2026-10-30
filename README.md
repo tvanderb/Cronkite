@@ -8,195 +8,155 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[October 29, 2026](reports/2026-10-29.md)**
+**[October 30, 2026](reports/2026-10-30.md)**
 
-*Last updated: 2026-10-29 17:24 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-10-30 17:01 UTC · Generated daily at 6:05 AM EST*
 
 ```
-The user wants me to create a daily news report in the style of Legible News, grouping stories by category, with each story as a single bullet point with headline, key details, and source citations. I need to merge duplicate stories, use clean journalistic language, include hyperlinks, and aim for 45-65 total stories.
+The user wants me to create a daily news report in the style of Legible News, grouping stories by category, with each story as a single bullet point with headline, key details, and source citations. I need to follow the format requirements carefully.
 
-First, I need to analyze the provided stories and group them by category. The categories mentioned in the data are: Business and economy, International relations, Armed conflicts and attacks, Politics and elections, Law and crime, Disasters and accidents. Also there are some that might not fit neatly.
+First, let me analyze the stories and categorize them properly. The categories mentioned in the data are:
+- Business and economy
+- International relations
+- Armed conflicts and attacks
+- Politics and elections
+- Law and crime
+- Disasters and accidents
 
-Let me list all stories with their categories:
+I need to group by these categories. Some stories might fit multiple categories - I should choose the most relevant one.
 
-1. Women astronauts outnumber men in NASA’s new class — Business and economy
-2. Eight of England’s nine water companies still failing on environment — Business and economy
-3. Who will you learn from in 6 days at TechCrunch Founder Summit? — Business and economy
-4. New Report Teases Elder Scrolls VI Name and Reveal Window — International relations (but seems more entertainment/gaming)
-5. Study of 100,000 Australians seeks causes of mental health disorders and early onset cancer — International relations (health/science)
-6. Lawyers for Marist Brothers face questions over advice to keep serial offender out of ‘legal arena’ — International relations (law/crime)
-7. Fuel Costs, Tariffs Erode Republicans' Edge in Farm Belt — Armed conflicts and attacks (but seems politics/economy)
-8. Finland launches criminal investigation into Google’s clearing of forest for datacentre site — International relations
-9. NEC's Hassett Sees Fed Acting If October Inflation Data High — International relations (economy)
-10. Democrats lead Texas and Michigan Senate races, poll shows; turmoil in Alaska amid campaign investigation — Politics and elections
-11. Iran Receives Letter From Vance, Though No Word on Likely Reply — Politics and elections
-12. Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition — Politics and elections
-13. Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority — Politics and elections
-14. Burnham denies preventing ministers from speaking about plans for closer relationship with EU — Politics and elections
-15. En Thaïlande, le combat solitaire du lanceur d’alerte Yingcheep Atchanont contre la fraude électorale — International relations
-16. ‘Why has the Chancellor left the wealthiest untouched?’ — Armed conflicts and attacks (but seems UK politics/economy)
-17. Senate race in once reliably Republican South Carolina tied in final stretch — Politics and elections
-18. GOP House Oversight Chair Probes Democrats in Alaska Senate Race — Politics and elections
-19. Pragmatic or pointless? Europe’s rift over whether to pick up the phone to Putin — International relations
-20. Downbeat UK Forecasts Raise Chance of Upside Surprise for Healey — International relations (economy)
-21. Efficacy and safety of mitapivat in patients with sickle cell disease — Business and economy (health/science)
-22. Punk Band’s Guerrilla Concert in Times Square Ends in Chaos as NYPD Shuts It Down — International relations (culture)
-23. Elke Sommer, prolific German star... dies aged 85 — Armed conflicts and attacks (but culture/obituary)
-24. Drake Gets Unexpected Birthday Surprise... — International relations (culture)
-25. Nvidia CEO reportedly targeted by Chinese spy — Politics and elections (tech/security)
-26. Union in plea to save Poundland from administration, with 12,000 jobs at risk — Law and crime (business)
-27. The public health challenges of children's and adolescents’ digital media use — Business and economy (health)
-28. I made Ina Garten's apple, pumpkin, and pecan pies... — Business and economy (lifestyle)
-29. Police investigate gang links as woman, 19, dies after drive-by shooting at Logan pub — International relations (crime)
-30. DoorDash to buy Instacart for $17bn in major grocery delivery consolidation — Business and economy
-31. World of Warcraft: Forever Launch Trailer... — Armed conflicts and attacks (gaming)
-32. EU backs away from offer to Canada to start ‘associate member’ talks — International relations
-33. The ‘breathing space budget’ — Politics and elections
-34. Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’ — Politics and elections
-35. Economic Pain Turns Nebraska Into Unexpected Battleground — International relations (politics/economy)
-36. Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges — Armed conflicts and attacks (human rights)
-37. Netanyahu bloc loses majority as most ballots counted — Politics and elections
-38. Au Maroc, le long de la « Donald J. Trump Highway »... — International relations
-39. Travelers Are Ditching Traditional Vacations for ‘Skillcations.’ — International relations (travel)
-40. Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA — Politics and elections (space)
-41. Rare love letters to French aristocrat shed light on Louis XVI maritime mystery — International relations (history)
-42. How did the Spain train crash happen and what will investigators be asking? — Disasters and accidents
-43. Two Colorado college students found dead after going missing during hike — International relations (crime)
-44. Attentat raciste de Trappes... — International relations (terrorism/crime)
-45. En Espagne, la catastrophe ferroviaire d’Urda... — Disasters and accidents
-46. En Israël, Benyamin Netanyahou accuse les partis arabes de fraude électorale... — International relations (politics)
-47. Présidentielle 2027 : les préfectures de Paris et des Hauts-de-Seine interdisent le colloque sur la « remigration » — International relations (politics)
-48. La NASA accélère son plan de vol pour retourner sur la Lune dès 2028... — International relations (space)
-49. Le Mexique soulagé de la réélection de Lula au Brésil — International relations (politics)
-50. È ancora Corto Maltese... — International relations (culture)
-51. La crociera dei super ricchi anti-Trump bloccata per il caro carburanti... — International relations (travel/politics)
-52. Caso Siher, i togati del Csm... — Politics and elections (Italy judiciary)
-53. Bce, Lagarde lascerà il 7 febbraio... — Politics and elections (economy)
-54. Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami — Politics and elections
-55. « Je veux avoir la liberté de parole », dit Christine Lagarde... — International relations (economy)
-56. Sugar e Plastic tax, sette anni di rinvii... — International relations (politics/economy)
-57. Le madri dei liceali: "Anche noi in piazza contro la violenza sui nostri figli" — International relations (social)
-58. Serbia, il sistema Vucic si sgretola... — International relations (politics)
-59. Affitti, meno tasse per chi loca a negozi, giovani e a canone concordato... — International relations (economy/housing)
-60. Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush... — Armed conflicts and attacks (gaming/culture)
-61. Vaccination of pregnant mares with mRNA... — Business and economy (science)
-62. Fox News Moves South Carolina Senate Contest to Toss-Up in New Rating — Politics and elections
-63. En Afrique, les masculinistes ont le vent en poupe... — International relations (social)
-64. Scioperi del 30 ottobre, l’Italia si ferma... — International relations (labor/strikes)
-65. I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team... — Business and economy (tech)
-66. Cornell faculty press ahead with no-confidence vote in handling of gang-rape case — International relations (education/crime)
-67. Keynote speech by President von der Leyen on EU-Canada relations... — Politics and elections
-68. Hello Kitty company cuts ties with Japanese spy show after China outcry — International relations (business/culture)
+Let me go through each story and assign the best category:
 
-Now I need to group by category. The categories I see in the data: 
-- Armed conflicts and attacks (7, 16, 23, 31, 36, 60)
-- Disasters and accidents (42, 45)
-- Politics and elections (10, 11, 12, 13, 14, 17, 18, 33, 34, 37, 40, 52, 53, 54, 62, 67)
-- Law and crime (26)
-- International relations (4,5,6,8,9,15,19,20,22,24,25,29,32,35,38,39,41,43,44,46,47,48,49,50,51,55,56,57,58,59,63,64,66,68)
-- Business and economy (1,2,3,21,27,28,30,61,65)
+1. "Elizabeth Holmes' baritone was mocked for years. But research shows CEOs with deeper voices run bigger companies and earn $187,000 more" - Business and economy
+2. "Trump slammed Biden-Harris for the 'war on energy' during his 2024 campaign. Now he's rolling back Biden-era regulations as gas sits above $4 a gallon" - Business and economy (energy policy)
+3. "Data Center Debate on the Ballot in 13 States" - International relations? Actually this seems like domestic US politics/tech policy. Could be Politics and elections or Business and economy. Given it's on the ballot, Politics and elections.
+4. "Wolfgang Van Halen's Band Parts Ways With Longtime Member After Five Years, Announces Replacement" - This is entertainment/culture, not in our categories. Might not fit well. Could be International relations? No. Probably should exclude or put in International relations as culture? But Legible News might not cover entertainment. I'll skip or put in International relations if forced.
+5. "The Terrifying Secret Ghost Stories of U.S. Military Folklore" - Armed conflicts and attacks? It's about military folklore, not actual conflict. Might be International relations? But category given is Armed conflicts and attacks. I'll keep as Armed conflicts and attacks.
+6. "FDA again bypasses advisers to remove black-box warnings from menopause treatments" - This is health policy. Category given is Armed conflicts and attacks? That seems wrong. Probably Business and economy (pharma) or Politics and elections (regulation). I'll put in Business and economy.
+7. "Intel Plunges After Outlook Hit by PC Slump, Supply" - Business and economy
+8. "Pope Leo votes in US midterms in first known political ballot for any pontiff" - Politics and elections
+9. "Norway Turns Trump's Toilet Insults Into a Tourist Ploy" - Politics and elections (international relations/politics)
+10. "Police watchdog to investigate Met's handling of Meghan warning letter" - Law and crime (police investigation)
+11. "North Korea is likely culprit behind $6.3bn crypto hack, 'largest heist in history'" - Business and economy (crypto hack) or Armed conflicts and attacks (state-sponsored hack). Category given is Business and economy. I'll keep Business and economy.
+12. "BP profits hit 'obscene' 18-year high as Iran war drives up oil refining margins" - Business and economy (but also Armed conflicts and attacks due to Iran war). Category given is Armed conflicts and attacks. I'll put in Armed conflicts and attacks since it's driven by conflict.
+13. "The Only Two Dungeons and Dragons Classes Not Featured in the World of Warcraft Expansion" - Gaming/culture. Category given Armed conflicts and attacks? That's weird. Probably International relations? I'll skip or put in International relations.
+14. "How do we make new economic ideas a reality? – Aditya Chakrabortty answered your questions" - Business and economy / Politics and elections. Category given Politics and elections.
+15. "New Zelda Ocarina of Time Remake Gameplay Shows Exploration and Hookshot Changes" - Gaming. Category International relations. Skip.
+16. "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?" - Armed conflicts and attacks / Politics and elections. Category given Armed conflicts and attacks.
+17. "« Les Disparus des Argonnes », sur France.tv : la colère d'une mère contre la Grande Muette" - French military documentary. Category International relations. Could be Armed conflicts and attacks. I'll put in Armed conflicts and attacks.
+18. "A McDonald's Bag Full of Cash: Nelly Reveals How Taylor Swift Paid Him $50,000" - Entertainment. Category International relations. Skip.
+19. "Ghost in the Shell Shock—This Week On VICE: Members Only" - Entertainment. Skip.
+20. "Lethal and sublethal influence of triflumezopyrim on life history traits and enzyme activities in the bean bug..." - Academic study. Category Business and economy? Actually it's science/agriculture. Might not fit. Skip.
+21. "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?" - Personal finance. Business and economy.
+22. "'Amateur morons': Flávio Bolsonaro's short-lived 'president-elect' claim met with mockery" - Politics and elections (Brazil)
+23. "Son in custody after Oberlin professor dad and stepmother shot dead in Ohio" - Law and crime / Armed conflicts and attacks? Category given Armed conflicts and attacks. It's a domestic shooting. Could be Law and crime. I'll put in Law and crime.
+24. "Russia, chiude Novaja Gazeta: 'Ci hanno uccisi'. Cala il silenzio sull'ultimo giornale d'opposizione" - International relations (Russia press freedom). Category International relations.
+25. "Perfume bottle and child's necklace among treasures found in Pompeii wardrobe" - Archaeology. Category Armed conflicts and attacks? No. International relations? No. Skip.
+26. "3 Classic Grunge Bands You Probably Forgot About" - Entertainment. Skip.
+27. "Feral deer will become Australia's next feral pig problem without prompt action, report warns" - Environment. Category Armed conflicts and attacks? No. Disasters and accidents? Maybe. But category given Armed conflicts and attacks. I'll put in Disasters and accidents? Actually it's ecological issue. Might not fit. Could be Business and economy (agriculture). I'll put in Disasters and accidents as environmental disaster.
+28. "Cost of living protests to spread to Germany and reignite in France on Halloween" - Politics and elections / Disasters and accidents? Category given Disasters and accidents. It's protests, so Politics and elections.
+29. "Man who ran over cyclist and dragged him under car for a mile convicted of murder" - Law and crime. Category Disasters and accidents. I'll put in Law and crime.
+30. "Budget 2027 : les députés votent de nouvelles taxes sur les grandes entreprises et adoptent le « pacte Papin »" - Politics and elections (France budget). Category International relations. I'll put in Politics and elections.
+31. "Eminem Targeted in New Alleged Stalking Incident as Woman Faces $250,000 Bond" - Law and crime. Category Law and crime.
+32. "The Surprisingly Dark History Behind Halloween's Trick-or-Treating Tradition" - Culture/history. Category International relations. Skip.
+33. "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job" - International relations / Politics and elections. Category Armed conflicts and attacks. I'll put in International relations.
+34. "Erin Patterson to die in prison after losing appeal against mushroom murder convictions" - Law and crime. Category Law and crime.
+35. "Beijing Queer film festival cancelled after harassment from authorities" - International relations (China human rights). Category International relations.
+36. "EN DIRECT, midterms 2026 : « Une victoire démocrate à la Chambre des représentants, voire au Sénat, représenterait une forme de rééquilibrage des pouvoirs »" - Politics and elections (US midterms). Category International relations. I'll put in Politics and elections.
+37. "En Chine, les purges sans fin de Xi Jinping révèlent sa frustration vis-à-vis du Parti communiste" - International relations (China politics). Category International relations.
+38. "En Bulgarie, sur les bords de la mer Noire, les attaques de drones s'invitent dans la campagne présidentielle" - Armed conflicts and attacks / Politics and elections. Category International relations. I'll put in Armed conflicts and attacks (drone attacks).
+39. "Pourquoi la thèse d'une « surproduction d'élites » passe à côté de la colère des jeunes" - Opinion/analysis. Category International relations. Skip.
+40. "EN DIRECT, guerre en Ukraine : la mission humanitaire est terminée à Olechky, selon la commissaire aux droits de l'homme russe" - Armed conflicts and attacks (Ukraine war). Category International relations. I'll put in Armed conflicts and attacks.
+41. "Accès des jeunes aux réseaux sociaux : la Commission européenne veut geler les nouvelles lois nationales, afin de négocier des règles communes à toute l'UE" - Politics and elections / International relations (EU regulation). Category International relations. I'll put in Politics and elections.
+42. "Au FC Nantes, l'échec de la vente du club prolonge la présidence contestée de Waldemar Kita" - Sports. Category International relations. Skip.
+43. "« Novaïa Gazeta » : le comité Nobel appelle la Russie « à mettre fin à la répression »" - International relations (press freedom). Category International relations.
+44. "Chivu verso il derby: 'Voglio un'Inter più provinciale, non si può essere sempre belli'" - Sports. Skip.
+45. "Le prime parole pubbliche di Christa Pike dopo la fallita esecuzione: 'Provo un dolore costante'" - Law and crime (death row). Category International relations. I'll put in Law and crime.
+46. "Conte: Con Renzi in coalizione non manderemo a casa Meloni. La premier: Vannacci vuole farci perdere" - Politics and elections (Italy). Category Politics and elections.
+47. "Netanyahu accused of smearing Arab voters to hold on to power" - Politics and elections (Israel). Category Politics and elections.
+48. "Severe rainfall and flood warnings issued for central Greece and western Turkey" - Disasters and accidents. Category Armed conflicts and attacks. I'll put in Disasters and accidents.
+49. "Former Sydney childcare worker Ashley Paul Griffith hit with 202 more abuse charges" - Law and crime. Category International relations. I'll put in Law and crime.
+50. "Leone XIV ha votato per corrispondenza alle elezioni di metà mandato negli Usa: 'Diritto e dovere'" - Politics and elections (Pope voting). Duplicate of story 8? Same event. Merge.
+51. "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg" - Business and economy / Environment. Category Business and economy.
+52. "Alvini, chi è il tecnico che stupisce la serie A e guadagnava 700mila lire al mese" - Sports. Skip.
+53. "Brazil's victory for the planet and democracy: seven lessons from Lula's win" - Politics and elections (Brazil). Category Politics and elections.
+54. "China expels a record number from Communist party amid Xi's intensified purges of top officials" - International relations (China politics). Category International relations.
+55. "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song" - Politics and elections / Entertainment. Category Politics and elections.
+56. "Sam Wood to remain in custody after another failed bail bid over domestic violence charges" - Law and crime. Category Law and crime.
+57. "Hong Kong's leader apologises for residential fire that killed 168 people" - Disasters and accidents / Politics and elections. Category Politics and elections. I'll put in Disasters and accidents.
+58. "El Niño-driven drought in Papua New Guinea a 'national crisis' as rivers dry up and local farms fail" - Disasters and accidents / Business and economy. Category Business and economy. I'll put in Disasters and accidents.
 
-But some categorizations seem off. For example, story 7 "Fuel Costs, Tariffs Erode Republicans' Edge in Farm Belt" is categorized as Armed conflicts and attacks but is clearly politics/economy. Story 16 "Why has the Chancellor left the wealthiest untouched?" is Armed conflicts and attacks but is UK budget politics. Story 23 Elke Sommer obituary is Armed conflicts and attacks but is culture. Story 31 World of Warcraft trailer is Armed conflicts and attacks but gaming. Story 36 Cambodian police scam compounds is Armed conflicts and attacks but human rights/crime. Story 60 Call of Duty using Seoul crowd crush footage is Armed conflicts and attacks but gaming/culture.
+Now I need to select the most significant stories, about 45-65 total. I have 58 stories after filtering out entertainment/sports/academic. Some are duplicates (Pope voting). I'll merge duplicates.
 
-I should re-categorize based on actual content. The user said "Group stories by category (Armed conflicts and attacks, Disasters and accidents, Politics and elections, Law and crime, etc.)". So I should use those categories and assign appropriately.
+Let me list by category with the most significant:
 
-Let me re-categorize:
+**Armed conflicts and attacks:**
+- Ukraine war: humanitarian mission ends at Olechky (Le Monde)
+- Israel dilemma: opposition govern with Palestinian parties (Guardian)
+- Drone attacks in Bulgaria presidential campaign (Le Monde)
+- French military documentary "Les Disparus des Argonnes" (Le Monde)
+- BP profits driven by Iran war (Guardian)
+- North Korea crypto hack $6.3bn (Guardian) - but categorized as Business and economy originally. I'll keep in Business and economy.
+- Severe rainfall/flood warnings Greece/Turkey (Guardian) - actually Disasters and accidents.
+- Feral deer Australia (Guardian) - Disasters and accidents.
+- Perfume bottle Pompeii (Guardian) - skip.
+- Son in custody after Oberlin shooting (Guardian) - Law and crime.
+- Sudanese diaspora denounce UAE nominee (Guardian) - International relations.
+- Beijing Queer film festival cancelled (Guardian) - International relations.
+- Russia closes Novaya Gazeta (La Repubblica, Le Monde) - International relations.
+- China expels record number from Communist Party (Guardian) - International relations.
+- China purges (Le Monde) - International relations.
+- Hong Kong fire apology (Guardian) - Disasters and accidents.
 
-**Armed conflicts and attacks**: 
-- Story 36: Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges (human rights abuses)
-- Story 60: Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush in new video game (maybe not armed conflict, but violence)
-- Story 44: Attentat raciste de Trappes (terrorist attack)
-- Story 7: Fuel Costs, Tariffs Erode Republicans' Edge in Farm Belt (not armed conflict)
-- Story 16: Chancellor wealthiest untouched (not armed conflict)
-- Story 23: Elke Sommer dies (not armed conflict)
-- Story 31: World of Warcraft trailer (not armed conflict)
+I need to decide which category each belongs to. Let me re-categorize based on the actual content, not the given category.
 
-So only 36, 44, 60 maybe. But 60 is about video game using real footage of a crowd crush (which was a disaster). Might fit Disasters and accidents? The crowd crush was a disaster. But the story is about using footage in a game. Could be Armed conflicts and attacks? Not really. Maybe International relations.
+Better approach: Use the given categories but adjust where clearly wrong. The user said "Group stories by category (Armed conflicts and attacks, Disasters and accidents, Politics and elections, Law and crime, etc.)" - the categories are predefined. The data includes a "category" field for each story. I should use those categories, but the user also said "If a story fits multiple categories, choose the most relevant one." So I can override the given category if it's clearly wrong.
 
-Better to stick to the provided categories but adjust where obviously wrong. The user said "If a story fits multiple categories, choose the most relevant one." So I'll assign based on content.
+Let me use the given categories but fix obvious mismatches.
 
-Let me create a mapping:
+Given categories in data:
+- Business and economy: stories 1,2,7,11,20,21,30?,51,58
+- International relations: 3,4,5,9,13,16?,17,18,19,24,25?,26,27?,31?,32,33?,35,36,37,38,39,40,41,42,43,44,45?,46?,47?,48?,49,50,52,53?,54,55?,56?,57?,58?
+- Armed conflicts and attacks: 5,6,12,15,22?,23,27,28?,33,40?,48
+- Politics and elections: 8,10?,14,22,29?,30,36,46,47,53,55
+- Law and crime: 10,23?,29,31,34,45,49,56
+- Disasters and accidents: 27?,28,48,57
 
-**Politics and elections** (many):
-- 10: Democrats lead Texas and Michigan Senate races; turmoil in Alaska
-- 11: Iran receives letter from Vance
-- 12: Israel's choice: Netanyahu vs Palestinian-backed coalition
-- 13: Coalition talks loom in Israel as Netanyahu and Eisenkot blocs fall short
-- 14: Burnham denies preventing ministers from speaking about EU plans
-- 17: South Carolina Senate race tied
-- 18: GOP House Oversight Chair probes Democrats in Alaska Senate race
-- 33: The 'breathing space budget' (UK budget)
-- 34: Christine Lagarde steps down from ECB for freedom of speech
-- 37: Netanyahu bloc loses majority as most ballots counted (duplicate of 12/13?)
-- 40: Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA (space, but NASA is government)
-- 52: Caso Siher, togati del Csm chiedono apertura pratica a tutela gip Milano (Italian judiciary politics)
-- 53: Bce, Lagarde lascerà il 7 febbraio (ECB politics)
-- 54: Flávio Bolsonaro calls himself leader of Brazil after fleeing to Miami
-- 62: Fox News moves South Carolina Senate contest to toss-up
-- 67: Keynote speech by von der Leyen on EU-Canada relations
+This is messy. Many stories have wrong categories. I'll assign based on content.
 
-**International relations** (many):
-- 4: New Report Teases Elder Scrolls VI (gaming, but maybe not IR)
-- 5: Study of 100,000 Australians seeks causes of mental health disorders and early onset cancer (health/science)
-- 6: Lawyers for Marist Brothers face questions over advice to keep serial offender out of legal arena (law/crime)
-- 8: Finland launches criminal investigation into Google's clearing of forest for datacentre site (environment/tech)
-- 9: NEC's Hassett sees Fed acting if October inflation data high (economy)
-- 15: Thailand whistleblower Yingcheep Atchanont vs electoral fraud (politics)
-- 19: Europe's rift over whether to pick up the phone to Putin (geopolitics)
-- 20: Downbeat UK forecasts raise chance of upside surprise for Healey (economy)
-- 22: Punk band guerrilla concert in Times Square ends in chaos (culture)
-- 24: Drake gets birthday surprise from Jim Carrey (culture)
-- 25: Nvidia CEO reportedly targeted by Chinese spy (tech/security)
-- 29: Police investigate gang links as woman dies after drive-by shooting in Brisbane (crime)
-- 32: EU backs away from offer to Canada to start associate member talks (diplomacy)
-- 35: Economic pain turns Nebraska into unexpected battleground (US politics/economy)
-- 38: Morocco's Donald J. Trump Highway in Western Sahara (geopolitics)
-- 39: Travelers ditching traditional vacations for skillcations (travel)
-- 41: Rare love letters to French aristocrat shed light on Louis XVI maritime mystery (history)
-- 43: Two Colorado college students found dead after missing during hike (crime)
-- 46: Netanyahu accuses Arab parties of electoral fraud and foreign funding (Israel politics)
-- 47: French prefectures ban identitarian colloquium on remigration (France politics)
-- 48: NASA accelerates plan to return to Moon by 2028 (space)
-- 49: Mexico relieved by Lula's reelection in Brazil (diplomacy)
-- 50: Corto Maltese new graphic novel (culture)
-- 51: Anti-Trump super-rich cruise blocked in Cambodia due to fuel costs/war in Iran (geopolitics/travel)
-- 55: Christine Lagarde wants freedom of speech after announcing departure from ECB (economy)
-- 56: Sugar and plastic tax, seven years of delays (Italy economy/politics)
-- 57: Mothers of high school students protest violence against their children (Italy social)
-- 58: Serbia, Vucic system crumbling, judges under scrutiny (Serbia politics)
-- 59: Rent, less taxes for those renting to shops, youth, agreed rent (Italy economy)
-- 63: In Africa, masculinists gaining ground (social)
-- 64: Strikes October 30, Italy stops (labor)
-- 66: Cornell faculty no-confidence vote in handling of gang-rape case (education/crime)
-- 68: Hello Kitty company cuts ties with Japanese spy show after China outcry (business/culture)
+Let me create a clean categorization:
 
-**Business and economy**:
-- 1: Women astronauts outnumber men in NASA's new class (space/employment)
-- 2: Eight of England's nine water companies still failing on environment (utilities/environment)
-- 3: TechCrunch Founder Summit speakers (tech business)
-- 21: Efficacy and safety of mitapivat in sickle cell disease (pharma/health)
-- 27: Public health challenges of children's digital media use (health/tech)
-- 28: Ina Garten pie recipes (lifestyle)
-- 30: DoorDash to buy Instacart for $17bn (business)
-- 61: Vaccination of pregnant mares with mRNA (vet science)
-- 65: AI agents managing fantasy soccer team (tech)
-
-**Disasters and accidents**:
-- 42: Spain train crash investigation
-- 45: Spain railway catastrophe Urda (same as 42? Probably same event)
-- 29: Drive-by shooting in Brisbane (crime, not disaster)
-- 44: Racist attack in Trappes (terrorism, armed conflict)
-
-**Law and crime**:
-- 26: Union plea to save Poundland from administration (business law)
-- 6: Marist Brothers lawyers (law)
-- 29: Drive-by shooting (crime)
-- 43: Colorado students found dead (crime)
-- 44: Trappes attack (terrorism)
-- 66: Cornell gang-rape case (crime)
-
-**Armed conflicts and attacks**:
-- 36: Cambodian police guarding scam compounds (human rights abuses)
+**Armed conflicts and attacks:**
+1. Ukraine war: humanitarian mission ends at Olechky (Le Monde)
+2. Israel: Netanyahu accused of smearing Arab voters (Guardian) - actually politics
+3. Israel dilemma: opposition govern with Palestinian parties (Guardian) - politics/armed conflict
+4. Drone attacks in Bulgaria presidential campaign (Le Monde) - armed conflict
+5. French military documentary "Les Disparus des Argonnes" (Le Monde) - armed conflict
+6. BP profits driven by Iran war (Guardian) - business/armed conflict
+7. Severe rainfall/flood warnings Greece/Turkey (Guardian) - disasters
+8. Sudanese diaspora denounce UAE nominee for UN job (Guardian) - international relations
+9. Beijing Queer film festival cancelled (Guardian) - international relations
+10. Russia closes Novaya Gazeta (La Repubblica, Le Monde) - international relations
+11. China expels record number from Communist Party (Guardian) - international relations
+12. China purges (Le Monde) - international relations
+13. Hong Kong fire kills 168, leader apologizes (Guardian) - disasters
+14. El Niño drought Papua New Guinea (Guardian) - disasters
+15. Feral deer Australia (Guardian) - environment/disasters
+16. North Korea crypto hack $6.3bn (Guardian) - business/cyber warfare
+17. Son in custody after Oberlin shooting (Guardian) - law and crime
+18. Perfume bottle Pompeii (Guardian) - skip
+19. Cost of living protests Germany/France (Guardian) - politics
+20. Cyclist murder conviction (Guardian) - law and crime
+21. Budget 2027 France (Le Monde) - politics
+22. Eminem stalking (Vice) - law and crime
+23. Erin Patterson mushroom murder appeal (Guardian) - law and crime
+24. Beijing Queer film festival cancelled (Guardian) - international relations
+25. US midterms live (Le Monde) - politics
+26. Pope Leo votes in US midterms (Guardian, La Repubblica) - politics
+27. Norway turns Trump insults to tourist ploy (Bloomberg) - politics
+28. Flávio Bolsonaro president-elect claim (Guardian) - politics
+29. Brazil Lula win lessons (Guardian) - politics
+30. Bryan Adams trolls Trump (Guardian) - politics
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
