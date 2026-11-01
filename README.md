@@ -8,296 +8,277 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[October 31, 2026](reports/2026-10-31.md)**
+**[November 1, 2026](reports/2026-11-01.md)**
 
-*Last updated: 2026-10-31 16:02 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-11-01 17:07 UTC · Generated daily at 6:05 AM EST*
 
 ```
 The user wants me to create a daily news report in the style of Legible News. I need to:
 
 1. Group stories by category
-2. Each story as a single bullet point with headline, key details, source citations
+2. Each story as a single bullet point with headline, key details, source citation
 3. Merge duplicate stories from multiple sources
-4. Use clean, factual, neutral language
-5. Include hyperlinks
-6. Focus on most significant/recent stories
-7. Mix of sources and regions
-8. 45-65 total stories
-9. Start with today's date (which appears to be October 31, 2026 based on the articles)
+4. Choose most relevant category for each story
+5. Use clean, factual, neutral language
+6. Include hyperlinks from provided URLs
+7. Focus on most significant/recent stories
+8. Mix of sources and regions
+9. 45-65 total stories
+10. Start with today's date (which appears to be November 1, 2026 based on the article dates)
 
 Let me first organize the stories by category and identify duplicates/related stories.
 
-Looking at the data, I see many categories. Let me map them:
+Looking at the data, I see many stories from Guardian, Bloomberg, Le Monde, etc. Let me categorize them properly.
 
-Categories mentioned:
-- Armed conflicts and attacks
-- Politics and elections
-- International relations
-- Business and economy
-- Law and crime
-- Disasters and accidents
-- (some have "International relations" as category but might fit elsewhere)
+First, let me list all stories with their categories from the data:
 
-I need to group by the categories provided in the data, but also consolidate similar stories.
+1. Michael Dell story - Business and economy (Fortune)
+2. Stellantis AI push - Business and economy (Fortune)
+3. AI Concerns in midterm campaigns - Politics and elections (Bloomberg)
+4. Traders on Kalshi/Polymarket in Maine - Politics and elections (Bloomberg)
+5. Iran's Long Game complicates Trump war plans - Armed conflicts and attacks (Bloomberg)
+6. Petrol bomb thrown at French riot police - Armed conflicts and attacks (Guardian)
+7. UK statement at UN Security Council - Politics and elections (Gov.uk)
+8. Tens of thousands protest against Modi in Delhi - Politics and elections (Guardian)
+9. Michael Mann shoots himself - Disasters and accidents (Guardian)
+10. Rep. DeLauro on cost of living - Armed conflicts and attacks (Bloomberg) - wait, this is categorized as Armed conflicts but seems like Politics
+11. Superior Frontal Gyrus study - Business and economy (bioRxiv) - this seems like science/health
+12. Welsh health board closing urgent care - International relations (Guardian) - should be Health
+13. GTA 6 fans missing work - Business and economy (MarketWatch)
+14. Former NSW Liberal overhaul One Nation - Politics and elections (Guardian)
+15. Trump banks on rallies - Armed conflicts and attacks (Bloomberg) - should be Politics
+16. Five teenagers hurt in stabbing Hampshire - International relations (Guardian) - should be Crime/Law
+17. Multiple shootings in Dallas - International relations (Guardian) - should be Armed conflicts
+18. Kanye West challenged Paul McCartney - International relations (Vice) - should be Culture/Arts
+19. Quit dream job at 27 - Business and economy (Business Insider)
+20. Airline hack Iceland stopover - Business and economy (Business Insider)
+21. Binance resumes withdrawals after $6.3bn hack - Business and economy (Guardian)
+22. Cambridge scientist died in Spain train crash - Armed conflicts and attacks (Guardian) - should be Disasters
+23. Rightwing racism stirs South Asian mobilization in Texas - Politics and elections (Guardian)
+24. Fortnite Pirate Shop Token - Armed conflicts and attacks (Vice) - should be Gaming/Tech
+25. Texas data center divides Trump camp - International relations (Le Monde)
+26. Digital inheritance after death - International relations (La Repubblica)
+27. EU joint statement on crimes against journalists - Politics and elections (EU Newsroom)
+28. Home values fall in Australia - Armed conflicts and attacks (Guardian) - should be Business/Economy
+29. NT water plan condemned - Armed conflicts and attacks (Guardian) - should be Environment
+30. William Nordhaus dies at 85 - International relations (Le Monde) - should be Obituaries/Science
+31. My Chemical Romance reunion - International relations (Vice) - should be Culture/Arts
+32. Tusk defends Poland constitutional court overhaul - Law and crime (Guardian)
+33. Shooting outside Magic City Classic in Alabama - International relations (Guardian) - should be Armed conflicts
+34. "Guerre hybride" expression - International relations (Le Monde)
+35. Manifestations Oct 31 - investigation for attempted homicide after Molotov cocktail - Armed conflicts and attacks (Le Monde)
+36. South Korea seniors using AI dolls - International relations (Le Monde) - should be Society/Tech
+37. French administration confronts antisemitic past - International relations (Le Monde)
+38. François Guillemot interview - International relations (Le Monde)
+39. Lucie family secret - International relations (Le Monde)
+40. Manifestations in Germany - International relations (Le Monde)
+41. Psychologist on happiest couples - Business and economy (CNBC)
+42. Jacinda Ardern in Sydney - Business and economy (Guardian)
+43. UK Defence Minister stockpiling food - International relations (La Repubblica)
+44. Vannacci donations - International relations (La Repubblica)
+45. France indecisive before 2027 presidential - International relations (Le Monde)
+46. Lio singer interview - International relations (Le Monde)
+47. Asylum seekers sent to France under "one in one out" - Politics and elections (Guardian)
 
-Let me go through each story and categorize properly, merging duplicates.
+Many of these categories seem misassigned in the original data. I need to re-categorize them properly for a news report. Legible News likely uses standard categories like:
+- World / International
+- Politics
+- Business / Economy
+- Technology
+- Science / Health
+- Culture / Arts
+- Sports
+- etc.
 
-First, let me identify duplicate/related stories:
+But the user said to group by category using the categories provided (Armed conflicts and attacks, Disasters and accidents, Politics and elections, Law and crime, etc.). However, many stories are miscategorized. I should use the categories as they make sense for a news report, not necessarily the provided category field which seems noisy.
 
-1. **Maurene Comey ruling** - Guardian World, Armed conflicts and attacks (but seems more like Law/Politics)
-2. **UK statement at UN Security Council** - GOV.UK, Politics and elections
-3. **Ads accusing Republican candidates of protecting Epstein** - Guardian World, International relations (but US politics)
-4. **AI Backlash Uniting Voters** - Bloomberg, International relations (but US politics/tech)
-5. **Protests in Germany and France** - Guardian World, Armed conflicts and attacks (but protests)
-6. **Trump beware: US voters concerned about government corruption** - Guardian World, Armed conflicts and attacks (but politics)
-7. **Affordability Crisis Shaping US Elections** - Bloomberg, Politics and elections
-8. **UK charity shop profits plummet** - Guardian World, Business and economy
-9. **Midterm Fight Comes Down to Final Days** - Bloomberg, Politics and elections
-10. **Manifestations du 31 octobre (Paris protests)** - Le Monde, International relations (same as #5)
-11. **Chucky voice actress** - Vice News, Law and crime (entertainment)
-12. **Halloween jokes** - Vice News, International relations (entertainment)
-13. **Midterm Elections 2026: Spending surge leaving out Spanish-language ads** - Bloomberg, Armed conflicts and attacks (but politics)
-14. **Serial killer who inspired Scream** - Vice News, International relations (true crime)
-15. **Protest against Palestine Action ban outside US embassy in London** - Guardian World, Law and crime
-16. **Train collision in Spain** - Le Monde, Disasters and accidents
-17. **Tags "Remigration" discovered in Paris** - Le Monde, International relations
-18. **Mel Brooks and Halloween** - Vice News, Disasters and accidents (entertainment)
-19. **Lil Baby depression** - Vice News, International relations (entertainment)
-20. **Bolsonaro leaves Brazil after rejecting election** - Bloomberg, Politics and elections
-21. **UK PM signals apology for slave trade** - ABC News, Politics and elections
-22. **French gymnasts/coaches with Qatari colors** - Le Monde, International relations (sports)
-23. **Suigo interview (basketball)** - La Repubblica, International relations (sports)
-24. **Storm warnings for Melbourne, Canberra, Sydney, Brisbane** - Guardian World, Armed conflicts and attacks (weather)
-25. **Cost of Living Looms Over Midterms** - Bloomberg, International relations (but politics)
-26. **GOG free PC game giveaway** - Vice News, International relations (gaming)
-27. **Fortnite One Piece skins** - Vice News, International relations (gaming)
-28. **Luigi Mangione lawyers file to dismiss state charges** - Guardian World, Law and crime
-29. **Fallon Sherrock defeats Luke Littler** - Guardian World, International relations (sports)
-30. **Guerre en Ukraine live** - Le Monde, International relations
-31. **Iran: Mojtaba Khamenei threatens US** - Le Monde, Armed conflicts and attacks
-32. **Germany: tens of thousands of young people expected to protest** - Le Monde, International relations (same as #5)
-33. **Na Hong-jin (director of Hope)** - Le Monde, International relations (culture)
-34. **Militari a Milano proroga** - La Repubblica, International relations
-35. **Manovra: tassa sui videogiochi** - La Repubblica, International relations (business/policy)
-36. **Halloween Michael Myers and Happy Days connection** - Vice News, International relations (entertainment)
-37. **Cursed cruise: MV Odyssey** - Guardian World, Armed conflicts and attacks (but travel/business)
-38. **Riot police deployed to Poland's constitutional court** - Guardian World, Armed conflicts and attacks
-39. **Polonia: sospeso capo Corte Costituzionale** - La Repubblica, Politics and elections (same as #38)
-40. **Baia e Latina: Italian village where €150M gambled online** - La Repubblica, International relations
-41. **Andy Burnham UK premier budget** - Bloomberg, International relations (but UK politics)
-42. **Cost of living protests to spread to Germany and reignite in France** - Guardian World, International relations (same as #5, #32)
-43. **Midterms aux Etats-Unis guide** - Le Monde, International relations (same as US midterms)
-44. **Présidentielle 2027: candidats activent réseaux dans la culture** - Le Monde, International relations (French politics)
-45. **Grace Coddington** - Le Monde, International relations (fashion)
-46. **Hadrien infirmier on Île d'Hoedic** - Le Monde, International relations (human interest)
-47. **Synchronicités/défunt** - Le Monde, International relations (human interest)
-48. **Albanese reset world stage** - Guardian World, Politics and elections
-49. **Historic Athens cafe closes as area gentrifies** - Guardian World, International relations
-50. **Luci spente a Las Vegas (wars and tariffs hurting tourism)** - La Repubblica, Business and economy
-51. **Canada and EU announce new alliance** - Guardian World, Politics and elections
-52. **Guerra in Iran news** - La Repubblica, International relations (same as #31)
-53. **Crypto hacking funds North Korea nuclear programme** - Guardian World, Business and economy
-54. **GP Messico F1 Leclerc fastest** - La Repubblica, International relations (sports)
-55. **Guerra Ucraina-Russia: FSB says US info on terror attack plan in Moscow** - La Repubblica, International relations (same as #30)
-56. **Round-trip ferry to Catalina Island** - Business Insider, Business and economy (travel)
-57. **Top-secret spy mission Timor-Leste Australia bugging** - Guardian World, International relations
+Let me re-categorize properly:
 
-Now I need to:
-1. Merge duplicates
-2. Assign to appropriate categories (using the categories from the data, but some seem miscategorized)
-3. Select most significant stories (45-65 total)
-4. Write in Legible News style
+**Armed conflicts and attacks:**
+- Iran's Long Game Complicates Trump's War Plans (Bloomberg)
+- Petrol bomb thrown at French riot police / Molotov cocktail on gendarmes in Paris (Guardian + Le Monde - same event)
+- Multiple shootings in Dallas leave four dead, 15 injured (Guardian)
+- Shooting outside Magic City Classic in Alabama (Guardian)
+- Attempted murder probe after petrol bomb thrown at French riot police (Guardian) - same as above
+- Manifestations du 31 octobre: enquête ouverte pour tentative d'homicide (Le Monde) - same event
 
-Let me define the categories I'll use based on the data:
-- Armed conflicts and attacks
-- Disasters and accidents
-- Politics and elections
-- Law and crime
-- Business and economy
-- International relations (this is a catch-all in the data, but I should use it for diplomatic/international stories)
+**Disasters and accidents:**
+- Director Michael Mann accidentally shoots himself in leg at gun range (Guardian)
+- Tributes paid to Cambridge scientist who died in Spain train crash (Guardian)
 
-Actually, looking at Legible News style, they typically use categories like:
+**Politics and elections:**
+- AI Concerns Move to Center of Midterm Campaigns (Bloomberg)
+- Traders on Kalshi and Polymarket Went to Maine Hunting a Midterm Election Edge (Bloomberg)
+- UK statement at UN Security Council (Gov.uk)
+- Tens of thousands protest against Narendra Modi regime in Delhi (Guardian)
+- Rep. DeLauro Sees Cost of Living Fueling Democratic Gains (Bloomberg)
+- Former NSW Liberal leads overhaul of One Nation candidate selection process (Guardian)
+- Trump Banks on Rallies to Turn Out MAGA Faithful One More Time (Bloomberg)
+- 'There's a lot of hate': rightwing racism stirs south Asian mobilization in Texas (Guardian)
+- Joint statement by EU officials on International Day to End Impunity for Crimes against Journalists (EU Newsroom)
+- Asylum seekers still being sent to France under 'one in one out' weeks after scheme ended (Guardian)
+- Tusk defends overhaul of Poland's constitutional court despite protests (Guardian) - also Law and crime
+- Manifestations en Allemagne: la gauche condamne les violences (Le Monde)
+- « Je crois que je vais donner procuration à mes enfants »: France indecisive before 2027 presidential (Le Monde)
+- UK Defence Minister stockpiling food (La Repubblica)
+
+**Law and crime:**
+- Five teenagers hurt in stabbing at Halloween party in Hampshire (Guardian)
+- Tusk defends overhaul of Poland's constitutional court despite protests (Guardian) - could go here or Politics
+
+**Business and economy:**
+- Michael Dell turned $1,000 into $302 billion company (Fortune)
+- Stellantis AI push: 'best thing for career is to make yourself redundant' (Fortune)
+- Superior Frontal Gyrus Cortical Thickness study (bioRxiv) - this is science, not business
+- Grand Theft Callout: GTA 6 fans missing work on release day (MarketWatch)
+- At 27, I quit my dream job without a plan (Business Insider)
+- Airline hack to turn layover into mini trip to Iceland (Business Insider)
+- Binance resumes customer withdrawals after record $6.3bn hack (Guardian)
+- Home values fall for seventh consecutive month in Australia (Guardian)
+- I'm a psychologist who studies couples: happiest relationships do 1 thing differently (CNBC)
+- Jacinda Ardern advises politicians to 'rebuild trust by building financial security' (Guardian)
+
+**Science / Health:**
+- Superior Frontal Gyrus Cortical Thickness Mediates Association Between Openness to Experience and Theory of Mind (bioRxiv)
+- Welsh health board considers closing urgent primary care centres at three hospitals (Guardian)
+- South Korea seniors using AI dolls to combat loneliness (Le Monde)
+
+**International relations / World:**
+- Texas data center project divides Trump camp (Le Monde)
+- Digital inheritance: what happens to data after death (La Repubblica)
+- « Guerre hybride » expression considered euphemism by Europeans (Le Monde)
+- French administration confronts its antisemitic past (Le Monde)
+- François Guillemot interview (Le Monde)
+- Lucie family secret (Le Monde)
+- Vannacci donations to Futuro Nazionale (La Repubblica)
+- Lio singer interview (Le Monde)
+- William Nordhaus, Nobel economist, dies at 85 (Le Monde)
+- Northern Territory water plan condemned as attack on nature (Guardian)
+
+**Culture / Arts:**
+- How Kanye West Challenged Paul McCartney in 2014 (Vice)
+- My Chemical Romance Reunite With The Used, Confirm New Album (Vice)
+- Break Out the Eyeliner: My Chemical Romance reunion (Vice) - same as above
+
+**Technology / Gaming:**
+- Fortnite Pirate Shop Token how to get (Vice)
+- GTA 6 fans missing work (MarketWatch) - could be Business or Gaming
+
+**Environment:**
+- Northern Territory water plan condemned (Guardian)
+
+Now I need to merge duplicates:
+- Petrol bomb/Molotov cocktail in Paris: Guardian + Le Monde (same event)
+- My Chemical Romance: two Vice articles (same event)
+- GTA 6: one article
+- France political indecision: one article
+
+Let me count how many stories I have after merging and proper categorization. I need 45-65 total.
+
+Let me create the final categorized list with merged stories:
+
+**Armed conflicts and attacks** (6-8 stories)
+1. Iran's long-term strategy complicates Trump administration war planning (Bloomberg)
+2. Petrol bomb thrown at French riot police in Paris; attempted murder investigation opened (Guardian, Le Monde)
+3. Multiple shootings in Dallas on Halloween night leave four dead, 15 injured (Guardian)
+4. One person killed in shooting outside Magic City Classic football game in Alabama (Guardian)
+5. Five teenagers injured in stabbing at Halloween party in Hampshire, UK (Guardian)
+
+**Disasters and accidents** (2-3 stories)
+1. Film director Michael Mann accidentally shoots himself in leg at gun range (Guardian)
+2. Cambridge scientist Marta Shahbazi dies in Spain train crash (Guardian)
+
+**Politics and elections** (12-15 stories)
+1. AI concerns move to center of US midterm campaigns (Bloomberg)
+2. Traders on Kalshi and Polymarket seek election edge in Maine (Bloomberg)
+3. UK urges UN Security Council members to support US resolution draft (Gov.uk)
+4. Tens of thousands protest against Modi government in Delhi (Guardian)
+6. Rep. DeLauro says cost of living fueling Democratic gains in midterms (Bloomberg)
+7. Former NSW Liberal leads overhaul of One Nation candidate selection in Australia (Guardian)
+8. Trump banks on rallies to turn out MAGA faithful ahead of midterms (Bloomberg)
+9. Right-wing racism spurs South Asian political mobilization in Texas (Guardian)
+10. EU officials call for end to impunity for crimes against journalists (EU Newsroom)
+11. Asylum seekers still sent to France under 'one in one out' scheme weeks after it ended (Guardian)
+12. Donald Tusk defends overhaul of Poland's constitutional court amid protests (Guardian)
+13. German left condemns violence at protests, urges attention to demands (Le Monde)
+14. French voters express indecision less than six months before 2027 presidential election (Le Monde)
+15. UK Defence Secretary stockpiles food, cites need for emergency preparedness (La Repubblica)
+
+**Law and crime** (2-3 stories)
+1. Five teenagers injured in stabbing at Halloween party in Hampshire (Guardian) - already in armed conflicts? This is more crime. Let me put it in Law and crime instead.
+2. Tusk defends overhaul of Poland's constitutional court (Guardian) - could be here
+
+Actually, let me reconsider categories. Legible News might have:
 - World
 - Politics
 - Business
 - Technology
-- Science
-- Health
+- Science & Health
+- Culture
 - Sports
-- Entertainment
 
-But the user said "Group stories by category (Armed conflicts and attacks, Disasters and accidents, Politics and elections, Law and crime, etc.)" - so I should use the categories as provided in the data.
+But the user specified categories: "Armed conflicts and attacks, Disasters and accidents, Politics and elections, Law and crime, etc." So I should use those categories.
 
-Let me consolidate and write the report.
+Let me finalize categories:
 
-First, today's date: October 31, 2026 (based on article dates)
+**Armed conflicts and attacks** (international conflicts, terrorism, war)
+- Iran's Long Game Complicates Trump's War Plans (Bloomberg)
+- Petrol bomb thrown at French riot police in Paris; attempted murder probe (Guardian, Le Monde)
+- Multiple shootings in Dallas leave four dead, 15 injured on Halloween night (Guardian)
+- Shooting outside Magic City Classic football game in Alabama kills one (Guardian)
 
-Now let me create merged stories:
+**Disasters and accidents** (accidents, natural disasters)
+- Director Michael Mann accidentally shoots himself in leg at gun range (Guardian)
+- Cambridge scientist Marta Shahbazi dies in Spain train crash (Guardian)
 
-**Armed conflicts and attacks:**
-1. Iran's Mojtaba Khamenei threatens US with "response without geographic limits" if new bombing occurs (Le Monde, La Repubblica)
-2. Riot police deployed to Poland's Constitutional Court after judge suspended; political standoff between president and PM Tusk (Guardian, La Repubblica)
-3. Train collision in Spain kills 69, including one French national (Le Monde)
-4. Storm warnings issued for Melbourne, Canberra, Sydney, Brisbane as cold front hits (Guardian)
-5. Ukraine war: Zelensky in Turkey; evacuations from Oleshky; Russian strikes cut power in Dnipro/Kyiv regions (Le Monde, La Repubblica)
-6. FSB claims US provided info on planned terrorist attack in Moscow (La Repubblica)
-7. MV Odyssey "cursed cruise" nightmare: passengers stranded in Cambodia (Guardian) - maybe not armed conflict, but categorized as such
-8. Cost of living protests in Germany and France (Halloween protests) (Guardian, Le Monde) - but these are protests, not armed conflict
-9. More than 100 protest against Palestine Action ban outside US embassy in London (Guardian) - law and crime/protest
+**Politics and elections** (domestic politics, elections, government)
+- AI Concerns Move to Center of Midterm Campaigns (Bloomberg)
+- Traders on Kalshi/Polymarket Hunt Midterm Edge in Maine (Bloomberg)
+- UK Urges UN Security Council to Support US Resolution Draft (Gov.uk)
+- Tens of Thousands Protest Against Modi Government in Delhi (Guardian)
+- Rep. DeLauro Sees Cost of Living Fueling Democratic Gains (Bloomberg)
+- Former NSW Liberal Leads Overhaul of One Nation Candidate Selection (Guardian)
+- Trump Banks on Rallies to Turn Out MAGA Faithful (Bloomberg)
+- Rightwing Racism Spurs South Asian Mobilization in Texas (Guardian)
+- EU Officials Call to End Impunity for Crimes Against Journalists (EU Newsroom)
+- Asylum Seekers Still Sent to France Under Ended 'One In One Out' Scheme (Guardian)
+- Tusk Defends Overhaul of Poland's Constitutional Court Despite Protests (Guardian)
+- German Left Condemns Protest Violence, Urges Attention to Demands (Le Monde)
+- French Voters Express Indecision Before 2027 Presidential Election (Le Monde)
+- UK Defence Minister Stockpiles Food for Emergencies (La Repubblica)
 
-Wait, I need to be careful. The categories in the data are assigned by the source. But some are clearly wrong (e.g., "Storm warnings" under "Armed conflicts and attacks"). I should recategorize based on actual content.
+**Law and crime** (crime, legal proceedings, law enforcement)
+- Five Teenagers Hurt in Stabbing at Halloween Party in Hampshire (Guardian)
+- Attempted Murder Probe After Petrol Bomb Thrown at French Police (Guardian, Le Monde) - already in armed conflicts? This is a crime investigation. Could be both but choose one.
 
-The user said: "Group stories by category (Armed conflicts and attacks, Disasters and accidents, Politics and elections, Law and crime, etc.)" and "If a story fits multiple categories, choose the most relevant one."
+**Business and economy** (business, finance, economy)
+- Michael Dell Turned $1,000 into $302 Billion Company; Advises Founders 'Don't Go Ask' (Fortune)
+- Stellantis AI Push: 'Best Thing for Career Is to Make Yourself Redundant' (Fortune)
+- Binance Resumes Customer Withdrawals After Record $6.3 Billion Hack (Guardian)
+- Australian Home Values Fall for Seventh Consecutive Month as Rates Dent Demand (Guardian)
+- GTA 6 Release Prompts Fans to Miss Work (MarketWatch)
+- Psychologist: Happiest Couples Do One Thing Differently After Time Apart (CNBC)
+- Jacinda Ardern Advises Politicians to 'Rebuild Trust by Building Financial Security' (Guardian)
+- At 27, Quit Dream Job Without Plan; Paid Off Over Decade Later (Business Insider)
+- Airline Stopover Hack Turns Layover into Iceland Trip, Saves Money (Business Insider)
 
-So I should use my judgment to assign proper categories.
+**Science and health** (science, health, medicine)
+- Study: Superior Frontal Gyrus Thickness Mediates Openness and Theory of Mind (bioRxiv)
+- Welsh Health Board Considers Closing Urgent Primary Care Centres at Three Hospitals (Guardian)
+- South Korean Seniors Combat Loneliness with AI-Enabled Dolls (Le Monde)
 
-Let me define my categories:
-1. Armed conflicts and attacks (war, terrorism, military actions)
-2. Disasters and accidents (natural disasters, transport accidents, weather)
-3. Politics and elections (elections, government policy, political events)
-4. Law and crime (court cases, legal rulings, crime)
-5. Business and economy (markets, companies, economic policy)
-6. International relations (diplomacy, treaties, international organizations)
-7. Society/Culture (protests, social issues, culture, entertainment, sports, human interest)
+**International relations** (diplomacy, global issues, regional news)
+- Texas Data Center Project Divides Trump Camp (Le Monde)
+- Digital Inheritance: What Happens to Data After Death (La Repubblica)
+- 'Hybrid War' Label Called Euphemism for Inaction by Europeans (Le Monde)
+- French Administration Confronts Antisemitic Past Through Archives and Theatre (Le Monde)
+- Northern Territory Water Plan Condemned as 'Blatant Attack on Nature' (Guardian)
+- William Nordhaus, Nobel Economist and Climate Pioneer, Dies at 85 (Le Monde)
+- Vannacci Receives Maxi-Donations for Futuro Nazionale; Lega Gets €90k from Clinics (La Repubblica)
+- François Guillemot: 'Youth Always Scares When It Moves' (Le Monde)
+- Lucie's Family Secret: Fears of Sexual Abuse After Son's Birth (Le Monde)
 
-But the user listed specific categories. Let me stick close to theirs but adjust.
-
-Actually, looking at the example format, they used "Armed conflicts and attacks", "Politics and elections", etc. So I'll use those.
-
-Let me re-categorize each story properly:
-
-**Armed conflicts and attacks:**
-- Iran threatens US with unlimited retaliation (Le Monde, La Repubblica)
-- Ukraine war updates: Zelensky in Turkey, Russian strikes, evacuations (Le Monde, La Repubblica)
-- FSB claims US intel on Moscow terror plot (La Repubblica)
-- Riot police at Poland's Constitutional Court (Guardian, La Repubblica) - this is political conflict
-- Train collision in Spain (Le Monde) - disaster
-- Storm warnings Australia (Guardian) - disaster
-- MV Odyssey cruise nightmare (Guardian) - disaster/business
-- Palestine Action ban protest London (Guardian) - law/protest
-- Cost of living protests Germany/France (Guardian, Le Monde) - society/protest
-
-**Disasters and accidents:**
-- Train collision Spain (69 dead) (Le Monde)
-- Storm warnings SE Australia (Guardian)
-- MV Odyssey cruise stranded (Guardian)
-
-**Politics and elections:**
-- US Midterms: Final days, affordability crisis, corruption concerns, Epstein ads, Spanish-language ad spending (Guardian, Bloomberg, Le Monde)
-- Maurene Comey ruling (Guardian) - legal/political
-- UK PM signals apology for slave trade (ABC)
-- Canada-EU new alliance (Guardian)
-- Bolsonaro leaves Brazil after rejecting election (Bloomberg)
-- Poland Constitutional Court crisis (Guardian, La Repubblica)
-- Albanese seeks reset on world stage (Guardian)
-- Andy Burnham UK budget (Bloomberg)
-- French presidential 2027 candidates activating cultural networks (Le Monde)
-- Italian budget: tax on video game arcades (La Repubblica)
-- Milan military presence extended (La Repubblica)
-
-**Law and crime:**
-- Luigi Mangione lawyers file to dismiss state charges (double jeopardy) (Guardian)
-- Palestine Action ban protest (Guardian)
-- "Remigration" tags in Paris reported to justice (Le Monde)
-- Maurene Comey ruling (Guardian) - could be here
-
-**Business and economy:**
-- UK charity shop profits plummet (Guardian)
-- Crypto hacking funds North Korea nuclear programme (Guardian)
-- Las Vegas tourism down due to wars/tariffs (La Repubblica)
-- Italian village €150M online gambling mystery (La Repubblica)
-- Catalina Island ferry review (Business Insider) - minor
-- GOG free game giveaway (Vice) - minor
-- Fortnite skins (Vice) - minor
-
-**International relations:**
-- UK statement at UN Security Council (GOV.UK)
-- Canada-EU alliance (Guardian) - also politics
-- Iran-US tensions (Le Monde, La Repubblica)
-- Ukraine war (Le Monde, La Repubblica) - also armed conflict
-- French gymnasts/coaches switch to Qatar (Le Monde)
-- Na Hong-jin film director interview (Le Monde)
-- Historic Athens cafe closes due to gentrification (Guardian)
-- TOP SECRET spy mission Timor-Leste/Australia bugging (Guardian)
-- German youth protests cost of living/schools (Le Monde)
-- Mel Brooks/Halloween connection (Vice) - entertainment
-- Chucky voice actress (Vice) - entertainment
-- Halloween jokes (Vice) - entertainment
-- Serial killer inspired Scream (Vice) - true crime
-- Lil Baby depression (Vice) - entertainment
-- Michael Myers/Happy Days connection (Vice) - entertainment
-- Fallon Sherrock beats Luke Littler (Guardian) - sports
-- F1 Mexico Leclerc fastest (La Repubblica) - sports
-- Suigo basketball interview (La Repubblica) - sports
-- Grace Coddington profile (Le Monde) - fashion
-- Hadrien nurse on Île d'Hoedic (Le Monde) - human interest
-- Synchronicities/grief (Le Monde) - human interest
-
-This is too many stories. I need to select 45-65 most significant, merging duplicates.
-
-Let me count significant stories by category:
-
-**Armed conflicts and attacks** (major):
-1. Iran threatens US (Le Monde, La Repubblica)
-2. Ukraine war: Zelensky in Turkey, Russian strikes, power cuts (Le Monde, La Repubblica)
-3. FSB claims US intel on Moscow terror plot (La Repubblica)
-4. Poland Constitutional Court crisis: riot police, judge suspended (Guardian, La Repubblica)
-5. Palestine Action ban protest at US embassy London (Guardian)
-
-**Disasters and accidents**:
-6. Spain train collision: 69 dead including French national (Le Monde)
-7. Australia storm warnings: Melbourne, Canberra, Sydney, Brisbane (Guardian)
-8. MV Odyssey cruise passengers stranded in Cambodia (Guardian)
-
-**Politics and elections**:
-9. US Midterms final push: affordability crisis, corruption concerns, Epstein ads, Spanish-language ad gap (Guardian, Bloomberg, Le Monde)
-10. Maurene Comey ruling offers check on Trump (Guardian)
-11. UK PM signals apology for slave trade role (ABC)
-12. Canada-EU announce new alliance (Guardian)
-13. Bolsonaro leaves Brazil after rejecting election (Bloomberg)
-14. Poland Constitutional Court standoff (Guardian, La Repubblica) - merge with #4
-15. Albanese seeks global reset amid domestic pressures, rate hike looms (Guardian)
-16. Andy Burnham's bounce fading as UK budget looms (Bloomberg)
-17. French 2027 presidential candidates cautiously engage cultural sector (Le Monde)
-18. Italy budget includes tax on video game arcades (La Repubblica)
-19. Milan military presence extended to March 2027 (La Repubblica)
-
-**Law and crime**:
-20. Luigi Mangione lawyers file to dismiss state charges citing double jeopardy (Guardian)
-21. "Remigration" graffiti in Paris reported to prosecutors (Le Monde)
-22. Maurene Comey ruling (Guardian) - merge with #10
-
-**Business and economy**:
-23. UK charity shop profits fall amid secondhand market shift (Guardian)
-24. Crypto hacking funds North Korea nuclear program (Guardian)
-25. Las Vegas tourism hit by wars and tariffs (La Repubblica)
-26. Italian village Baia e Latina: €150M online gambling mystery (La Repubblica)
-
-**International relations / Diplomacy**:
-27. UK urges UN Security Council to build on US resolution draft (GOV.UK)
-28. Iran's Mojtaba Khamenei threatens unlimited retaliation (Le Monde, La Repubblica) - merge with #1
-29. French gymnasts and coaches adopt Qatari colors (Le Monde)
-30. Na Hong-jin on creating alien language for "Hope" (Le Monde)
-31. Historic Athens cafe Mouria closes as Exarchia gentrifies (Guardian)
-32. Secret Australia-Timor-Leste bugging scandal revealed (Guardian)
-33. German youth protests against cost of living, school conditions (Le Monde)
-
-**Sports**:
-34. Fallon Sherrock stuns world #1 Luke Littler in darts (Guardian)
-35. F1 Mexico: Leclerc fastest in practice, Antonelli 4th, Hamilton struggles (La Repubblica)
-
-**Culture/Entertainment** (minor but notable):
-36. Mel Brooks' accidental influence on Halloween's disturbing scene (Vice)
-37. Chucky almost voiced by famous sitcom actress (Vice)
-
-**Human Interest**:
-38. Nurse Hadrien on tiny Île d'Hoedic (Le Monde)
-
-That's about 38 stories. I need 45-65. I can add some more from the list.
-
-Additional significant stories:
-- AI backlash uniting voters (Bloomberg) - tech/politics
-- Cost of living protests spreading
+**Culture and
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
