@@ -8,23 +8,46 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[November 2, 2026](reports/2026-11-02.md)**
+**[November 3, 2026](reports/2026-11-03.md)**
 
-*Last updated: 2026-11-02 20:44 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-11-03 18:23 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**Legible News — November 2, 2026**
+**Legible News – Daily Report**  
+**November 3, 2026**
 
 ---
 
 ### Armed conflicts and attacks
-• Ukraine war: Russian bombardments in Zaporizhzhia oblast kill at least 26 people, President Zelenskyy says; emergency warning systems reportedly hacked. ([Le Monde](https://www.lemonde.fr/international/live/2026/11/02/en-direct-guerre-en-ukraine-dix-huit-personnes-ont-ete-tuees-par-des-bombardements-russes-dans-l-oblast-de-zaporijia-annonce-volodymyr-zelensky_6803934_3210.html), [Guardian](https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates))
-• Gulf tension: Qatar leads diplomatic talks with Iran to prevent further U.S. military escalation; oil prices fall on hopes of a breakthrough to end the Iran–U.S. conflict. ([NPR](https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war), [Guardian](https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war))
-• Israel: Prime Minister Netanyahu calls for a broad coalition under his leadership, excluding Arab parties, after legislative elections; opposition attempts to form an alternative majority. ([Le Monde](https://www.lemonde.fr/international/article/2026/11/02/legislatives-en-israel-benyamin-netanyahou-appelle-a-une-large-coalition-sous-sa-direction-et-sans-les-partis-arabes-l-opposition-doit-se-reunir-pour-tenter-de-constituer-une-majorite_6805316_3210.html))
-• Afghanistan: Women in Herat describe desperate conditions under Taliban rule, saying "the air has been taken from us." ([Le Monde](https://www.lemonde.fr/international/article/2026/11/02/en-afghanistan-a-herat-sous-le-regime-des-talibans-des-femmes-desesperees-l-air-nous-a-ete-retire_6805297_3210.html))
-• Germany: Weekend protest violence sparks sharp political debate within the governing coalition. ([Le Monde](https://www.lemonde.fr/international/article/2026/11/02/en-allemagne-les-violences-en-marge-des-manifestations-du-week-end-suscitent-un-vif-debat-politique-au-sein-du-gouvernement_6805312_3210.html))
-• France: Interior Minister Laurent Nuñez vows not to renounce "intermediate force" tools such as grenades and tear gas for crowd control. ([Le Monde](https://www.lemonde.fr/politique/article/2026/11/02/maintien-de-l-ordre-laurent-nunez-affirme-qu-il-ne-renoncera-a-aucun-moyen-intermediaire-comme-les-grenades-et-gaz-lacrymogenes_6805314_823448.html))
-• Australia: New South Wales
+• Russia bombs a humanitarian hub in Komyshuvakha, eastern Ukraine, killing at least 31 people and wounding dozens more; the strike hit a facility distributing aid to civilians. ([Guardian](https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha))  
+• The United States carries out strikes on Iran’s Qeshm Island in the Persian Gulf, even as Vice President Vance expresses optimism about a potential diplomatic deal with Tehran. ([Guardian](https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island))  
+• Seven commercial flights across Europe are searched or diverted after coordinated bomb threats; authorities in France, Spain, Belgium, Poland, and Sweden confirm all alerts were false alarms from a “malicious hoax.” ([Guardian](https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats), [Guardian live](https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news))  
+• Ukraine unveils plans for an “invisible dome” air-defense system over Kyiv, using directed-energy and electronic-warfare layers to counter Russian Shahed drones. ([La Repubblica](https://www.repubblica.it/esteri/2026/11/03/news/cupola_invisibile_kiev_progetto_ucraino_proteggersi_droni_russi_shahed-425695954/))  
+• The EU’s top diplomat warns member states to prepare for “the worst, including an armed conflict in Europe,” as NATO and EU defense ministers meet in Brussels. ([La Repubblica](https://www.repubblica.it/esteri/2026/11/03/news/allarme_ue_pronti_conflitto_armato_europa_vertice_nato_e3_ucraina_russia-425696021/))
+
+---
+
+### Politics and elections
+• Americans vote in the 2026 midterm elections, with control of the House and Senate at stake; the contests are widely seen as a referendum on President Trump’s second term. ([Guardian](https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote), [Guardian live](https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting), [Le Monde live](https://www.lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-suivez-la-journee-de-vote-aux-etats-unis-pour-les-elections-de-mi-mandat-aux-etats-unis-les-dernieres-informations-et-les-reponses-a-vos-questions_6805528_3210.html))  
+• U.S. gasoline prices rise above $4 per gallon nationwide for the first time on an Election Day, adding economic pressure on voters heading to the polls. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-11-03/us-voters-hit-the-polls-with-gas-above-4-for-first-time))  
+• A U.S. man is charged with mailing hundreds of letters containing suspicious white powder to election officials and politicians ahead of the midterms; no injuries reported. ([Guardian](https://www.theguardian.com/us-news/2026/nov/03/charges-powder-letters-midterms))  
+• The UK government announces deep cuts to aid for Commonwealth nations, totaling hundreds of millions of pounds, despite warm rhetoric at the recent CHOGM summit in Samoa. ([Guardian](https://www.theguardian.com/world/2026/nov/03/uk-cuts-aid-commonwealth-countries-despite-warm-words-at-chogm-summit))  
+• King Charles tells Commonwealth leaders that Britain’s role in the transatlantic slave trade was “shameful,” but stops short of a formal apology sought by some Caribbean and African nations. ([Guardian](https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news), [La Repubblica](https://www.repubblica.it/esteri/2026/11/03/news/schiavismo_re_carlo_scuse_andy_burnham_commonwealth-425696822/))  
+• Australia moves to renegotiate its working-holiday visa deal with the UK after a surge in British arrivals strains housing and labor markets. ([Guardian](https://www.theguardian.com/uk-news/2026/nov/03/australia-seeks-to-change-visa-deal-uk))  
+• Brazil publishes the world’s first government “roadmap” for phasing out fossil fuels, targeting net-zero by 2050 with intermediate milestones for oil, gas, and coal. ([Guardian](https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels))  
+• In France, the National Assembly’s law committee votes to open a formal debate on a petition to ban the right-wing news channel CNews over alleged repeated violations of broadcast ethics. ([Le Monde](https://www.lemonde.fr/economie/article/2026/11/03/petition-pour-interdire-cnews-l-assemblee-nationale-votera-en-commission-sur-l-opportunite-d-un-debat_6805641_3234.html))  
+• French Interior Minister Laurent Nuñez testifies before a parliamentary inquiry into the October 17 urban violence, describing the night as “riot, urban violence … no longer public-order maintenance.” ([Le Monde](https://www.lemonde.fr/politique/live/2026/11/03/en-direct-audition-de-laurent-nunez-le-ministre-de-l-interieur-attendu-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre-a-16-h-30_6805591_823448.html))  
+• South Korea’s presidential office admits passport data for President Yoon Suk-yeol and his close aides was publicly accessible for four months due to a misconfigured government database. ([Le Monde](https://www.lemonde.fr/international/article/2026/11/03/en-coree-du-sud-les-informations-du-passeport-du-president-et-de-son-entourage-en-libre-acces-pendant-quatre-mois_6805632_3210.html))  
+• European Central Bank President Christine Lagarde signals she intends to play a visible role in the upcoming French presidential campaign, raising questions about central-bank independence. ([Le Monde](https://www.lemonde.fr/idees/article/2026/11/03/christine-lagarde-entend-jouer-un-role-dans-la-campagne-presidentielle-pour-y-faire-quoi_6805583_3232.html))  
+• The UK government is formally advised not to engage with Indian billionaire Anant Ambani’s “Vantara” mega-zoo project after lobbying concerns and CITES compliance questions. ([Guardian](https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites))  
+• In Australia’s Victoria state, the public-service union refuses to endorse the Labor government for the upcoming election, citing 1,000 job cuts and a $1.2 billion spend on consultants. ([Guardian](https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election))
+
+---
+
+### Business and economy
+• Microsoft offers voluntary buyouts to roughly 60,000 employees across divisions, the largest workforce-reduction program in the company’s history; experts outline five key questions for affected staff. ([MarketWatch](https://www.marketwatch.com/story/5-questions-to-ask-if-your-boss-offers-you-a-buyout-as-microsoft-did-with-60-000-employees-03d037a5?mod=mw_rss_topstories))  
+• Semiconductor stocks rally on U.S. election day, lifting the Nasdaq as investors bet on continued CHIPS Act funding and AI-driven demand regardless of congressional outcome. ([Bloomberg](https://www.bloomberg.com/news/videos/2026-11-03/chip-rally-powers-stock-gains-on-us-election-day-video))  
+• Y Combinator president Garry
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
