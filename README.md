@@ -8,25 +8,17 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[November 5, 2026](reports/2026-11-05.md)**
+**[November 6, 2026](reports/2026-11-06.md)**
 
-*Last updated: 2026-11-05 18:41 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-11-06 17:55 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**November 5, 2026**
+**Legible News — November 6, 2026**
 
-**Armed conflicts and attacks**
-• Bomb threats disrupt at least 25 commercial flights across Europe, forcing diversions and emergency landings in France, Italy, and other countries; authorities investigate coordinated "hybrid warfare" tactic ([Guardian](https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears), [Guardian Live](https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates), [La Repubblica](https://www.repubblica.it/cronaca/2026/11/05/news/allarme_bomba_voli_europa_dublino_fiumicino_helsinki_francia_bulgaria_bruxelles-425700935), [La Repubblica](https://www.repubblica.it/esteri/2026/11/05/news/allarme_bomba_volo_dublino_roma_atterraggio_emergenza_francia-425700771))
-• U.S. midterm election results widely viewed as a "thumping rebuke" of the U.S.-Israel relationship as Democrats flip House seats amid voter anger over Gaza policy ([Guardian](https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections))
-• Israeli President Isaac Herzog meets rival party leaders as decision nears on forming a government; former military chief Gadi Eisenkot emerges as leading candidate to replace Prime Minister Netanyahu ([Guardian](https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision), [Le Monde](https://www.lemonde.fr/international/article/2026/11/05/israel-gadi-eisenkot-l-ancien-chef-d-etat-major-israelien-en-mission-pour-remplacer-benyamin-netanyahou_6807323_3210.html))
-• Yemen's President Rashad al-Alimi sacks ministers and military officers in bid to reverse losses against Houthi rebels ([Guardian](https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis))
-• UK found to be "dangerously reliant" on China for critical minerals essential to defense, AI, and renewable energy, per parliamentary report ([Guardian](https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy))
-• Western Sahara: Diplomatic failure risks empowering hardline Polisario Front faction favoring military escalation with Morocco, analysts warn ([Le Monde](https://www.lemonde.fr/afrique/article/2026/11/05/sahara-occidental-l-echec-de-la-diplomatie-risque-de-renforcer-la-frange-du-front-polisario-favorable-a-l-escalade-militaire-avec-le-maroc_6807189_3212.html))
-• Melania Trump calls for "durable" ceasefire in Ukraine from White House as war enters another winter ([Le Monde](https://www.lemonde.fr/international/live/2026/11/05/en-direct-guerre-en-ukraine-depuis-la-maison-blanche-melania-trump-appelle-a-un-cessez-le-feu-durable-en-ukraine_6803934_3210.html))
-• Email bomb threat campaigns designed to overwhelm and degrade European defense systems, security experts say ([La Repubblica](https://www.repubblica.it/cronaca/2026/11/05/news/strategia_allarme_bomba_email_caos_disfesa-425701240))
+---
 
-**Politics and elections**
-• Democrats flip four additional U.S. House seats as Republicans trade blame for "brutal" midterm losses; Nasdaq posts worst day in 18 months amid political uncertainty ([Guardian Live](https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race), [Guardian](https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses), [La Repubblica](https://www.repubblica.it/esteri/2026/11/05/diretta/elezioni_midterm_usa_2026_risultati
+### Armed conflicts and attacks
+• Ukraine says it
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
