@@ -8,53 +8,51 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[November 7, 2026](reports/2026-11-07.md)**
+**[November 8, 2026](reports/2026-11-08.md)**
 
-*Last updated: 2026-11-07 16:49 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-11-08 17:01 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**November 7, 2026**
+**Legible News — November 8, 2026**
 
-Armed conflicts and attacks
-• Five people killed and more than a dozen injured in a shooting in Kraków, Poland; suspect apprehended (The Guardian, Le Monde)
-• Russian strikes on Ukraine’s energy grid cause widespread blackouts and water shortages in Kyiv and other regions (The Guardian, Le Monde)
-• French prosecutors open investigation into bomb threats targeting aircraft, examining possible foreign state involvement (Le Monde)
-• Former Australian soldier Ben Roberts-Smith partners with gym business selling “war crimes” branded pre-workout supplement (The Guardian)
-• Barrister for Russell Brand refers himself to regulatory watchdog following confrontation with Sunday Times journalist (The Guardian)
-• Three teenagers arrested after 17-year-old injured in sword attack near school in Gloucester, UK (The Guardian)
+---
 
-Politics and elections
-• US midterms: Democrats celebrate victories; Trump names Stephen Miller as incoming chief of staff, pledging “total devotion” (The Guardian, Bloomberg)
-• New Zealand election remains “too close to call” days after voting, leaving country facing weeks of uncertainty (The Guardian)
-• Paraguay’s ousted president placed under house arrest after banking crisis left 60% of population unable to access accounts (The Guardian)
-• UK Home Office sued by advocacy group after stripping nearly 1,500 EU citizens of right to remain in Britain (The Guardian)
-• Los Angeles progressives, led by Councilmember Nithya Raman, consolidate influence in city government (The Guardian)
-• Jean-Luc Mélenchon launches 2027 French presidential campaign with call to “change everything” at Le Bourget rally (Le Monde)
-• Pope Francis says he is “proud to be an American” following US elections, credits God and doctors for health recovery (ABC News)
-• French Democrats aim to overhaul US presidential election system following midterm gains (La Repubblica)
-• French MP Stéphane Altieri forced to resign as head of anti-corruption agency ANAC over legal incompatibility (La Repubblica)
-• Luton Youth Hub opens with £10m funding to support young people into employment and training (GOV.UK)
+### Armed conflicts and attacks
+• Polish prosecutors open terrorism investigation into Kraków market square shooting that killed six, including one Briton; two police officers hailed as heroes for confronting gunman ([Guardian](https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation), [Guardian](https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland), [Guardian](https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman), [Le Monde](https://www.lemonde.fr/international/article/2026/11/08/la-pologne-en-etat-de-choc-apres-la-fusillade-de-cracovie_6808422_3210.html))
+• Thailand faces pressure over potential deportation of Uyghurs to China, where they say they would be "like slaves" ([Guardian](https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation))
+• Israel's President Herzog tasks former IDF chief Gadi Eisenkot with forming new government; Eisenkot invites Netanyahu's Likud to join coalition ([Guardian](https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government), [Le Monde](https://www.lemonde.fr/international/article/2026/11/08/israel-gadi-eisenkot-officiellement-charge-de-former-un-nouveau-gouvernement-invite-le-likoud-de-benyamin-netanyahou-a-participer-a-une-coalition_6808446_3210.html))
+• European citizens show growing fatigue with Ukraine war support, polls indicate shifting sentiment across EU nations ([Le Monde](https://www.lemonde.fr/international/article/2026/11/08/en-europe-la-menace-d-une-lassitude-grandissante-des-citoyens-a-l-egard-de-la-guerre-en-ukraine_6808396_3210.html))
+• UK spent £100m on "zombie" Brexit border inspection posts that were built but never used for checks ([Guardian](https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods))
 
-Business and economy
-• Global stocks slide amid “big worries over AI” following Democratic midterm wins, raising regulatory concerns (The Guardian)
-• North Korean hackers steal $6 billion from Binance in elaborate scheme involving fake job interview and malware (La Repubblica)
-• US Senate plan to fast-track energy permitting heads for legislative showdown (Bloomberg)
-• National Trust votes to seek new banking partner better aligned with its environmental policies (The Guardian)
-• Climate activists break into Microsoft datacentre construction site in Amsterdam to protest expansion (The Guardian)
-• Study finds “high safety” replacement chemicals in plastic food packaging linked to lower birth weights (The Guardian)
-• Research in West Africa shows climate and socioeconomic variables can predict low birth weight, enabling early warning systems (PNAS)
+### Disasters and accidents
+• Two trains collide in Egypt, killing at least four people and injuring dozens ([Guardian](https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision))
+• Met Office issues weather warning as UK conditions create "perfect recipe" for dense fog across much of England and Wales ([Guardian](https://www.theguardian.com/uk-news/2026/nov/08/met-office-weather-warning-uk-fog))
+• Spanish PM Pedro Sánchez attempts to revive political momentum after deadly Urda rail catastrophe ([Le Monde](https://www.lemonde.fr/international/article/2026/11/08/en-espagne-pedro-sanchez-tente-de-relancer-sa-campagne-apres-la-catastrophe-ferroviaire-d-urda_6808444_3210.html))
 
-Law and crime
-• UK Court of Appeal rules against Home Office in case involving asylum seeker kidnapped and held for ransom in Libya (The Guardian)
-• Father of Meghan Markle arrested in France on child sexual abuse charges, seven years after initial allegations (Le Monde)
-• Parents welcome £10m “life-changing” inclusive play centre for disabled children in the UK (The Guardian)
+### Politics and elections
+• Georgia state legislative race reversed after previously uncounted votes discovered on memory card, flipping control ([Bloomberg](https://www.bloomberg.com/news/articles/2026-11-07/georgia-state-race-reversed-after-votes-surface-on-memory-card))
+• Democrats outline legislative priorities for next two years: healthcare and tariffs, but rule out Trump impeachment ([Guardian](https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms))
+• New Zealand election results "too close to call" as vote counting continues, leaving country facing weeks of coalition uncertainty ([Guardian](https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count))
+• Pope Leo XIV's planned Argentina visit sets up confrontation with "hyper-capitalist" President Milei ([Guardian](https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei))
+• UK Youth Hub opens in Luton to support young people toward employment ([GOV.UK](https://www.gov.uk/government/news/major-boost-for-young-people-in-luton-as-youth-hub-opens-to-support-them-towards-work))
+• COP31 climate talks key players identified as negotiations intensify ([Guardian](https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks))
+• Trump claims America has taken "gigantic step backward in history" following Democratic midterm victories ([Le Monde](https://www.lemonde.fr/international/article/2026/11/08/midterms-2026-donald-trump-estime-que-l-amerique-a-fait-un-gigantesque-pas-en-arriere-dans-l-histoire-avec-la-victoire-des-democrates_6808439_3210.html))
+• French PM Gabriel Attal defends primary for right and center ahead of 2027 presidential election ([Le Monde](https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-gabriel-attal-repond-a-edouard-philippe-et-continue-de-defendre-une-primaire-de-la-droite-et-du-centre_6808434_823448.html))
+• LFI pledges "social state of emergency" with decree powers for minimum wage hike and retirement at 62 if elected in 2027 ([Le Monde](https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-cas-de-victoire-lfi-instaurera-un-etat-d-urgence-sociale-pour-appliquer-par-decrets-certaines-mesures-comme-la-hausse-du-smic-ou-la-retraite-a-62-ans_6808436_823448.html))
+• Limp Bizkit frontman Fred Durst teases presidential run, urges fans to vote for him ([Vice](https://www.vice.com/en/article/fred-durst-for-president-limp-bizkit-frontman-teases-running-for-office-and-urges-fans-to-vote-for-him/))
 
-International relations
-• Germany expects to decide on new fighter jet purchase by March, defense minister tells Funke media group (Bloomberg)
-• Turkey’s Afşin-Elbistan coal complex continues to cause severe environmental damage as country prepares to host COP31 (Le Monde)
-• Identity tensions erupt into street violence in Rouen, France, following two violent attacks (Le Monde)
-• Paris demonstrations on November 7 remain “globally calm and controlled,” according to interior ministry (Le Monde)
-• US
+### Law and crime
+• Global music body warns Australian PM Albanese that weakening AI copyright law would spell "disaster for creativity" ([Guardian](https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia))
+• French authorities illegally expelled Roma families from Saint-Denis using both national and municipal police ([Le Monde](https://www.lemonde.fr/societe/article/2026/11/08/a-saint-denis-des-familles-roms-expulsees-illegalement-par-les-polices-nationale-et-municipale_6808433_3224.html))
+• Story of "girl of 100 portraits" inspires two new books examining Parisian model Louise Cansot ([Guardian](https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer))
+
+### Business and economy
+• Trump, next House speaker, and Senate majority leader all grew up within 11 miles of each other in New York area — "D.C. is a New York town" ([Fortune](https://fortune.com/2026/11/08/new-york-runs-dc-trump-queens-love-can-you-tell-im-from-nyc/))
+• Dutch Bros Coffee makes all executives, including CEO, complete two-week bootcamp learning to pour drinks and run stores ([Fortune](https://fortune.com/2026/11/08/coffee-giant-dutch-bros-made-all-execs-and-ceo-do-two-week-bootcamp-learn-pour-drinks-run-stores/))
+• US datacenter demand drives new fossil fuel pipeline projects as environmental rules are relaxed ([Guardian](https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations))
+• Latin American banana producers demand better pay to cope with climate crisis impacts ([Guardian](https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis))
+• Beef industry quietly withdraws part of its own science curriculum after rancher protests over climate impact education ([Guardian](https://www.theguardian.com/environment/2026/nov/08/beef-industry-climate-impact-education))
+• Environmentalists criticize Earthshot Prize venue choice: Mumbai facility owned by fossil fuel firm Reliance Industries ([Guardian](https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-m
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
