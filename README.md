@@ -8,44 +8,34 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[November 14, 2026](reports/2026-11-14.md)**
+**[November 15, 2026](reports/2026-11-15.md)**
 
-*Last updated: 2026-11-14 16:59 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-11-15 17:40 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**November 14, 2026**
+**Legible News — November 15, 2026**
 
 **Armed conflicts and attacks**
-• Russia is "setting traps" in Ukraine peace talks, EU foreign policy chief Kaja Kallas warns at Dublin summit ([The Guardian](https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit))
-• Zelensky says U.S. raised territorial concessions in exchange for NATO membership during Ukraine war discussions ([Le Monde](https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-etats-unis-ont-evoque-des-concessions-territoriales-en-echange-d-une-adhesion-a-l-otan_6808609_3210.html))
-• EU urges Israel to guarantee "immediate and unhindered" humanitarian access to Gaza after significant flooding ([Le Monde](https://www.lemonde.fr/international/article/2026/11/14/gaza-l-union-europeenne-exhorte-israel-a-garantir-un-acces-immediat-et-sans-entrave-a-l-enclave-apres-des-inondations-importantes_6810313_3210.html))
-• Former IDF Chief of Staff Eisenkot condemns Netanyahu's "racist" campaign against Israel's Arab citizens ([The Guardian](https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority))
-• Bomb discovered at Illinois ethanol plant in Peoria, prompting evacuations ([The Guardian](https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb))
+• Saudi Arabia, Qatar, Jordan, and Egypt condemn Iranian strikes on Bahrain as Gulf tensions escalate ([Guardian](https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis))
+• International Court of Justice to rule on whether Myanmar committed genocide against the Rohingya ([Guardian](https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj))
+• Ethnic minority groups in Wales four times more likely to be targeted by police facial recognition scans, data shows ([Guardian](https://www.theguardian.com/technology/2026/nov/15/ethnic-minorities-wales-police-facial-scans-data))
+• Two killed in Leeds after police-pursued car crashes into another vehicle ([Guardian](https://www.theguardian.com/uk-news/2026/nov/15/leeds-car-pursued-by-police-crashes-into-another-vehicle))
+• Gender-diverse Australian sailors barred from U.S. submarines under AUKUS pact, documents reveal ([Guardian](https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb))
+• Planned asylum seeker detention centre next to Oxfordshire sewage works draws criticism ([Guardian](https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised))
+• Trump administration planning to reimburse doctors treating alleged vaccine injuries ([Guardian](https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration))
 
 **Disasters and accidents**
-• Underwater salt mine closure in Ohio raises safety and supply concerns ahead of winter ([The Guardian](https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter))
-• Riverboat cruise ship struck by tanker on Mississippi River near New Orleans; passengers describe "Titanic"-like flooding ([Business Insider](https://www.businessinsider.com/new-orleans-cruise-ship-riverboat-tanker-collision-passengers-2026-11))
-• Cold weather health alerts issued for parts of UK as autumn freeze brings frost ([The Guardian](https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost))
-• Three French departments (Gard, Hérault, Bouches-du-Rhône) placed on orange flood vigilance from Saturday evening ([Le Monde](https://www.lemonde.fr/planete/article/2026/11/14/pluie-et-inondations-les-departements-du-gard-de-l-herault-et-des-bouches-du-rhone-places-en-vigilance-orange-a-partir-de-samedi-soir_6810050_3245.html))
+• Two planes collide on taxiway at Miami International Airport one day after nationwide FAA grounding ([Guardian](https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide))
+• Five killed in tunnel collision in Cosentino, Italy ([La Repubblica](https://www.repubblica.it/cronaca/2026/11/15/news/scontro_galleria_fiego_vittime_chi_sono-425725111/))
 
 **Politics and elections**
-• Trump administration's "whiplash" deportation policies throwing Afghan allies into turmoil; advocates say "people already survived a war" ([The Guardian](https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration))
-• University of Nottingham, symbol of UK higher education crisis, cuts hundreds of posts and closes departments ([Le Monde](https://www.lemonde.fr/international/article/2026/11/14/l-universite-de-nottingham-symbole-extreme-de-la-crise-de-l-enseignement-superieur-britannique-supprime-des-centaines-de-postes-et-ferme-des-filieres_6810447_3210.html))
-• Central European University, forced out of Hungary by Orbán, reaches out to new Hungarian government ([The Guardian](https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu))
-• French presidential 2027: complex relations between Raphaël Glucksmann and Macronists marked by attraction and deep mistrust ([Le Monde](https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-entre-attraction-et-grande-mefiance-les-relations-tortueuses-entre-raphael-glucksmann-et-les-macronistes_6809719_823448.html))
-• Italy's budget maneuver: doubts over tax breaks for young people; millionaire tax threshold raised ([La Repubblica](https://www.repubblica.it/economia/2026/11/14/news/manovra_tasse_giovani_modifiche_governo-425722430/))
-• Democrats ask Musk to preserve documents on Starlink use in Ukraine ([Bloomberg](https://www.bloomberg.com/news/articles/2026-11-14/democrats-ask-musk-to-preserve-documents-on-starlink-in-ukraine))
-• Hungary seizes $19.5M in cash buried in forests amid corruption inquiry ([The Guardian](https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry))
-
-**Law and crime**
-• U.S. seeks extradition of wealthy activist over Hamas allegations; case heard in Spanish court ([The Guardian](https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court))
-• Kansas driver who fell asleep and drove truck onto soccer field, killing two, will not face charges ([The Guardian](https://www.theguardian.com/us-news/2026/nov/14/kansas-driver-soccer-field-deaths-no-charges))
-• UK-EU breakthrough allows airport-style checks at Eurotunnel to avoid border "chaos" ([The Guardian](https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border))
-• Ciro Grillo appears on TV: "I'm rude, not a rapist. My father's video damaged me" ([La Repubblica](https://genova.repubblica.it/cronaca/2026/11/13/news/ciro_grillo_in_tv_maleducato_non_stupratore-425722455/))
-
-**Business and economy**
-• Tesla invites select customers to buy Cybercab "for personal use" at $299/month subscription; fine print reveals restrictions ([The Verge](https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print))
-• Nvidia scandal: U.S. Treasury chief blames Commerce Department under Lutnick for alleged inaction on China chip controls ([The Guardian](https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-con
+• Andy Burnham pledges early intervention and “benefits backstop” to tackle youth unemployment crisis ([Guardian](https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet))
+• Black voters powered Democratic wins in Georgia; now they demand policy action ([Guardian](https://www.theguardian.com/us-news/2026/nov/15/georgia-midterm-elections-black-voters))
+• Hundreds of thousands protest in Prague for media freedom ([Guardian](https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom))
+• UK government guarantees jobs for 90,000 young people furthest from employment ([GOV.UK](https://www.gov.uk/government/news/90000-young-people-furthest-from-work-to-be-given-guaranteed-job-no-matter-where-they-live))
+• Transport Secretary Sean Duffy blames prior administrations and Congress for flight stoppage ([Guardian](https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag))
+• Katherine Deves among four NSW upper house candidates announced by One Nation ([Guardian](https://www.theguardian.com/australia-news/2026/nov/15/katherine-deves-among-four-nsw-upper-house-candidates-revealed-by-one-nation-ntwnfb))
+• World leaders converge on Asia for back-to-back APEC and ASEAN summits ([Guardian](https://www.theguardian.com/w
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
