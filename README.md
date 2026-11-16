@@ -8,34 +8,15 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[November 15, 2026](reports/2026-11-15.md)**
+**[November 16, 2026](reports/2026-11-16.md)**
 
-*Last updated: 2026-11-15 17:40 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-11-16 20:56 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**Legible News — November 15, 2026**
+**November 17, 2026**
 
 **Armed conflicts and attacks**
-• Saudi Arabia, Qatar, Jordan, and Egypt condemn Iranian strikes on Bahrain as Gulf tensions escalate ([Guardian](https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis))
-• International Court of Justice to rule on whether Myanmar committed genocide against the Rohingya ([Guardian](https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj))
-• Ethnic minority groups in Wales four times more likely to be targeted by police facial recognition scans, data shows ([Guardian](https://www.theguardian.com/technology/2026/nov/15/ethnic-minorities-wales-police-facial-scans-data))
-• Two killed in Leeds after police-pursued car crashes into another vehicle ([Guardian](https://www.theguardian.com/uk-news/2026/nov/15/leeds-car-pursued-by-police-crashes-into-another-vehicle))
-• Gender-diverse Australian sailors barred from U.S. submarines under AUKUS pact, documents reveal ([Guardian](https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb))
-• Planned asylum seeker detention centre next to Oxfordshire sewage works draws criticism ([Guardian](https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised))
-• Trump administration planning to reimburse doctors treating alleged vaccine injuries ([Guardian](https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration))
-
-**Disasters and accidents**
-• Two planes collide on taxiway at Miami International Airport one day after nationwide FAA grounding ([Guardian](https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide))
-• Five killed in tunnel collision in Cosentino, Italy ([La Repubblica](https://www.repubblica.it/cronaca/2026/11/15/news/scontro_galleria_fiego_vittime_chi_sono-425725111/))
-
-**Politics and elections**
-• Andy Burnham pledges early intervention and “benefits backstop” to tackle youth unemployment crisis ([Guardian](https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet))
-• Black voters powered Democratic wins in Georgia; now they demand policy action ([Guardian](https://www.theguardian.com/us-news/2026/nov/15/georgia-midterm-elections-black-voters))
-• Hundreds of thousands protest in Prague for media freedom ([Guardian](https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom))
-• UK government guarantees jobs for 90,000 young people furthest from employment ([GOV.UK](https://www.gov.uk/government/news/90000-young-people-furthest-from-work-to-be-given-guaranteed-job-no-matter-where-they-live))
-• Transport Secretary Sean Duffy blames prior administrations and Congress for flight stoppage ([Guardian](https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag))
-• Katherine Deves among four NSW upper house candidates announced by One Nation ([Guardian](https://www.theguardian.com/australia-news/2026/nov/15/katherine-deves-among-four-nsw-upper-house-candidates-revealed-by-one-nation-ntwnfb))
-• World leaders converge on Asia for back-to-back APEC and ASEAN summits ([Guardian](https://www.theguardian.com/w
+• Trump defends Commerce Secretary Lutnick over alleged slow-walking of Nvidia chip export restrictions to China, stating CEO Jensen Huang did not jeopardize national security ([Guardian](https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates), [Bloomberg](https://www.bloomberg.com/news/videos/2026-11-16/trump-huang-didn-t-put-national-security-at-risk-video), [Le Monde](https://www.lemonde.fr/international/article/2026/11/16/nvidia-les-etats-unis-cherchent-a-bloquer-l-acces-de-la-chine-aux-puces-americaines-par-le-biais-de-p
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
