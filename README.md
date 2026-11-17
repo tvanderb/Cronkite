@@ -8,15 +8,25 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[November 16, 2026](reports/2026-11-16.md)**
+**[November 17, 2026](reports/2026-11-17.md)**
 
-*Last updated: 2026-11-16 20:56 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-11-17 19:46 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**November 17, 2026**
+**Legible News – November 18, 2026**
 
-**Armed conflicts and attacks**
-• Trump defends Commerce Secretary Lutnick over alleged slow-walking of Nvidia chip export restrictions to China, stating CEO Jensen Huang did not jeopardize national security ([Guardian](https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates), [Bloomberg](https://www.bloomberg.com/news/videos/2026-11-16/trump-huang-didn-t-put-national-security-at-risk-video), [Le Monde](https://www.lemonde.fr/international/article/2026/11/16/nvidia-les-etats-unis-cherchent-a-bloquer-l-acces-de-la-chine-aux-puces-americaines-par-le-biais-de-p
+### Armed conflicts and attacks
+• Ukraine strikes Kerch Bridge, a key symbol of Russian control over Crimea, as Russia intensifies attacks; Zelenskyy urges allies to accelerate air defense deliveries ([Guardian](https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule), [Guardian](https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis), [Guardian](https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates))
+• Third U.S. aircraft carrier deploys to Middle East, bringing thousands of additional troops amid regional tensions ([Guardian](https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military))
+• Rio Tinto agrees to pay US$250 million to begin remediation of “devastation” caused by the Panguna mine in Bougainville, Papua New Guinea ([Guardian](https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png))
+• Hundreds arrested in Manila during anti‑Trump protests driven by anger over Iran policy and an AI cooperation pact ([Guardian](https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines))
+• Australian PM Albanese and U.S. President Trump hail “peace through strength” progress in the Quad alliance ([Guardian](https://www.theguardian.com/us-news/2026/nov/17/peace-through-strength-albanese-and-trump-hail-progress-on-quad-alliance))
+• European‑made pesticides linked to 1,605 poisoning reports in Brazil last year, prompting calls for stricter export controls ([Guardian](https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports))
+• Costa Rican journalist Camilo Rodríguez shot dead, the first such killing in the country in 25 years ([Guardian](https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead))
+• Film “Jupiter” portrays the solitary burden of the French president’s nuclear authority, starring Denis Ménochet ([Le Monde](https://www.lemonde.fr/culture/article/2026/11/17/jupiter-la-vertigineuse-solitude-du-president-face-a-l-arme-nucleaire-incarne-a-l-ecran-par-denis-menochet_6813026_3246.html))
+
+### Politics and elections
+• NSW Premier Chris Minns faces scrutiny over a series of policy reversals ahead of the state election ([Guardian](https
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
