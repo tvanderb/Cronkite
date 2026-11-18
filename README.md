@@ -8,25 +8,42 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[November 17, 2026](reports/2026-11-17.md)**
+**[November 18, 2026](reports/2026-11-18.md)**
 
-*Last updated: 2026-11-17 19:46 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-11-18 19:22 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**Legible News – November 18, 2026**
+**Legible News — Daily Report**  
+**November 18, 2026**
+
+---
 
 ### Armed conflicts and attacks
-• Ukraine strikes Kerch Bridge, a key symbol of Russian control over Crimea, as Russia intensifies attacks; Zelenskyy urges allies to accelerate air defense deliveries ([Guardian](https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule), [Guardian](https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis), [Guardian](https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates))
-• Third U.S. aircraft carrier deploys to Middle East, bringing thousands of additional troops amid regional tensions ([Guardian](https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military))
-• Rio Tinto agrees to pay US$250 million to begin remediation of “devastation” caused by the Panguna mine in Bougainville, Papua New Guinea ([Guardian](https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png))
-• Hundreds arrested in Manila during anti‑Trump protests driven by anger over Iran policy and an AI cooperation pact ([Guardian](https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines))
-• Australian PM Albanese and U.S. President Trump hail “peace through strength” progress in the Quad alliance ([Guardian](https://www.theguardian.com/us-news/2026/nov/17/peace-through-strength-albanese-and-trump-hail-progress-on-quad-alliance))
-• European‑made pesticides linked to 1,605 poisoning reports in Brazil last year, prompting calls for stricter export controls ([Guardian](https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports))
-• Costa Rican journalist Camilo Rodríguez shot dead, the first such killing in the country in 25 years ([Guardian](https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead))
-• Film “Jupiter” portrays the solitary burden of the French president’s nuclear authority, starring Denis Ménochet ([Le Monde](https://www.lemonde.fr/culture/article/2026/11/17/jupiter-la-vertigineuse-solitude-du-president-face-a-l-arme-nucleaire-incarne-a-l-ecran-par-denis-menochet_6813026_3246.html))
+• Israel delays construction contracts for the E1 West Bank settlement after the UK imposes sanctions on settler groups. ([The Guardian](https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions))  
+• Palestinian woman shot dead by Israeli settlers near Jericho, West Bank, according to witnesses. ([The Guardian](https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say))  
+• Israeli parliament elects new Knesset speaker backed by Netanyahu’s opponents, signaling a shift in legislative dynamics. ([The Guardian](https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents))  
+• Australia sanctions Daniella Weiss, described as the “godmother” of illegal West Bank settlement expansion, along with a construction company. ([The Guardian](https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb))  
+• European Court of Auditors urges the EU’s 27 member states to act quickly to defuse the “ticking time bomb” of PFAS pollution. ([Le Monde](https://www.lemonde.fr/planete/article/2026/11/18/pfas-la-cour-des-comptes-europeenne-exhorte-les-vingt-sept-a-agir-vite-pour-desamorcer-cette-bombe-a-retardement_6813164_3244.html))  
+• NGOs condemn Russian and U.S. positions on autonomous weapons systems that operate without human intervention, during UN talks in Geneva. ([Le Monde](https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-des-ong-denoncent-les-positions-russes-et-americaines-au-sujet-des-armes-autonomes-qui-fonctionnent-sans-intervention-humaine_6810982_3210.html))  
+• Moscow accuses France of direct participation in the war in Ukraine following reports of a secret French military mission to train Ukrainian troops. ([La Repubblica](https://www.repubblica.it/esteri/2026/11/18/news/missione_segreta_soldati_francesi_ucraina_addestramento_truppe_armi_mosca_attacca_partecipazione_diretta_guerra-425731459/))  
+• One Nation party’s plan to slash Australia’s refugee intake denounced as having “devastating consequences” by human rights groups. ([The Guardian](https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb))  
+• Man charged in connection with a bomb threat at an ethanol plant in Illinois. ([The Guardian](https://www.theguardian.com/us-news/2026/nov/18/illinois-ethanol-plant-bomb-threat-charges))  
+• European Commission accused of “sugarcoating” human rights figures to justify releasing funds to Egypt. ([The Guardian](https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans))  
+• Strike risk grows at the busiest U.S. ports as contract negotiations between dockworkers and employers stall. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-11-18/strike-risk-grows-at-busiest-us-ports-as-contract-talks-stall))  
+• Caribbean nations warn of severe economic fallout if the EU forces the shutdown of citizenship-by-investment programs. ([The Guardian](https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment))
+
+---
 
 ### Politics and elections
-• NSW Premier Chris Minns faces scrutiny over a series of policy reversals ahead of the state election ([Guardian](https
+• Democrats nominate Hakeem Jeffries as the first Black candidate for U.S. House Speaker, despite reservations from progressive lawmakers. ([The Guardian](https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination))  
+• Senate committee rejects Trump’s nominee to lead the National Science Foundation. ([The Guardian](https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee))  
+• UK Labour Party faces a double blow over fossil fuel projects as SSE threatens to close a Yorkshire gas storage site without government intervention. ([The Guardian](https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene))  
+• Andy Burnham, Mayor of Greater Manchester, considers cutting national insurance contributions to fund youth job creation, following the Milburn report. ([The Guardian](https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report))  
+• UK government unveils draft “relationship reset” with the EU, covering cheese exports, pet passports, and a youth mobility scheme. ([The Guardian](https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer))  
+• Fears grow that the U.S. may sanction International Court of Justice judges following the Myanmar genocide ruling, which also implicated Israel. ([The Guardian](https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court))  
+• Pakistani man sentenced to 27 years in a U.S. prison for plotting to assassinate Donald Trump. ([The Guardian](https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot))  
+• Isolated Indigenous tribe in the Brazilian Amazon makes contact, raising alarms over threats to their territory and way of life. ([The Guardian](https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people))  
+• French National Assembly votes to lift the ban on renting out energy-inefficient “thermal sieves,” sparking heated debate over the housing crisis. ([Le Monde](https://www.lemonde.fr/societe/article/2026/11/18/suppression-de-l-interdiction-de-louer-les-passoires-thermiques-a-l-assemblee-fortes-tensions-sur
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
