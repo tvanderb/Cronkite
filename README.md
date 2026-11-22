@@ -8,62 +8,45 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[November 21, 2026](reports/2026-11-21.md)**
+**[November 22, 2026](reports/2026-11-22.md)**
 
-*Last updated: 2026-11-21 17:57 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-11-22 18:25 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**Legible News — November 21, 2026**
+**Legible News — November 22, 2026**
 
 ---
 
 ### Armed conflicts and attacks
+• Ukraine strikes another Russian vessel, extending its naval reach from the Baltic to the Mediterranean, per Ukrainian and Italian reports ([La Repubblica](https://www.repubblica.it/esteri/2026/11/22/news/dafinlandia_a_libia_kiev_colpisce_un_altra_nave_russa_cosi_ucraina_cambia_geografia_della_guerra-425742308/)).  
+• Russian drone attack hits residential building near Kiev; rescue operations ongoing ([Le Monde](https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-les-secours-poursuivent-leurs-interventions-apres-l-attaque-d-un-immeuble-d-habitation-par-un-drone-russe-pres-de-kiev_6814183_3210.html)).  
+• Ethiopia accused of drone strikes on residential areas and a UN building in Khartoum, Sudan ([Le Monde](https://www.lemonde.fr/afrique/article/2026/11/22/soudan-l-ethiopie-mise-en-cause-dans-des-frappes-de-drones-sur-des-zones-residentielles-et-un-batiment-de-l-onu-a-khartoum_6814229_3212.html)).  
+• Suspected drone attack damages Russian ship in Benghazi port, Libya ([The Guardian](https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya)).  
+• Israeli opposition leader condemns “Jewish terrorism” after settler arson attacks on Palestinian villages in the West Bank ([The Guardian](https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank)).  
+• India’s opposition youth wing threatens more protests against Meta after clashes with police in Hyderabad ([The Guardian](https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad)).  
+• Berlin arts venue criticised for hosting military‑AI event; German culture minister calls it a “serious error of judgment” ([The Guardian](https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex)).  
+• US power advantage over China narrows further due to Iran‑war effects, Bloomberg analysis finds ([Bloomberg](https://www.bloomberg.com/news/articles/2026-11-22/us-power-advantage-over-china-shrinks-further-on-iran-war-effect)).  
+• British endurance swimmer Lewis Pugh completes crossing of the Strait of Hormuz to highlight war’s environmental toll ([The Guardian](https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war)).
 
-• **UN talks on regulating autonomous weapons collapse in Geneva** — Negotiations under the Convention on Certain Conventional Weapons ended without agreement on binding rules for lethal autonomous weapons systems. Major military powers including the US, Russia, and Israel opposed a legally binding instrument. ([The Guardian](https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse), [Le Monde](https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html))
+---
 
-• **Vance declines to endorse Trump claim that Iran was near nuclear weapon** — US Vice President JD Vance said intelligence assessments do not support former President Trump’s assertion that Iran was weeks away from a nuclear weapon, urging reliance on verified intelligence. ([The Guardian](https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon))
-
-• **Trump threatens “tremendous penalties” for US tech firms building data centers abroad** — The former president said he would impose heavy taxes on companies like Google, Microsoft, and Amazon if they locate AI infrastructure outside the US, framing it as economic security. ([The Guardian](https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house), [Bloomberg](https://www.bloomberg.com/news/videos/2026-11-21/balance-of-power-late-edition-11-20-2026-video))
-
-• **Federal judge denies release of man shot by ICE agents in New York** — A judge ruled the detention of a man wounded by immigration officers during an arrest in Queens was lawful; the shooting is under investigation. ([The Guardian](https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration))
-
-• **Teenager allegedly organized arsons and kidnapping via Signal in Melbourne “hospitality wars”** — A 19-year-old is charged with coordinating violent attacks on rival venues using encrypted messaging; police say the disputes involve organized crime links. ([The Guardian](https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb))
-
-• **El Salvador troops deploy to Haiti to fight gangs; residents express hope and unease** — Hundreds of Salvadoran soldiers arrived under a bilateral agreement; Haitians welcome security gains but fear human-rights abuses mirroring El Salvador’s crackdown. ([The Guardian](https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele))
-
-• **Finland suspects Russian helicopter violated its airspace; drone hits Russian cargo ship in Baltic** — Finnish defense forces tracked a Russian Mi-8 helicopter briefly entering Finnish airspace hours after a Ukrainian drone struck the *Ursa Major* in international waters. ([Le Monde](https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-la-finlande-soupconne-un-helicoptere-russe-d-etre-entre-dans-son-espace-aerien-quelques-heures-apres-une-attaque-de-drone-sur-un-cargo-russe-en-mer-baltique_6810982_3210.html))
-
-• **Kyiv residents unfazed by Russian strikes on bridges** — Despite repeated missile attacks on Dnipro River crossings, locals say daily life continues; “So what if there’s a hole? It hasn’t collapsed,” one resident said. ([The Guardian](https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges))
-
-• **Rohingya survivors recount escape from Myanmar genocide** — On the day the ICJ upheld jurisdiction in the genocide case, refugees in Bangladesh described fleeing mass killings, arson, and sexual violence by the Myanmar military. ([The Guardian](https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories))
-
-• **Burnham warns Trump–Iran tensions are top security concern for UK** — Greater Manchester Mayor Andy Burnham said a US–Iran conflict would destabilize the Middle East and trigger refugee flows, overshadowing domestic issues. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-11-21/burnham-s-big-worry-isn-t-brexit-or-welfare-it-s-trump-and-iran))
-
-• **All 146 passengers and crew safe after Air Niugini emergency landing in Philippines** — The Boeing 737 diverted to Manila due to a landing-gear indicator; no injuries reported. ([ABC News](https://abcnews.com/International/wireStory/146-air-niugini-plane-passengers-crew-safe-after-138336593))
+### Disasters and accidents
+• Fire at a confectionery factory near Jakarta kills at least three; dozens remain missing ([The Guardian](https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta)).  
+• NFL player Jaylen Harrell (Tennessee Titans) seriously injured in car crash after allegedly assaulting the other driver ([The Guardian](https://www.theguardian.com/sport/2026/nov/22/titans-jaylen-harrell-reportedly-assaulted-driver-before-crash-that-left-player-seriously-injured)).  
+• Corsica placed on orange alert for violent winds; Ain and Jura departments in France face heavy rain and flood risk ([Le Monde](https://www.lemonde.fr/climat/article/2026/11/22/la-corse-placee-en-vigilance-orange-pour-des-vents-violents-a-partir-de-lundi-l-ain-et-le-jura-touches-par-de-fortes-pluies-et-face-a-des-risques-d-inondations_6814193_1652613.html)).  
+• Man’s body found in Sydney bushland after 12 days; police suspect hit‑and‑run ([The Guardian](https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb)).
 
 ---
 
 ### Politics and elections
-
-• **Reform UK explores electoral pact with Restore Britain after polling slump** — Nigel Farage’s party is in talks with the newer right-wing group to avoid splitting the anti-establishment vote ahead of local elections. ([The Guardian](https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls))
-
-• **EU and Indonesia sign Comprehensive Economic Partnership Agreement** — The deal eliminates tariffs on most goods, covers services, investment, and sustainable development; von der Leyen called it a “benchmark for modern trade.” ([EU Commission](https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2557), [EU Commission](https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2539))
-
-• **François Ruffin withdraws from 2027 French presidential race** — The left-wing MP cited the risk of splitting the vote and enabling a far-right victory; his exit narrows the field for the Socialist and Green primaries. ([Le Monde](https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-face-au-risque-de-l-arrivee-de-l-extreme-droite-au-pouvoir_6814051_823448.html))
-
-• **UK–EU “youth mobility” and trade deals put rejoining “on the table,” says Miliband** — Energy Secretary Ed Miliband said new agreements on professional qualifications, touring artists, and a youth-experience scheme could rebuild trust for deeper integration. ([The Guardian](https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband))
-
-• **Indian national sentenced to 19 years for plot to kill Sikh separatist in New York** — Nikhil Gupta was convicted of murder-for-hire targeting Gurpatwant Singh Pannun; prosecutors said the plot was directed by an Indian government official. ([The Guardian](https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist))
-
-• **Denmark to expel Russian diplomat over alleged plot to kill US–Ukrainian rapper** — The diplomat is accused of assisting a plan to assassinate a musician critical of the Kremlin; Moscow denies involvement. ([The Guardian](https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing))
-
-• **NSW passes law fast-tracking Mount Pleasant coalmine expansion** — The Greens say the legislation was rushed to pre-empt a One Nation amendment; the mine will operate until 2048. ([The Guardian](https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb))
-
-• **Victorian Greens seek injunction against deceptive how-to-vote cards** — Cards mimicking Greens branding but preferencing the party last were distributed; the matter is before the Supreme Court. ([The Guardian](https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb))
-
-• **Venezuela’s new leader navigates political tightrope** — President-elect (name) faces opposition demands, US sanctions, and internal chavista divisions ahead of inauguration. ([Bloomberg](https://www.bloomberg.com/news/videos/2026-11-21/venezuela-s-new-leader-walks-a-political-tightrope-video))
-
-• **New Mexico Gov. Lujan Grish
+• Australian parliament sets new swearing record; “potty‑mouthed” MPs ranked by Hansard data ([The Guardian](https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record)).  
+• UK‑EU food‑safety deal welcomed by British firms: “We’re pretty aligned anyway” ([The Guardian](https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks)).  
+• Melat Kiros, 29, becomes first Gen‑Z woman elected to US Congress (Democrat, socialist) ([Le Monde](https://www.lemonde.fr/international/article/2026/11/22/aux-etats-unis-melat-kiros-29-ans-democrate-socialiste-et-premiere-femme-de-la-generation-z-a-entrer-au-congres_6814225_3210.html)).  
+• Marine Le Pen and Thierry Breton back constitutional “golden rule” on budgets; economist Gabriel Zucman criticises the plan ([Le Monde](https://www.lemonde.fr/politique/article/2026/11/22/l-idee-d-une-regle-d-or-budgetaire-dans-la-constitution-soutenue-par-marine-le-pen-et-thierry-breton-critiquee-par-gabriel-zucman_6814238_823448.html)).  
+• Italian right‑wing coalition splits over pension reforms and Superbonus tax credits in budget debate ([La Repubblica](https://www.repubblica.it/economia/2026/11/22/news/manovra_emendamenti_superbonus_pensioni-425741142/)).  
+• Son of Bosnian Serb strongman Milorad Dodik nominated as premier of Republika Srpska ([Bloomberg](https://www.bloomberg.com/news/articles/2026-11-22/strongman-s-son-nominated-for-premier-of-bosnia-s-serb-entity)).  
+• Democrats and Republicans already eyeing 2028 presidential field ([Bloomberg](https://www.bloomberg.com/news/videos/2026-11-22/democrats-republicans-eye-the-2028-field-video)).  
+• Marine Le Pen denies receiving classified information from
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
