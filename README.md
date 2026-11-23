@@ -8,45 +8,53 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[November 22, 2026](reports/2026-11-22.md)**
+**[November 23, 2026](reports/2026-11-23.md)**
 
-*Last updated: 2026-11-22 18:25 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-11-23 22:32 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**Legible News — November 22, 2026**
+**November 23, 2026**
 
----
+**Armed conflicts and attacks**
+• U.S. missile stocks depleted by Iran conflict, undermining China deterrence; GAO warns Pentagon lacks overarching restocking plan ([Fortune](https://fortune.com/2026/11/23/pentagon-munitions-shortage-gao-report-iran-war/))
+• Ukraine confirms naval drone strikes on two Russian warships off Libya, marking unprecedented extension of war to African waters ([Guardian](https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya), [Le Monde](https://www.lemonde.fr/afrique/article/2026/11/23/deux-navires-russes-attaques-dans-les-eaux-libyennes_6814397_3212.html))
+• Leaked Russian military data reveals over 1,000 suicides among personnel during Ukraine war ([Guardian](https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war))
+• Israel's Gaza destruction created "toxic wasteland" with long-term health and environmental consequences, Oxfam report finds ([Guardian](https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report))
+• EU adopts new sanctions package targeting Russia's ability to fund Ukraine war, including measures against shadow fleet and financial infrastructure ([Guardian](https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates))
+• Trump halts planned U.S. Army detonation of bomb-making material in Iowa, deferring to appeals court and incoming governor ([Bloomberg](https://www.bloomberg.com/news/articles/2026-11-23/trump-halts-detonation-in-iowa-puts-onus-on-incoming-governor), [Guardian](https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court))
+• Israel seeks to detain Palestinian student activist without trial following dormitory arrest, drawing criticism over administrative detention practices ([Guardian](https://www.theguardian.com/world/2026/nov/23/student-arrest-racist-campaign-israel-palestine-benjamin-netanyahu))
 
-### Armed conflicts and attacks
-• Ukraine strikes another Russian vessel, extending its naval reach from the Baltic to the Mediterranean, per Ukrainian and Italian reports ([La Repubblica](https://www.repubblica.it/esteri/2026/11/22/news/dafinlandia_a_libia_kiev_colpisce_un_altra_nave_russa_cosi_ucraina_cambia_geografia_della_guerra-425742308/)).  
-• Russian drone attack hits residential building near Kiev; rescue operations ongoing ([Le Monde](https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-les-secours-poursuivent-leurs-interventions-apres-l-attaque-d-un-immeuble-d-habitation-par-un-drone-russe-pres-de-kiev_6814183_3210.html)).  
-• Ethiopia accused of drone strikes on residential areas and a UN building in Khartoum, Sudan ([Le Monde](https://www.lemonde.fr/afrique/article/2026/11/22/soudan-l-ethiopie-mise-en-cause-dans-des-frappes-de-drones-sur-des-zones-residentielles-et-un-batiment-de-l-onu-a-khartoum_6814229_3212.html)).  
-• Suspected drone attack damages Russian ship in Benghazi port, Libya ([The Guardian](https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya)).  
-• Israeli opposition leader condemns “Jewish terrorism” after settler arson attacks on Palestinian villages in the West Bank ([The Guardian](https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank)).  
-• India’s opposition youth wing threatens more protests against Meta after clashes with police in Hyderabad ([The Guardian](https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad)).  
-• Berlin arts venue criticised for hosting military‑AI event; German culture minister calls it a “serious error of judgment” ([The Guardian](https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex)).  
-• US power advantage over China narrows further due to Iran‑war effects, Bloomberg analysis finds ([Bloomberg](https://www.bloomberg.com/news/articles/2026-11-22/us-power-advantage-over-china-shrinks-further-on-iran-war-effect)).  
-• British endurance swimmer Lewis Pugh completes crossing of the Strait of Hormuz to highlight war’s environmental toll ([The Guardian](https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war)).
+**Politics and elections**
+• Rep. Jimmy Gomez (D-CA) to resign after House Ethics Committee finds substantial evidence of sexual misconduct ([Guardian](https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct))
+• Trump intervenes to reinstate Jensen Huang as Nvidia CEO; Republican senators criticize move, Democrats raise corruption concerns over political interference in corporate governance ([Guardian](https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive), [Guardian](https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated), [Guardian](https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates))
+• Trump administration admits in court it deported a U.S. citizen to Mexico; DOJ acknowledges error in immigration enforcement ([Guardian](https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico))
+• Iranian singer and four others sentenced to lashes for performing without hijab, highlighting ongoing enforcement of morality laws ([Guardian](https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab))
+• UK report finds only six specialist shelter beds for transgender victims of domestic abuse nationwide ([Guardian](https://www.theguardian.com/society/2026/nov/23/only-six-beds-for-trans-victims-of-domestic-abuse-in-uk-report-finds))
+• Environmental groups condemn UK government plan to abolish Environment Agency and Natural England as "scapegoating" for policy failures ([Guardian](https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh))
+• Barbados signs reparative justice agreement with Bristol, UK, acknowledging historic slave trade ties ([Guardian](https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations))
+• Luxury development planned on disputed Albanian land claimed by Jared Kushner-affiliated company, sparking ownership controversy ([NPR](https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners))
+• French Court of Auditors recommends limiting early retirement options to address pension system sustainability ([Le Monde](https://www.lemonde.fr/politique/article/2026/11/23/retraites-la-cour-des-comptes-plaide-pour-une-limitation-des-possibilites-de-departs-anticipes_6814442_823448.html))
+• French Budget 2027 negotiations intensify; Minister Lecornu calls for parliamentary compromise amid "golden rule" constitutional debate ([Le Monde](https://www.lemonde.fr/politique/article/2026/11/23/budget-2027-sebastien-lecornu-appelle-au-compromis-dans-une-lettre-aux-parlementaires-et-liste-les-priorites-du-gouvernement_6814451_823448.html), [Le Monde](https://www.lemonde.fr/politique/article/2026/11/23/budget-ces-cinq-obstacles-auxquels-se-heurte-le-projet-d-inscrire-une-regle-d-or-dans-la-constitution_6814433_823448.html))
+• EU proposes ban on display of Russian symbols at sporting events on European soil ([Le Monde](https://www.lemonde.fr/international/article/2026/11/23/l-union-europeenne-veut-interdire-l-affichage-des-symboles-russes-dans-les-competitions-sportives-sur-son-sol_6814445_3210.html))
+• Investigation opened at French police academy in Seine-et-Marne over allegations of racism, Nazi salutes, and sexual assault ([Le Monde](https://www.lemonde.fr/societe/article/2026/11/23/une-enquete-ouverte-dans-une-ecole-de-police-de-seine-et-marne-apres-des-accusations-de-racisme-de-salut-nazi-et-d-agression-sexuelle_6814447_3224.html))
+• Italian right-wing coalition proposes "subversion" crime for organizers of protests causing property damage ([La Repubblica](https://www.repubblica.it/politica/2026/11/23/news/dl_cortei_lega_fdi_multe_sindacati_proposte-425743879/))
+• Italian patients report severe complications after low-cost dental treatment in Albania, raising medical tourism safety concerns ([La Repubblica](https://bari.repubblica.it/cronaca/2026/11/23/news/le_nostre_vite_distrutte_dopo_aver_curato_i_denti_in_albania_gli_orrori_delle_cliniche_low_cost-425742624/))
+• Analysis: Italy's public healthcare system faces funding crises, staff shortages, and growing waiting lists ([La Repubblica](https://www.repubblica.it/en/europe/news/2026/11/23/news/italy_public_healthcare_crisis_funding_waiting_lists_doctors_nurses_protests-425738432/))
+• UK Education Secretary Lucy Powell to visit China promoting university ties weeks after MI5 issued espionage warning ([Guardian](https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning))
+• Former Prince Andrew allegedly paid £750,000 to help Turkish woman obtain UK passport, High Court hears ([Guardian](https://www.theguardian.com/uk-news/2026/nov/23/former-prince-andrew-was-paid-bribe-to-help-turkish-woman-with-passport-high-court-told))
 
----
+**Law and crime**
+• Researchers warn domestic abusers increasingly exploiting smart car tracking and remote control features to monitor and intimidate victims ([Guardian](https://www.theguardian.com/society/2026/nov/23/smart-car-tracking-control-features-domestic-violence-warning-ntwnfb))
+• Metropolitan Police seize 893kg of cocaine hidden in boxes of oranges at London's New Spitalfields Market, one of UK's largest busts ([Guardian](https://www.theguardian.com/uk-news/2026/nov/23/metropolitan-police-seize-cocaine-hidden-boxes-oranges-new-spitalfields))
+• Gisèle Pelicot "deeply shocked" after nude images from her abuse case used to promote book without consent ([Guardian](https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france))
+• Italian prosecutors recover hard drive of former intelligence chief De Gennaro, who states "I have nothing to hide" amid ongoing investigations ([La Repubblica](https://www.repubblica.it/cronaca/2026/11/23/news/de_gennaro_hard_disk_lettere_addio_ultimo_messaggio-425743966/))
 
-### Disasters and accidents
-• Fire at a confectionery factory near Jakarta kills at least three; dozens remain missing ([The Guardian](https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta)).  
-• NFL player Jaylen Harrell (Tennessee Titans) seriously injured in car crash after allegedly assaulting the other driver ([The Guardian](https://www.theguardian.com/sport/2026/nov/22/titans-jaylen-harrell-reportedly-assaulted-driver-before-crash-that-left-player-seriously-injured)).  
-• Corsica placed on orange alert for violent winds; Ain and Jura departments in France face heavy rain and flood risk ([Le Monde](https://www.lemonde.fr/climat/article/2026/11/22/la-corse-placee-en-vigilance-orange-pour-des-vents-violents-a-partir-de-lundi-l-ain-et-le-jura-touches-par-de-fortes-pluies-et-face-a-des-risques-d-inondations_6814193_1652613.html)).  
-• Man’s body found in Sydney bushland after 12 days; police suspect hit‑and‑run ([The Guardian](https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb)).
+**Business and economy**
+• HBO Max offers 70% off annual subscription for Black Friday, among year's best streaming deals ([The Verge](https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale))
+• Iran conflict's drain on U.S. munitions highlights defense industrial base vulnerabilities amid great power competition ([Fortune](https://fortune.com/2026/11/23/pentagon-munitions-shortage-gao-report-iran-war/))
 
----
-
-### Politics and elections
-• Australian parliament sets new swearing record; “potty‑mouthed” MPs ranked by Hansard data ([The Guardian](https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record)).  
-• UK‑EU food‑safety deal welcomed by British firms: “We’re pretty aligned anyway” ([The Guardian](https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks)).  
-• Melat Kiros, 29, becomes first Gen‑Z woman elected to US Congress (Democrat, socialist) ([Le Monde](https://www.lemonde.fr/international/article/2026/11/22/aux-etats-unis-melat-kiros-29-ans-democrate-socialiste-et-premiere-femme-de-la-generation-z-a-entrer-au-congres_6814225_3210.html)).  
-• Marine Le Pen and Thierry Breton back constitutional “golden rule” on budgets; economist Gabriel Zucman criticises the plan ([Le Monde](https://www.lemonde.fr/politique/article/2026/11/22/l-idee-d-une-regle-d-or-budgetaire-dans-la-constitution-soutenue-par-marine-le-pen-et-thierry-breton-critiquee-par-gabriel-zucman_6814238_823448.html)).  
-• Italian right‑wing coalition splits over pension reforms and Superbonus tax credits in budget debate ([La Repubblica](https://www.repubblica.it/economia/2026/11/22/news/manovra_emendamenti_superbonus_pensioni-425741142/)).  
-• Son of Bosnian Serb strongman Milorad Dodik nominated as premier of Republika Srpska ([Bloomberg](https://www.bloomberg.com/news/articles/2026-11-22/strongman-s-son-nominated-for-premier-of-bosnia-s-serb-entity)).  
-• Democrats and Republicans already eyeing 2028 presidential field ([Bloomberg](https://www.bloomberg.com/news/videos/2026-11-22/democrats-republicans-eye-the-2028-field-video)).  
-• Marine Le Pen denies receiving classified information from
+**International relations**
+• COP31 climate talks collapse in Baku as deep divisions persist over fossil
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
