@@ -8,64 +8,74 @@ https://github.com/user-attachments/assets/6ee4bab6-bf8e-4a5a-9289-20d9037d2339.
 
 ## 📰 Latest Report
 
-**[November 25, 2026](reports/2026-11-25.md)**
+**[November 26, 2026](reports/2026-11-26.md)**
 
-*Last updated: 2026-11-25 20:27 UTC · Generated daily at 6:05 AM EST*
+*Last updated: 2026-11-26 20:05 UTC · Generated daily at 6:05 AM EST*
 
 ```
-**Legible News — November 25, 2026**
+**November 27, 2026**
 
----
+**Armed conflicts and attacks**
+• Israel has officially sanctioned the torture of Palestinian prisoners to extract confessions, according to a new report. ([Guardian World](https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report))
+• Ukrainian military intelligence claimed responsibility for an attack on the Russian Slaviansk-na-Kubani oil refinery. ([Le Monde](https://www.lemonde.fr/international/live/2026/11/26/en-direct-guerre-en-ukraine-les-services-de-renseignement-militaires-ukraidiens-ont-revendique-l-attaque-de-la-raffinerie-russe-de-slaviansk-sur-kouban_6814183_3210.html))
+• A man with schizophrenia was found guilty of the attempted murder of 14 people, including 10 passengers on a London-bound train. ([Guardian World](https://www.theguardian.com/uk-news/2026/nov/26/anthony-williams-guilty-attempted-murder-lner-train), [ABC News](https://abcnews.com/International/wireStory/schizophrenic-man-found-guilty-attempted-murders-14-people-138470756))
+• The US Army successfully detonated bomb chemicals in Iowa after fears of a toxic plume. ([Guardian World](https://www.theguardian.com/us-news/2026/nov/26/iowa-chemical-lead-bomb-detonation-toxic-dust-fears))
+• A Palestinian journalist killed by Israel in Gaza was posthumously awarded the Rory Peck Prize. ([Guardian World](https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize))
+• FIFA confirmed a cyberattack exposed personal and business information. ([Guardian World](https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information))
+• UN tribunal ruled the organization sacked Palestinian staff based on unproven Israeli allegations. ([Guardian World](https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations))
+• NATO allies are shifting toward military operations enhanced by Palantir AI. ([Le Monde](https://www.lemonde.fr/international/article/2026/11/26/le-virage-au-forceps-des-allies-de-l-otan-vers-des-operations-militaires-dopees-a-l-ia-de-palantir_6815581_3210.html))
+• US Senate "permitting bill" threatens clean water protections to accelerate energy projects. ([Guardian World](https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water))
+• Sydney fire ant outbreak described as a "disaster" partly blamed on ignored biosecurity recommendations. ([Guardian World](https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored))
+• Former NSW police officer Beau Lamarre-Condon used his service weapon to murder two men; inquiry questions if recruiters missed red flags. ([Guardian World](https://www.theguardian.com/australia-news/2026/nov/27/beau-lamarre-condon-service-weapon-murder-police-recruiters-ntwnfb))
 
-### Armed conflicts and attacks
-• Russia seeks territorial gains beyond Ukraine, German Chancellor-in-waiting Friedrich Merz warns during visit to Kyiv; NATO allies expect U.S. to delay decision on European troop cuts ([Guardian](https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates), [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-25/nato-allies-expect-us-to-delay-decision-on-troop-cuts-in-europe))  
-• UN unlawfully sacked nine Palestinian staffers based on unproven Israeli allegations, UN Dispute Tribunal rules; Secretary-General António Guterres says he will comply ([Guardian](https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations))  
-• UK nuclear-test veterans win 40-year campaign for statutory inquiry into Cold War-era atmospheric tests in Australia and Pacific ([ABC News](https://abcnews.com/International/wireStory/uk-nuclear-test-veterans-win-40-year-battle-138436079))  
-• Large bushfire threatens homes on Flinders Island off Tasmania; emergency warnings issued for remote communities ([Guardian](https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania))  
-• Controlled detonation of U.S. Army stockpile of lead azide bomb-making chemical produces smoke plume visible for miles in Iowa ([Guardian](https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide))  
-• Sri Lankan asylum seeker dies by suicide in Eswatini after UK removal under Rwanda-style deal; had prior sexual-assault conviction ([Guardian](https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini))  
-• Oregon man and dog narrowly escape king-tide surges on coast; officials urge extreme caution at beaches ([Guardian](https://www.theguardian.com/us-news/2026/nov/25/oregon-man-dog-escape-waves-king-tides))  
-• Swiss tourist killed, British and American tourists injured by elephants in Cameroon’s Waza National Park ([Guardian](https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon))  
-• UK embassy in Tokyo warns British nationals of rising drink-spiking and credit-card fraud incidents in nightlife districts ([Guardian](https://www.theguardian.com/world/2026/nov/25/british-embassy-tokyo-warning-tourists-drink-spiking-credit-card-fraud))
+**Disasters and accidents**
+• At least 31 people killed after a fuel tanker crash ignited a large fire on a Cairo highway. ([Guardian World](https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway))
+• Hospitals in England brace for a flu spike with admissions highest for the time of year since pre-Covid. ([Guardian World](https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks))
 
----
+**Politics and elections**
+• UK bill to implement EU deal will allow ministers to enact closer ties in the future. ([Guardian World](https://www.theguardian.com/politics/2026/nov/26/uk-bill-to-implement-eu-deal-closer-future-ties))
+• Trump alleges "fake" economic figures released before US midterms without providing evidence. ([Guardian World](https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms))
+• Georgia judge blocks own order to turn over US election ballot copies to state board. ([Guardian World](https://www.theguardian.com/us-news/2026/nov/26/georgia-election-ballots-seized))
+• Sweden's acting PM Kristersson nears new term after kingmaker party's U-turn. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-11-26/sweden-s-acting-premier-nears-new-term-after-kingmaker-u-turn))
+• EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear. ([Guardian World](https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks))
+• Spain's Pablo Hernández de Cos wins race to be next ECB president. ([Guardian World](https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president))
+• Number of NEETs (young people not in education, employment, or training) in UK falls below one million as Burnham pushes to tackle crisis. ([Guardian World](https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham))
+• Mandelson tried to influence Starmer's cabinet reshuffle, new documents reveal. ([Guardian World](https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates))
+• Older Australians suffering under Labor's "botched" aged care at home program, inquiry finds. ([Guardian World](https://www.theguardian.com/australia-news/2026/nov/26/aged-care-home-support-program-algorithm-tool-inquiry-report))
+• Lula sounds out Bradesco's Trabuco to join his government. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-11-26/lula-sounds-out-bradesco-s-luiz-trabuco-to-join-his-government))
+• Mexico's most powerful cartels adapt as arrests and leadership battles reshape their ranks. ([ABC News](https://abcnews.com/International/wireStory/mexicos-powerful-cartels-adapt-arrests-leadership-battles-reshape-138448280))
+• All hostages rescued after Colombian security forces storm supermarket in Cartagena. ([Guardian World](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket))
+• French social security budget for 2027: compromise still introuvable. ([Le Monde](https://www.lemonde.fr/politique/article/2026/11/26/budget-de-la-secu-pour-2027-un-compromis-a-ce-stade-introuvable_6815592_823448.html))
+• Edouard Philippe goes on offensive against David Lisnard for 2027 French presidential race. ([Le Monde](https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-edouard-philippe-passe-a-l-offensive-face-a-david-lisnard_6815527_823448.html))
+• Commissioner Hoekstra addresses European Parliament on outcome of Antalya UN climate summit (COP 31). ([EU Newsroom](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2593))
+• UK research project launched on effects of Minimum Energy Efficiency Standards in private rented sector on fuel poverty. ([GOV.UK](https://www.gov.uk/government/news/research-project-exploring-the-effects-of-minimum-energy-efficiency-standards-in-the-private-rented-sector-on-fuel-poverty-household-energy-costs-and-))
 
-### Disasters and accidents
-• Cargo ship *Miro-G* runs aground in Landes, France; judicial inquiry opened, maritime prefecture cites navigation error ([Le Monde](https://www.lemonde.fr/planete/article/2026/11/25/une-enquete-judiciaire-ouverte-sur-l-echouement-du-cargo-miro-g-dans-les-landes_6815168_3244.html))  
-• Persistent drought grips much of France despite autumn rains; some zones simultaneously flooded ([Le Monde](https://www.lemonde.fr/planete/article/2026/11/25/en-france-une-secheresse-persistante-malgre-les-pluies-d-automne-et-des-zones-inondees_6815147_3244.html))  
-• High salmonella levels detected in products from Butterball, largest U.S. turkey producer; USDA issues public health alert ([Guardian](https://www.theguardian.com/environment/2026/nov/25/turkey-salmonella-butterball))
+**Law and crime**
+• Japanese journalist Yuki Imai detained in Russia; wife pleads for his release. ([Guardian World](https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release))
+• Donations to One Nation from two Gina Rinehart associates to be probed by Australian electoral authorities. ([Guardian World](https://www.theguardian.com/australia-news/2026/nov/27/one-nation-pauline-hanson-gina-rinehart-aec-donations-ntwnfb))
+• Antisemitic messages from Jordan Bardella: 19 proofs that RN president is author of incriminating Messenger remarks. ([Le Monde](https://www.lemonde.fr/politique/article/2026/11/26/messages-antisemites-de-jordan-bardella-les-19-preuves-que-le-president-du-rn-est-bien-l-auteur-des-propos-incrimines-sur-messenger_6815482_823448.html))
 
----
+**International relations**
+• Amazon workers on food stamps have tripled despite record revenue, highlighting shrinking labor shares. ([Fortune](https://fortune.com/article/why-have-amazon-workers-on-food-stamps-tripled-despite-its-record-revenue-shrinking-labor-share/))
+• How much of the sharp fall in UK immigration is due to Labour's policies? ([Guardian World](https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies))
+• Indian politician hosts 400,000 guests at daughter's wedding in India's poorest state. ([Guardian World](https://www.theguardian.com/world/2026/nov/26/india-anant-singh-hosts-400000-guests-wedding-guests-daughter))
+• UAE's Lana Nusseibeh, UN hopeful, tries to shake off Sudan record. ([Guardian World](https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general))
+• Paris high school and university students remain mobilized, rejecting any "return to normal." ([Le Monde](https://www.lemonde.fr/campus/article/2026/11/26/a-paris-des-lyceens-et-etudiants-toujours-mobilises-qui-recusent-tout-retour-a-la-normale_6815594_4401467.html))
+• AFP says it was targeted by a cyberattack paralyzing one of its news and image distribution platforms. ([Le Monde](https://www.lemonde.fr/actualite-medias/article/2026/11/26/l-afp-dit-avoir-ete-visee-par-une-cyberattaque-qui-paralyse-l-une-de-ses-plateformes-de-mise-a-disposition-des-depeches-et-des-images_6815596_3236.html))
+• Libyan Marshal Haftar concretizes rapprochement with Erdogan in Turkey. ([Le Monde](https://www.lemonde.fr/afrique/article/2026/11/26/en-turquie-le-marechal-haftar-concretise-son-rapprochement-avec-recep-tayyip-erdogan_6815587_3212.html))
+• French police manifest anger outside stations: "We want our work recognized." ([Le Monde](https://www.lemonde.fr/societe/article/2026/11/26/des-policiers-manifestent-leur-colere-devant-les-commissariats-en-france-on-veut-que-notre-travail-soit-reconnu_6815591_3224.html))
+• RTL journalists denounce management amid concerns over budget cuts. ([Le Monde](https://www.lemonde.fr/economie/article/2026/11/26/rtl-les-journalistes-denoncent-le-management-de-la-direction-de-la-redaction-sur-fond-d-inquietudes-sur-la-baisse-des-moyens-alloues_6815588_3234.html))
+• Oxford museum displays seized belongings of Naga freedom fighter Gaidinliu for first time. ([Guardian World](https://www.theguardian.com/culture/2026/nov/26/oxford-pitt-rivers-museum-naga-gaidinliu))
+• ECB leadership: newly named trio tasked with protecting Europe from inflation and possibly France from market attack. ([Le Monde](https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html))
 
-### Politics and elections
-• Donald Trump announces new tariff salvo targeting EU and Chinese goods, reviving protectionist agenda despite 2024 electoral defeat ([Bloomberg](https://www.bloomberg.com/news/videos/2026-11-25/us-plans-new-tariffs-on-chinese-eu-goods-video), [Le Monde](https://www.lemonde.fr/economie/article/2026/11/25/donald-trump-persiste-avec-une-nouvelle-salve-de-droits-de-douane-malgre-la-claque-electorale_6815108_3234.html))  
-• Australian Liberal senator Leah Blyth defects to Pauline Hanson’s One Nation, handing government Senate headache ([Guardian](https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb))  
-• Colombian security forces storm supermarket in Cartagena, free all hostages; President Gustavo Petro arrives on scene ([Guardian](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket), [Guardian](https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket))  
-• EU Commission President Ursula von der Leyen addresses Parliament on Europe’s capacity to protect international order and secure just peace for Ukraine ([EU Commission](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2580))  
-• Commissioner Kubilius outlines defence-readiness priorities at EU Military Committee chiefs-of-defence meeting ([EU Commission](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2586))  
-• Commissioner Serafin briefs Parliament on 2028–2034 budget negotiations and new own-resources proposals ([EU Commission](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2585))  
-• French prefect of Loiret, Hugues Moutouh, dismissed over suspected leaks from interior ministry to far-right RN party ([Le Monde](https://www.lemonde.fr/societe/article/2026/11/25/le-prefet-du-loiret-hugues-moutouh-demis-de-ses-fonctions-apres-la-revelation-de-soupcons-de-fuites-emanant-du-ministere-de-l-interieur-vers-le-rn_6815167_3224.html))  
-• Half of all cheques to French Treasury blocked for 40 days due to strike by four agents ([Le Monde](https://www.lemonde.fr/politique/article/2026/11/25/la-moitie-des-cheques-au-tresor-public-bloquee-depuis-quarante-jours-en-raison-de-la-greve-de-quatre-agents_6815142_823448.html))  
-• IVF, elective abortion, gender-affirming care and voluntary assisted dying to cease at Australian private hospitals transferring to Catholic ownership ([Guardian](https://www.theguardian.com/australia-news/2026/nov/25/ivf-elective-abortion-assisted-dying-calvary-catholic-ownership-private-hospitals-ntwnfb))  
-• Treasury raises cost concerns over Alan Milburn’s proposed youth-unemployment support plan ([Guardian](https://www.theguardian.com/society/2026/nov/25/treasury-spending-concerns-proposed-support-youth-unemployment-milburn-review))
-
----
-
-### Law and crime
-• Kilmar Ábrego García, focal point of Trump-era deportation battle, departs U.S. for Spain after Supreme Court intervention ([Guardian](https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain), [Guardian](https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us))  
-• Disney sued for alleged unauthorized use of rapper’s music in ESPN promotional spots ([Vice](https://www.vice.com/en/article/disney-hit-with-lawsuit-over-alleged-unauthorized-use-of-rappers-music-in-espn-promos/))  
-• Indian “Cockroach Movement” leader seeks court permission to travel to UK for asylum hearing ([Guardian](https://www.theguardian.com/world/2026/nov/25/indian-cockroach-movement-leader-asks-court-for-permission-to-fly-to-uk))  
-• California judge orders transfer of Thomas Markle, father of Duchess of Sussex, to face formal charges ([Guardian](https://www.theguardian.com/uk-news/2026/nov/25/thomas-markle-transfer-charges-california))  
-• YNW Melly wins key evidentiary ruling ahead of double-murder retrial in Florida ([Vice](https://www.vice.com/en/article/ynw-melly-scores-major-court-victory-ahead-of-double-murder-retrial/))  
-• Pro-Palestine activist Fergie Chambers fights U.S. extradition request: “I still have a right to my beliefs” ([Guardian](https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview))
-
----
-
-### International relations
-• China sends first Pakistani astronaut to Tiangong space station, advancing Beijing’s global space diplomacy ([Guardian](https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space))  
-• China investigates Politburo member Chen Jining in latest Xi Jinping anti-corruption purge ([Guardian](https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge))  
-• Brussels on split screen: EU flexes regulatory muscle at UK summit while bending on defence spending timelines ([Guardian](https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit))  
-• Germany prepares historic debt-package shift, backed by orthodox economist Lars Feld ([Le Monde](https://www.lemonde.fr/economie/article/2026/11/25/l-allemagne-prete-a-adopter-un-endettement-histor
+**Business and economy**
+• Garmin Forerunner 265S drops to $300, best price of the year. ([The Verge](https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday))
+• MacBook Neo receives rare $100 discount for Black Friday. ([The Verge](https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale))
+• Disney Plus, Hulu, and HBO Max all over 50% off for Black Friday. ([The Verge](https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026))
+• Ocarina of Time remake sees modest discounts for Black Friday. ([The Verge](https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale))
+• Study examines how much coding agents over-edit and why in repository-level patches. ([arXiv](https://arxiv.org/abs/2611.34875v1))
+• Research on how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models. ([arXiv](https://arxiv.org/abs/2611.34830v1))
+• Mixed-methods study protocol evaluating active versus passive prophylaxis in older hip fracture patients. ([PLOS One](https://journals.pl
 ```
 
 Browse all past reports in the [`reports/`](reports/) directory.
